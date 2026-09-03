@@ -1,0 +1,43 @@
+name: 생보 3사 감시
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # 10분마다 (GitHub 사정에 따라 몇 분 지연될 수 있음)
+  workflow_dispatch:          # Actions 탭에서 수동 실행용
+
+permissions:
+  contents: write             # state.json 을 저장소에 되쓰기 위해 필요
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: 수집 및 발송
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python main.py
+
+      - name: 발송이력 저장
+        run: |
+          git config user.name "insurance-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json corp_codes.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "state update [skip ci]"
+          git pull --rebase --autostash || true
+          git push || true

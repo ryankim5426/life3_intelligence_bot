@@ -1,0 +1,5 @@
+.env
+.installed
+bot.log
+__pycache__/
+*.pyc
