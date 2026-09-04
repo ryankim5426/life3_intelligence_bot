@@ -140,7 +140,8 @@
   "news:75a31d290c4eac14": 1788511998,
   "news:cffbabf0654f6efa": 1788516934,
   "news:806f497a4d9d665a": 1788517964,
-  "news:3f5eb993e1507406": 1788519059
+  "news:3f5eb993e1507406": 1788519059,
+  "news:50f32516b79d166e": 1788523394
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -215,7 +216,8 @@
   "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목": 1788511069,
   "[The Numbers] 삼성화재 캐노피우스 경영권·삼성생명 PFG 최대주주될까…'삼전 배당' 실탄 장전한 보험형제, 8조원 메가딜 추진": 1788511069,
   "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
-  "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'": 1788519059
+  "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'": 1788519059,
+  "신창재 회장 경영권 방어에 9000억원 썼나… 교보생명, SBI저축은행 ‘고가 인수’ 논란": 1788523394
  },
  "news_queue": [
   {
@@ -437,6 +439,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qelR6U0RNbHpIbzQyM3BDVWVKMGRzamdIekJBendtbzdtLWJ2QlBMMlFfTXhUZE9hTzJIMUd5OVY0OVZhOUFnRXJJVVM3SVAxMFVGeS10QVJXbE10aHZjX3IxNUw5aGdrUTVnN2cwTUU?oc=5",
    "sort_key": "Fri, 04 Sep 2026 10:21:02 GMT"
+  },
+  {
+   "id": "news:50f32516b79d166e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "신창재 회장 경영권 방어에 9000억원 썼나… 교보생명, SBI저축은행 ‘고가 인수’ 논란",
+   "source": "뉴스W",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjbzM1TDd6TWRqcFBEeGh5NjRmT1g0TE9FRTliZzlvZ1lZV2c1TXVweXhLR3o1V3ZJeUtQeTRGX0pwZkdoLXk5cjhBNl9kSTVjLWlacG9FeE1sUktla1lpZ0JlNnAyTzNJ0gFsQVVfeXFMUFlpVU9PWm1yS3J0TVBoZmhDd01XbThrRGRlMkxVTjhNcEhFa0NyVUprUm1WcXRmYS1aS3Z1RnNaSjNtcVRjWGUzQTJFTjRONVRCbVhJY0FFYVhNcGlwRzQ2OTB6a1RTbDhRRDdh?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 06:17:48 GMT"
   }
  ],
  "initialized": true,
