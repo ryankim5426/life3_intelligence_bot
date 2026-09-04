@@ -116,7 +116,9 @@
   "news:08d9de848d79170f": 1788488589,
   "news:6ae696aad3cd7536": 1788492835,
   "news:2724abe27b99d0d6": 1788494606,
-  "news:3efb6dad27234618": 1788495832
+  "news:3efb6dad27234618": 1788495832,
+  "news:a3d77f3b9901d5ed": 1788497864,
+  "news:3d7192b32fe27a63": 1788497864
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -175,7 +177,9 @@
   "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
   "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
   "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606,
-  "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'": 1788495832
+  "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'": 1788495832,
+  "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색": 1788497864,
+  "한화생명 투자분석 2026. 09. 03": 1788497864
  },
  "news_queue": [
   {
@@ -237,6 +241,26 @@
    "date": "Wed, 02 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DcUFmdlNlTjZiRWx4dUZXYUU3TldHVlpzaUpXMWxuRWw2b0pSOVZoVVNVX1ZxX2l4eDdrQnAxbnFkb0l3TFVaZmpSZnRLZmlYU3Iwa3pIUHlrVHVDQUhJWmt0cXJFM1Fl0gFsQVVfeXFMUDlFV0Nvc0xPcFR6WHhWeUQ1dnUzdU1qOFg2dTRyUFI1bU9uRklCbTRIWmlsMHNVcng1Ull1eGd0Y183emo1cUtpVVZnSndDcndZNngzemFvTWZYWHFCNk5Fd1p0STJicmlhRUdO?oc=5",
    "sort_key": "Wed, 02 Sep 2026 23:14:59 GMT"
+  },
+  {
+   "id": "news:a3d77f3b9901d5ed",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색",
+   "source": "보험저널",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHdndtMlhCcEdDT250VldCSnNlZ1gyZVJIVDRnNmRCOXY3S3l1a1dOVmJwMDBZbXk2Mjc1RE1fdHlFVDNZbHV3MHZpVkV4cjBfeWpYMUVsdXN6OGFqb2hkUnhwY1B5cjR4WlJRTVRNZw?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 00:58:33 GMT"
+  },
+  {
+   "id": "news:3d7192b32fe27a63",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 투자분석 2026. 09. 03",
+   "source": "주달",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rVGZrSUF1WDZPLUZtcTlyVW1UcGpNNTMwX2FrWEVPR1J0czBBTU1uSi1weXNJNzVMZFhmdG1DNXdLNkZTa01zNmQxUTlLcWJhMmp2SWUydW9kNklTQXoyU1I3YzJfMHRxaHR0cDVscm5rRlk?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 23:33:53 GMT"
   }
  ],
  "initialized": true,
