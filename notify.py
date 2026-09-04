@@ -84,3 +84,65 @@ def format_item(item):
 
 def send_item(item):
     return send_text(format_item(item), disable_preview=(item["kind"] != "news"))
+
+
+# --- 뉴스 다이제스트 ---------------------------------------------------------
+
+MAX_CHARS = 3500          # 텔레그램 한 통 제한(4096)보다 여유 있게
+_WEEKDAY = ("월", "화", "수", "목", "금", "토", "일")
+
+
+def _company_order(label, companies):
+    """설정에 적은 회사 순서대로 정렬하기 위한 값."""
+    for i, c in enumerate(companies):
+        if c["label"] in label:
+            return i
+    return len(companies)
+
+
+def build_digest(items, now, companies):
+    """모아둔 뉴스를 회사별로 묶어 한 통(또는 몇 통)의 메시지로."""
+    if not items:
+        return []
+
+    ordered = sorted(
+        items,
+        key=lambda x: (_company_order(x.get("company", ""), companies),
+                       x.get("sort_key") or ""),
+    )
+
+    header = (f"📰 <b>오늘의 뉴스</b>  {now.month}월 {now.day}일"
+              f"({_WEEKDAY[now.weekday()]})\n"
+              f"<i>지난 하루 {len(ordered)}건 · 중복 정리 완료</i>")
+
+    blocks, current = [], None
+    lines = [header]
+    for item in ordered:
+        company = item.get("company") or ""
+        if company != current:
+            current = company
+            lines.append(f"\n<b>▸ {html.escape(company)}</b>")
+        title = html.escape(item.get("title") or "")
+        url = item.get("url") or ""
+        press = html.escape(item.get("source") or "")
+        link = f'<a href="{html.escape(url, quote=True)}">{title}</a>' if url else title
+        lines.append(f"· {link}" + (f"  <i>{press}</i>" if press else ""))
+
+    # 길면 여러 통으로 나눔 (회사 구분선은 유지)
+    for line in lines:
+        if not blocks:
+            blocks.append(line)
+            continue
+        if len(blocks[-1]) + len(line) + 1 > MAX_CHARS:
+            blocks.append(line)
+        else:
+            blocks[-1] += "\n" + line
+    return blocks
+
+
+def send_digest(blocks):
+    sent = 0
+    for block in blocks:
+        if send_text(block, disable_preview=True):
+            sent += 1
+    return sent == len(blocks)
