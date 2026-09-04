@@ -115,7 +115,8 @@
   "news:832a0d437d75d7bd": 1788485968,
   "news:08d9de848d79170f": 1788488589,
   "news:6ae696aad3cd7536": 1788492835,
-  "news:2724abe27b99d0d6": 1788494606
+  "news:2724abe27b99d0d6": 1788494606,
+  "news:3efb6dad27234618": 1788495832
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -173,7 +174,8 @@
   "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968,
   "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
   "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
-  "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606
+  "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606,
+  "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'": 1788495832
  },
  "news_queue": [
   {
@@ -225,6 +227,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xd21vN1ZrMVhUQWE1LTY3QVY2ZVo5R2VUMmZSWnpROFFJeDRmT3lfRHVURTFvLW9yVXJEV1JtQjAzaF9mc0tCdXp4MHRqMkxweERJemJ5M2ljVXRqTlNtVFgtZTcwdE80dHFJR1Bvd18?oc=5",
    "sort_key": "Fri, 04 Sep 2026 03:58:31 GMT"
+  },
+  {
+   "id": "news:3efb6dad27234618",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'",
+   "source": "블로터",
+   "date": "Wed, 02 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DcUFmdlNlTjZiRWx4dUZXYUU3TldHVlpzaUpXMWxuRWw2b0pSOVZoVVNVX1ZxX2l4eDdrQnAxbnFkb0l3TFVaZmpSZnRLZmlYU3Iwa3pIUHlrVHVDQUhJWmt0cXJFM1Fl0gFsQVVfeXFMUDlFV0Nvc0xPcFR6WHhWeUQ1dnUzdU1qOFg2dTRyUFI1bU9uRklCbTRIWmlsMHNVcng1Ull1eGd0Y183emo1cUtpVVZnSndDcndZNngzemFvTWZYWHFCNk5Fd1p0STJicmlhRUdO?oc=5",
+   "sort_key": "Wed, 02 Sep 2026 23:14:59 GMT"
   }
  ],
  "initialized": true,
