@@ -95,6 +95,48 @@ def _direct_link(link):
     return url
 
 
+_META_REFRESH = re.compile(r'url=([^"\'>\s]+)', re.I)
+_ANCHOR = re.compile(r'<a[^>]+href="(https?://(?!news\.google\.)[^"]+)"', re.I)
+_DATA_AU = re.compile(r'data-n-au="([^"]+)"')
+
+
+def resolve_link(url):
+    """구글뉴스 링크를 실제 기사 주소로 끝까지 따라감.
+
+    _direct_link 로 안 풀리는 새 형식(암호화된 CBMi… 링크)을 위해
+    실제로 한 번 접속해 최종 주소를 알아냅니다. 느리므로 발송 직전
+    새 기사에만 씁니다. 실패하면 원래 링크를 그대로 돌려줍니다.
+    """
+    if not url or "news.google.com" not in url:
+        return url
+
+    decoded = _direct_link(url)
+    if "news.google.com" not in decoded:
+        return decoded
+
+    browser = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                             "AppleWebKit/537.36 (KHTML, like Gecko) "
+                             "Chrome/124.0.0.0 Safari/537.36",
+               "Accept-Language": "ko-KR,ko;q=0.9"}
+    try:
+        r = requests.get(url, headers=browser, timeout=20, allow_redirects=True)
+        final = r.url or ""
+        if final and "news.google.com" not in final:
+            return final                      # 리다이렉트로 바로 도착한 경우
+        body = r.text[:200000]
+    except Exception:
+        return url
+
+    for pattern in (_DATA_AU, _ANCHOR, _META_REFRESH):
+        hit = pattern.search(body)
+        if not hit:
+            continue
+        found = html.unescape(hit.group(1)).strip()
+        if found.startswith("http") and "news.google.com" not in found:
+            return found
+    return url
+
+
 def _split_google_title(title):
     """구글뉴스 제목은 '기사제목 - 언론사' 형식."""
     if " - " in title:
@@ -162,7 +204,15 @@ def _from_naver(company):
                     "sort": "date"},
             timeout=30,
         )
-        r.raise_for_status()
+        if r.status_code != 200:
+            # 네이버가 돌려준 사유를 그대로 보여줘야 원인을 알 수 있음
+            #   024 = 키가 틀림 / 101 = 이 앱에 검색 API 권한 없음
+            #   012 = 헤더 누락 / 429 = 하루 한도 초과
+            detail = " ".join(r.text.split())[:200]
+            msg = f"HTTP {r.status_code} · {detail}"
+            print(f"  [뉴스/네이버] {company['label']} 실패: {msg}")
+            ERRORS.append(f"네이버 {msg}")
+            return out
         data = r.json()
     except Exception as e:
         print(f"  [뉴스/네이버] {company['label']} 실패: {e}")
