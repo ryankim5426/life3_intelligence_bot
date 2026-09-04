@@ -143,7 +143,8 @@
   "news:3f5eb993e1507406": 1788519059,
   "news:50f32516b79d166e": 1788523394,
   "news:a48f4fd755c78f0e": 1788525006,
-  "news:d84e8ce8f99e03a6": 1788532434
+  "news:d84e8ce8f99e03a6": 1788532434,
+  "news:0a6b87054651ef27": 1788536977
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -221,7 +222,8 @@
   "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'": 1788519059,
   "신창재 회장 경영권 방어에 9000억원 썼나… 교보생명, SBI저축은행 ‘고가 인수’ 논란": 1788523394,
   "삼성생명·화재, 최대 8조 규모 英·美 보험사 M&A 추진": 1788525006,
-  "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434
+  "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434,
+  "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977
  },
  "news_queue": [
   {
@@ -473,6 +475,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RS0hfUHNuLU9VWGdyQXllUWJXRjZBOUQ5UVNRU1R0LXV6UG1tUUo0ckhKdEFaVkJ0UmZKZEItdlBTYW80UmJLWmxMMDdCVlk?oc=5",
    "sort_key": "Thu, 03 Sep 2026 00:46:38 GMT"
+  },
+  {
+   "id": "news:0a6b87054651ef27",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 통화 분석 AI로 인지 변화 추적",
+   "source": "라이센스뉴스",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUR0VJTkhHdXQxbGdaZkNaRnVzRm4yWXRacUNiY1pnekhHUklmcXZEY3dfcFF6bmdhN2I2ZHZDRW1lNU5icllSRHd3QTlYcVVMMzk0dWZmRFhrOFlpWWdxSlluNzhzblFyY2RZ?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 01:34:57 GMT"
   }
  ],
  "initialized": true,
