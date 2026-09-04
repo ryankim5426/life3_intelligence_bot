@@ -130,7 +130,8 @@
   "news:4c4835e234f5cd03": 1788504556,
   "news:ecbf65f8a53270ae": 1788504557,
   "news:56a48dac58136344": 1788504557,
-  "news:86d22e0807514277": 1788505388
+  "news:86d22e0807514277": 1788505388,
+  "news:4c0b6d07a9b5541d": 1788506603
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -199,7 +200,8 @@
   "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301,
   "‘삼전 배당’ 곳간 채운 삼성생명·화재, 해외 M&A로 중장기 성장판 연다": 1788504557,
   "키프 브루예트, 삼성생명 지분 인수 보도에 Principal Financial 목표가 상향": 1788504557,
-  "[보험업계 동향] 삼성화재ㆍ한화생명ㆍ현대해상ㆍ신한라이프 (9.4)": 1788505388
+  "[보험업계 동향] 삼성화재ㆍ한화생명ㆍ현대해상ㆍ신한라이프 (9.4)": 1788505388,
+  "한화생명 주가 370원 하락 후 장마감": 1788506603
  },
  "news_queue": [
   {
@@ -361,6 +363,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KX29BTUg2ZUFhSFdvaUZKSnlnSnpRUjZkQ1JPT1YzdGV4NjNVc1lCZUhwMDNOcEREU0ptUlZSeWQtZGZqc2pyR0Izcl9Fb0o2ZmN3MWRWNmdvazRETUh2c2JCRHVlTEs3M0hZSlFR?oc=5",
    "sort_key": "Fri, 04 Sep 2026 06:56:47 GMT"
+  },
+  {
+   "id": "news:4c0b6d07a9b5541d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 370원 하락 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rbFpDc0M0anhJajRjTGhqY09hU2RueWpVZTZzUFprcHZHRjAzYXMxbGUtMU1McF84RFduQWdSeHRZQ1dIeEUwenVlN042ZXctX04xekU3VHR0UnlpVW9IdGxhRVFNN0FRNHlla0xvWkhETU53?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 07:00:51 GMT"
   }
  ],
  "initialized": true,
