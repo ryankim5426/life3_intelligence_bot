@@ -123,7 +123,10 @@
   "news:bb3f7dd680cda9d1": 1788499969,
   "news:685815818aaaaca6": 1788499970,
   "news:d82dd44957736976": 1788499970,
-  "news:1d568c2df1c46e53": 1788501787
+  "news:1d568c2df1c46e53": 1788501787,
+  "news:251507bc08e4128b": 1788503300,
+  "news:0b6a74c2ac7cee99": 1788503301,
+  "news:2c62d5b759da0600": 1788503301
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -187,7 +190,9 @@
   "한화생명 투자분석 2026. 09. 03": 1788497864,
   "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로": 1788499970,
   "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970,
-  "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787
+  "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
+  "호텔신라, 최대주주 삼성생명보험 등 주식 1만1168주 감소…삼성생명보험 특별계정 장내매도 영향": 1788503301,
+  "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301
  },
  "news_queue": [
   {
@@ -299,6 +304,26 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQMndkOFF0eGlqMkpCTlVnWVpNY0JMQ3ZiNlNnb1BlVTJPU0JLTE5QTTY3MGlNRzBLZ1FpUl9JTGtZZ2NPeHJncjFNUnlwSHpLdFB6SHY4b2hIeTVDd2sxc2ZGeEZZbXVyWkZmQklxcVRrcTBQNGptQ1NxLWx2T2lZcDhaRFVPU2VDR2ZOa2loczVCY1AtMnN0Vkc0MG5qNzFlU0hTUkdieHpYeEdjTHAtVC1YZ0xhM2hXVDlCMFZkZExVd05uUjVNYUMzdFRVdVNwcE9GUFllMUw1Mjg1OC1obHV6anhKQkdxem5SSEluYnA5ckFNLWJkTWlXaExDUjRMV2l2T2NiUmkyb2Jqd2J4bEFkR2tUb2FPNUhkLTBNY0RrWmx6Q25FNVJKUzVhMmY0cXhv?oc=5",
    "sort_key": "Fri, 04 Sep 2026 05:54:53 GMT"
+  },
+  {
+   "id": "news:0b6a74c2ac7cee99",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "호텔신라, 최대주주 삼성생명보험 등 주식 1만1168주 감소…삼성생명보험 특별계정 장내매도 영향",
+   "source": "디지털투데이",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kUW1ULVI0RHBwNEEtOHkyRTh3bS14OWxJNEJhNmh3a2xfWVhYNTNYbWNvUnNnZFVFMk92OXQyd1hVMlB5VkZTcHNWcVIycHdMM0k2dnhpckNNYVBkMy10Z0Q5ajBsT1piN1hXb3ZpYXdiWVU?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 05:41:02 GMT"
+  },
+  {
+   "id": "news:2c62d5b759da0600",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 서울서 고객 초청 클래식 콘서트 진행",
+   "source": "popcornnews.net",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTelpCMWRYeEY5VlNuTXR6SGwzZkdwZlhtaWRfYUYycnNyTU5VdENxbzBDekNLNDY0ZFJPMV9LRFpYTXV3SUJ0dnpCLUg5d1NyRV9fZ2t2alhHbklOMUVmQ2MxaTAzYm5wcC1YLVZ30gFyQVVfeXFMTk9PbHpIVUFYdk1HMk9qV056S2d0TkxPaWZWaU1jMUhXVG9GMnRtSjlkRlVfR01LZHpZcjM5N19MWGVnaWo4WEZNeWJRNUl4QmVBYVcwZFB4bUZwSHJNUkQ1SmlLS3JoMURqMzFTdlFXWl9R?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 08:52:27 GMT"
   }
  ],
  "initialized": true,
