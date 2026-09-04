@@ -134,7 +134,9 @@
   "news:4c0b6d07a9b5541d": 1788506603,
   "news:51dc6689f4ceaad8": 1788507787,
   "news:f86cb775d9301f19": 1788507788,
-  "news:768352db941bd361": 1788508665
+  "news:768352db941bd361": 1788508665,
+  "news:d8296b9300f54815": 1788511069,
+  "news:66bc43317e6487b3": 1788511069
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -205,7 +207,9 @@
   "키프 브루예트, 삼성생명 지분 인수 보도에 Principal Financial 목표가 상향": 1788504557,
   "[보험업계 동향] 삼성화재ㆍ한화생명ㆍ현대해상ㆍ신한라이프 (9.4)": 1788505388,
   "한화생명 주가 370원 하락 후 장마감": 1788506603,
-  "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금": 1788507788
+  "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금": 1788507788,
+  "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목": 1788511069,
+  "[The Numbers] 삼성화재 캐노피우스 경영권·삼성생명 PFG 최대주주될까…'삼전 배당' 실탄 장전한 보험형제, 8조원 메가딜 추진": 1788511069
  },
  "news_queue": [
   {
@@ -387,6 +391,26 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qamNSVjUxZVgxSmtDeU5LMWpOemZPWVhkNF9JU1NQRUVpcjV2blJ2R2pyaXdwQ0hUVkFkQVY2QVo2OEE4SXdZalg0TWtLZVhyeGw4QlBieFlIWV83eHpOZTVqS3RuaHZ5WVRLWg?oc=5",
    "sort_key": "Fri, 04 Sep 2026 07:18:35 GMT"
+  },
+  {
+   "id": "news:d8296b9300f54815",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목",
+   "source": "위키리크스한국",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QdnQ3NkhueEdZR1B4ZjZyVjBqTHNwMDU0ZzhXUUhOTGZQZ2d5bWFrN2s0UmdCMEtlRFBQaWozb3BQUHkyV1dhM2JBOWpreHJPc052dmp3anNLVzM0SFNDdFZSNllMTkF4VG1iWjQyQQ?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 08:22:06 GMT"
+  },
+  {
+   "id": "news:66bc43317e6487b3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[The Numbers] 삼성화재 캐노피우스 경영권·삼성생명 PFG 최대주주될까…'삼전 배당' 실탄 장전한 보험형제, 8조원 메가딜 추진",
+   "source": "뉴스스페이스",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41ZTBUS1BmdW90aE14aUxhVlJUZzA3S21udm81eVpIdXVrSVpFTUg4RmllZUNSWWtEY2gzLXlHcjJYRXVfdWNkMHJjSEIxT1BqYUk1RGRHcXRHdkF1SmRUYw?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 08:31:17 GMT"
   }
  ],
  "initialized": true,
