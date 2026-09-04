@@ -122,7 +122,8 @@
   "news:4be390fd1f2c15e9": 1788499969,
   "news:bb3f7dd680cda9d1": 1788499969,
   "news:685815818aaaaca6": 1788499970,
-  "news:d82dd44957736976": 1788499970
+  "news:d82dd44957736976": 1788499970,
+  "news:1d568c2df1c46e53": 1788501787
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -185,7 +186,8 @@
   "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색": 1788497864,
   "한화생명 투자분석 2026. 09. 03": 1788497864,
   "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로": 1788499970,
-  "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970
+  "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970,
+  "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787
  },
  "news_queue": [
   {
@@ -287,6 +289,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZ0cwa1RNa2UwUHQzX1ppS3o3WGdjRVB6RVBGN2tfeW9hRk40bm5KN3QyOXJnenV6dlVQbGJjeTU5T196VHRoTTg2TzdTMG5EZGNVWFc0S1RDanFWeHlXMjBSTkZQWkFpV0lWeFNQaVY0aDg?oc=5",
    "sort_key": "Fri, 04 Sep 2026 05:25:49 GMT"
+  },
+  {
+   "id": "news:1d568c2df1c46e53",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해",
+   "source": "뉴스필드",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQMndkOFF0eGlqMkpCTlVnWVpNY0JMQ3ZiNlNnb1BlVTJPU0JLTE5QTTY3MGlNRzBLZ1FpUl9JTGtZZ2NPeHJncjFNUnlwSHpLdFB6SHY4b2hIeTVDd2sxc2ZGeEZZbXVyWkZmQklxcVRrcTBQNGptQ1NxLWx2T2lZcDhaRFVPU2VDR2ZOa2loczVCY1AtMnN0Vkc0MG5qNzFlU0hTUkdieHpYeEdjTHAtVC1YZ0xhM2hXVDlCMFZkZExVd05uUjVNYUMzdFRVdVNwcE9GUFllMUw1Mjg1OC1obHV6anhKQkdxem5SSEluYnA5ckFNLWJkTWlXaExDUjRMV2l2T2NiUmkyb2Jqd2J4bEFkR2tUb2FPNUhkLTBNY0RrWmx6Q25FNVJKUzVhMmY0cXhv?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 05:54:53 GMT"
   }
  ],
  "initialized": true,
