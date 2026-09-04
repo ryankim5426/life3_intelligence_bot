@@ -113,7 +113,8 @@
   "news:b3dfc0cb0cda9f3d": 1788484757,
   "news:64c53db6526e2461": 1788484785,
   "news:832a0d437d75d7bd": 1788485968,
-  "news:08d9de848d79170f": 1788488589
+  "news:08d9de848d79170f": 1788488589,
+  "news:6ae696aad3cd7536": 1788492835
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -169,7 +170,8 @@
   "보험사들 배당 왜 짠가 했더니, '해약환급준비금'에 돈 꽁꽁...한화생명, 이익잉여금 97% 묶여 무배당": 1788484757,
   "삼성전자 '배당 실탄' 장전한 삼성생명·화재…해외 투자 속도 낸다": 1788484785,
   "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968,
-  "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589
+  "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
+  "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835
  },
  "news_queue": [
   {
@@ -201,6 +203,16 @@
    "date": "Wed, 02 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVWGZoSWlLWXpzd045V1N2ZTN0Vm1vR19ra1VydklJTkJ6NjVlQnl0emhNbE9WeE5CZzBEZTdjQTA5NWJuYml5ZHJCRGM4emRuRmZNdGM0TjFIT2p4Nk8wMVdDTWxkYWJQMFE?oc=5",
    "sort_key": "Wed, 02 Sep 2026 08:05:54 GMT"
+  },
+  {
+   "id": "news:6ae696aad3cd7536",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회",
+   "source": "대한경제",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oNGk2bHIzLWZxdU4wN1puNW1xSWZ3NWRyUVhMUHhNNFFCMGM2RG5peXFyTkE1Y1BEQkgxYkNONXpHV1AxVGNHVGVhNkhMcHFWTGFDNDQzSm5ia0hLZnZSVDlzZlVYNHdJZTVsU0dNZFRlT1JH?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 07:06:36 GMT"
   }
  ],
  "initialized": true,
