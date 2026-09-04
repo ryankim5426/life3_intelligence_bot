@@ -131,7 +131,9 @@
   "news:ecbf65f8a53270ae": 1788504557,
   "news:56a48dac58136344": 1788504557,
   "news:86d22e0807514277": 1788505388,
-  "news:4c0b6d07a9b5541d": 1788506603
+  "news:4c0b6d07a9b5541d": 1788506603,
+  "news:51dc6689f4ceaad8": 1788507787,
+  "news:f86cb775d9301f19": 1788507788
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -201,7 +203,8 @@
   "‘삼전 배당’ 곳간 채운 삼성생명·화재, 해외 M&A로 중장기 성장판 연다": 1788504557,
   "키프 브루예트, 삼성생명 지분 인수 보도에 Principal Financial 목표가 상향": 1788504557,
   "[보험업계 동향] 삼성화재ㆍ한화생명ㆍ현대해상ㆍ신한라이프 (9.4)": 1788505388,
-  "한화생명 주가 370원 하락 후 장마감": 1788506603
+  "한화생명 주가 370원 하락 후 장마감": 1788506603,
+  "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금": 1788507788
  },
  "news_queue": [
   {
@@ -373,6 +376,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rbFpDc0M0anhJajRjTGhqY09hU2RueWpVZTZzUFprcHZHRjAzYXMxbGUtMU1McF84RFduQWdSeHRZQ1dIeEUwenVlN042ZXctX04xekU3VHR0UnlpVW9IdGxhRVFNN0FRNHlla0xvWkhETU53?oc=5",
    "sort_key": "Fri, 04 Sep 2026 07:00:51 GMT"
+  },
+  {
+   "id": "news:f86cb775d9301f19",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금",
+   "source": "ESG경제",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qamNSVjUxZVgxSmtDeU5LMWpOemZPWVhkNF9JU1NQRUVpcjV2blJ2R2pyaXdwQ0hUVkFkQVY2QVo2OEE4SXdZalg0TWtLZVhyeGw4QlBieFlIWV83eHpOZTVqS3RuaHZ5WVRLWg?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 07:18:35 GMT"
   }
  ],
  "initialized": true,
