@@ -118,7 +118,11 @@
   "news:2724abe27b99d0d6": 1788494606,
   "news:3efb6dad27234618": 1788495832,
   "news:a3d77f3b9901d5ed": 1788497864,
-  "news:3d7192b32fe27a63": 1788497864
+  "news:3d7192b32fe27a63": 1788497864,
+  "news:4be390fd1f2c15e9": 1788499969,
+  "news:bb3f7dd680cda9d1": 1788499969,
+  "news:685815818aaaaca6": 1788499970,
+  "news:d82dd44957736976": 1788499970
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -179,7 +183,9 @@
   "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606,
   "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'": 1788495832,
   "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색": 1788497864,
-  "한화생명 투자분석 2026. 09. 03": 1788497864
+  "한화생명 투자분석 2026. 09. 03": 1788497864,
+  "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로": 1788499970,
+  "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970
  },
  "news_queue": [
   {
@@ -261,6 +267,26 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rVGZrSUF1WDZPLUZtcTlyVW1UcGpNNTMwX2FrWEVPR1J0czBBTU1uSi1weXNJNzVMZFhmdG1DNXdLNkZTa01zNmQxUTlLcWJhMmp2SWUydW9kNklTQXoyU1I3YzJfMHRxaHR0cDVscm5rRlk?oc=5",
    "sort_key": "Thu, 03 Sep 2026 23:33:53 GMT"
+  },
+  {
+   "id": "news:685815818aaaaca6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로",
+   "source": "sankyungtoday.com",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zOUw1RmlydlIyTWc5WHFBMC1uSE9uSVlpTjByWmpFcFAtb1c2U0x3SFJhYTM0RXJ6VEJIYWRORGhyeG1OZWhxc0tfNDBZMm4xYVFhMFhNM3FzNkxRend2WlllSmZWNXRJeVRqWVlMTDPSAXRBVV95cUxOTUFNRmZKQVBZN0lFTjdhdjhqaUpDYmRjWE5QZHFlVDVXSWJWWmVlbm1JMEpydUtPWmtaQi1kb1JQQWdUVHhSWHFGOGJHWk1EY2tDOGlEX1k4MXl0c1lXd0wwbTVoanpLMmZ1WGNjQ2xidjRiWQ?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 05:17:45 GMT"
+  },
+  {
+   "id": "news:d82dd44957736976",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파",
+   "source": "데이터투자",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZ0cwa1RNa2UwUHQzX1ppS3o3WGdjRVB6RVBGN2tfeW9hRk40bm5KN3QyOXJnenV6dlVQbGJjeTU5T196VHRoTTg2TzdTMG5EZGNVWFc0S1RDanFWeHlXMjBSTkZQWkFpV0lWeFNQaVY0aDg?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 05:25:49 GMT"
   }
  ],
  "initialized": true,
