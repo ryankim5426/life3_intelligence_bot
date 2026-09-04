@@ -111,7 +111,8 @@
   "news:22d130acfbf92f39": 1788484757,
   "news:a19ff5852557f18c": 1788484757,
   "news:b3dfc0cb0cda9f3d": 1788484757,
-  "news:64c53db6526e2461": 1788484785
+  "news:64c53db6526e2461": 1788484785,
+  "news:832a0d437d75d7bd": 1788485968
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -165,7 +166,8 @@
   "전화 한 통이면 치매 징후 잡는다… 한화생명, AI 돌봄 솔루션 발굴": 1788484757,
   "초고수들, AI 전력주 ‘줍줍’… 한화생명·KB금융은 던졌다[주식 초고수는 지금]": 1788484757,
   "보험사들 배당 왜 짠가 했더니, '해약환급준비금'에 돈 꽁꽁...한화생명, 이익잉여금 97% 묶여 무배당": 1788484757,
-  "삼성전자 '배당 실탄' 장전한 삼성생명·화재…해외 투자 속도 낸다": 1788484785
+  "삼성전자 '배당 실탄' 장전한 삼성생명·화재…해외 투자 속도 낸다": 1788484785,
+  "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968
  },
  "news_queue": [
   {
@@ -177,6 +179,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JSXNpTkoza21JNHRDV3UtM0RkTkJJbVpuOWphSTdLRzdwTkJPcy1TMHdQR2Zpd2JtdnJQa0ZzZW1TLWdRRk9CTExkVW43Rk05MlVjWnJoLUdiMlVTbWV3ZNIBZkFVX3lxTFBHZVhEU3d6cVIzZzUxR0ZvUC1jZjZEZDg2cnp4d1JfQlRQQzdwWmFLUFc5VU5kcDhlMjRjVEM5YnpGMFc5YWctS0tYdF96aTlsT0VIM3prSlhvYlJwLVRlNUxVMk4tZw?oc=5",
    "sort_key": "Thu, 03 Sep 2026 06:18:14 GMT"
+  },
+  {
+   "id": "news:832a0d437d75d7bd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시",
+   "source": "재경일보",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uaDJ3NWU4dnNhRWtKNjVsT0kxOHJ2bTRzWnprXzFGajJmVlFuNnk0azR4QU9YRVpNNEJ1VmtkMllidm9rdzJ0UUh3?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 01:27:00 GMT"
   }
  ],
  "initialized": true,
