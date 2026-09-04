@@ -139,7 +139,8 @@
   "news:66bc43317e6487b3": 1788511069,
   "news:75a31d290c4eac14": 1788511998,
   "news:cffbabf0654f6efa": 1788516934,
-  "news:806f497a4d9d665a": 1788517964
+  "news:806f497a4d9d665a": 1788517964,
+  "news:3f5eb993e1507406": 1788519059
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -213,7 +214,8 @@
   "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금": 1788507788,
   "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목": 1788511069,
   "[The Numbers] 삼성화재 캐노피우스 경영권·삼성생명 PFG 최대주주될까…'삼전 배당' 실탄 장전한 보험형제, 8조원 메가딜 추진": 1788511069,
-  "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964
+  "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
+  "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'": 1788519059
  },
  "news_queue": [
   {
@@ -425,6 +427,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bi04TndweE5DMjhyNXVJUGstZnRKb0EwRXVrYTRVc1N2RlZSUVZmUmxUQk9QVWh5bDhlT29MRXhXdG1pLWl3aGlXZEJkSkp1Mk9oQ9IBWEFVX3lxTE9TMG9LUHV5Z1dBU2dGZTFFSDQwZEpLVG9mYnhFN28zZldaLTZhX2U2VUp0OV9xSF82Z1FLZFJKTzR3S3VRNGJSeENSb2FmRE5KT29TRlB5Rm8?oc=5",
    "sort_key": "Fri, 04 Sep 2026 06:36:56 GMT"
+  },
+  {
+   "id": "news:3f5eb993e1507406",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'",
+   "source": "코리아리포트",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qelR6U0RNbHpIbzQyM3BDVWVKMGRzamdIekJBendtbzdtLWJ2QlBMMlFfTXhUZE9hTzJIMUd5OVY0OVZhOUFnRXJJVVM3SVAxMFVGeS10QVJXbE10aHZjX3IxNUw5aGdrUTVnN2cwTUU?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 10:21:02 GMT"
   }
  ],
  "initialized": true,
