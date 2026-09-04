@@ -112,7 +112,8 @@
   "news:a19ff5852557f18c": 1788484757,
   "news:b3dfc0cb0cda9f3d": 1788484757,
   "news:64c53db6526e2461": 1788484785,
-  "news:832a0d437d75d7bd": 1788485968
+  "news:832a0d437d75d7bd": 1788485968,
+  "news:08d9de848d79170f": 1788488589
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -167,7 +168,8 @@
   "초고수들, AI 전력주 ‘줍줍’… 한화생명·KB금융은 던졌다[주식 초고수는 지금]": 1788484757,
   "보험사들 배당 왜 짠가 했더니, '해약환급준비금'에 돈 꽁꽁...한화생명, 이익잉여금 97% 묶여 무배당": 1788484757,
   "삼성전자 '배당 실탄' 장전한 삼성생명·화재…해외 투자 속도 낸다": 1788484785,
-  "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968
+  "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968,
+  "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589
  },
  "news_queue": [
   {
@@ -189,6 +191,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uaDJ3NWU4dnNhRWtKNjVsT0kxOHJ2bTRzWnprXzFGajJmVlFuNnk0azR4QU9YRVpNNEJ1VmtkMllidm9rdzJ0UUh3?oc=5",
    "sort_key": "Fri, 04 Sep 2026 01:27:00 GMT"
+  },
+  {
+   "id": "news:08d9de848d79170f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아",
+   "source": "금융소비자뉴스",
+   "date": "Wed, 02 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVWGZoSWlLWXpzd045V1N2ZTN0Vm1vR19ra1VydklJTkJ6NjVlQnl0emhNbE9WeE5CZzBEZTdjQTA5NWJuYml5ZHJCRGM4emRuRmZNdGM0TjFIT2p4Nk8wMVdDTWxkYWJQMFE?oc=5",
+   "sort_key": "Wed, 02 Sep 2026 08:05:54 GMT"
   }
  ],
  "initialized": true,
