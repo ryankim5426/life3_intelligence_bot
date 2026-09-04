@@ -157,6 +157,18 @@ def main():
 
     # 뉴스를 모아 보내는 설정이면 대기열에 쌓아 두고, 공시·리포트만 즉시 발송
     digest_mode = getattr(config, "NEWS_DELIVERY", "instant") == "digest"
+    # 새로 나갈 뉴스만 실제 기사 주소로 바꿔둠 (접속이 필요해 느리므로 여기서)
+    resolved = 0
+    for it in fresh:
+        if it["kind"] != "news":
+            continue
+        better = news.resolve_link(it.get("url", ""))
+        if better != it.get("url"):
+            it["url"] = better
+            resolved += 1
+    if resolved:
+        print(f"뉴스 링크 {resolved}건을 원문 주소로 변환")
+
     instant = []
     for it in fresh:
         if digest_mode and it["kind"] == "news":
