@@ -114,7 +114,8 @@
   "news:64c53db6526e2461": 1788484785,
   "news:832a0d437d75d7bd": 1788485968,
   "news:08d9de848d79170f": 1788488589,
-  "news:6ae696aad3cd7536": 1788492835
+  "news:6ae696aad3cd7536": 1788492835,
+  "news:2724abe27b99d0d6": 1788494606
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -171,7 +172,8 @@
   "삼성전자 '배당 실탄' 장전한 삼성생명·화재…해외 투자 속도 낸다": 1788484785,
   "[특징주] 한화생명, 수급불균형에 장중 6%대 급락 : 한국증시": 1788485968,
   "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
-  "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835
+  "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
+  "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606
  },
  "news_queue": [
   {
@@ -213,6 +215,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oNGk2bHIzLWZxdU4wN1puNW1xSWZ3NWRyUVhMUHhNNFFCMGM2RG5peXFyTkE1Y1BEQkgxYkNONXpHV1AxVGNHVGVhNkhMcHFWTGFDNDQzSm5ia0hLZnZSVDlzZlVYNHdJZTVsU0dNZFRlT1JH?oc=5",
    "sort_key": "Thu, 03 Sep 2026 07:06:36 GMT"
+  },
+  {
+   "id": "news:2724abe27b99d0d6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치",
+   "source": "신아일보",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xd21vN1ZrMVhUQWE1LTY3QVY2ZVo5R2VUMmZSWnpROFFJeDRmT3lfRHVURTFvLW9yVXJEV1JtQjAzaF9mc0tCdXp4MHRqMkxweERJemJ5M2ljVXRqTlNtVFgtZTcwdE80dHFJR1Bvd18?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 03:58:31 GMT"
   }
  ],
  "initialized": true,
