@@ -31,9 +31,31 @@ def _load_dotenv():
 
 _load_dotenv()
 
+import datetime as dt
+
+import config
+import dedup
 import store
 import notify
 from collectors import dart, news, reports
+
+KST = dt.timezone(dt.timedelta(hours=9))
+
+
+def digest_due(state, now):
+    """오늘치 뉴스 다이제스트를 지금 보내야 하는지."""
+    if getattr(config, "NEWS_DELIVERY", "instant") != "digest":
+        return False
+    if getattr(config, "NEWS_DIGEST_WEEKDAYS_ONLY", False) and now.weekday() >= 5:
+        return False
+    try:
+        hh, mm = (int(x) for x in config.NEWS_DIGEST_AT.split(":"))
+    except (AttributeError, ValueError):
+        hh, mm = 8, 30
+    today = now.date().isoformat()
+    if state.get("last_digest") == today:
+        return False
+    return (now.hour, now.minute) >= (hh, mm)
 
 COLLECTORS = [
     ("공시(DART)", dart.collect, dart),
@@ -70,6 +92,8 @@ def main():
     dry = "--dry" in args
     seed = "--seed" in args
     check = "--check" in args
+    force_digest = "--digest" in args   # 시각과 무관하게 지금 다이제스트 발송
+    now = dt.datetime.now(KST)
 
     items, health = gather()
 
@@ -81,16 +105,45 @@ def main():
             print(f"  · [{it['kind']}] {it['company']} | {it['title'][:50]}")
         return
 
+    # 한 번의 실행 안에서 같은 항목이 두 번 들어오는 경우를 먼저 제거
+    unique, seen_ids = [], set()
+    for it in items:
+        if it["id"] in seen_ids:
+            continue
+        seen_ids.add(it["id"])
+        unique.append(it)
+    items = unique
+
     state = store.load()
     fresh = [it for it in items if store.is_new(state, it["id"])]
     fresh.sort(key=lambda x: (ORDER.get(x["kind"], 9), x.get("sort_key", "")))
 
     first_run = not state.get("initialized")
 
+    # 최근 며칠 사이 이미 보낸 기사와 같은 내용이면 제목이 달라도 건너뜀
+    if not (seed or first_run):
+        recent = store.recent_stories(state)
+        kept = []
+        skipped = 0
+        for it in fresh:
+            if it["kind"] == "news":
+                if any(dedup.is_same_story(it["title"], old) for old in recent):
+                    store.mark(state, it["id"])   # 조용히 읽음 처리
+                    skipped += 1
+                    continue
+                recent.append(it["title"])
+            kept.append(it)
+        if skipped:
+            print(f"이미 보낸 기사와 같은 내용 {skipped}건 제외")
+        fresh = kept
+
     if seed or first_run:
         for it in items:
             store.mark(state, it["id"])
+            if it["kind"] == "news":
+                store.remember_story(state, it["title"])
         state["initialized"] = True
+        state["last_digest"] = now.date().isoformat()   # 오늘치는 건너뛰고 내일부터
         store.save(state)
         msg = (f"✅ <b>생보 3사 인텔리전스 봇 가동</b>\n"
                f"삼성생명 · 교보생명 · 한화생명\n"
@@ -102,13 +155,21 @@ def main():
             notify.send_text(msg)
         return
 
-    if not fresh:
-        print("신규 항목 없음")
-        return
-
-    print(f"신규 {len(fresh)}건 발송")
-    sent = 0
+    # 뉴스를 모아 보내는 설정이면 대기열에 쌓아 두고, 공시·리포트만 즉시 발송
+    digest_mode = getattr(config, "NEWS_DELIVERY", "instant") == "digest"
+    instant = []
     for it in fresh:
+        if digest_mode and it["kind"] == "news":
+            store.enqueue_news(state, it)
+            store.mark(state, it["id"])
+            store.remember_story(state, it["title"])
+        else:
+            instant.append(it)
+
+    if instant:
+        print(f"즉시 발송 {len(instant)}건 (공시·리포트)")
+    sent = 0
+    for it in instant:
         if dry:
             print("---")
             print(notify.format_item(it))
@@ -117,10 +178,41 @@ def main():
             continue
         if notify.send_item(it):
             store.mark(state, it["id"])
+            if it["kind"] == "news":
+                store.remember_story(state, it["title"])
             sent += 1
 
+    # 다이제스트 시각이 지났으면 모아둔 뉴스를 한 번에
+    if digest_mode:
+        waiting = store.queued_count(state)
+        if force_digest or digest_due(state, now):
+            queued = store.take_news_queue(state)
+            blocks = notify.build_digest(queued, now, config.COMPANIES)
+            if blocks:
+                if dry:
+                    for b in blocks:
+                        print("---\n" + b)
+                    ok = True
+                else:
+                    ok = notify.send_digest(blocks)
+                print(f"뉴스 다이제스트 {len(queued)}건 발송"
+                      + ("" if ok else " (일부 실패)"))
+                if not ok:      # 실패하면 다음 실행에서 다시 시도
+                    state["news_queue"] = queued
+                else:
+                    state["last_digest"] = now.date().isoformat()
+            else:
+                state["last_digest"] = now.date().isoformat()
+                print("보낼 뉴스가 없어 다이제스트를 건너뜁니다")
+        elif waiting:
+            print(f"뉴스 {waiting}건 대기 중 "
+                  f"(다음 {config.NEWS_DIGEST_AT} 발송 예정)")
+
     store.save(state)
-    print(f"발송 완료: {sent}/{len(fresh)}")
+    if instant:
+        print(f"즉시 발송 완료: {sent}/{len(instant)}")
+    elif not digest_mode:
+        print("신규 항목 없음")
 
 
 if __name__ == "__main__":
