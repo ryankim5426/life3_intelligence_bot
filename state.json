@@ -145,7 +145,8 @@
   "news:a48f4fd755c78f0e": 1788525006,
   "news:d84e8ce8f99e03a6": 1788532434,
   "news:0a6b87054651ef27": 1788536977,
-  "news:103c441d0f0d7bfe": 1788553059
+  "news:103c441d0f0d7bfe": 1788553059,
+  "news:39950a4b43f338ca": 1788560512
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -225,7 +226,8 @@
   "삼성생명·화재, 최대 8조 규모 英·美 보험사 M&A 추진": 1788525006,
   "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434,
   "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977,
-  "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059
+  "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059,
+  "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512
  },
  "news_queue": [
   {
@@ -497,6 +499,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VbTBkbGxhTkpTSDlVd01aSklHblJMN1N0dl8wY284S0tNMWxNUlhZVE1fM0FVSm52dE9LOWVnaEN6QW5VWGhKMFJaWHd6UFI2YWFQOHRLSHlkWV9pU2ZsV09uNGRqekpzdlI0?oc=5",
    "sort_key": "Fri, 04 Sep 2026 07:12:25 GMT"
+  },
+  {
+   "id": "news:39950a4b43f338ca",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·RFHIC·아로마티카[하나證 주간추천주]",
+   "source": "edaily.co.kr",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWXZQamdYcm42eHVpRHUzYmotQWRaMzQwaXJhUjBvMllOODdaRGNxb3I4ckpYZksybUZudVdmZGRyNC10dXhoWDh2UzJpbFpZM3g4ZkM2RUk3aGV3ak9yVXdUTEIzNWtKMHotdzdCdG1qQlRJUnVJVDk5LUVzTDNxTA?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 22:00:06 GMT"
   }
  ],
  "initialized": true,
