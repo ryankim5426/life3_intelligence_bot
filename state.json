@@ -144,7 +144,8 @@
   "news:50f32516b79d166e": 1788523394,
   "news:a48f4fd755c78f0e": 1788525006,
   "news:d84e8ce8f99e03a6": 1788532434,
-  "news:0a6b87054651ef27": 1788536977
+  "news:0a6b87054651ef27": 1788536977,
+  "news:103c441d0f0d7bfe": 1788553059
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -223,7 +224,8 @@
   "신창재 회장 경영권 방어에 9000억원 썼나… 교보생명, SBI저축은행 ‘고가 인수’ 논란": 1788523394,
   "삼성생명·화재, 최대 8조 규모 英·美 보험사 M&A 추진": 1788525006,
   "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434,
-  "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977
+  "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977,
+  "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059
  },
  "news_queue": [
   {
@@ -485,6 +487,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUR0VJTkhHdXQxbGdaZkNaRnVzRm4yWXRacUNiY1pnekhHUklmcXZEY3dfcFF6bmdhN2I2ZHZDRW1lNU5icllSRHd3QTlYcVVMMzk0dWZmRFhrOFlpWWdxSlluNzhzblFyY2RZ?oc=5",
    "sort_key": "Thu, 03 Sep 2026 01:34:57 GMT"
+  },
+  {
+   "id": "news:103c441d0f0d7bfe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?",
+   "source": "sisaon.co.kr",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VbTBkbGxhTkpTSDlVd01aSklHblJMN1N0dl8wY284S0tNMWxNUlhZVE1fM0FVSm52dE9LOWVnaEN6QW5VWGhKMFJaWHd6UFI2YWFQOHRLSHlkWV9pU2ZsV09uNGRqekpzdlI0?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 07:12:25 GMT"
   }
  ],
  "initialized": true,
