@@ -126,7 +126,10 @@
   "news:1d568c2df1c46e53": 1788501787,
   "news:251507bc08e4128b": 1788503300,
   "news:0b6a74c2ac7cee99": 1788503301,
-  "news:2c62d5b759da0600": 1788503301
+  "news:2c62d5b759da0600": 1788503301,
+  "news:4c4835e234f5cd03": 1788504556,
+  "news:ecbf65f8a53270ae": 1788504557,
+  "news:56a48dac58136344": 1788504557
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -192,7 +195,9 @@
   "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970,
   "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
   "호텔신라, 최대주주 삼성생명보험 등 주식 1만1168주 감소…삼성생명보험 특별계정 장내매도 영향": 1788503301,
-  "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301
+  "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301,
+  "‘삼전 배당’ 곳간 채운 삼성생명·화재, 해외 M&A로 중장기 성장판 연다": 1788504557,
+  "키프 브루예트, 삼성생명 지분 인수 보도에 Principal Financial 목표가 상향": 1788504557
  },
  "news_queue": [
   {
@@ -324,6 +329,26 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTelpCMWRYeEY5VlNuTXR6SGwzZkdwZlhtaWRfYUYycnNyTU5VdENxbzBDekNLNDY0ZFJPMV9LRFpYTXV3SUJ0dnpCLUg5d1NyRV9fZ2t2alhHbklOMUVmQ2MxaTAzYm5wcC1YLVZ30gFyQVVfeXFMTk9PbHpIVUFYdk1HMk9qV056S2d0TkxPaWZWaU1jMUhXVG9GMnRtSjlkRlVfR01LZHpZcjM5N19MWGVnaWo4WEZNeWJRNUl4QmVBYVcwZFB4bUZwSHJNUkQ1SmlLS3JoMURqMzFTdlFXWl9R?oc=5",
    "sort_key": "Thu, 03 Sep 2026 08:52:27 GMT"
+  },
+  {
+   "id": "news:ecbf65f8a53270ae",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘삼전 배당’ 곳간 채운 삼성생명·화재, 해외 M&A로 중장기 성장판 연다",
+   "source": "주주경제신문",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLZGc4OUhHYjMzenVCcC1kb1lHYlZXd3pIcy12RXFYSUc2dTE0Tl9oNjBWSUVhWWs5UHpCQUl4dW0zeU1aQnJBQVJyOUg2NHBNY29NZkhxUjJBTTQ4UGl2NWMxOTFpT210?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 02:06:08 GMT"
+  },
+  {
+   "id": "news:56a48dac58136344",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "키프 브루예트, 삼성생명 지분 인수 보도에 Principal Financial 목표가 상향",
+   "source": "Investing.com 한국어",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NQkZpZy1zWmVWZE9EWFlEZlV2MnNSS1ZQWHlwUWZCdVdCVDFQTkpDWC1BR0syQTBlcjRIaEFDZktwSmdYdmo5SVNSSXd2QXp5QmU1WWhIR0NXNkdTVzAzSjhoN3hqVWQ3OC1zMHVuNzduNUFz?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 14:17:00 GMT"
   }
  ],
  "initialized": true,
