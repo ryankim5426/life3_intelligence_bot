@@ -146,7 +146,8 @@
   "news:d84e8ce8f99e03a6": 1788532434,
   "news:0a6b87054651ef27": 1788536977,
   "news:103c441d0f0d7bfe": 1788553059,
-  "news:39950a4b43f338ca": 1788560512
+  "news:39950a4b43f338ca": 1788560512,
+  "news:a7fcb715e0fd9edb": 1788575573
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -227,9 +228,21 @@
   "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434,
   "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977,
   "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059,
-  "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512
+  "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512,
+  "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:a7fcb715e0fd9edb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑",
+   "source": "CBC뉴스",
+   "date": "Sat, 05 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dHM5S3ZxV1hDTTh6Zy01akNzeXhMUzRUNHRFYVpzUExpRDdjUU90dUgtUldvV0tLOHZ4X3VTbVNWUGlSSExDYWw4SEFadFpXVktLUjV1cFNxV2JuR0lsN2NGRF9wbGZ4?oc=5",
+   "sort_key": "Sat, 05 Sep 2026 00:39:56 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-05"
 }
