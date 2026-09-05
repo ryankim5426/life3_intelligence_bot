@@ -152,7 +152,8 @@
   "news:01872698a4e99d7b": 1788579670,
   "news:455e65911059003a": 1788589090,
   "news:f447d39b699a2da2": 1788590154,
-  "news:5f42434999ac86b7": 1788591046
+  "news:5f42434999ac86b7": 1788591046,
+  "news:53f6c8425fca06fd": 1788595056
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -238,7 +239,8 @@
   "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670,
   "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
   "호텔신라 지분 0.03%p 감소…삼성생명 특별계정 매도 영향": 1788590154,
-  "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046
+  "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046,
+  "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대": 1788595056
  },
  "news_queue": [
   {
@@ -290,6 +292,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DSDBnZDRQbk1MeGY1QUViZzNwNGVTWWhwdW85d2hHS3ViYXFsQlRZUXh4QXF0UGRlQ01LRVVJcHliS2kyNDYzdk1pd2VNdEMzY1BKNXBJMmJfQTRoTGp2WTNYemZiZzNib2tzdE12VU1HMDZOMVRJ0gF3QVVfeXFMTUNIMGdkNFBuTUx4ZjVBRWJnM3A0ZVNZaHB1bzl3aEdLdWJhcWxCVFlReHhBcXRQZGVDTUtFVUlweWJLaTI0NjN2TWl3ZU10QzNjUEo1cEkyYl9BNGhManZZM1h6ZmJnM2Jva3N0TXZVTUcwNk4xVEk?oc=5",
    "sort_key": "Thu, 03 Sep 2026 06:55:09 GMT"
+  },
+  {
+   "id": "news:53f6c8425fca06fd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대",
+   "source": "일요주간",
+   "date": "Thu, 03 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSV9XOVI3UmttVWJFRUVtZUtUZ1UwWjQ3V3E4TGh3OFFLX0dDeVV4UGdVR1NMcGFUYWFMZ1VHWXNwYWhkRkVQelJCQ1hVYUp5VmRjWTV6ZWdrRHNDWnJJUE5tS01uVWZkRk5CWkNQbk85QVhDN1JkMg?oc=5",
+   "sort_key": "Thu, 03 Sep 2026 08:39:20 GMT"
   }
  ],
  "initialized": true,
