@@ -148,7 +148,8 @@
   "news:103c441d0f0d7bfe": 1788553059,
   "news:39950a4b43f338ca": 1788560512,
   "news:a7fcb715e0fd9edb": 1788575573,
-  "news:22775be35d57ecdd": 1788578559
+  "news:22775be35d57ecdd": 1788578559,
+  "news:01872698a4e99d7b": 1788579670
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -230,7 +231,8 @@
   "한화생명, 통화 분석 AI로 인지 변화 추적": 1788536977,
   "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059,
   "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512,
-  "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573
+  "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
+  "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670
  },
  "news_queue": [
   {
@@ -242,6 +244,16 @@
    "date": "Sat, 05 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dHM5S3ZxV1hDTTh6Zy01akNzeXhMUzRUNHRFYVpzUExpRDdjUU90dUgtUldvV0tLOHZ4X3VTbVNWUGlSSExDYWw4SEFadFpXVktLUjV1cFNxV2JuR0lsN2NGRF9wbGZ4?oc=5",
    "sort_key": "Sat, 05 Sep 2026 00:39:56 GMT"
+  },
+  {
+   "id": "news:01872698a4e99d7b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 고객센터 보험금 청구 계약 해지 방법 안내",
+   "source": "무진장인터넷뉴스",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3dvNGhRNjNTNkdsRFpuamFEOUhON3ZXbDBZa0haTjhNckJCNkRiaUt5ZDVna3RyazI1WnViQnNPMDN3QXpmNWVKdFNiYnY0bE1HanVrTWpTUXkwckZCT041bVoxY3pDSnMtVjRaanJlNEFMbkRnTGU0eHB4YkN2WWttdFVYdzJXUm13R2VBakFGMXpFZlZnUF90azBOVXdFTEtLOGhOZE05MXhNT3ZFMktn?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 17:56:38 GMT"
   }
  ],
  "initialized": true,
