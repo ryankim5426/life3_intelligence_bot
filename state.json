@@ -158,7 +158,8 @@
   "news:2a758a47af4edf37": 1788597184,
   "news:031ff8872f98e1ec": 1788603227,
   "news:25fb8f93cc0863b5": 1788603227,
-  "news:1f858a3713b5895a": 1788617800
+  "news:1f858a3713b5895a": 1788617800,
+  "news:2e789521a921fc33": 1788634277
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -249,7 +250,8 @@
   "1일 서울 서초구 예술의전당 콘서트홀에서 열린 '2026 교보 노블리에 콘서트'에서 정명훈 마에스트로(가운데)가 관객들에게 인사하고 있다.(사진=교보생명)": 1788596293,
   "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184,
   "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보": 1788603227,
-  "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800
+  "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
+  "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |": 1788634277
  },
  "news_queue": [
   {
@@ -351,6 +353,16 @@
    "date": "Sat, 05 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zak8ydkRBWlIzSHhXd0VBcXdoQnhjQ0RKTHBrOGxZcEwzc3FNSWJDSERfY0pKOVpwRjhpQUNaUTdNS0tlZmttNUt4S19BQlRLa2lZOVl1Yk9iVndiaTB6T0l2c2ZGS3gxMWg4ONIBbEFVX3lxTE1Zak8ydkRBWlIzSHhXd0VBcXdoQnhjQ0RKTHBrOGxZcEwzc3FNSWJDSERfY0pKOVpwRjhpQUNaUTdNS0tlZmttNUt4S19BQlRLa2lZOVl1Yk9iVndiaTB6T0l2c2ZGS3gxMWg4OA?oc=5",
    "sort_key": "Sat, 05 Sep 2026 12:16:00 GMT"
+  },
+  {
+   "id": "news:2e789521a921fc33",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |",
+   "source": "엔지오프레스",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PUjNJY3lUeVQyR0tqZEdXcHpOdlhVa3JHZFkxMVJVMGtyMFhsb2tURVZZSURnbmpUdUMyT3pXY2ZMOWpTajVYX2dJaGNBYnFMbnpydlJoc0xlQkxjM1VUQlNpMVJ4Y1FPbGRkMw?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 07:12:14 GMT"
   }
  ],
  "initialized": true,
