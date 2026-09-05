@@ -154,7 +154,8 @@
   "news:f447d39b699a2da2": 1788590154,
   "news:5f42434999ac86b7": 1788591046,
   "news:53f6c8425fca06fd": 1788595056,
-  "news:008bf5625d32f54a": 1788596293
+  "news:008bf5625d32f54a": 1788596293,
+  "news:2a758a47af4edf37": 1788597184
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -242,7 +243,8 @@
   "호텔신라 지분 0.03%p 감소…삼성생명 특별계정 매도 영향": 1788590154,
   "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046,
   "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대": 1788595056,
-  "1일 서울 서초구 예술의전당 콘서트홀에서 열린 '2026 교보 노블리에 콘서트'에서 정명훈 마에스트로(가운데)가 관객들에게 인사하고 있다.(사진=교보생명)": 1788596293
+  "1일 서울 서초구 예술의전당 콘서트홀에서 열린 '2026 교보 노블리에 콘서트'에서 정명훈 마에스트로(가운데)가 관객들에게 인사하고 있다.(사진=교보생명)": 1788596293,
+  "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184
  },
  "news_queue": [
   {
@@ -314,6 +316,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiwApBVV95cUxOMzJFSUR6WDlnV3RMRUxxVWNPejVkd2FnbXVSblpmS2YwWEVYdzdXeEFleUMtN05pbzNCS0ZkWE5KcVExUVVtbkZGcFBqcE5FZFZDYkhpNkR5M2lmcG1GWHBWVVNEU1ZzUzlRSTRpY1JyTWVSbzlhMUFrRHZrQ2MzdFZDbTQtSlo4cjBHMWJ3QWJsQXc4N2I0QW85RkNiVnBTTGxlN2VhalhQUlRxSWhNdE5RSFhGMHBlWUoyT0lHVVZuWWJ5eDJORXBTQTQ2emlDb0ttNXNPd1JRRnpJQTExZ2JOaU5fZHU2c0pGN2plVU54UjhkTXJYYXRHU0tOSkdiN2RBMlJkVmZ0MS1Ta3dsY1pJTU5aeVFfWGtyOUNZR05nV1FwZEgzYXA5M3N4d2l6WWNIb0Izc2w4aGZpQWJ2UVhiY0locUFFN1ZfNEJUdWF4Mm5tZTZLbjd6bGZyU2lSUFYxd3RCOXl2cS1tcjBhWjhiWnlWMG0wcURuUzgzcXZ6eEV0eTZndEpPS2pYRnFWUnk1UEQ1SmVlM0hvdGpRNTNsSkRIdmRrQzFnMkMyT2RJQjJlanFnejJrQVh5YVZaUjduY3B3enB2eGRMMWE5bUhzeF9vWEl0NjlNVF9TRVdIU0x4c3ZsMjJ1YllJOENFNC1jNDllVXFaR3lfblVNcDVycXg3NGZ2OUp1MmRNcFU0ejBrUVhCUEJCa01KU016bTc1Y21EeTF0STRKcmNoNl9kbGN5d3pOSkFmNnMzYlBrelF1dE51dno5enlTeU5QajhuY1RPQkFHSzRXMjVTbVZ1dURXUGUyeU5NRmJDQzZCellsVngxNzRHcm5heU0yRENJM1hhc3VKRXNfNFBKSmVXQ3ZHdnF3MXNGNGI0Z2FEeFB5UGlEeXJTU0lwYmdPRW4zMGhZMGh5RlB4Wnh0WUFrQjZMd0NwY01kekFqY0NHT0RCX3BMb29YQjRFUFVMTlhCUDFQbU1aaEo5RzVoYTFmbGJ3N1hBZmcxR3dSYjY5TWJjY1ZwRFdXb0NpVGxMTXNCMXBXT2R6WjZkMHdFd0t3eVZsbHVaUEdOX0ZQc3RtMmVZTy0xOTRNSWZzM1hNRTlLa2ZZaE5XaWtuX0JuZjd3WUI2SFZoMUxMYUxhdVhSbzZlRVRPb3FhQ0VWVVpTQ0xMeEw2UWN6OUNqcjZpQ003OXU2WTk3cjdDaE5uSU5BQ3VSeWgtZVVINHRQZUhOQnZULTlJUkZOUWVrSTl5RHd1a05XUTYyeWVHVDlqSml6R2pvN1F1aFdEaFdqMkY0clVsbEl0c2JjSTdXQXI0d2Z2cW92SEEwdGlFX1ZPUVpMejhvQTNnTnFsNFdzQUU2NjVQLVNRNWtlb1N5NFFLbUZmZHdTNXF5a2hUVllXOU4xTG5ETU5Ob2xQbkhaUGcwMDdSNXNPYl9hQWxMRmRNQW1ydTROTEFGVUtMMXlMUjVaeXUzSlk4YUQ3OXJWeWNHZWhOVVRzUElmWTB2QzZtbHFrVlhxN1VYRmhVSEY0Zk9mZHVKam1fM0ZfZmR3eWVQOUtBNFRpNm0xMVJLY0pobDB3Q05mVUt3MXl2N2xSTjd5VFJqRjc1ZDdCeUtKdDBlWEF2Z0FPTVRCbl9FX1hSVTB5eTZjN19EbUhHLVFnd2dBNW5ubFJXRnJHS21POHk0X0xjQXhETERCX2xtYUZkNTE5V1cyU3RVOU9ZUURTSU1YN09nNWFhRzZQdkctZzYzVVQ2RC02LXRWVThmdFprNGxPY05oME9HMjE3NnI1UW0?oc=5",
    "sort_key": "Fri, 04 Sep 2026 00:37:57 GMT"
+  },
+  {
+   "id": "news:2a758a47af4edf37",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5bXA3M3FnVEpLc1RVTlUwOE5CZk02eUt5YU1Wd0swN3pUYlphODlzaWVzbTN4blM3YlFkaEZRSFhJbk9fYUZPYnV3?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 01:24:00 GMT"
   }
  ],
  "initialized": true,
