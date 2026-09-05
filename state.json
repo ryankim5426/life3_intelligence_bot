@@ -155,7 +155,9 @@
   "news:5f42434999ac86b7": 1788591046,
   "news:53f6c8425fca06fd": 1788595056,
   "news:008bf5625d32f54a": 1788596293,
-  "news:2a758a47af4edf37": 1788597184
+  "news:2a758a47af4edf37": 1788597184,
+  "news:031ff8872f98e1ec": 1788603227,
+  "news:25fb8f93cc0863b5": 1788603227
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -244,7 +246,8 @@
   "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046,
   "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대": 1788595056,
   "1일 서울 서초구 예술의전당 콘서트홀에서 열린 '2026 교보 노블리에 콘서트'에서 정명훈 마에스트로(가운데)가 관객들에게 인사하고 있다.(사진=교보생명)": 1788596293,
-  "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184
+  "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184,
+  "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보": 1788603227
  },
  "news_queue": [
   {
@@ -326,6 +329,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5bXA3M3FnVEpLc1RVTlUwOE5CZk02eUt5YU1Wd0swN3pUYlphODlzaWVzbTN4blM3YlFkaEZRSFhJbk9fYUZPYnV3?oc=5",
    "sort_key": "Fri, 04 Sep 2026 01:24:00 GMT"
+  },
+  {
+   "id": "news:25fb8f93cc0863b5",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52SUNZWWZjZmk2U0dfdGd5UnVwMUtpZTRfaEo0Nk5KbzVSUElsYVBJZ3k0djFvZDJPSDJkdWJiSFdNYjBFVVFYUE5n?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 01:57:00 GMT"
   }
  ],
  "initialized": true,
