@@ -150,7 +150,8 @@
   "news:a7fcb715e0fd9edb": 1788575573,
   "news:22775be35d57ecdd": 1788578559,
   "news:01872698a4e99d7b": 1788579670,
-  "news:455e65911059003a": 1788589090
+  "news:455e65911059003a": 1788589090,
+  "news:f447d39b699a2da2": 1788590154
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -234,7 +235,8 @@
   "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512,
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
   "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670,
-  "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090
+  "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
+  "호텔신라 지분 0.03%p 감소…삼성생명 특별계정 매도 영향": 1788590154
  },
  "news_queue": [
   {
@@ -266,6 +268,16 @@
    "date": "Thu, 03 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GMXVnT1FYNDFJVndmUThjWkNoWm1CNURnd1NkY29uRkZvclJxSExTQUZuWjY4cEpzY3BwN1Q2b0NWQ0VjWkg5SW5XbURUb0I0MXpzZ2UzQVpDVzdlVWowZGd3Y0_SAWRBVV95cUxNRjF1Z09RWDQxSVZ3ZlE4Y1pDaFptQjVEZ3dTZGNvbkZGb3JScUhMU0FGblo2OHBKc2NwcDdUNm9DVkNFY1pIOUluV21EVG9CNDF6c2dlM0FaQ1c3ZVVqMGRnd2NP?oc=5",
    "sort_key": "Thu, 03 Sep 2026 23:16:46 GMT"
+  },
+  {
+   "id": "news:f447d39b699a2da2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "호텔신라 지분 0.03%p 감소…삼성생명 특별계정 매도 영향",
+   "source": "tokenpost.kr",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMTZqb1E0aFZzQ0o5ZWZJVEp1dnFZRDBnaEtYcmNEd2ZQbEhtUURZUVIwSnl6U051Y1dMVko5WmpLbjRMakdCaURYWXRwZTNVWVJQQVI2Z1lRVTjSAVtBVV95cUxOSTE2am9RNGhWc0NKOWVmSVRKdXZxWUQwZ2hLWHJjRHdmUGxIbVFEWVFSMEp5elNOdWNXTFZKOVpqS240TGpHQmlEWFl0cGUzVVlSUEFSNmdZUVU4?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 07:07:47 GMT"
   }
  ],
  "initialized": true,
