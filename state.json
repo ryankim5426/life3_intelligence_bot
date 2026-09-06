@@ -163,7 +163,8 @@
   "news:a7d002c5ebb99097": 1788640323,
   "news:2b0988154f0c3f7c": 1788646715,
   "news:b14c862d83d71a82": 1788656534,
-  "news:aabfe1a673aaf24d": 1788656534
+  "news:aabfe1a673aaf24d": 1788656534,
+  "news:6347ab9872e22747": 1788657664
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -259,7 +260,8 @@
   "박근희 삼성생명 사장 모교 청주대서 '열정樂서' 강연": 1788640323,
   "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
   "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
-  "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다": 1788656534
+  "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다": 1788656534,
+  "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'": 1788657664
  },
  "news_queue": [
   {
@@ -280,6 +282,16 @@
    "source": "ER 이코노믹리뷰",
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GaE83UUNtRXVlVUZJTXd4MjlWSkxaUEIxWXlBUFFxOU1OX2xOVjdia1kwUWZrM1FlMVd5RDZhY2xtbzNIS0w2aHA5OHZqWTB6YndiWU1QZ1V3R2dWLVlrUkFKdUljTUZQOGFOdw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:6347ab9872e22747",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'",
+   "source": "ER 이코노믹리뷰",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ1pPVWdpZ3Y4UG14TU1oRTU0ei04SlQ2alZ5eUxWeHZ5c1loaXpXT1NpZTEzcllITG5XN2sxYTFLMldhLXY4Z3VxSTl5MzFRUi0xQS1GUDBDUXNwRU82ZGJieG5zbDVQSzdfVA?oc=5",
    "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
   }
  ],
