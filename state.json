@@ -175,7 +175,8 @@
   "news:bb916a4b36b53a1c": 1788699528,
   "news:9fff5bcca064456e": 1788708159,
   "news:c3fa8c2c78c474e2": 1788727682,
-  "news:e48fa5f54cf31993": 1788729688
+  "news:e48fa5f54cf31993": 1788729688,
+  "news:e02fa82066d5b527": 1788737426
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -281,130 +282,10 @@
   "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”": 1788699528,
   "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]": 1788708159,
   "사진=교보생명": 1788727682,
-  "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화": 1788729688
+  "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화": 1788729688,
+  "클레온, 삼성생명과 만든 ‘AI 고객’ 상담 훈련 솔루션 공개한다": 1788737426
  },
- "news_queue": [
-  {
-   "id": "news:b14c862d83d71a82",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다",
-   "source": "ER 이코노믹리뷰",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8taXBGOUhCUjhlYmxwWXNwWklYdEZvcmNEbUtlUlJ2SC1fZGdsbGhqcWF6V0pRSkxUb3RKcDNVajFxaXRzY2N6TzFFQS1NUTZCR1BVcDU1cXNnX1Y5Q2tkSDRYWjhNWGM1WWZjSA?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
-  },
-  {
-   "id": "news:aabfe1a673aaf24d",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다",
-   "source": "ER 이코노믹리뷰",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GaE83UUNtRXVlVUZJTXd4MjlWSkxaUEIxWXlBUFFxOU1OX2xOVjdia1kwUWZrM1FlMVd5RDZhY2xtbzNIS0w2aHA5OHZqWTB6YndiWU1QZ1V3R2dWLVlrUkFKdUljTUZQOGFOdw?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
-  },
-  {
-   "id": "news:6347ab9872e22747",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'",
-   "source": "ER 이코노믹리뷰",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ1pPVWdpZ3Y4UG14TU1oRTU0ei04SlQ2alZ5eUxWeHZ5c1loaXpXT1NpZTEzcllITG5XN2sxYTFLMldhLXY4Z3VxSTl5MzFRUi0xQS1GUDBDUXNwRU82ZGJieG5zbDVQSzdfVA?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
-  },
-  {
-   "id": "news:14c5248d49c3b55a",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시",
-   "source": "catchnews.kr",
-   "date": "Fri, 04 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa0t2ekE2cWxXMmI5dExjQ2NnNW5vMmFpR3hzNWNYbWNmSjM0T1d6SV8wTjQ1VjBzMW44WmlDQUxUTmlPNjhhTHRFYWNpbnBnd0hrZ2NTZVBINmowS0dMVWwwRDl2NzJkZlHSAW5BVV95cUxQMjlLSGJOMnJVdjIycHlNcTZ1dVZfWXI4LVFSbWI2UkpjLW1hSy1GNDZFaWp1eUdJUEpQYWRLWEpQUUI4RjRzenNuNXZYdzhpWU5FTk9HaGR0VV81ZV9FVUtmUEZYOFctdC10QkdxZw?oc=5",
-   "sort_key": "Fri, 04 Sep 2026 08:24:00 GMT"
-  },
-  {
-   "id": "news:b3c8f502a5b8617e",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출",
-   "source": "catchnews.kr",
-   "date": "Fri, 04 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KM1U1TFZaSEY3TmJZUEp4cWtWeW45dUtMZWxBa3dTMGxBckl4dzRiODBwU05JSEh3cF81RERybVFLTHNuaGh4UnB4MUtHcGg3M1FyWTFsdWVnQnA2VXQ2Sl9maUJsaUhBNkHSAW5BVV95cUxPX3NkSk5OSW5nLWxWYUtXMlctaTNGWTJqc0tEcUp4MExDMjZsRXB2bjRMUmU5RFNnVXV4ZGpjNHQxOVZTLWItenBKWkZfMnhPRjUtMUJTZVA5YkM5UXNsNThzS2UxaFFaVXY4M1VCQQ?oc=5",
-   "sort_key": "Fri, 04 Sep 2026 08:24:00 GMT"
-  },
-  {
-   "id": "news:92beb25224cc027d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장",
-   "source": "오늘경제",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96RWh1TF9sdTFXQTY1bGxtd21ZXzRlRGhnaXU0MDZEclM3VmJPS3ZfbjdobzZzNC16M0ZXTnd5bjVvbk1Vc0t4em02RDF6c0NWSjBJbnlUNFYyVHdQLTBaWTFwMWR6dmVxeE4tVnB2b3UyZVk?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 08:00:00 GMT"
-  },
-  {
-   "id": "news:109f875800089641",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "“삼성전자 덕에 조 단위 현금”…삼성생명·화재, 돈 풀까 쌓을까",
-   "source": "에너지경제신문",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yT0VwSkd6aVBWOVBVX05UaEVaSDk4amozYlN1ZHc4azkyWm1yWFM2OFhvNU1WTkQwNkxRNjlCVGRoLXg2Y3FkZDhLa1doR1BPT1RUeVJNQnZvVnhVSEVnQ015NA?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 08:23:00 GMT"
-  },
-  {
-   "id": "news:601831aeb2077ac6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 “배당 우상향 지속…해외 M&",
-   "source": "etoday.co.kr",
-   "date": "Sat, 05 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sRHBIY21VTTM1Y2RaV3ZiZG14NUdVcms2UHVqT1MyMEU4QlhuSUxLQmFwMFQ3VjNTZlB0eXFzVGNlYlRjR094bnF1dmg0MzhMcTNmSUJDalRJeFpqR3NmaWc4c0pLdVpS?oc=5",
-   "sort_key": "Sat, 05 Sep 2026 23:10:34 GMT"
-  },
-  {
-   "id": "news:bb916a4b36b53a1c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”",
-   "source": "이지경제",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycjNmVnBQOVVqWElheWlYUi0xOHhlamhsTHVCYklGRF9rNDRfSDM4eHRtUC1FMDBSSERabUU3RUpqcXpwaFFqSGdCQk1MbVFFdUhERGNSNXRZemFvWEhzXzY2NHFMWXNfVktFdVhn?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 12:44:44 GMT"
-  },
-  {
-   "id": "news:9fff5bcca064456e",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]",
-   "source": "한국금융신문",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfOGNyMVZNUkJ3bUtOQTZ5clZHTklyUzZxMV9iUXhqVy1QNTV2YjBxd3AtYnZISG1uWWhzZldZZTJ4SlhuSXAtWUxtdU13RWlRWVVJdjZmUTZTNmN5aUZhN0pJbVdXRkJsSDlJV2k4bnVhOVJfbHFxV2xOSWo?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "id": "news:c3fa8c2c78c474e2",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "사진=교보생명",
-   "source": "전자신문",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxOTE9uZTNtYXlsaUk5ZG9DQUJQaC1MNTh5NDZiUmU3RlRuT2dFUnU0UmxfSmxFNFAtSjFleWdOTTZBbzZXb2tvMmFhTS1MQUZpbFI3TjVYbExMZy13WmY3TThPWW0wdmR6VTJ5S1dpZjZsdWpqSFNRYTBUS3hib3hhdHV5c284dzR1U1dkemNGTHF4VFh3OXVUb1dIbWlJY3ZMUmZsNTZRX2dfa0NWX01fNUx5OFZzRUpzcEQ0RmpKVjA4djFzVmh4cDNYUVdkbzJWLXFVMl9IdWViOWd3ZXRQclBrbTlpV09EQVg3cmU4RTJlR2hDTFFWT3R4V25SSnFRd1EtV01MalVJam5kX21xaXRnMVdUbkR2cmh6OVNPN2VFWWVDemdjV0FWTkFMMFFzT0E4b0hodXd2clNiYnR3M1pEdDFPSUl5ajNFR3hqQmV4S0tOVHk3OFpUdzB0c252Tmw1MXJYYUpJWEtBeGlVRkp4RFFwRkJFMjhTNVFpWFdnUF9waF8xUFdfc05xa0wxOU10MzI0bDNYeFBqVklfWFh3NlFYekJZMk5heVpqNXN1X3pYaXlYcS04a2VnWThhZG1vaGczcU5mOWZRSFdMZm5QVkZUNkVuMDFURTdxeVJ1bEJoMEVEN1FpQlQySzhYdHdCa2VoSWE1MlhEeWNGZw?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 19:44:12 GMT"
-  },
-  {
-   "id": "news:e48fa5f54cf31993",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화",
-   "source": "보험신보",
-   "date": "Sun, 06 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdDBGZ1VZbEtyQkV0cktEMmdmZG95X1ZHMmEtSVY3N28xNENGQXFPVmhKRm9PY082QnRiZ0NLSFk2V1JHcVk0T2Y2T3MyVlZhaWFJUUY2QU9JY09Uank1OV9PT2szWXdWM2Fv?oc=5",
-   "sort_key": "Sun, 06 Sep 2026 15:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-09-06"
+ "last_digest": "2026-09-07"
 }
