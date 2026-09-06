@@ -174,7 +174,8 @@
   "news:601831aeb2077ac6": 1788698767,
   "news:bb916a4b36b53a1c": 1788699528,
   "news:9fff5bcca064456e": 1788708159,
-  "news:c3fa8c2c78c474e2": 1788727682
+  "news:c3fa8c2c78c474e2": 1788727682,
+  "news:e48fa5f54cf31993": 1788729688
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -279,7 +280,8 @@
   "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
   "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”": 1788699528,
   "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]": 1788708159,
-  "사진=교보생명": 1788727682
+  "사진=교보생명": 1788727682,
+  "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화": 1788729688
  },
  "news_queue": [
   {
@@ -391,6 +393,16 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxOTE9uZTNtYXlsaUk5ZG9DQUJQaC1MNTh5NDZiUmU3RlRuT2dFUnU0UmxfSmxFNFAtSjFleWdOTTZBbzZXb2tvMmFhTS1MQUZpbFI3TjVYbExMZy13WmY3TThPWW0wdmR6VTJ5S1dpZjZsdWpqSFNRYTBUS3hib3hhdHV5c284dzR1U1dkemNGTHF4VFh3OXVUb1dIbWlJY3ZMUmZsNTZRX2dfa0NWX01fNUx5OFZzRUpzcEQ0RmpKVjA4djFzVmh4cDNYUVdkbzJWLXFVMl9IdWViOWd3ZXRQclBrbTlpV09EQVg3cmU4RTJlR2hDTFFWT3R4V25SSnFRd1EtV01MalVJam5kX21xaXRnMVdUbkR2cmh6OVNPN2VFWWVDemdjV0FWTkFMMFFzT0E4b0hodXd2clNiYnR3M1pEdDFPSUl5ajNFR3hqQmV4S0tOVHk3OFpUdzB0c252Tmw1MXJYYUpJWEtBeGlVRkp4RFFwRkJFMjhTNVFpWFdnUF9waF8xUFdfc05xa0wxOU10MzI0bDNYeFBqVklfWFh3NlFYekJZMk5heVpqNXN1X3pYaXlYcS04a2VnWThhZG1vaGczcU5mOWZRSFdMZm5QVkZUNkVuMDFURTdxeVJ1bEJoMEVEN1FpQlQySzhYdHdCa2VoSWE1MlhEeWNGZw?oc=5",
    "sort_key": "Sun, 06 Sep 2026 19:44:12 GMT"
+  },
+  {
+   "id": "news:e48fa5f54cf31993",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화",
+   "source": "보험신보",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdDBGZ1VZbEtyQkV0cktEMmdmZG95X1ZHMmEtSVY3N28xNENGQXFPVmhKRm9PY082QnRiZ0NLSFk2V1JHcVk0T2Y2T3MyVlZhaWFJUUY2QU9JY09Uank1OV9PT2szWXdWM2Fv?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
