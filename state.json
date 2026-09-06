@@ -161,7 +161,9 @@
   "news:1f858a3713b5895a": 1788617800,
   "news:2e789521a921fc33": 1788634277,
   "news:a7d002c5ebb99097": 1788640323,
-  "news:2b0988154f0c3f7c": 1788646715
+  "news:2b0988154f0c3f7c": 1788646715,
+  "news:b14c862d83d71a82": 1788656534,
+  "news:aabfe1a673aaf24d": 1788656534
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -255,9 +257,32 @@
   "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
   "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |": 1788634277,
   "박근희 삼성생명 사장 모교 청주대서 '열정樂서' 강연": 1788640323,
-  "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715
+  "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
+  "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
+  "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다": 1788656534
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:b14c862d83d71a82",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다",
+   "source": "ER 이코노믹리뷰",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8taXBGOUhCUjhlYmxwWXNwWklYdEZvcmNEbUtlUlJ2SC1fZGdsbGhqcWF6V0pRSkxUb3RKcDNVajFxaXRzY2N6TzFFQS1NUTZCR1BVcDU1cXNnX1Y5Q2tkSDRYWjhNWGM1WWZjSA?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:aabfe1a673aaf24d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다",
+   "source": "ER 이코노믹리뷰",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GaE83UUNtRXVlVUZJTXd4MjlWSkxaUEIxWXlBUFFxOU1OX2xOVjdia1kwUWZrM1FlMVd5RDZhY2xtbzNIS0w2aHA5OHZqWTB6YndiWU1QZ1V3R2dWLVlrUkFKdUljTUZQOGFOdw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-06"
 }
