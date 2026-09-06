@@ -171,7 +171,8 @@
   "news:b3c8f502a5b8617e": 1788681621,
   "news:92beb25224cc027d": 1788683047,
   "news:109f875800089641": 1788684119,
-  "news:601831aeb2077ac6": 1788698767
+  "news:601831aeb2077ac6": 1788698767,
+  "news:bb916a4b36b53a1c": 1788699528
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -273,7 +274,8 @@
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
   "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장": 1788683047,
   "“삼성전자 덕에 조 단위 현금”…삼성생명·화재, 돈 풀까 쌓을까": 1788684119,
-  "삼성생명 “배당 우상향 지속…해외 M&": 1788698767
+  "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
+  "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”": 1788699528
  },
  "news_queue": [
   {
@@ -355,6 +357,16 @@
    "date": "Sat, 05 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sRHBIY21VTTM1Y2RaV3ZiZG14NUdVcms2UHVqT1MyMEU4QlhuSUxLQmFwMFQ3VjNTZlB0eXFzVGNlYlRjR094bnF1dmg0MzhMcTNmSUJDalRJeFpqR3NmaWc4c0pLdVpS?oc=5",
    "sort_key": "Sat, 05 Sep 2026 23:10:34 GMT"
+  },
+  {
+   "id": "news:bb916a4b36b53a1c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”",
+   "source": "이지경제",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycjNmVnBQOVVqWElheWlYUi0xOHhlamhsTHVCYklGRF9rNDRfSDM4eHRtUC1FMDBSSERabUU3RUpqcXpwaFFqSGdCQk1MbVFFdUhERGNSNXRZemFvWEhzXzY2NHFMWXNfVktFdVhn?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 12:44:44 GMT"
   }
  ],
  "initialized": true,
