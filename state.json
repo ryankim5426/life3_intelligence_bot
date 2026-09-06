@@ -164,7 +164,8 @@
   "news:2b0988154f0c3f7c": 1788646715,
   "news:b14c862d83d71a82": 1788656534,
   "news:aabfe1a673aaf24d": 1788656534,
-  "news:6347ab9872e22747": 1788657664
+  "news:6347ab9872e22747": 1788657664,
+  "news:14c5248d49c3b55a": 1788669264
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -261,7 +262,8 @@
   "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
   "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
   "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다": 1788656534,
-  "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'": 1788657664
+  "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'": 1788657664,
+  "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264
  },
  "news_queue": [
   {
@@ -293,6 +295,16 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ1pPVWdpZ3Y4UG14TU1oRTU0ei04SlQ2alZ5eUxWeHZ5c1loaXpXT1NpZTEzcllITG5XN2sxYTFLMldhLXY4Z3VxSTl5MzFRUi0xQS1GUDBDUXNwRU82ZGJieG5zbDVQSzdfVA?oc=5",
    "sort_key": "Sun, 06 Sep 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:14c5248d49c3b55a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시",
+   "source": "catchnews.kr",
+   "date": "Fri, 04 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa0t2ekE2cWxXMmI5dExjQ2NnNW5vMmFpR3hzNWNYbWNmSjM0T1d6SV8wTjQ1VjBzMW44WmlDQUxUTmlPNjhhTHRFYWNpbnBnd0hrZ2NTZVBINmowS0dMVWwwRDl2NzJkZlHSAW5BVV95cUxQMjlLSGJOMnJVdjIycHlNcTZ1dVZfWXI4LVFSbWI2UkpjLW1hSy1GNDZFaWp1eUdJUEpQYWRLWEpQUUI4RjRzenNuNXZYdzhpWU5FTk9HaGR0VV81ZV9FVUtmUEZYOFctdC10QkdxZw?oc=5",
+   "sort_key": "Fri, 04 Sep 2026 08:24:00 GMT"
   }
  ],
  "initialized": true,
