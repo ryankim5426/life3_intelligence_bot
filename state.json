@@ -168,7 +168,8 @@
   "news:14c5248d49c3b55a": 1788669264,
   "news:b2aa34f11b024b9a": 1788674263,
   "news:581c0f671d2cc45c": 1788679986,
-  "news:b3c8f502a5b8617e": 1788681621
+  "news:b3c8f502a5b8617e": 1788681621,
+  "news:92beb25224cc027d": 1788683047
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -267,7 +268,8 @@
   "[머니엑스포6]한화생명, 청년 '금융 자립 안전망' 구축 나선다": 1788656534,
   "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'": 1788657664,
   "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264,
-  "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621
+  "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
+  "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장": 1788683047
  },
  "news_queue": [
   {
@@ -319,6 +321,16 @@
    "date": "Fri, 04 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KM1U1TFZaSEY3TmJZUEp4cWtWeW45dUtMZWxBa3dTMGxBckl4dzRiODBwU05JSEh3cF81RERybVFLTHNuaGh4UnB4MUtHcGg3M1FyWTFsdWVnQnA2VXQ2Sl9maUJsaUhBNkHSAW5BVV95cUxPX3NkSk5OSW5nLWxWYUtXMlctaTNGWTJqc0tEcUp4MExDMjZsRXB2bjRMUmU5RFNnVXV4ZGpjNHQxOVZTLWItenBKWkZfMnhPRjUtMUJTZVA5YkM5UXNsNThzS2UxaFFaVXY4M1VCQQ?oc=5",
    "sort_key": "Fri, 04 Sep 2026 08:24:00 GMT"
+  },
+  {
+   "id": "news:92beb25224cc027d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장",
+   "source": "오늘경제",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96RWh1TF9sdTFXQTY1bGxtd21ZXzRlRGhnaXU0MDZEclM3VmJPS3ZfbjdobzZzNC16M0ZXTnd5bjVvbk1Vc0t4em02RDF6c0NWSjBJbnlUNFYyVHdQLTBaWTFwMWR6dmVxeE4tVnB2b3UyZVk?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 08:00:00 GMT"
   }
  ],
  "initialized": true,
