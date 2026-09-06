@@ -172,7 +172,8 @@
   "news:92beb25224cc027d": 1788683047,
   "news:109f875800089641": 1788684119,
   "news:601831aeb2077ac6": 1788698767,
-  "news:bb916a4b36b53a1c": 1788699528
+  "news:bb916a4b36b53a1c": 1788699528,
+  "news:9fff5bcca064456e": 1788708159
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -275,7 +276,8 @@
   "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장": 1788683047,
   "“삼성전자 덕에 조 단위 현금”…삼성생명·화재, 돈 풀까 쌓을까": 1788684119,
   "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
-  "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”": 1788699528
+  "[Interview] ‘오너’ 문현준 1:1 인터뷰 “한화생명만 이기면 기세 살려 우승할 수 있다”": 1788699528,
+  "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]": 1788708159
  },
  "news_queue": [
   {
@@ -367,6 +369,16 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ycjNmVnBQOVVqWElheWlYUi0xOHhlamhsTHVCYklGRF9rNDRfSDM4eHRtUC1FMDBSSERabUU3RUpqcXpwaFFqSGdCQk1MbVFFdUhERGNSNXRZemFvWEhzXzY2NHFMWXNfVktFdVhn?oc=5",
    "sort_key": "Sun, 06 Sep 2026 12:44:44 GMT"
+  },
+  {
+   "id": "news:9fff5bcca064456e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]",
+   "source": "한국금융신문",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfOGNyMVZNUkJ3bUtOQTZ5clZHTklyUzZxMV9iUXhqVy1QNTV2YjBxd3AtYnZISG1uWWhzZldZZTJ4SlhuSXAtWUxtdU13RWlRWVVJdjZmUTZTNmN5aUZhN0pJbVdXRkJsSDlJV2k4bnVhOVJfbHFxV2xOSWo?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
