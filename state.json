@@ -176,7 +176,11 @@
   "news:9fff5bcca064456e": 1788708159,
   "news:c3fa8c2c78c474e2": 1788727682,
   "news:e48fa5f54cf31993": 1788729688,
-  "news:e02fa82066d5b527": 1788737426
+  "news:e02fa82066d5b527": 1788737426,
+  "news:e44fea72200e87a4": 1788738471,
+  "news:1cf4d9858d653383": 1788738471,
+  "news:d211db88982fdadb": 1788738471,
+  "news:51c710fc28a182c0": 1788738471
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -283,9 +287,54 @@
   "홍원학 삼성생명 대표, 보험·운용사 투자 양축으로 글로벌 확장 [보험사 글로벌 전략]": 1788708159,
   "사진=교보생명": 1788727682,
   "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화": 1788729688,
-  "클레온, 삼성생명과 만든 ‘AI 고객’ 상담 훈련 솔루션 공개한다": 1788737426
+  "클레온, 삼성생명과 만든 ‘AI 고객’ 상담 훈련 솔루션 공개한다": 1788737426,
+  "‘우승 후보’ 한화생명, MSI 첫 경기서 TSW 3-0 완파 [MSI]": 1788738471,
+  "\"AI 가상 고객 모셨습니다\" 삼성생명 실전형 롤플레잉 서비스 출격": 1788738471,
+  "클레온 대화형 AI, 금융 현장 첫 적용…삼성생명과 공동 개발": 1788738471,
+  "삼성생명, AI로 보험상담 훈련한다…생성형 AI 혁신금융서비스": 1788738471
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:e44fea72200e87a4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘우승 후보’ 한화생명, MSI 첫 경기서 TSW 3-0 완파 [MSI]",
+   "source": "kukinews.com",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4TUZPUnlfY2xRY2ctYUdKTk1CMlgxelY4TzRJQjdaMHZZMlBjTERCRmxUTHhoZmwyNG96elJ2R3ZDOXd6YThacWM4aWZrZFdoSjNBSXNQM1FldU5DWkRHRnhkYw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 08:07:31 GMT"
+  },
+  {
+   "id": "news:1cf4d9858d653383",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"AI 가상 고객 모셨습니다\" 삼성생명 실전형 롤플레잉 서비스 출격",
+   "source": "보험저널",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jSFFPZW9ZZkw4Vk1fUHctWnpFX0xxV215NHBxZzlfejdTZ2Fod1RRS2dTQjNlQ3JRRmRVR1NHOFUzWDBOYmlKWmVhUE01N3pNbF9lelBkT05VTTZZWm9aV3QteENvMGN0bm1CRlZnaw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 23:35:41 GMT"
+  },
+  {
+   "id": "news:d211db88982fdadb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "클레온 대화형 AI, 금융 현장 첫 적용…삼성생명과 공동 개발",
+   "source": "네이트",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbEE0bS1WcFhEN2txWExoYWxuTG16dTFaRC1vNlFnNEc3VHdiWmNZN29QNjFrOEs4cVB4QldIUG91RUZza3JrSV8taDlIX2JERmsw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 23:36:00 GMT"
+  },
+  {
+   "id": "news:51c710fc28a182c0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI로 보험상담 훈련한다…생성형 AI 혁신금융서비스",
+   "source": "fnnews.com",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBibk1vWTcta3RVdVNLU09uVkp6S2N3ZUItdlYzOXhGN0xlMThJQVVYQWJ2N244SzU3WThNTVZRTFU5YjNpRXIyWktmWEhZWVJwWjJILWdkVzZFdw?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 23:43:16 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-07"
 }
