@@ -209,7 +209,11 @@
   "news:f1cfd164762d467f": 1788749431,
   "news:4501ab9d52cb89dc": 1788749431,
   "news:c627615574a4623e": 1788750968,
-  "news:b3f006d7dda040ad": 1788755647
+  "news:b3f006d7dda040ad": 1788755647,
+  "news:576b72bf80d6a7fd": 1788756696,
+  "news:68ba71e783537802": 1788756696,
+  "news:620a026d91e6cc52": 1788756696,
+  "news:66ca2107ffb4683f": 1788756696
  },
  "stories": {
   "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색": 1788497864,
@@ -285,7 +289,10 @@
   "교보생명, 노사협력 성과 인정받았다…14년 만에 우수기업 선정": 1788749431,
   "클레온, 삼성생명과 AI 롤플레이 솔루션 공개": 1788749431,
   "삼성생명, 디지털 휴먼 활용 상담훈련 서비스 선봬": 1788749431,
-  "교보생명, 토스와 업무협약…디지털 자산 협력 나선다": 1788750968
+  "교보생명, 토스와 업무협약…디지털 자산 협력 나선다": 1788750968,
+  "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의": 1788756696,
+  "“실제 고객처럼 묻고 답한다”…삼성생명, AI 상담훈련 도입": 1788756696,
+  "고객 반론까지 AI가 묻는다…삼성생명, 컨설턴트 역량 강화": 1788756696
  },
  "news_queue": [
   {
@@ -547,6 +554,36 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wQTUtQXltbTJhbG9FLVpITUg0bTBwLXFJZ0xkNlF2a1pJTV85T1R3ZUx5NXVrcnpSOFM2WE80TVM2WTZ4UDBJWlR3Y0kwUndid1lhRTdfOWJ2YkpyX3FHdzZCVGVHTVdYbkE?oc=5",
    "sort_key": "Mon, 07 Sep 2026 02:48:36 GMT"
+  },
+  {
+   "id": "news:68ba71e783537802",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의",
+   "source": "토요경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EQnN0MDdITWVYRUpzeGcwOUozdlBZZE53VVBRRmF0aUt2cG9OclRCbmhuZ2I1S0tKV29VcGRlWFJNMjNwU3BJQ1o2cjlhdmVxc0J0UUxLLVBRUWVOZFgxMTJtOEEzYkN2cE5OYm9uY9IBb0FVX3lxTE1EQnN0MDdITWVYRUpzeGcwOUozdlBZZE53VVBRRmF0aUt2cG9OclRCbmhuZ2I1S0tKV29VcGRlWFJNMjNwU3BJQ1o2cjlhdmVxc0J0UUxLLVBRUWVOZFgxMTJtOEEzYkN2cE5OYm9uYw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 01:06:55 GMT"
+  },
+  {
+   "id": "news:620a026d91e6cc52",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“실제 고객처럼 묻고 답한다”…삼성생명, AI 상담훈련 도입",
+   "source": "파이낸셜투데이",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kU3c2Q1dEaFBvMDVEMDV5SzAyRGlJc05CNVBOMjJBeXlDZHM5Y2pNQ182ZTdvMGlvNGlBM1dIWTVLcVdVVElKVmxHa21rZmF0ZkhjSk9HUXItNklra18yQmdIdnlHOGVGeHfSAW5BVV95cUxQSXMyRVNEdjBaQlhQdzRMenRxa3VpUGpUMC1rZ3Y5WWJtNXNJTVhYR2t2V0x1cVhMSnUybUVobE5odlYwM2hFQXdtamJpTHlTWjRhalZySS1nTDBPSDBZT2xyODFnR1ZKWFZWTnpJdw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 01:57:54 GMT"
+  },
+  {
+   "id": "news:66ca2107ffb4683f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "고객 반론까지 AI가 묻는다…삼성생명, 컨설턴트 역량 강화",
+   "source": "newspost.kr",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CRU55VmN3dlM3cGFJbnFuNHpJRGdiMkpSdnJfVmF4Y1h3UnRZOFljN1pzbk9xUjVWa2h1UzBlMTRyZXZqMjhHOHZDLTNuNGlsU24xb0gwelBYcGp3OEliR2pqaGcxTEJZ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 04:42:31 GMT"
   }
  ],
  "initialized": true,
