@@ -258,7 +258,9 @@
   "news:514b6817e394bd02": 1788813719,
   "news:a419d75552faaee1": 1788815880,
   "news:04a5b2dcc7eea092": 1788818624,
-  "news:fc67781b40907ced": 1788819754
+  "news:fc67781b40907ced": 1788819754,
+  "news:f6bf8b06ca3b336e": 1788823052,
+  "news:35b03b52dd410036": 1788823052
  },
  "stories": {
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
@@ -344,7 +346,9 @@
   "[금융계 동향] 하나금융·삼성생명·흥국화재": 1788813719,
   "[단독] 삼성생명, 의사 출신 임원 영입…라이프케어 확장": 1788815880,
   "[단독] 교보생명도 GA 물품시상 중단…금감원 경고에 보험사 잇단 대응": 1788818624,
-  "삼성생명·삼성화재, 해외 M&A 본격화…'글로벌 성장동력' 확보 나서": 1788819754
+  "삼성생명·삼성화재, 해외 M&A 본격화…'글로벌 성장동력' 확보 나서": 1788819754,
+  "판매민원 줄인 삼성생명, 유지·지급은 늘었다": 1788823052,
+  "유니세프 한국위원회, 허금주 신임 사무총장 취임···교보생명 전무 출신 경영 전문가": 1788823052
  },
  "news_queue": [
   {
@@ -926,6 +930,26 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTFM3WWxNdUlXZ2Qxa1ktYU9ZeVBzbUo2UDFTdksxbkc3cDlmZUZQTVgxSFpCa2pCbGdUQXhETDl3XzA5ZlJZU1NZRXBIalEybnRn?oc=5",
    "sort_key": "Mon, 07 Sep 2026 22:01:00 GMT"
+  },
+  {
+   "id": "news:f6bf8b06ca3b336e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "판매민원 줄인 삼성생명, 유지·지급은 늘었다",
+   "source": "메트로신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrTXBkRWpCOTJYYXJidU9VZ0JXaXcydzRJLUhrbWs3VmZaSm4xdENBMldEb1N3RW9rVWg4dHZkaXFwVHp6b243Rnh6Z2s2NnExNkxOZnFjbGkySVNKRlVWNQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 22:42:28 GMT"
+  },
+  {
+   "id": "news:35b03b52dd410036",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "유니세프 한국위원회, 허금주 신임 사무총장 취임···교보생명 전무 출신 경영 전문가",
+   "source": "나눔경제뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZlF5ZWRKc0FETWdlX2FCd0RhQ01Ha1pHX0h2aU00MThueE53UWhUWmxTN09sbE9WaXhySmNtZEh2UW56YVl3d2JfSmpldFNqc3k0eFhIVzhVNFpHd2dQeGNvSEMtMVA0OFdFNw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 23:05:52 GMT"
   }
  ],
  "initialized": true,
