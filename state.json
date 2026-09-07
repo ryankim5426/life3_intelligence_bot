@@ -235,7 +235,13 @@
   "news:21ce77d7134388fa": 1788767170,
   "news:002d32463c0771f1": 1788767993,
   "news:ab6c829fab242687": 1788767993,
-  "news:c097594dd1fcbafa": 1788767993
+  "news:c097594dd1fcbafa": 1788767993,
+  "news:436c0a42a9d8f9bc": 1788769400,
+  "news:5095c5a3ac033763": 1788769401,
+  "news:00b43c9143b32dd8": 1788769401,
+  "news:99a8892605ccb9d3": 1788769401,
+  "news:4a95610c2c87f70b": 1788769401,
+  "news:ef1c5597efb21605": 1788769401
  },
  "stories": {
   "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목": 1788511069,
@@ -314,7 +320,12 @@
   "교보생명, 노사 우수기업 14년 만에 재선정… \"갈등 사전예방 구축\"": 1788763724,
   "대출 11% 줄고 순익도 85% 급감…애큐온저축銀, 한화생명에 안착할까": 1788763724,
   "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”": 1788767170,
-  "피치, 한화생명 인수 인니 리포손해보험 신용등급 최고수준 'AAA'로 상향": 1788767993
+  "피치, 한화생명 인수 인니 리포손해보험 신용등급 최고수준 'AAA'로 상향": 1788767993,
+  "\"직무급제·AI 혁신 결실\"…교보생명, 노사 상생 모델 입증": 1788769401,
+  "교보생명, 노사문화 우수기업 선정": 1788769401,
+  "[업앤다운]보험 업종 종목별 등락…삼성생명↑·한화손해보험↓": 1788769401,
+  "[더밸류 브리핑] 오늘의 생명보험 소식…생명보험협회·교보생명· 교보라이프플래닛생명": 1788769401,
+  "교보생명, 악사손보 인수 자문사에 KB증권 선정… 생보 빅3 M&A '본격화'": 1788769401
  },
  "news_queue": [
   {
@@ -726,6 +737,56 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQTdseUVjbURPMVZRcDhYcHhkSzVJTThYY0FHbjJ0YmNaQ01SSWZaMlBXMGFvczdESjdpU1dzTDc4eWtFU0lGc2tDa1BJYjQyNzlXSXBtRDJMUQ?oc=5",
    "sort_key": "Mon, 07 Sep 2026 07:50:40 GMT"
+  },
+  {
+   "id": "news:5095c5a3ac033763",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"직무급제·AI 혁신 결실\"…교보생명, 노사 상생 모델 입증",
+   "source": "글로벌에픽",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kcG1XRENhU0p5RlNnWTYwQkl6bW80M2FVVXMwajUtZnpkbkt4TG1vb1hKbGpuaG51VEh0bWFzY0ttZGd3emgtMXdPcTM3c3RYRmVjN2E3NWw0Yl9KSGNGU0hmenpKSjVRaEp0R0tkZVNYc1doeS1rOGdBcmE?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 01:13:09 GMT"
+  },
+  {
+   "id": "news:00b43c9143b32dd8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 노사문화 우수기업 선정",
+   "source": "소년한국일보",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZTVNWFVIb3dJYXpVblVsdVNuSDFpV2pVcnJUZEZtRGNMYXkzRlF5VG1ndzZyTUctRzMzVzBKUkNEQnc4MnRkQ3RlLWg4TDJSREhjaGxSa1VUWHdWSW4xN2Zub0JpeEhFVGhGUkdsQUfSAXBBVV95cUxOYmU1TVhVSG93SWF6VW5VbHVTbkgxaVdqVXJyVGRGbURjTGF5M0ZReVRtZ3c2ck1HLUczM1cwSlJDREJ3ODJ0ZEN0ZS1oOEwyUkRIY2hsUmtVVFh3VkluMTdmbm9CaXhIRVRoRlJHbEFH?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:08:33 GMT"
+  },
+  {
+   "id": "news:99a8892605ccb9d3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[업앤다운]보험 업종 종목별 등락…삼성생명↑·한화손해보험↓",
+   "source": "NSP통신",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LamNjTnRTVzBGaEdMV3FIaVlOM2J4UWc4VlNacXgxWUQ5MDVsdW9CUmlaRzFRb01QVXhpaktGYk42eGFwcWdfeGxOckdmVVo0VEdPbklXeUZhRUtWdWYyWjRTRQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:57:00 GMT"
+  },
+  {
+   "id": "news:4a95610c2c87f70b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…생명보험협회·교보생명· 교보라이프플래닛생명",
+   "source": "더밸류뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53OUFJN1NJSHlHemZUTkRpZ0ZpYVR1c19xN0s1SHM1R1NrYzZSNHdadDVYeWY4RERtc1puVE5sSk1PVUpTSEtLMXdlWGdUMDVpVWZLVw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:59:05 GMT"
+  },
+  {
+   "id": "news:ef1c5597efb21605",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 악사손보 인수 자문사에 KB증권 선정… 생보 빅3 M&A '본격화'",
+   "source": "MTN 머니투데이방송",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZWo2X01KZWxFWXhwLXVqNzBBQmRVT0VIZ1BOMkd6MzBMdDZZTXVNX291S21HZkF0ejZBTTc4TFV6M2ZiZG0wYkZzOFJCMGtxdlhpQlhOUVAycHlzNmp6LW4xLUg?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 08:13:05 GMT"
   }
  ],
  "initialized": true,
