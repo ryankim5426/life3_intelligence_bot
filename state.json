@@ -257,10 +257,10 @@
   "news:e71edf9b8a324a79": 1788798824,
   "news:514b6817e394bd02": 1788813719,
   "news:a419d75552faaee1": 1788815880,
-  "news:04a5b2dcc7eea092": 1788818624
+  "news:04a5b2dcc7eea092": 1788818624,
+  "news:fc67781b40907ced": 1788819754
  },
  "stories": {
-  "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512,
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
   "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670,
   "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
@@ -343,7 +343,8 @@
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·동양생명·KDB생명": 1788798824,
   "[금융계 동향] 하나금융·삼성생명·흥국화재": 1788813719,
   "[단독] 삼성생명, 의사 출신 임원 영입…라이프케어 확장": 1788815880,
-  "[단독] 교보생명도 GA 물품시상 중단…금감원 경고에 보험사 잇단 대응": 1788818624
+  "[단독] 교보생명도 GA 물품시상 중단…금감원 경고에 보험사 잇단 대응": 1788818624,
+  "삼성생명·삼성화재, 해외 M&A 본격화…'글로벌 성장동력' 확보 나서": 1788819754
  },
  "news_queue": [
   {
@@ -915,6 +916,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GcDBpN0tQcTNCRWZXbnd5eGIxVmowRVplUWQ2TmQtczJwUFBkRTRiRG9RS0dPcUxPZjNfb2ZiX1p5QjNINUlsRmNVVDFfRjZXa3V2ODV5VXliNER6LTdoM1Yxd1dyQU53?oc=5",
    "sort_key": "Mon, 07 Sep 2026 08:13:03 GMT"
+  },
+  {
+   "id": "news:fc67781b40907ced",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·삼성화재, 해외 M&A 본격화…'글로벌 성장동력' 확보 나서",
+   "source": "네이트",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTFM3WWxNdUlXZ2Qxa1ktYU9ZeVBzbUo2UDFTdksxbkc3cDlmZUZQTVgxSFpCa2pCbGdUQXhETDl3XzA5ZlJZU1NZRXBIalEybnRn?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 22:01:00 GMT"
   }
  ],
  "initialized": true,
