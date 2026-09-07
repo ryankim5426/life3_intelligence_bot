@@ -213,11 +213,14 @@
   "news:576b72bf80d6a7fd": 1788756696,
   "news:68ba71e783537802": 1788756696,
   "news:620a026d91e6cc52": 1788756696,
-  "news:66ca2107ffb4683f": 1788756696
+  "news:66ca2107ffb4683f": 1788756696,
+  "news:ec667384d36dced6": 1788758069,
+  "news:a8629d7e9c61f4b0": 1788758071,
+  "news:404057b2419fc3aa": 1788758071,
+  "news:a5076c7a72367a21": 1788758071,
+  "news:f80ecfcecfb342ed": 1788758071
  },
  "stories": {
-  "삼성화재, 英 캐노피우스 지분 추가 인수 검토…삼성생명도 해외 M&A 모색": 1788497864,
-  "한화생명 투자분석 2026. 09. 03": 1788497864,
   "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로": 1788499970,
   "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970,
   "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
@@ -292,7 +295,11 @@
   "교보생명, 토스와 업무협약…디지털 자산 협력 나선다": 1788750968,
   "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의": 1788756696,
   "“실제 고객처럼 묻고 답한다”…삼성생명, AI 상담훈련 도입": 1788756696,
-  "고객 반론까지 AI가 묻는다…삼성생명, 컨설턴트 역량 강화": 1788756696
+  "고객 반론까지 AI가 묻는다…삼성생명, 컨설턴트 역량 강화": 1788756696,
+  "미래에셋운용·교보생명 ‘TIGER 미국S&P500미국채혼합50’ 상장 웹세미나 개최·‘2026 노사문화 우수기업’ 선정": 1788758071,
+  "삼성생명 & KB손해보험 등, 보험사 AI 활용 '가속', 초점은?": 1788758071,
+  "장중 亞증시?..삼성전자·삼성생명·키옥시아·소프트뱅크 '껑충'": 1788758071,
+  "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정": 1788758071
  },
  "news_queue": [
   {
@@ -584,6 +591,46 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CRU55VmN3dlM3cGFJbnFuNHpJRGdiMkpSdnJfVmF4Y1h3UnRZOFljN1pzbk9xUjVWa2h1UzBlMTRyZXZqMjhHOHZDLTNuNGlsU24xb0gwelBYcGp3OEliR2pqaGcxTEJZ?oc=5",
    "sort_key": "Mon, 07 Sep 2026 04:42:31 GMT"
+  },
+  {
+   "id": "news:a8629d7e9c61f4b0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "미래에셋운용·교보생명 ‘TIGER 미국S&P500미국채혼합50’ 상장 웹세미나 개최·‘2026 노사문화 우수기업’ 선정",
+   "source": "여성소비자신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xQXAyNGJjVXo5V0NZMHhqejktT245WkVweEZvbV9FZDJwcWZzSHh2MmkwemxObWUzbjV3Q3QyQXRsY1VJczJ6enZHdjU4SGxfOFFqZ1lvY24wSy02cGlKQzE1V2tFQQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 02:20:49 GMT"
+  },
+  {
+   "id": "news:404057b2419fc3aa",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 & KB손해보험 등, 보험사 AI 활용 '가속', 초점은?",
+   "source": "초이스경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FbnBqZW00VnBtOEMyRldEU05IaFVOeXRSUzhMT09PYzVYYjlhbVFjSWR0bjhfWTd3czl4VnJldW1xOVUzUE5wa0pfajE3SGtOZmdvbHk0SjRnZnQ5U2tpWk9qV1ZoNnRXZnp1aUFRY9IBc0FVX3lxTE00N0hlRVhJdnVrc05LRlE4bThqalBlV25jb2xEbHgzRTR2MWdIWTRYOUltYl9OMnR3OGZyT3BZRlh2T0ZZV1FwTDFKWGR2d1E5ZGNscEFDQjBJSFY0TTZpa2g1bkY0VVFMRGtCNW5DNk92bkE?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 02:43:20 GMT"
+  },
+  {
+   "id": "news:a5076c7a72367a21",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "장중 亞증시?..삼성전자·삼성생명·키옥시아·소프트뱅크 '껑충'",
+   "source": "초이스경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oSDFJUGZnZl9hWXdERWpfdU5aSVJ4N1pHU2VDZTZMeWRXd01PYm5zdUxNeF9ubUFxRkVBLU1wcFRwY1J3dzFrSWZFZElFeGU3bU5qa3hPNHlYdTRNamRmRXZqVkNGYWh4Rk9Tam9wMEczQWvSAXNBVV95cUxNaEgxSVBmZ2ZfYVl3REVqX3VOWklSeDdaR1NlQ2U2THlkV3dNT2Juc3VMTXhfbm1BcUZFQS1NcHBUcGNSd3cxa0lmRWRJRXhlN21Oamt4TzR5WHU0TWpkZkV2alZDRmFoeEZPU2pvcDBHM0Fr?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 03:50:54 GMT"
+  },
+  {
+   "id": "news:f80ecfcecfb342ed",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정",
+   "source": "datatooza.com",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zM2lhR3ZkX0YyNTc4cmRNVFltejl3ZldrOFBZTnVld1VFSEFYVUg3eUhMLVl3WG0tcFpvWkcya04zMnNMbUVZNjBydGFWc3RiUllQTkpOSVFDbkdVbU8yQWg4SEhrR283ODZDTXVZaE1nbG8?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 04:52:03 GMT"
   }
  ],
  "initialized": true,
