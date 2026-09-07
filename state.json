@@ -207,7 +207,8 @@
   "news:78a5be8173596ef8": 1788748349,
   "news:8deab5d274480834": 1788749431,
   "news:f1cfd164762d467f": 1788749431,
-  "news:4501ab9d52cb89dc": 1788749431
+  "news:4501ab9d52cb89dc": 1788749431,
+  "news:c627615574a4623e": 1788750968
  },
  "stories": {
   "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
@@ -285,7 +286,8 @@
   "교보생명, 정명훈·선우예권과 ‘클래식 선물’…서울서 5000명 초청": 1788748349,
   "교보생명, 노사협력 성과 인정받았다…14년 만에 우수기업 선정": 1788749431,
   "클레온, 삼성생명과 AI 롤플레이 솔루션 공개": 1788749431,
-  "삼성생명, 디지털 휴먼 활용 상담훈련 서비스 선봬": 1788749431
+  "삼성생명, 디지털 휴먼 활용 상담훈련 서비스 선봬": 1788749431,
+  "교보생명, 토스와 업무협약…디지털 자산 협력 나선다": 1788750968
  },
  "news_queue": [
   {
@@ -537,6 +539,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzbVV4RlU0RmxqV2NOMzVtRHVjQWZnSWdNYk9ZNUlPU0FWWWtZUzhfY01xQTctOVRtbi1kZ2ozOFpBOGp2bXFyWjY3QU9BTnV4ci0xV0hLOFNBMFZMU2FaVndkYWJPLTV2U1Nv?oc=5",
    "sort_key": "Mon, 07 Sep 2026 02:35:00 GMT"
+  },
+  {
+   "id": "news:c627615574a4623e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 토스와 업무협약…디지털 자산 협력 나선다",
+   "source": "와이즈경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wQTUtQXltbTJhbG9FLVpITUg0bTBwLXFJZ0xkNlF2a1pJTV85T1R3ZUx5NXVrcnpSOFM2WE80TVM2WTZ4UDBJWlR3Y0kwUndid1lhRTdfOWJ2YkpyX3FHdzZCVGVHTVdYbkE?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 02:48:36 GMT"
   }
  ],
  "initialized": true,
