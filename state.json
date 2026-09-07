@@ -219,7 +219,10 @@
   "news:404057b2419fc3aa": 1788758071,
   "news:a5076c7a72367a21": 1788758071,
   "news:f80ecfcecfb342ed": 1788758071,
-  "news:e9ed681186598c54": 1788759172
+  "news:e9ed681186598c54": 1788759172,
+  "news:c06764acc3e316cd": 1788760278,
+  "news:ea03050fe45a7029": 1788760279,
+  "news:e0eb2b3fd1635152": 1788760279
  },
  "stories": {
   "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
@@ -299,7 +302,9 @@
   "삼성생명 & KB손해보험 등, 보험사 AI 활용 '가속', 초점은?": 1788758071,
   "장중 亞증시?..삼성전자·삼성생명·키옥시아·소프트뱅크 '껑충'": 1788758071,
   "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정": 1788758071,
-  "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과": 1788759172
+  "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과": 1788759172,
+  "삼성전기, 최대주주 등 지분율 22.88% 유지… 삼성생명 특별계정 주식 매매": 1788760279,
+  "교보생명, 18년간 이어온 가족친화 인증": 1788760279
  },
  "news_queue": [
   {
@@ -641,6 +646,26 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tdnZYZGU1TmtXM3JPQ0F4T1VNc0g3YTBIOXhWUWM3d0wzNWF0MEdzUlB0MVMtSGRzOFBGVk1VVlF2MDA0VGtleTBHWUEzQnM3Ylo4UVZqWEVTNF9qN0Jva3NEVlJRZ1g5Znc?oc=5",
    "sort_key": "Mon, 07 Sep 2026 05:09:38 GMT"
+  },
+  {
+   "id": "news:ea03050fe45a7029",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성전기, 최대주주 등 지분율 22.88% 유지… 삼성생명 특별계정 주식 매매",
+   "source": "fntoday.co.kr",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcHZyRk5YWGpCWFdwbXNTVTJTamdtZDJ3aUhFNG40Y3NBRVRXSTYybDk5Mi01V3kzWEdzX0s3NzFZQllfNXlicmtjYU5rNVl1X193UXl0NWEzNXcwN1FfUTE5c0FDdEd2UjljbA?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 05:27:03 GMT"
+  },
+  {
+   "id": "news:e0eb2b3fd1635152",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 18년간 이어온 가족친화 인증",
+   "source": "NSP통신",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tV2F4WmtCMWIwc3FMbWY1SHM0bDdIU21IdTgzTDYzUGh2WktMZjdkRFV4Z0tsekZYbm1yN1ZDMlBMMVJPaUNQaWxMTkRRcURFSEtvQ1daZDVZbVduUTVQRg?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 05:35:01 GMT"
   }
  ],
  "initialized": true,
