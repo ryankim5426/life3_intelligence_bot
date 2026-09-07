@@ -203,10 +203,10 @@
   "news:4b89b0327b57e6db": 1788747302,
   "news:48283245306485c4": 1788747302,
   "news:dd8ea7b84e349bf0": 1788747302,
-  "news:e731a4bf94d8322f": 1788747302
+  "news:e731a4bf94d8322f": 1788747302,
+  "news:78a5be8173596ef8": 1788748349
  },
  "stories": {
-  "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
   "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
   "[단독] 한화생명, '바디드라이어·발마사지기' 시상 돌연 철회…'GA 1200%룰' 눈치": 1788494606,
   "삼성생명, 대출채권 비중 10% 이하로…자산운용 스탠스는 '보수적'": 1788495832,
@@ -278,7 +278,8 @@
   "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정": 1788742527,
   "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
   "삼성생명, AI 가상고객으로 보험상담 훈련": 1788747302,
-  "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]": 1788747302
+  "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]": 1788747302,
+  "교보생명, 정명훈·선우예권과 ‘클래식 선물’…서울서 5000명 초청": 1788748349
  },
  "news_queue": [
   {
@@ -490,6 +491,16 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JYUtVWjZsbGpvaUdxRkk2eXZfajgzcTBEa3gyR2VBS0YtZDdMYkJoejZXaEVIWndFdG1rRFBDdVJ2dEU0Nm9ZTkJDa2pzM2Q3V1p3UFA4UHF0RGNOYTR1QUNIUQ?oc=5",
    "sort_key": "Sun, 06 Sep 2026 00:00:49 GMT"
+  },
+  {
+   "id": "news:78a5be8173596ef8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 정명훈·선우예권과 ‘클래식 선물’…서울서 5000명 초청",
+   "source": "금융경제신문",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LSmlTaVEwNHVDRi1tbGtxcXVNX09sZDRHOV9TV2lnYnZqQXJ5TEFmZVVoWHQwVUQ2RFBPamNHTHNhYnRITl9PS21xdUhVb0Ftb3h3SWxNSzFHVVRPRVFRYjlzS1BxdXFYSFVHQtIBb0FVX3lxTE9LMWxadTFPT1hycy1YVTBqTl9Nel9kOHQ3SmFwa29Od1VaaGxlTHI2bEpySmJOUUZHUXUzODB0TWJWZFFRa09GTDZSTHRXdU1BbUpJUnk0RDk5azM4eVg5ZTZ4VTF0NXlfQ0hTUkVWVQ?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 22:21:49 GMT"
   }
  ],
  "initialized": true,
