@@ -250,7 +250,8 @@
   "news:c840983e6830dbb3": 1788775154,
   "news:0710d6ab0844a17e": 1788775154,
   "news:208fc4106e66d170": 1788776433,
-  "news:3258bc5113bc7f09": 1788777803
+  "news:3258bc5113bc7f09": 1788777803,
+  "news:cf5921d02fd5f3fe": 1788787603
  },
  "stories": {
   "한화생명, 초기 치매 예방 설루션 아이디어 발굴": 1788532434,
@@ -334,7 +335,8 @@
   "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282,
   "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
   "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433,
-  "교보생명, 신뢰의 노사문화 빛났다": 1788777803
+  "교보생명, 신뢰의 노사문화 빛났다": 1788777803,
+  "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603
  },
  "news_queue": [
   {
@@ -856,6 +858,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUmJONG8xUk5kdC03bnp5OXJDMnpRUlYxZEFQV1A5Y3otZGoyb05BdGtSVmV4UXMtT29sbUNERE1RYlZNakJlMmRBZDdud2FoVTZhR3ZDS2F4Wjc2Q2lOLUxtcFlyTHpHN1HSAW5BVV95cUxPcEJTT2lKUG1WcldEUmtXTXhvY1RDZWwycHpBb3NNc1c2c0t6bC1Ea1lmQWh6VGRySWl4YkFmM3FGbUc3dkx2UldXRGZocEpiZnIwM2xhVU9RU3oyaU5MY2VOOWV6NUxfcEFHd043Zw?oc=5",
    "sort_key": "Mon, 07 Sep 2026 06:31:22 GMT"
+  },
+  {
+   "id": "news:cf5921d02fd5f3fe",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"",
+   "source": "한국신용신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MaF9HRVBEZ1BEVU95eTRRRnFzUjZ3RkxKSzRvTXhaNlo0MFYwNFRxbzluMm9rYzktMy1LaUJGVzZYYllhS0RZdFhKZEVVLTNPckVVWXFRNTRLSXhnblNFbXNoZGRzMFZERXZB?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:01:51 GMT"
   }
  ],
  "initialized": true,
