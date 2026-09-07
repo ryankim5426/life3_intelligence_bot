@@ -256,7 +256,8 @@
   "news:19a6ea3ef28179a9": 1788794383,
   "news:e71edf9b8a324a79": 1788798824,
   "news:514b6817e394bd02": 1788813719,
-  "news:a419d75552faaee1": 1788815880
+  "news:a419d75552faaee1": 1788815880,
+  "news:04a5b2dcc7eea092": 1788818624
  },
  "stories": {
   "한화생명·RFHIC·아로마티카[하나證 주간추천주]": 1788560512,
@@ -341,7 +342,8 @@
   "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603,
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·동양생명·KDB생명": 1788798824,
   "[금융계 동향] 하나금융·삼성생명·흥국화재": 1788813719,
-  "[단독] 삼성생명, 의사 출신 임원 영입…라이프케어 확장": 1788815880
+  "[단독] 삼성생명, 의사 출신 임원 영입…라이프케어 확장": 1788815880,
+  "[단독] 교보생명도 GA 물품시상 중단…금감원 경고에 보험사 잇단 대응": 1788818624
  },
  "news_queue": [
   {
@@ -903,6 +905,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iZnMyVkJkdXpOMGxUcDhHRXlJWHVnWWg5SDZDbTVCOU9DMk5uMEYxVDVPRkxqbEJWcGNFNDdneWdGYkFINVV2NmpmY3d3YUpZMmlEYjhIQW81UzBVLUIzQjhqczNaemdo?oc=5",
    "sort_key": "Mon, 07 Sep 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:04a5b2dcc7eea092",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[단독] 교보생명도 GA 물품시상 중단…금감원 경고에 보험사 잇단 대응",
+   "source": "보험매일",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GcDBpN0tQcTNCRWZXbnd5eGIxVmowRVplUWQ2TmQtczJwUFBkRTRiRG9RS0dPcUxPZjNfb2ZiX1p5QjNINUlsRmNVVDFfRjZXa3V2ODV5VXliNER6LTdoM1Yxd1dyQU53?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 08:13:03 GMT"
   }
  ],
  "initialized": true,
