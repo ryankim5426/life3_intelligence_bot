@@ -198,7 +198,12 @@
   "news:16c8f94d4a659285": 1788742527,
   "news:50b93031324aa87b": 1788744734,
   "news:e36a5cd65c918d68": 1788745846,
-  "news:b8dae41fab04035d": 1788745846
+  "news:b8dae41fab04035d": 1788745846,
+  "news:ebd9c6be1bc82a81": 1788747302,
+  "news:4b89b0327b57e6db": 1788747302,
+  "news:48283245306485c4": 1788747302,
+  "news:dd8ea7b84e349bf0": 1788747302,
+  "news:e731a4bf94d8322f": 1788747302
  },
  "stories": {
   "국내 생보사 랭킹 2위 교보생명, 자산건전성-수익성 낮아": 1788488589,
@@ -270,7 +275,10 @@
   "삼성생명, 'AI 가상고객' 도입…컨설턴트 상담훈련 돕는다": 1788742527,
   "삼성생명 주가 상승 중": 1788742527,
   "클레온, 삼성생명과 AI 롤플레이 개발…금융 상담 훈련에 적용": 1788742527,
-  "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정": 1788742527
+  "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정": 1788742527,
+  "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
+  "삼성생명, AI 가상고객으로 보험상담 훈련": 1788747302,
+  "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]": 1788747302
  },
  "news_queue": [
   {
@@ -452,6 +460,36 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVak52eVRFNU9LRnZlbnp0aWNPT0N0U2hUSldsYnFWc0Rhc2JNUk5fa1hhMnpVQ0tDVTJCRXZ4T2pFOGdfQ1VldUt0N1FHbURrMm1BMjJuWmpJZHdwcE4tdF9XWjFkTklo?oc=5",
    "sort_key": "Mon, 07 Sep 2026 00:44:03 GMT"
+  },
+  {
+   "id": "news:48283245306485c4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시",
+   "source": "비즈월드",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxTDJNSExqQU50U2tyQ2NOeEUtTmRYMGdvVTBva3N4ZDVmSWwtZGZURWhUVlUtdXN3V3oxUWR4aDVnRmtKMk5RN3hCQlhSc0dIU3EzRnZXSUZ4aHJFemJ4QklCX1RfanhpcWc?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 01:46:00 GMT"
+  },
+  {
+   "id": "news:dd8ea7b84e349bf0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI 가상고객으로 보험상담 훈련",
+   "source": "파이낸셜포스트",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdWZZUzlaS3F6RklmT2N1TGUxa01Ock5WVDFVZ29ueFIwS3B4bWdSUXRlcTI5REpIU29IR2p5YTVOM05GM1V0enE1d0ZvRHctcW94YkdNR3A5OHd0VGRzNjFldHFES1U0N292TXFZQ1VPWFFV?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 01:57:32 GMT"
+  },
+  {
+   "id": "news:e731a4bf94d8322f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]",
+   "source": "쿠키뉴스",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JYUtVWjZsbGpvaUdxRkk2eXZfajgzcTBEa3gyR2VBS0YtZDdMYkJoejZXaEVIWndFdG1rRFBDdVJ2dEU0Nm9ZTkJDa2pzM2Q3V1p3UFA4UHF0RGNOYTR1QUNIUQ?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 00:00:49 GMT"
   }
  ],
  "initialized": true,
