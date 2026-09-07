@@ -222,10 +222,12 @@
   "news:e9ed681186598c54": 1788759172,
   "news:c06764acc3e316cd": 1788760278,
   "news:ea03050fe45a7029": 1788760279,
-  "news:e0eb2b3fd1635152": 1788760279
+  "news:e0eb2b3fd1635152": 1788760279,
+  "news:49ac6d90140efe02": 1788762119,
+  "news:982df2340a8329eb": 1788762119,
+  "news:2ae03e040e482626": 1788762119
  },
  "stories": {
-  "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
   "호텔신라, 최대주주 삼성생명보험 등 주식 1만1168주 감소…삼성생명보험 특별계정 장내매도 영향": 1788503301,
   "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301,
   "‘삼전 배당’ 곳간 채운 삼성생명·화재, 해외 M&A로 중장기 성장판 연다": 1788504557,
@@ -304,7 +306,8 @@
   "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정": 1788758071,
   "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과": 1788759172,
   "삼성전기, 최대주주 등 지분율 22.88% 유지… 삼성생명 특별계정 주식 매매": 1788760279,
-  "교보생명, 18년간 이어온 가족친화 인증": 1788760279
+  "교보생명, 18년간 이어온 가족친화 인증": 1788760279,
+  "[금융계 8월 동향] 교보생명, 지속가능경영 실천···디지털 금융 생태계 확장": 1788762119
  },
  "news_queue": [
   {
@@ -666,6 +669,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tV2F4WmtCMWIwc3FMbWY1SHM0bDdIU21IdTgzTDYzUGh2WktMZjdkRFV4Z0tsekZYbm1yN1ZDMlBMMVJPaUNQaWxMTkRRcURFSEtvQ1daZDVZbVduUTVQRg?oc=5",
    "sort_key": "Mon, 07 Sep 2026 05:35:01 GMT"
+  },
+  {
+   "id": "news:2ae03e040e482626",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 8월 동향] 교보생명, 지속가능경영 실천···디지털 금융 생태계 확장",
+   "source": "여성소비자신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fWXdCamk1eU9KQVlCazlXS1prbzVsMXB2OFhLT1JWTEtDVWJ6OFNkN1JVVzQ0VDVlNkJ0dVBnRVh3VUN3ejVHMkQ1c0F3enRfLU1mWWwxZDkyeG9BUXVnbm9Gd3NBUQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 05:53:28 GMT"
   }
  ],
  "initialized": true,
