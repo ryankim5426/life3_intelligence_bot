@@ -185,7 +185,17 @@
   "news:4b5f3bd5438bad44": 1788741149,
   "news:c447c0e38849ef3c": 1788741149,
   "news:2ba87145a8591d35": 1788741149,
-  "news:03faedd92092a6b6": 1788741149
+  "news:03faedd92092a6b6": 1788741149,
+  "news:1f09171c8778936a": 1788742527,
+  "news:f47f1bd199e484f7": 1788742527,
+  "news:d32a8815c363220a": 1788742527,
+  "news:2ad65879e0793885": 1788742527,
+  "news:cc7a918a0db5a899": 1788742527,
+  "news:940e2eef9f2ed00b": 1788742527,
+  "news:635b2cb88fc0b477": 1788742527,
+  "news:6cd9352dcd4bd9ef": 1788742527,
+  "news:5d3eaa17a0533451": 1788742527,
+  "news:16c8f94d4a659285": 1788742527
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -300,7 +310,17 @@
   "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑": 1788741149,
   "삼성생명, 컨설턴트 역량강화 위한 'AI 롤플레잉 서비스' 출시": 1788741149,
   "삼성생명, AI가 가상 고객 된다…FC 상담 역량 키우는 ‘AI 롤플레잉’ 출시": 1788741149,
-  "한화생명 주가 상승 중": 1788741149
+  "한화생명 주가 상승 중": 1788741149,
+  "[금융레이더]삼성생명/KDB생명/DB손해보험/KB손해보험": 1788742527,
+  "삼성생명, 디지털 휴먼 고객으로 컨설턴트 역량 키운다": 1788742527,
+  "[금융톡톡] 삼성생명 AI 상담훈련·KDB생명 영업시스템 혁신·동양생명 한부모 자립 지원": 1788742527,
+  "클레온-삼성생명, 대화형 상호작용 AI 롤플레이 솔루션 금융 첫 적용": 1788742527,
+  "교보생명, 고용노동부 주관 '2026 노사문화 우수기업' 선정": 1788742527,
+  "[보험브리핑] 삼성생명, AI서비스로 상담역량 강화 외": 1788742527,
+  "삼성생명, 'AI 가상고객' 도입…컨설턴트 상담훈련 돕는다": 1788742527,
+  "삼성생명 주가 상승 중": 1788742527,
+  "클레온, 삼성생명과 AI 롤플레이 개발…금융 상담 훈련에 적용": 1788742527,
+  "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정": 1788742527
  },
  "news_queue": [
   {
@@ -382,6 +402,106 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mc05RT0U5S0ZmRjQ2S2l3M3Y3cC1palRIRVJ5YzNnSlpOcUU2ZmtjQ21mMWVydkk5UjdoeGdKcVpoQTRNUXJCSXpYcEZHcDhGTFZCb3dQSC1Ea01P?oc=5",
    "sort_key": "Mon, 07 Sep 2026 00:25:25 GMT"
+  },
+  {
+   "id": "news:1f09171c8778936a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융레이더]삼성생명/KDB생명/DB손해보험/KB손해보험",
+   "source": "대한경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oSTNTRm9Za3AtNndfMEpOemZoNG1PM21QX1BMQUQzTndwejYzdXo1WmF4QXE4YjVnb3VNd0RsY0dVQmF1RXdLNVB3allGUjV4M2doX1VtSGlGVnpUWENOS3NueHF5OHZfWW5lbDE2UUNKdmxx?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:16:17 GMT"
+  },
+  {
+   "id": "news:f47f1bd199e484f7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 디지털 휴먼 고객으로 컨설턴트 역량 키운다",
+   "source": "v.daum.net",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYcW9vNXJ3a2QyR1lvWGNoaFNjWExZMFJLRjJtb3U4bjVaQjhjUWJJT2o4OHRBRi1aeDZMSWcxYXROVmdOWlpIQ3VSVnliUzg?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:21:13 GMT"
+  },
+  {
+   "id": "news:d32a8815c363220a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융톡톡] 삼성생명 AI 상담훈련·KDB생명 영업시스템 혁신·동양생명 한부모 자립 지원",
+   "source": "뉴스웍스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fUDFZNlBYSDdCUkt0bTB6dXlHbXVsWXFjNEZOTTlRWXpXb1o0czUwRDN4aGR6V2tDYkViWGJvYURPdTh0Y21seGVZTHliRURacGpNbnNpRVUtcmRRcDcxeXNtVFRIRk93U2xLcGR5VdIBc0FVX3lxTFB4S2NIS0lJOC1qYmpFdlpGZmkwelpYZEJSR2xWQXZMbndQR0h6RTlnZXYzd2tDR3lTemROc0RoZ29Tbno1VTJMcHNrUjk4WEJ4SC1HWTFXdHNRV2w1cnBrV3hNZDE4LUU3Z0RQYlBqNDVyU00?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:22:22 GMT"
+  },
+  {
+   "id": "news:2ad65879e0793885",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "클레온-삼성생명, 대화형 상호작용 AI 롤플레이 솔루션 금융 첫 적용",
+   "source": "헬로티",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ieF9YU3BfRGxKaFNnZENISzBub1B6amNMaUhQNW1TVzhfOERwRzM5dFVFdERHQ29EVzRBZjcxR0FBR2MtbjlQMGtzQWhsYkREWmliVS1hVFlVMU9sbHlR?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:30:11 GMT"
+  },
+  {
+   "id": "news:cc7a918a0db5a899",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 고용노동부 주관 '2026 노사문화 우수기업' 선정",
+   "source": "전자신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tc1l1OWM4NUVJYS1nT0ZNa0lYemc1dzZSa29xOHU5RTFyb21hTmpQUmtfUHlsMm1QckhoSmRBb2tMMTMxT2szRUR3cGxQdw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:31:05 GMT"
+  },
+  {
+   "id": "news:940e2eef9f2ed00b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험브리핑] 삼성생명, AI서비스로 상담역량 강화 외",
+   "source": "서울파이낸스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQeEt5VklwWDczalJjNlNsMWJPLV84cHcyVkhhUEVUcjFudDVwcC1QUTFXOWtEemZsOWdiVURmZEtybXdDT2JRcXNyd085dTJaQkFmcFkxZUpGN0tweHpVU2RmanU1bXBjamc?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:33:41 GMT"
+  },
+  {
+   "id": "news:635b2cb88fc0b477",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 'AI 가상고객' 도입…컨설턴트 상담훈련 돕는다",
+   "source": "아시아경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FaWFTN3VlQ0xxenEwXzh6c1drRnBIMm5vaTQ0S21rb1oxbXNPcHpOSEVYM3ZYVmdTazFjWUFjQ0hCWVN5dXhLbHRvRzA0QW80WmdmdWsyUUJ0d2w5cGxMbA?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:34:15 GMT"
+  },
+  {
+   "id": "news:6cd9352dcd4bd9ef",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 주가 상승 중",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYSlpYN3hYSkdZMlNMZ3Y4dEVVcnpKN1N0NUZHeEIxa1AwN3gyZXp2Z3p0Z0ZYUjZ2b2Uxek85dWVBRmpScWY2VEZoVzMza3ljbGVES1pYU3RQV1lz?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:35:36 GMT"
+  },
+  {
+   "id": "news:5d3eaa17a0533451",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "클레온, 삼성생명과 AI 롤플레이 개발…금융 상담 훈련에 적용",
+   "source": "테크월드",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQWxkRVdsQ0c1SFVpQldraGFYRDZUTzd4ODROck5KNW1KNXFXb0VxZEl1X25pV2RyMjJCdUJJV1VLbXo2Tm1Pd1ZERW84MGNvTWFHWnprRWxaM3VGZ3hzbU8xX1R6a1Ez?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:36:04 GMT"
+  },
+  {
+   "id": "news:16c8f94d4a659285",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정",
+   "source": "fetv.co.kr",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVak52eVRFNU9LRnZlbnp0aWNPT0N0U2hUSldsYnFWc0Rhc2JNUk5fa1hhMnpVQ0tDVTJCRXZ4T2pFOGdfQ1VldUt0N1FHbURrMm1BMjJuWmpJZHdwcE4tdF9XWjFkTklo?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:44:03 GMT"
   }
  ],
  "initialized": true,
