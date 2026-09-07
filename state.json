@@ -253,7 +253,8 @@
   "news:3258bc5113bc7f09": 1788777803,
   "news:cf5921d02fd5f3fe": 1788787603,
   "news:149827584a48d9c8": 1788788769,
-  "news:19a6ea3ef28179a9": 1788794383
+  "news:19a6ea3ef28179a9": 1788794383,
+  "news:e71edf9b8a324a79": 1788798824
  },
  "stories": {
   "美로 가는 보험사…삼성생명도 ‘보험 밖 해외금융’ 왜?": 1788553059,
@@ -336,7 +337,8 @@
   "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
   "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433,
   "교보생명, 신뢰의 노사문화 빛났다": 1788777803,
-  "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603
+  "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603,
+  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·동양생명·KDB생명": 1788798824
  },
  "news_queue": [
   {
@@ -868,6 +870,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MaF9HRVBEZ1BEVU95eTRRRnFzUjZ3RkxKSzRvTXhaNlo0MFYwNFRxbzluMm9rYzktMy1LaUJGVzZYYllhS0RZdFhKZEVVLTNPckVVWXFRNTRLSXhnblNFbXNoZGRzMFZERXZB?oc=5",
    "sort_key": "Mon, 07 Sep 2026 07:01:51 GMT"
+  },
+  {
+   "id": "news:e71edf9b8a324a79",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·동양생명·KDB생명",
+   "source": "더밸류뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NejRTZFd5alQ3ZjNLejNXQWdHbkxiSGV3TWRqOXpxZkZ6Z1ZHLVAwT0tPN0k4OWEyM0hNQ1JBZXNsdDA2cW1SNlZ5Mk03ZTNCakxHZQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 08:00:34 GMT"
   }
  ],
  "initialized": true,
