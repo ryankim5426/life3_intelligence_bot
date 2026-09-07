@@ -204,7 +204,10 @@
   "news:48283245306485c4": 1788747302,
   "news:dd8ea7b84e349bf0": 1788747302,
   "news:e731a4bf94d8322f": 1788747302,
-  "news:78a5be8173596ef8": 1788748349
+  "news:78a5be8173596ef8": 1788748349,
+  "news:8deab5d274480834": 1788749431,
+  "news:f1cfd164762d467f": 1788749431,
+  "news:4501ab9d52cb89dc": 1788749431
  },
  "stories": {
   "[금융레이더]BNK경남은행/교보생명/매트라이프생명/신한카드/생보협회": 1788492835,
@@ -279,7 +282,10 @@
   "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
   "삼성생명, AI 가상고객으로 보험상담 훈련": 1788747302,
   "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]": 1788747302,
-  "교보생명, 정명훈·선우예권과 ‘클래식 선물’…서울서 5000명 초청": 1788748349
+  "교보생명, 정명훈·선우예권과 ‘클래식 선물’…서울서 5000명 초청": 1788748349,
+  "교보생명, 노사협력 성과 인정받았다…14년 만에 우수기업 선정": 1788749431,
+  "클레온, 삼성생명과 AI 롤플레이 솔루션 공개": 1788749431,
+  "삼성생명, 디지털 휴먼 활용 상담훈련 서비스 선봬": 1788749431
  },
  "news_queue": [
   {
@@ -501,6 +507,36 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LSmlTaVEwNHVDRi1tbGtxcXVNX09sZDRHOV9TV2lnYnZqQXJ5TEFmZVVoWHQwVUQ2RFBPamNHTHNhYnRITl9PS21xdUhVb0Ftb3h3SWxNSzFHVVRPRVFRYjlzS1BxdXFYSFVHQtIBb0FVX3lxTE9LMWxadTFPT1hycy1YVTBqTl9Nel9kOHQ3SmFwa29Od1VaaGxlTHI2bEpySmJOUUZHUXUzODB0TWJWZFFRa09GTDZSTHRXdU1BbUpJUnk0RDk5azM4eVg5ZTZ4VTF0NXlfQ0hTUkVWVQ?oc=5",
    "sort_key": "Sun, 06 Sep 2026 22:21:49 GMT"
+  },
+  {
+   "id": "news:8deab5d274480834",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 노사협력 성과 인정받았다…14년 만에 우수기업 선정",
+   "source": "ikoreadaily.co.kr",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYWp2NnZ4bUM2a0xKWVhEa2d4TUJPUHZVTmFEQmJDQmJYZ0dTR21xVTAza0tRZEFvMnJ2bzlONko5RHowS2Fka1dma3JwazFaSWo2eU4zQm9iam43M3dHbFZVN3U0UWdfWkJKeVRNZlpTdw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:58:16 GMT"
+  },
+  {
+   "id": "news:f1cfd164762d467f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "클레온, 삼성생명과 AI 롤플레이 솔루션 공개",
+   "source": "한스경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50cFdzT25oWlhjLUJTcEVMOFFzczZqMXdTbEhLY0ZZb25QblF3Qnp0TjRIUjhxT2NjcXR0a1JtSEplQm9hN2UyajZSNF8xdEp3RnRlS242QkJQNEk4WWdjaV9TYVZzYTBZOWNaVdIBb0FVX3lxTE1oMUhJajRTTi1LenYzZkgtaDJMdUNrQ0pnWENIUEZuMjVQWDJ4S0JmNFRISEhPbXNObURhdEVMdjFiZlRrSW0tdnB6S3pZYmZNbmIyYzM2MDBXSllFZ3NLa2hKMlhjOXhoM2s4eG9WVQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 02:27:46 GMT"
+  },
+  {
+   "id": "news:4501ab9d52cb89dc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 디지털 휴먼 활용 상담훈련 서비스 선봬",
+   "source": "라이센스뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzbVV4RlU0RmxqV2NOMzVtRHVjQWZnSWdNYk9ZNUlPU0FWWWtZUzhfY01xQTctOVRtbi1kZ2ozOFpBOGp2bXFyWjY3QU9BTnV4ci0xV0hLOFNBMFZMU2FaVndkYWJPLTV2U1Nv?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 02:35:00 GMT"
   }
  ],
  "initialized": true,
