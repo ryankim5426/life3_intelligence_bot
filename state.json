@@ -245,7 +245,8 @@
   "news:7947981884eabba1": 1788770683,
   "news:0a1091a9a0c572e3": 1788771569,
   "news:94a57c3c388e9b75": 1788771569,
-  "news:793157b4c6f769b5": 1788772919
+  "news:793157b4c6f769b5": 1788772919,
+  "news:a75bf3b4b8215a82": 1788774282
  },
  "stories": {
   "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
@@ -329,7 +330,8 @@
   "[더밸류 브리핑] 오늘의 생명보험 소식…생명보험협회·교보생명· 교보라이프플래닛생명": 1788769401,
   "교보생명, 악사손보 인수 자문사에 KB증권 선정… 생보 빅3 M&A '본격화'": 1788769401,
   "교보생명, ‘교보마이플랜건강보험Ⅱ’ 개정 출시": 1788771569,
-  "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919
+  "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919,
+  "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282
  },
  "news_queue": [
   {
@@ -811,6 +813,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZ1RhWS1ka2dBMzRnbW1VNjBHRmxsazRFWGwtbnZWMWVYVmFYcGY1ckpST2twZUVQRlJXNkcxeFdsaGtQYk9Fam8tQzdhN3d0Z25GaFhWbFRGbUdKOHNrOUc3SUNIbnFNSWxUOQ?oc=5",
    "sort_key": "Mon, 07 Sep 2026 08:47:10 GMT"
+  },
+  {
+   "id": "news:a75bf3b4b8215a82",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증",
+   "source": "데일리팝",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wd1RRMVZwRWpEaFFKQ3VvV0YzR3pXYkRwVkxia3VEc2piekVGS0YtSUloTUs0eDlBVko3Q2ZxSGN1b3lOVm1PNFlqZURQU0RDQTIyZGNPZVRGckh6Q2FPT3dFSHVWNFQ1?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 09:31:00 GMT"
   }
  ],
  "initialized": true,
