@@ -246,7 +246,9 @@
   "news:0a1091a9a0c572e3": 1788771569,
   "news:94a57c3c388e9b75": 1788771569,
   "news:793157b4c6f769b5": 1788772919,
-  "news:a75bf3b4b8215a82": 1788774282
+  "news:a75bf3b4b8215a82": 1788774282,
+  "news:c840983e6830dbb3": 1788775154,
+  "news:0710d6ab0844a17e": 1788775154
  },
  "stories": {
   "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
@@ -331,7 +333,8 @@
   "교보생명, 악사손보 인수 자문사에 KB증권 선정… 생보 빅3 M&A '본격화'": 1788769401,
   "교보생명, ‘교보마이플랜건강보험Ⅱ’ 개정 출시": 1788771569,
   "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919,
-  "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282
+  "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282,
+  "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154
  },
  "news_queue": [
   {
@@ -823,6 +826,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wd1RRMVZwRWpEaFFKQ3VvV0YzR3pXYkRwVkxia3VEc2piekVGS0YtSUloTUs0eDlBVko3Q2ZxSGN1b3lOVm1PNFlqZURQU0RDQTIyZGNPZVRGckh6Q2FPT3dFSHVWNFQ1?oc=5",
    "sort_key": "Mon, 07 Sep 2026 09:31:00 GMT"
+  },
+  {
+   "id": "news:0710d6ab0844a17e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문",
+   "source": "핀포인트뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXWjA2SHJUcDd5Y3pnWkJlUERYMFJ1QkRTTnluNnlrcEVwelRzQUhmeDdkdnl4ZUlCZU9ZMi1qSnozRkpBbktwS0VEQTRCZHFORmxGUmd0ZklFYnM3UEIwSElCall5MEliU05FbnZLM1BCY3hlLURB0gF3QVVfeXFMUFdaMDZIclRwN3ljemdaQmVQRFgwUnVCRFNOeW42eWtwRXB6VHNBSGZ4N2R2eXhlSUJlT1kyLWpKejNGSkFuS3BLRURBNEJkcU5GbEZSZ3RmSUViczdQQjBISUJqWXkwSWJTTkVudkszUEJjeGUtREE?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:35:47 GMT"
   }
  ],
  "initialized": true,
