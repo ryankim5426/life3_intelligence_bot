@@ -218,11 +218,10 @@
   "news:a8629d7e9c61f4b0": 1788758071,
   "news:404057b2419fc3aa": 1788758071,
   "news:a5076c7a72367a21": 1788758071,
-  "news:f80ecfcecfb342ed": 1788758071
+  "news:f80ecfcecfb342ed": 1788758071,
+  "news:e9ed681186598c54": 1788759172
  },
  "stories": {
-  "9000억 들여 SBI 품은 교보생명…이익 70%는 일본 SBI로": 1788499970,
-  "호텔신라 최대주주 지분율 17.34%로 축소…삼성생명 특별계정 장내매도 여파": 1788499970,
   "독립운동 후원 창업주 2세 신창재…교보생명, 日 SBI에 9001억 내고 이익 30% 택해": 1788501787,
   "호텔신라, 최대주주 삼성생명보험 등 주식 1만1168주 감소…삼성생명보험 특별계정 장내매도 영향": 1788503301,
   "교보생명, 서울서 고객 초청 클래식 콘서트 진행": 1788503301,
@@ -299,7 +298,8 @@
   "미래에셋운용·교보생명 ‘TIGER 미국S&P500미국채혼합50’ 상장 웹세미나 개최·‘2026 노사문화 우수기업’ 선정": 1788758071,
   "삼성생명 & KB손해보험 등, 보험사 AI 활용 '가속', 초점은?": 1788758071,
   "장중 亞증시?..삼성전자·삼성생명·키옥시아·소프트뱅크 '껑충'": 1788758071,
-  "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정": 1788758071
+  "삼성전기, 삼성생명 특별계정 장내 매매로 최대주주 지분 미세 조정": 1788758071,
+  "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과": 1788759172
  },
  "news_queue": [
   {
@@ -631,6 +631,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zM2lhR3ZkX0YyNTc4cmRNVFltejl3ZldrOFBZTnVld1VFSEFYVUg3eUhMLVl3WG0tcFpvWkcya04zMnNMbUVZNjBydGFWc3RiUllQTkpOSVFDbkdVbU8yQWg4SEhrR283ODZDTXVZaE1nbG8?oc=5",
    "sort_key": "Mon, 07 Sep 2026 04:52:03 GMT"
+  },
+  {
+   "id": "news:e9ed681186598c54",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과",
+   "source": "컨슈머타임스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tdnZYZGU1TmtXM3JPQ0F4T1VNc0g3YTBIOXhWUWM3d0wzNWF0MEdzUlB0MVMtSGRzOFBGVk1VVlF2MDA0VGtleTBHWUEzQnM3Ylo4UVZqWEVTNF9qN0Jva3NEVlJRZ1g5Znc?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 05:09:38 GMT"
   }
  ],
  "initialized": true,
