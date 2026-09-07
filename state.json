@@ -244,7 +244,8 @@
   "news:ef1c5597efb21605": 1788769401,
   "news:7947981884eabba1": 1788770683,
   "news:0a1091a9a0c572e3": 1788771569,
-  "news:94a57c3c388e9b75": 1788771569
+  "news:94a57c3c388e9b75": 1788771569,
+  "news:793157b4c6f769b5": 1788772919
  },
  "stories": {
   "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
@@ -327,7 +328,8 @@
   "[업앤다운]보험 업종 종목별 등락…삼성생명↑·한화손해보험↓": 1788769401,
   "[더밸류 브리핑] 오늘의 생명보험 소식…생명보험협회·교보생명· 교보라이프플래닛생명": 1788769401,
   "교보생명, 악사손보 인수 자문사에 KB증권 선정… 생보 빅3 M&A '본격화'": 1788769401,
-  "교보생명, ‘교보마이플랜건강보험Ⅱ’ 개정 출시": 1788771569
+  "교보생명, ‘교보마이플랜건강보험Ⅱ’ 개정 출시": 1788771569,
+  "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919
  },
  "news_queue": [
   {
@@ -799,6 +801,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QM1FDeW1TTF80VHNLSUVXY1k5bWJKcU80SFNWS1hPb2xaQnlSRmZCS1lvczlVVmJ0aXBUSW5OVVBic3Uwb21yVnNydEh2dl9QZDN2WThFOWI0RU1xNG5JZnlmclRVUjN4UThr?oc=5",
    "sort_key": "Mon, 07 Sep 2026 03:27:00 GMT"
+  },
+  {
+   "id": "news:793157b4c6f769b5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시",
+   "source": "뉴스락",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZ1RhWS1ka2dBMzRnbW1VNjBHRmxsazRFWGwtbnZWMWVYVmFYcGY1ckpST2twZUVQRlJXNkcxeFdsaGtQYk9Fam8tQzdhN3d0Z25GaFhWbFRGbUdKOHNrOUc3SUNIbnFNSWxUOQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 08:47:10 GMT"
   }
  ],
  "initialized": true,
