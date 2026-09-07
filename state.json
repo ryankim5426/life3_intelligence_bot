@@ -249,10 +249,10 @@
   "news:a75bf3b4b8215a82": 1788774282,
   "news:c840983e6830dbb3": 1788775154,
   "news:0710d6ab0844a17e": 1788775154,
-  "news:208fc4106e66d170": 1788776433
+  "news:208fc4106e66d170": 1788776433,
+  "news:3258bc5113bc7f09": 1788777803
  },
  "stories": {
-  "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
   "교보생명, 4700억 갚아도 1.7조 또 온다…신종자본증권 '차환 고리'": 1788519059,
   "신창재 회장 경영권 방어에 9000억원 썼나… 교보생명, SBI저축은행 ‘고가 인수’ 논란": 1788523394,
   "삼성생명·화재, 최대 8조 규모 英·美 보험사 M&A 추진": 1788525006,
@@ -336,7 +336,8 @@
   "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919,
   "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282,
   "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
-  "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433
+  "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433,
+  "교보생명, 신뢰의 노사문화 빛났다": 1788777803
  },
  "news_queue": [
   {
@@ -848,6 +849,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByQnNEeHhpM3Zva2xiWUlzQ00tUDliM3ZZZVJDNVVkTEpsRThxVWJ5Q29KUEdHRmxTUERPM1hMTjJaRUt1TURfRVBLVWFxWkdMeWVWTW93Ykt3c185LWtVQy1meGhXNEUyb05J?oc=5",
    "sort_key": "Mon, 07 Sep 2026 03:27:00 GMT"
+  },
+  {
+   "id": "news:3258bc5113bc7f09",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 신뢰의 노사문화 빛났다",
+   "source": "공공뉴스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUmJONG8xUk5kdC03bnp5OXJDMnpRUlYxZEFQV1A5Y3otZGoyb05BdGtSVmV4UXMtT29sbUNERE1RYlZNakJlMmRBZDdud2FoVTZhR3ZDS2F4Wjc2Q2lOLUxtcFlyTHpHN1HSAW5BVV95cUxPcEJTT2lKUG1WcldEUmtXTXhvY1RDZWwycHpBb3NNc1c2c0t6bC1Ea1lmQWh6VGRySWl4YkFmM3FGbUc3dkx2UldXRGZocEpiZnIwM2xhVU9RU3oyaU5MY2VOOWV6NUxfcEFHd043Zw?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 06:31:22 GMT"
   }
  ],
  "initialized": true,
