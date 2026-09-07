@@ -231,10 +231,10 @@
   "news:2688eca4b5904edb": 1788763724,
   "news:de992ac6ad7a89a0": 1788763724,
   "news:e02eb752119ef4cf": 1788763724,
-  "news:19c9390bd2772085": 1788764638
+  "news:19c9390bd2772085": 1788764638,
+  "news:21ce77d7134388fa": 1788767170
  },
  "stories": {
-  "삼성생명·삼성화재, 8兆 해외금융사 ‘M&A 카드’ 만지작...왜 지금": 1788507788,
   "삼성생명, PFG 6조 베팅해도 킥스 200%↑…‘자본 체력’ 주목": 1788511069,
   "[The Numbers] 삼성화재 캐노피우스 경영권·삼성생명 PFG 최대주주될까…'삼전 배당' 실탄 장전한 보험형제, 8조원 메가딜 추진": 1788511069,
   "배당금만 3조…삼성생명·삼성화재, 해외 M&A 승부수": 1788517964,
@@ -309,7 +309,8 @@
   "교보생명, 18년간 이어온 가족친화 인증": 1788760279,
   "[금융계 8월 동향] 교보생명, 지속가능경영 실천···디지털 금융 생태계 확장": 1788762119,
   "교보생명, 노사 우수기업 14년 만에 재선정… \"갈등 사전예방 구축\"": 1788763724,
-  "대출 11% 줄고 순익도 85% 급감…애큐온저축銀, 한화생명에 안착할까": 1788763724
+  "대출 11% 줄고 순익도 85% 급감…애큐온저축銀, 한화생명에 안착할까": 1788763724,
+  "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”": 1788767170
  },
  "news_queue": [
   {
@@ -701,6 +702,16 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeERCM1Z2cEV4SzZ5Rms4cFBYSm1Ba2RGWVhFQ2liMDNNNzc1QlVJOHhqWDlfekZEZnlfcXdkUmx4Y1ZZUVh2X0hUZjZKR2w4N3Rz?oc=5",
    "sort_key": "Mon, 07 Sep 2026 06:35:09 GMT"
+  },
+  {
+   "id": "news:21ce77d7134388fa",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”",
+   "source": "AI타임스",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pdGJQdi1wRkUtcnd6RFpvMGxoUjQxQk0wWERmMUVQTUFqMU82dGdEVHN2SEhyeXo4ejR2RkRQUlhOdDFVQmlDanF4M201aFJUXzRkSDA5WEdhSzRSUjRjendYMmNZNUh1Rnc?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 07:19:47 GMT"
   }
  ],
  "initialized": true,
