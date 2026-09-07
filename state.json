@@ -180,7 +180,12 @@
   "news:e44fea72200e87a4": 1788738471,
   "news:1cf4d9858d653383": 1788738471,
   "news:d211db88982fdadb": 1788738471,
-  "news:51c710fc28a182c0": 1788738471
+  "news:51c710fc28a182c0": 1788738471,
+  "news:3f99b4361e49088c": 1788741147,
+  "news:4b5f3bd5438bad44": 1788741149,
+  "news:c447c0e38849ef3c": 1788741149,
+  "news:2ba87145a8591d35": 1788741149,
+  "news:03faedd92092a6b6": 1788741149
  },
  "stories": {
   "국내 성장 한계 속 삼성생명·화재, 해외 시장 확대하나": 1788484757,
@@ -291,7 +296,11 @@
   "‘우승 후보’ 한화생명, MSI 첫 경기서 TSW 3-0 완파 [MSI]": 1788738471,
   "\"AI 가상 고객 모셨습니다\" 삼성생명 실전형 롤플레잉 서비스 출격": 1788738471,
   "클레온 대화형 AI, 금융 현장 첫 적용…삼성생명과 공동 개발": 1788738471,
-  "삼성생명, AI로 보험상담 훈련한다…생성형 AI 혁신금융서비스": 1788738471
+  "삼성생명, AI로 보험상담 훈련한다…생성형 AI 혁신금융서비스": 1788738471,
+  "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑": 1788741149,
+  "삼성생명, 컨설턴트 역량강화 위한 'AI 롤플레잉 서비스' 출시": 1788741149,
+  "삼성생명, AI가 가상 고객 된다…FC 상담 역량 키우는 ‘AI 롤플레잉’ 출시": 1788741149,
+  "한화생명 주가 상승 중": 1788741149
  },
  "news_queue": [
   {
@@ -333,6 +342,46 @@
    "date": "Sun, 06 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBibk1vWTcta3RVdVNLU09uVkp6S2N3ZUItdlYzOXhGN0xlMThJQVVYQWJ2N244SzU3WThNTVZRTFU5YjNpRXIyWktmWEhZWVJwWjJILWdkVzZFdw?oc=5",
    "sort_key": "Sun, 06 Sep 2026 23:43:16 GMT"
+  },
+  {
+   "id": "news:4b5f3bd5438bad44",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑",
+   "source": "매일경제 마켓",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NT3l1eXpwWTdyQnRhSmNLekxrdDFLLXZLN1JvMkVQVXlNWHU3SVlrZlVIUWc0NVZRbnVCR3RPSVVJa0RTSmk2clctTm9vYkZreEE?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:07:35 GMT"
+  },
+  {
+   "id": "news:c447c0e38849ef3c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 컨설턴트 역량강화 위한 'AI 롤플레잉 서비스' 출시",
+   "source": "전자신문",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nMzd0U2ZEUWRSSjhTMzRyWkFfTnl1ZWMtRTJWOUs1cmUtWkFsTU43WHRtWlQyZEtNUmJNUER6UUlmUFR3VHpsODUyX1VBUQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:11:56 GMT"
+  },
+  {
+   "id": "news:2ba87145a8591d35",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI가 가상 고객 된다…FC 상담 역량 키우는 ‘AI 롤플레잉’ 출시",
+   "source": "팍스경제TV",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xS1B4aDYtM3VzZTJhRDB6UWFub2pMakxWZnBHZHBXUkJEOUdxMFg3c2dyWEphMkdpRl9kUnU3WnZ1NVRvUi1raVowNHdlbzJaLWY3LUExbDBWbTZzRHNULWlqTVM2UVk?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:15:54 GMT"
+  },
+  {
+   "id": "news:03faedd92092a6b6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 상승 중",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mc05RT0U5S0ZmRjQ2S2l3M3Y3cC1palRIRVJ5YzNnSlpOcUU2ZmtjQ21mMWVydkk5UjdoeGdKcVpoQTRNUXJCSXpYcEZHcDhGTFZCb3dQSC1Ea01P?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 00:25:25 GMT"
   }
  ],
  "initialized": true,
