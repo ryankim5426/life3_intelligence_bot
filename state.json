@@ -353,7 +353,9 @@
   "news:ba06daaba55877f2": 1788904653,
   "news:c0b655731445da42": 1788905871,
   "news:6ebceed29f2c6ce0": 1788905871,
-  "news:3292bdff8ffccc79": 1788906800
+  "news:3292bdff8ffccc79": 1788906800,
+  "news:4795be1a053771e4": 1788909730,
+  "news:6128de0125927b8b": 1788909730
  },
  "stories": {
   "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
@@ -477,7 +479,8 @@
   "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
   "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
   "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653,
-  "사진=한화생명": 1788905871
+  "사진=한화생명": 1788905871,
+  "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제": 1788909730
  },
  "news_queue": [
   {
@@ -969,6 +972,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNRGRfQUFMWl9mR2JsOXl5b1UwRXFpbTJWd0ZPb1lrVEIyMGJMY3IwWFhFSU8zUkdaN2NoY1BxbGpaUlJJZElpVlBMZXplWldGQ3lyczR2QzZIQlZ2akItY0lRcGRmOUFieXNJV25VY05ZdlFHLWdMQVA2VURpQkpDQ3NzVFZabEFCMUQySUh5b0F4dnEwWVJibnV6NXl0QzhBREV6cGwwbzVDQ09ZUUZkZDZNRm1wQ0lHTEZsdUxuT3haSWIzZ0NjY3dfSkZSVnh3VlQtWndtVGhNcS16V3lQUlZwVVU1R2Ryc042aUltWFZoa1JuRm50WXpWNXl3QUx4cEw1N2tBOUhkMHhydGZ4cU9XWTI3QUFxNDJMcDVXNjRIbldJZFBuMmRsdEtRSUx0ak1QOUtKQWhCNVI5UXBpSzF5eUtNalZPWEtlYzExV1BZSmVpVUstUDlvTkFrcW5tNDdyc1QzbDh5WFJMQ1h6b1VLTzFLNTY1d01DbWJxYzl1T0JWU3FlSHV2VEJaYVJMMmhqc2tjX0tfTi1aMkY2SWQxV2JZeDNnNlhWS1hlSXBEdndyNURIZG5Gb2ExakstZWNzaGNiZ0puaTI1bGkzT1lIVEMxTnpZUV9QRTB4bzl3RVE4WnphTlprV2l2SFZUdDVUeDRRQm9adVBNYzRaMQ?oc=5",
    "sort_key": "Tue, 08 Sep 2026 16:32:19 GMT"
+  },
+  {
+   "id": "news:6128de0125927b8b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제",
+   "source": "뉴스와이어",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wNDYzLVVoTlBfb2I3V0R4ekhoSG5hNDFSSDVWMUFSQXRvNTQ5WlRBZ2hBc3BrajVqMWZCUG5tR1RrTXJDSTBRU1ZQbzJPa202dDVLOWJjcGdBM2FxQUdV?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 23:00:00 GMT"
   }
  ],
  "initialized": true,
