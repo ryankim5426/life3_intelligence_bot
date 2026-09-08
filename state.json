@@ -357,7 +357,8 @@
   "news:4795be1a053771e4": 1788909730,
   "news:6128de0125927b8b": 1788909730,
   "news:5fc4145b4fa0b69b": 1788910833,
-  "news:8bd2f3e2bb0c2601": 1788910833
+  "news:8bd2f3e2bb0c2601": 1788910833,
+  "news:70a74703ca69bbc1": 1788911874
  },
  "stories": {
   "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
@@ -482,9 +483,21 @@
   "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
   "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653,
   "사진=한화생명": 1788905871,
-  "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제": 1788909730
+  "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제": 1788909730,
+  "삼성생명, '삼성 가족대표건강보험 Plus+' 출시": 1788911874
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:70a74703ca69bbc1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '삼성 가족대표건강보험 Plus+' 출시",
+   "source": "아시아경제",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVTdWMmxSeDlJTGlVUVpZUzBwZjItYnptZXhWYjFyekhramhRc0M3UWsxWlN4bHBNMExWbzFqS3FBQ2d6QTVTMlY3RmFxeVVJU0t1SktUbGd5REVOQzEzeA?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 23:49:02 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-09"
 }
