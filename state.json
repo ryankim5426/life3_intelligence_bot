@@ -349,7 +349,8 @@
   "news:5cec065ebb8410cc": 1788881214,
   "news:b4821f5c69f16bba": 1788885971,
   "news:6463dd93fa116803": 1788885971,
-  "news:044b47724df7040a": 1788903927
+  "news:044b47724df7040a": 1788903927,
+  "news:ba06daaba55877f2": 1788904653
  },
  "stories": {
   "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
@@ -472,7 +473,8 @@
   "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
   "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
   "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
-  "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927
+  "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
+  "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653
  },
  "news_queue": [
   {
@@ -944,6 +946,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQmpHVjV0UWdrb19Pekh5RDZTUVdCYlJyNEdZNDZhajZ0WXZMQWVhNkFHV3JaVFFNU0RJaTVnWVhpdTRXQlhYZ3E1ejNwamRZdUhJNEtaaWd1aFN6eFc0SDhJdHV6Ny1BOHV3?oc=5",
    "sort_key": "Tue, 08 Sep 2026 21:30:00 GMT"
+  },
+  {
+   "id": "news:ba06daaba55877f2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록",
+   "source": "이코노미톡뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULWE3Z3hxR0RyaDVYaXBic3VRUUR5a1RVRUNubklzRndiZ2JIY1FzOWpTSWJEdHlUUnJ4TWVlcU4zZ0MzSUJHYVNJYzlDckdIc3h1RG9oeWxjenRyUE83aG9oeVR5NjJjbmszNg?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 21:50:28 GMT"
   }
  ],
  "initialized": true,
