@@ -334,7 +334,9 @@
   "news:1a484c448f4e5e59": 1788855743,
   "news:f5c9db030206bf6c": 1788857108,
   "news:f067debfc97654e1": 1788857108,
-  "news:0306bfe6476b49d7": 1788857109
+  "news:0306bfe6476b49d7": 1788857109,
+  "news:3c169afb3672ffbc": 1788857960,
+  "news:7d113ac2bcc1d8ad": 1788857961
  },
  "stories": {
   "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보": 1788603227,
@@ -454,7 +456,8 @@
   "[단독]교보생명, '아픈손가락' 교보라플 연내 흡수통합 - 머니투데이": 1788852331,
   "[금융 ★들의 궤적] 한화생명 투톱, 글로벌망 넓히고 본업 다졌다": 1788852331,
   "\"이 상품 가입될까\" 삼성생명, 심사 전에 결과 알려준다": 1788853477,
-  "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109
+  "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109,
+  "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961
  },
  "news_queue": [
   {
@@ -856,6 +859,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWTI2ak85RDNRZjRkNGVBdGFnemVsOFpVNi1KZmdQSHNhdmR0QXROOTJBbHdRWTNETE8tMHMzWUpuV1RwdnFnTHhiSWJzMDF1eVdhc3A4SG5zbmVOSmtXbGxGTHPSAWhBVV95cUxOaEp3Q19NYThRa3pfRDQ1Szd4dWQtLUVwbllwZy1zUVVINEEzS2dGTmdILVNmVnUxSFVSMTdlTzdwOHRpOVZxc0EyN1haZWhNTkhwTmZMQXpNU1AxWkhDYzR2MUlYWWZqeQ?oc=5",
    "sort_key": "Tue, 08 Sep 2026 08:09:19 GMT"
+  },
+  {
+   "id": "news:7d113ac2bcc1d8ad",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명",
+   "source": "위키리크스한국",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDLUUxcm40bVpBM1YySkhlQTZISTN3dlhMdTBBcEp1aVpUOHNPWHM3Ry1GMG1tYzQwY3NPNllKbzU5SW5CVk54eHN0RjVUZHh2d0FIWHgwaUE4RDFmbDB5dDlhR1ZpZ09NWjVxTFJlLS0?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 08:48:37 GMT"
   }
  ],
  "initialized": true,
