@@ -323,10 +323,12 @@
   "news:f0f3d861289937a4": 1788844479,
   "news:daa19dff255a8b9f": 1788848397,
   "news:3713dfb482b52b2d": 1788848397,
-  "news:52dc52203cb485e4": 1788848397
+  "news:52dc52203cb485e4": 1788848397,
+  "news:2cd85abe0099e24e": 1788850872,
+  "news:3f3193d3fa10cb11": 1788850873,
+  "news:6023a0611f3c39a1": 1788850873
  },
  "stories": {
-  "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046,
   "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대": 1788595056,
   "1일 서울 서초구 예술의전당 콘서트홀에서 열린 '2026 교보 노블리에 콘서트'에서 정명훈 마에스트로(가운데)가 관객들에게 인사하고 있다.(사진=교보생명)": 1788596293,
   "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184,
@@ -440,7 +442,9 @@
   "삼성생명, 100번째 특허 획득…재설계 불편 없애": 1788840956,
   "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보": 1788843122,
   "한화생명, 영업지원 통합플랫폼 오픈…설계사 편의성 제고": 1788844479,
-  "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방": 1788844479
+  "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방": 1788844479,
+  "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축": 1788850873,
+  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 신한라이프케어": 1788850873
  },
  "news_queue": [
   {
@@ -772,6 +776,26 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZEozMzA4ZHpwcTlkYUdGQkNJbkhaSkF3UmktNEV0T3FzLWIyWldvU001Z3NleUNVUGRXZ2luRzRoTlhITDhEZXFHc0pNNTUyV0Zvd3ZqTTRtRFhTOEphdQ?oc=5",
    "sort_key": "Tue, 08 Sep 2026 04:57:59 GMT"
+  },
+  {
+   "id": "news:3f3193d3fa10cb11",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축",
+   "source": "뉴스락",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQmFvejJVTl8yX1Z6TV9leFM1eUR6M1cxMmctZ0tQVnBRVFBqNTVudlJxa3NvUTdIcGdpQnZQTjR5TDZtZ194cGo5UkN0bGRNQmd4UlNRcHhfdjlmUTRKR1htWFY0LWhsNFFfbw?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 06:22:58 GMT"
+  },
+  {
+   "id": "news:6023a0611f3c39a1",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 신한라이프케어",
+   "source": "더밸류뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wUEtMb2RTOGxVNE5DZnUxNG1xODBnMk94TjQtazd4RnpYRXRhQTlGUjdnVjBYTGJlVGoyV21JSTQ5cGpxclJ4OWMwcTB3V2UzS1hv?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 06:41:17 GMT"
   }
  ],
  "initialized": true,
