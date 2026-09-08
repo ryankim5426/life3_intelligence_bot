@@ -337,10 +337,10 @@
   "news:0306bfe6476b49d7": 1788857109,
   "news:3c169afb3672ffbc": 1788857960,
   "news:7d113ac2bcc1d8ad": 1788857961,
-  "news:49c5862f5236a844": 1788859272
+  "news:49c5862f5236a844": 1788859272,
+  "news:07082f58250b7630": 1788862870
  },
  "stories": {
-  "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보": 1788603227,
   "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
   "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |": 1788634277,
   "박근희 삼성생명 사장 모교 청주대서 '열정樂서' 강연": 1788640323,
@@ -459,7 +459,8 @@
   "\"이 상품 가입될까\" 삼성생명, 심사 전에 결과 알려준다": 1788853477,
   "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109,
   "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961,
-  "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272
+  "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
+  "교보생명, 교보라플 흡수통합 검토": 1788862870
  },
  "news_queue": [
   {
@@ -881,6 +882,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hSUY2VUNnSDcwYTFuZE9LdUo1SlFhTEFoVGJvT2ctVk1MTTUwYVMwQVBQYlpMNHdKWEdUWDlxVm92YnFLbGRibE5EcEFUbFowLVhWWThCQ2dWZ1l1RWlGX2ZrVHNianRSVUFZS1c4Z1NXaTA0WFVIZVoyemw2UUU?oc=5",
    "sort_key": "Tue, 08 Sep 2026 00:35:54 GMT"
+  },
+  {
+   "id": "news:07082f58250b7630",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 교보라플 흡수통합 검토",
+   "source": "SBS Biz",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZGFMQlREMldFQnpGeGhhRlQzZkZxU0YyNDZVYWtUQUI5M2VmcnI2YTJrRXhDZ3dhdHFqem80Rkg2Q3pMRUxiUjZMOEY3QTJZSGx30gFYQVVfeXFMUDdNRkZWMmh5VXRaa20yVWQ2MXdCTm43Q2s4aVRQeWcyVlRPaDQ4eUxKcGg1WTRBbUF4Y3NqcjkwU3pVSDlPSkJXSGlOZmp3OFpQU25WTG55Mg?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 09:41:00 GMT"
   }
  ],
  "initialized": true,
