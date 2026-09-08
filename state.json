@@ -316,7 +316,11 @@
   "news:1be64f7e78acf80c": 1788842048,
   "news:455e9d6c06fecce5": 1788843122,
   "news:9565b2d43219b549": 1788843122,
-  "news:bf9213c96d1ac0aa": 1788843122
+  "news:bf9213c96d1ac0aa": 1788843122,
+  "news:b347700e09317c50": 1788844479,
+  "news:b47f94b2edaab09b": 1788844479,
+  "news:41ff9a52a8b7ff79": 1788844479,
+  "news:f0f3d861289937a4": 1788844479
  },
  "stories": {
   "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
@@ -433,7 +437,9 @@
   "한화생명설계사, AI기반 영업 통합플랫폼 쓴다": 1788839513,
   "한화생명, 영업지원 플랫폼 고도화…삼성생명, 가입심사 시스템 특허": 1788840956,
   "삼성생명, 100번째 특허 획득…재설계 불편 없애": 1788840956,
-  "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보": 1788843122
+  "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보": 1788843122,
+  "한화생명, 영업지원 통합플랫폼 오픈…설계사 편의성 제고": 1788844479,
+  "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방": 1788844479
  },
  "news_queue": [
   {
@@ -745,6 +751,26 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oRU5sX3kxQWNVZFNZSjJ4R2tlcGRXMDRZSmJwQi1NbEdxTk5YWWRtbjhzaWhpMlhDSnduclY2Zi1rZ0pXRVctc2d2Zjc2REUtcVNxZjlrd3BHbjAwcmR5Yg?oc=5",
    "sort_key": "Tue, 08 Sep 2026 02:41:21 GMT"
+  },
+  {
+   "id": "news:41ff9a52a8b7ff79",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 영업지원 통합플랫폼 오픈…설계사 편의성 제고",
+   "source": "글로벌이코노믹",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnVONGlYb2ZhcHJtZWhhNGVzN1VPdWdTcFJtanV2VG9iTGhnNk1xRml4RTgwWU9ESUJBTlNwSHV2cjJ0aklfMjJrTFRVUVZMYWZmc1lkUXBYNk1nVC1CS0xIVF92eldMNWdHUEVIanI1S1hlVXZPd3N0LVBEclM4NW5WWHY?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 04:38:08 GMT"
+  },
+  {
+   "id": "news:f0f3d861289937a4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방",
+   "source": "nspna.com",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZEozMzA4ZHpwcTlkYUdGQkNJbkhaSkF3UmktNEV0T3FzLWIyWldvU001Z3NleUNVUGRXZ2luRzRoTlhITDhEZXFHc0pNNTUyV0Zvd3ZqTTRtRFhTOEphdQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 04:57:59 GMT"
   }
  ],
  "initialized": true,
