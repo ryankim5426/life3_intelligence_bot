@@ -274,7 +274,15 @@
   "news:bff9ccceb389a5cf": 1788827700,
   "news:f98c91eb5aa0fec8": 1788827700,
   "news:4c7bc507465a6ff6": 1788827700,
-  "news:4acff61e3b163166": 1788827700
+  "news:4acff61e3b163166": 1788827700,
+  "news:238a1a503efdf28c": 1788828902,
+  "news:c56b2c19b1c1b76e": 1788828902,
+  "news:8ad79da108ede9fe": 1788828902,
+  "news:54d30e92651b20b6": 1788828902,
+  "news:5ed76f5ef7f67e04": 1788828902,
+  "news:8ec73d7fec15aa4c": 1788828902,
+  "news:1c474c7308462b90": 1788828902,
+  "news:96b543a3c9d8c6f4": 1788828902
  },
  "stories": {
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
@@ -374,7 +382,11 @@
   "한화생명, 설계사 영업지원 통합플랫폼 고도화": 1788827700,
   "스마트폰·태블릿 넘나들며 '이어하기'…한화생명, 업계 최초 연동 영업플랫폼 오픈": 1788827700,
   "가입 여부 미리 알려준다’…삼성생명 100번째 특허": 1788827700,
-  "한화생명, GA 영업지원 플랫폼 고도화…모바일 영업 강화": 1788827700
+  "한화생명, GA 영업지원 플랫폼 고도화…모바일 영업 강화": 1788827700,
+  "[금융레이더] 삼성생명/신한라이프케어/카카오손보/서금원": 1788828902,
+  "한화생명, 영업지원 통합플랫폼 고도화…장소 구애받지 않고 상담·계약": 1788828902,
+  "한화생명, GA 영업지원 플랫폼 개편…태블릿·스마트폰 청약 연계": 1788828902,
+  "삼성생명, 보험 심사 결과 ‘즉시 확인’…100번째 특허 등록": 1788828902
  },
  "news_queue": [
   {
@@ -496,6 +508,46 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRU4zOGREb250M0dQN3F0djZnMmhsdkhHYm9NNW9PYVVfR0Z1amdMczJCYTFBVHRIZ1pmc0lMRi1nMkhvaC1JWkNTNjlRb2FxSnFmQkVCSWFTQdIBWEFVX3lxTE1LVmNmUXoxekU3TW9JOVA1LU1SZXpqUjhOX18tQVZzV3pGMEpYRU5Db2Q1c0NXX1h6NWxlTU1uckczNDVlY0hVa3RlSV9ueUdaQ3NsanZlRHE?oc=5",
    "sort_key": "Tue, 08 Sep 2026 00:24:44 GMT"
+  },
+  {
+   "id": "news:5ed76f5ef7f67e04",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융레이더] 삼성생명/신한라이프케어/카카오손보/서금원",
+   "source": "대한경제",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JdUdmU3BnWHcyaXg4YnhIcVNJX0pwM1pMRUYyNzVNbGJZWUpidWE5NFNjejFtbnZOY0d1U0JGUkRYTWdYU2dSUmpaOWVXRE9vU3ZXcVRNQlVmM2E4R21GMTFveU5jSXR1T0JBdGkzYk41T3RO?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:22:15 GMT"
+  },
+  {
+   "id": "news:8ec73d7fec15aa4c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 영업지원 통합플랫폼 고도화…장소 구애받지 않고 상담·계약",
+   "source": "네이트",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15clgtbnUzeXBWcENqNzVFZVdyVWRnMUZqOHQ2MXpyMzRwTk9tajl4cmpOcmVYWkRmeGNmWjgybVJvN2JibF9hN21udDlHYzFJLVpj?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:39:08 GMT"
+  },
+  {
+   "id": "news:1c474c7308462b90",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, GA 영업지원 플랫폼 개편…태블릿·스마트폰 청약 연계",
+   "source": "브릿지경제",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PSnBmT21qdC1LcUpUNUZuaXNqbnItaXU1YmZfR3EzWF9UeW5hSndYQkhNVnpZcnFZdkFRVUhzNE5kaE9DTVdYUm1CSlV5Vm5vQndBUTlISTV1QQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:45:00 GMT"
+  },
+  {
+   "id": "news:96b543a3c9d8c6f4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 보험 심사 결과 ‘즉시 확인’…100번째 특허 등록",
+   "source": "팍스경제TV",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZenEzcVdfa3J6RzNyQ051T2VIc0o4b1Q4NkJYR2xrR1JwTHVJQ0M0RHcwV3N4TGRDaU1JajJQTWJoU2lsd1RaS1hfMTkxY3VLRGFnd1JQbWFCMmhMZjEzYUUwZ25NZTA?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:45:56 GMT"
   }
  ],
  "initialized": true,
