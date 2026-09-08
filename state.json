@@ -313,7 +313,10 @@
   "news:5a17842a3a520a36": 1788840956,
   "news:e7772667e8962d2b": 1788840956,
   "news:bb9f1f0bdae211e8": 1788842048,
-  "news:1be64f7e78acf80c": 1788842048
+  "news:1be64f7e78acf80c": 1788842048,
+  "news:455e9d6c06fecce5": 1788843122,
+  "news:9565b2d43219b549": 1788843122,
+  "news:bf9213c96d1ac0aa": 1788843122
  },
  "stories": {
   "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
@@ -429,7 +432,8 @@
   "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)": 1788835887,
   "한화생명설계사, AI기반 영업 통합플랫폼 쓴다": 1788839513,
   "한화생명, 영업지원 플랫폼 고도화…삼성생명, 가입심사 시스템 특허": 1788840956,
-  "삼성생명, 100번째 특허 획득…재설계 불편 없애": 1788840956
+  "삼성생명, 100번째 특허 획득…재설계 불편 없애": 1788840956,
+  "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보": 1788843122
  },
  "news_queue": [
   {
@@ -731,6 +735,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLeUxJME8tTVdpa3ZDdzRzZVU4VVIyMktvNmxUSVVmcUI3OGxwTXNfRnVNVUNsVFhTN253SmVKUXkzdjRWY2FKZF9ZQzF6MUw2SmVsbXB5RnJ5Tm8?oc=5",
    "sort_key": "Tue, 08 Sep 2026 04:11:00 GMT"
+  },
+  {
+   "id": "news:bf9213c96d1ac0aa",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보",
+   "source": "토요경제",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oRU5sX3kxQWNVZFNZSjJ4R2tlcGRXMDRZSmJwQi1NbEdxTk5YWWRtbjhzaWhpMlhDSnduclY2Zi1rZ0pXRVctc2d2Zjc2REUtcVNxZjlrd3BHbjAwcmR5Yg?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 02:41:21 GMT"
   }
  ],
  "initialized": true,
