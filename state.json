@@ -350,7 +350,9 @@
   "news:b4821f5c69f16bba": 1788885971,
   "news:6463dd93fa116803": 1788885971,
   "news:044b47724df7040a": 1788903927,
-  "news:ba06daaba55877f2": 1788904653
+  "news:ba06daaba55877f2": 1788904653,
+  "news:c0b655731445da42": 1788905871,
+  "news:6ebceed29f2c6ce0": 1788905871
  },
  "stories": {
   "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
@@ -474,7 +476,8 @@
   "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
   "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
   "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
-  "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653
+  "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653,
+  "사진=한화생명": 1788905871
  },
  "news_queue": [
   {
@@ -956,6 +959,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULWE3Z3hxR0RyaDVYaXBic3VRUUR5a1RVRUNubklzRndiZ2JIY1FzOWpTSWJEdHlUUnJ4TWVlcU4zZ0MzSUJHYVNJYzlDckdIc3h1RG9oeWxjenRyUE83aG9oeVR5NjJjbmszNg?oc=5",
    "sort_key": "Tue, 08 Sep 2026 21:50:28 GMT"
+  },
+  {
+   "id": "news:6ebceed29f2c6ce0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "사진=한화생명",
+   "source": "전자신문",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNRGRfQUFMWl9mR2JsOXl5b1UwRXFpbTJWd0ZPb1lrVEIyMGJMY3IwWFhFSU8zUkdaN2NoY1BxbGpaUlJJZElpVlBMZXplWldGQ3lyczR2QzZIQlZ2akItY0lRcGRmOUFieXNJV25VY05ZdlFHLWdMQVA2VURpQkpDQ3NzVFZabEFCMUQySUh5b0F4dnEwWVJibnV6NXl0QzhBREV6cGwwbzVDQ09ZUUZkZDZNRm1wQ0lHTEZsdUxuT3haSWIzZ0NjY3dfSkZSVnh3VlQtWndtVGhNcS16V3lQUlZwVVU1R2Ryc042aUltWFZoa1JuRm50WXpWNXl3QUx4cEw1N2tBOUhkMHhydGZ4cU9XWTI3QUFxNDJMcDVXNjRIbldJZFBuMmRsdEtRSUx0ak1QOUtKQWhCNVI5UXBpSzF5eUtNalZPWEtlYzExV1BZSmVpVUstUDlvTkFrcW5tNDdyc1QzbDh5WFJMQ1h6b1VLTzFLNTY1d01DbWJxYzl1T0JWU3FlSHV2VEJaYVJMMmhqc2tjX0tfTi1aMkY2SWQxV2JZeDNnNlhWS1hlSXBEdndyNURIZG5Gb2ExakstZWNzaGNiZ0puaTI1bGkzT1lIVEMxTnpZUV9QRTB4bzl3RVE4WnphTlprV2l2SFZUdDVUeDRRQm9adVBNYzRaMQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 16:32:19 GMT"
   }
  ],
  "initialized": true,
