@@ -282,7 +282,12 @@
   "news:5ed76f5ef7f67e04": 1788828902,
   "news:8ec73d7fec15aa4c": 1788828902,
   "news:1c474c7308462b90": 1788828902,
-  "news:96b543a3c9d8c6f4": 1788828902
+  "news:96b543a3c9d8c6f4": 1788828902,
+  "news:75c33425711f47bd": 1788830079,
+  "news:06a6578b3fa121ea": 1788830079,
+  "news:93845ac0edde1973": 1788830079,
+  "news:b300ed032047161e": 1788830079,
+  "news:70eda5d88c695815": 1788830079
  },
  "stories": {
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
@@ -386,7 +391,9 @@
   "[금융레이더] 삼성생명/신한라이프케어/카카오손보/서금원": 1788828902,
   "한화생명, 영업지원 통합플랫폼 고도화…장소 구애받지 않고 상담·계약": 1788828902,
   "한화생명, GA 영업지원 플랫폼 개편…태블릿·스마트폰 청약 연계": 1788828902,
-  "삼성생명, 보험 심사 결과 ‘즉시 확인’…100번째 특허 등록": 1788828902
+  "삼성생명, 보험 심사 결과 ‘즉시 확인’…100번째 특허 등록": 1788828902,
+  "삼성생명, 가입 여부 바로 확인하는 ‘예상인수결과 시스템’ 특허 취득": 1788830079,
+  "한화생명, ‘설계사 일하기 좋은 보험사’로..영업지원 고도화·AI 접목": 1788830079
  },
  "news_queue": [
   {
@@ -548,6 +555,26 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZenEzcVdfa3J6RzNyQ051T2VIc0o4b1Q4NkJYR2xrR1JwTHVJQ0M0RHcwV3N4TGRDaU1JajJQTWJoU2lsd1RaS1hfMTkxY3VLRGFnd1JQbWFCMmhMZjEzYUUwZ25NZTA?oc=5",
    "sort_key": "Tue, 08 Sep 2026 00:45:56 GMT"
+  },
+  {
+   "id": "news:b300ed032047161e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 가입 여부 바로 확인하는 ‘예상인수결과 시스템’ 특허 취득",
+   "source": "SR타임스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEhZRDlaNXVNU3J5NFJZMkRXM1FjZGZpVmJjcjVvakZsaTdIaHlGX2JoamhmUTg3MlA1bW1Qcmc4SWh3MXd0d3Y5eVBMZ0ViblVvRmU4anpxc2RpUVpSVDlPVXpWNGRu0gFrQVVfeXFMUDdBYVFiZllFX0JEUmpmUHhxRTJONF91LVFHcHNBSkt5T2ZhM1FnZzJIU0VhNDVSYXdyNGNfRDFQNlJyRjRkd2p6OWdHX2xwVk5qNzhWaUJtYmJuXzhhM1NGWXZZSXZ5WkdMdUU?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:17:08 GMT"
+  },
+  {
+   "id": "news:70eda5d88c695815",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, ‘설계사 일하기 좋은 보험사’로..영업지원 고도화·AI 접목",
+   "source": "kpenews.com",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Rd1RmVnRHcXdUVTN0NDZNM3VjcHhZTlFseXFjcU52WlM0SjlleFJ6Mi1JYVBOU0prOXo0VWpUZEk4dy00RDc4UTJOMHBqVzA2YVE?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:53:31 GMT"
   }
  ],
  "initialized": true,
