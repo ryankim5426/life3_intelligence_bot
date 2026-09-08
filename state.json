@@ -339,7 +339,8 @@
   "news:7d113ac2bcc1d8ad": 1788857961,
   "news:49c5862f5236a844": 1788859272,
   "news:07082f58250b7630": 1788862870,
-  "news:5a5786a9d46012ce": 1788864229
+  "news:5a5786a9d46012ce": 1788864229,
+  "news:08381b87655efe81": 1788865108
  },
  "stories": {
   "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
@@ -461,7 +462,8 @@
   "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109,
   "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961,
   "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
-  "교보생명, 교보라플 흡수통합 검토": 1788862870
+  "교보생명, 교보라플 흡수통합 검토": 1788862870,
+  "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108
  },
  "news_queue": [
   {
@@ -893,6 +895,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZGFMQlREMldFQnpGeGhhRlQzZkZxU0YyNDZVYWtUQUI5M2VmcnI2YTJrRXhDZ3dhdHFqem80Rkg2Q3pMRUxiUjZMOEY3QTJZSGx30gFYQVVfeXFMUDdNRkZWMmh5VXRaa20yVWQ2MXdCTm43Q2s4aVRQeWcyVlRPaDQ4eUxKcGg1WTRBbUF4Y3NqcjkwU3pVSDlPSkJXSGlOZmp3OFpQU25WTG55Mg?oc=5",
    "sort_key": "Tue, 08 Sep 2026 09:41:00 GMT"
+  },
+  {
+   "id": "news:08381b87655efe81",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와",
+   "source": "sisaon.co.kr",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrZ2hQQXRSdTNWVlpVaEdlR3hYNzhueEdCVW5JRnBFVnoxT1lpOWhMcVgwaXRuSlFQVzdFdDZ1bGZwekdlSlFSUHBLNEhJS1ZBMkhQei0xa19kd3Njb2tuQmVzWE5wRW1uVnZz?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 07:21:46 GMT"
   }
  ],
  "initialized": true,
