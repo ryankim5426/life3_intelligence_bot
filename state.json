@@ -266,7 +266,15 @@
   "news:b6d0190df20fc082": 1788824892,
   "news:83f021ab43d88928": 1788825637,
   "news:969984560163463c": 1788825637,
-  "news:61c909f922b4c490": 1788825637
+  "news:61c909f922b4c490": 1788825637,
+  "news:8bd614a2bb91e43d": 1788827698,
+  "news:0759d77dd67608b4": 1788827700,
+  "news:a950a18c423f8d5b": 1788827700,
+  "news:062683277c01ad22": 1788827700,
+  "news:bff9ccceb389a5cf": 1788827700,
+  "news:f98c91eb5aa0fec8": 1788827700,
+  "news:4c7bc507465a6ff6": 1788827700,
+  "news:4acff61e3b163166": 1788827700
  },
  "stories": {
   "코스피 강세…LG에너지솔루션 KB금융 삼성생명↑": 1788575573,
@@ -359,7 +367,14 @@
   "삼성생명, 가입 심사부터 대체상품 추천까지…100번째 특허 획득": 1788824892,
   "삼성생명 보험 가입 가능성 선사 판단 시스템 특허 획득": 1788824892,
   "삼성생명, '예상인수결과 제공 시스템' 100번째 특허 등록": 1788825637,
-  "심사 전에 가입 여부 확인…삼성생명 100호 특허 획득": 1788825637
+  "심사 전에 가입 여부 확인…삼성생명 100호 특허 획득": 1788825637,
+  "\"보험 가입 되나?\" 바로 확인…삼성생명, 100번째 특허": 1788827700,
+  "[Who Is ?] 신창재 교보생명 대표이사 회장": 1788827700,
+  "교보생명, 악사손보 인수 카드 꺼내든 속내는": 1788827700,
+  "한화생명, 설계사 영업지원 통합플랫폼 고도화": 1788827700,
+  "스마트폰·태블릿 넘나들며 '이어하기'…한화생명, 업계 최초 연동 영업플랫폼 오픈": 1788827700,
+  "가입 여부 미리 알려준다’…삼성생명 100번째 특허": 1788827700,
+  "한화생명, GA 영업지원 플랫폼 고도화…모바일 영업 강화": 1788827700
  },
  "news_queue": [
   {
@@ -411,6 +426,76 @@
    "date": "Mon, 07 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DTlFMMGdOcmg0SjBGcU5yWmRqT295aEFhWGg0ZjY5eXF1X0Q4NUQ4UWFBUUw4ZjY4MHRWMkRqMDE3cVU4ZU5XSDVGYVY5WS1xVmdkbFctdWl1UdIBWEFVX3lxTFBhSnZ3TDdaeHZRYUw4aW9VQUJTdmQzbkNnVGJXQnFjcm5odm92SzVCY1BfWnJGRElpYndkM21helBmVU9VZDJJa2tWOVNoOEk4VDc0RlFaYzA?oc=5",
    "sort_key": "Mon, 07 Sep 2026 23:49:33 GMT"
+  },
+  {
+   "id": "news:0759d77dd67608b4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"보험 가입 되나?\" 바로 확인…삼성생명, 100번째 특허",
+   "source": "아시아경제",
+   "date": "Mon, 07 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04MTFJcVFLSTZJTHdSSXJYU1hKMmFjZEJqN0oxVkxEZF90cFM3VzFuUUtVd2pYX1hYakdCSzFkV05ybGhINVBTNVZodE5jRVpkaFJnQnlCN2lRaUlETWFrcQ?oc=5",
+   "sort_key": "Mon, 07 Sep 2026 23:59:49 GMT"
+  },
+  {
+   "id": "news:a950a18c423f8d5b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[Who Is ?] 신창재 교보생명 대표이사 회장",
+   "source": "비즈니스포스트",
+   "date": "Sun, 06 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HVzBld0xUTF9XUjdoSmtNakRSaGFRczB5RVdHTlE0ZzRxZzQxUXpsSDYxWEprNTgtVG1iajI1WjI4Rlhyajcyb3JJcmM4N0VVS1VPT2ltdlFYeUhlV2dkNlJxZEIyS1ltMm5BVFVUSHlNMWs?oc=5",
+   "sort_key": "Sun, 06 Sep 2026 22:00:00 GMT"
+  },
+  {
+   "id": "news:062683277c01ad22",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 악사손보 인수 카드 꺼내든 속내는",
+   "source": "네이트",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FbGFVeWhnX2Q3N3Fsb2FxWEU4WWZfWnNZamhKNmVNZlVKb05MaHJYcHNVb1ZsZ0dscHdXd0E3N1Ytc3NUdTBkSXpVaFc4aXhzeXVv?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:01:00 GMT"
+  },
+  {
+   "id": "news:bff9ccceb389a5cf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 설계사 영업지원 통합플랫폼 고도화",
+   "source": "전자신문",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JV2JJWVl0OHZiSjNrZHBQNGlhdThlU2w2VG51aTdIRVphWTlWRzQ4SUxEWjhWaGZTVGtLSFh0RGtHSUhBNUlTV3IwWmRLUQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:14:42 GMT"
+  },
+  {
+   "id": "news:f98c91eb5aa0fec8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "스마트폰·태블릿 넘나들며 '이어하기'…한화생명, 업계 최초 연동 영업플랫폼 오픈",
+   "source": "insjournal.co.kr",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80VmIwVGN6XzdGeDJZNkJaRzc4cTdYRFlGVjNxMi1CdVVqVG1tY3F4eERUVnU1X1RvRmlVTEJRdlN6QWhyTDlIZkdvSFFDOGp6OEJXaW51NFJRdXY2dUE1QXdVTTdGc1oyOGRtS1FoRQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:16:55 GMT"
+  },
+  {
+   "id": "news:4c7bc507465a6ff6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "가입 여부 미리 알려준다’…삼성생명 100번째 특허",
+   "source": "라이센스뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oa25iLWZPMm43bnU1VWtZajNyM29DN0ZlMVZpR185UFNHQ2UxVWZTTWZpZnJSckk5aV9sMUpXNVE5NjU0b3NUcFNWb0Z2STM4bTlDWHdYWkpDU2h5LXN0eUhWWmExRHJ6TkE0?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:20:00 GMT"
+  },
+  {
+   "id": "news:4acff61e3b163166",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, GA 영업지원 플랫폼 고도화…모바일 영업 강화",
+   "source": "아주경제",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRU4zOGREb250M0dQN3F0djZnMmhsdkhHYm9NNW9PYVVfR0Z1amdMczJCYTFBVHRIZ1pmc0lMRi1nMkhvaC1JWkNTNjlRb2FxSnFmQkVCSWFTQdIBWEFVX3lxTE1LVmNmUXoxekU3TW9JOVA1LU1SZXpqUjhOX18tQVZzV3pGMEpYRU5Db2Q1c0NXX1h6NWxlTU1uckczNDVlY0hVa3RlSV9ueUdaQ3NsanZlRHE?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 00:24:44 GMT"
   }
  ],
  "initialized": true,
