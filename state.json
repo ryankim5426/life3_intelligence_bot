@@ -331,10 +331,12 @@
   "news:835eb64bbfb29ccb": 1788852331,
   "news:aa4a76d2782f814e": 1788852331,
   "news:9c36df8b39f55e7d": 1788853477,
-  "news:1a484c448f4e5e59": 1788855743
+  "news:1a484c448f4e5e59": 1788855743,
+  "news:f5c9db030206bf6c": 1788857108,
+  "news:f067debfc97654e1": 1788857108,
+  "news:0306bfe6476b49d7": 1788857109
  },
  "stories": {
-  "삼성생명, 미확정 풍문 해명 공시 속 장중 약세 지속 : 기업주식정보": 1788597184,
   "한화생명, 장중 4%대 하락…확인된 악재 없이 약세 지속 : 기업주식정보": 1788603227,
   "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
   "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |": 1788634277,
@@ -451,7 +453,8 @@
   "교보생명, 협력적 노사문화·일가정 양립 성과 인정받아": 1788852331,
   "[단독]교보생명, '아픈손가락' 교보라플 연내 흡수통합 - 머니투데이": 1788852331,
   "[금융 ★들의 궤적] 한화생명 투톱, 글로벌망 넓히고 본업 다졌다": 1788852331,
-  "\"이 상품 가입될까\" 삼성생명, 심사 전에 결과 알려준다": 1788853477
+  "\"이 상품 가입될까\" 삼성생명, 심사 전에 결과 알려준다": 1788853477,
+  "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109
  },
  "news_queue": [
   {
@@ -843,6 +846,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kWG5wTEpIOGhoTzQ4X04tejlYRGlJZy1mWUlEQ3lxbERURm9PVHJOaDMzYW1Pa05zYTdnQWlDQW5wdFQxRV9MRk8zbGZ4Wktpc3ZrUm5iQVVsZVFnTHZMRHpsS0pxUjlOMG1uckxEX2k?oc=5",
    "sort_key": "Tue, 08 Sep 2026 07:26:46 GMT"
+  },
+  {
+   "id": "news:0306bfe6476b49d7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’",
+   "source": "경인방송 뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWTI2ak85RDNRZjRkNGVBdGFnemVsOFpVNi1KZmdQSHNhdmR0QXROOTJBbHdRWTNETE8tMHMzWUpuV1RwdnFnTHhiSWJzMDF1eVdhc3A4SG5zbmVOSmtXbGxGTHPSAWhBVV95cUxOaEp3Q19NYThRa3pfRDQ1Szd4dWQtLUVwbllwZy1zUVVINEEzS2dGTmdILVNmVnUxSFVSMTdlTzdwOHRpOVZxc0EyN1haZWhNTkhwTmZMQXpNU1AxWkhDYzR2MUlYWWZqeQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 08:09:19 GMT"
   }
  ],
  "initialized": true,
