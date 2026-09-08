@@ -342,7 +342,9 @@
   "news:5a5786a9d46012ce": 1788864229,
   "news:08381b87655efe81": 1788865108,
   "news:48aaafb960e0f135": 1788868313,
-  "news:64d082d7f3645382": 1788868313
+  "news:64d082d7f3645382": 1788868313,
+  "news:cc30bf06aa83a89a": 1788870055,
+  "news:2d59c284bead6c2d": 1788870055
  },
  "stories": {
   "유상욱 “한화생명전 밴픽, 상대 정폿 견제에 집중”": 1788617800,
@@ -465,7 +467,8 @@
   "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961,
   "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
   "교보생명, 교보라플 흡수통합 검토": 1788862870,
-  "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108
+  "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
+  "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055
  },
  "news_queue": [
   {
@@ -907,6 +910,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrZ2hQQXRSdTNWVlpVaEdlR3hYNzhueEdCVW5JRnBFVnoxT1lpOWhMcVgwaXRuSlFQVzdFdDZ1bGZwekdlSlFSUHBLNEhJS1ZBMkhQei0xa19kd3Njb2tuQmVzWE5wRW1uVnZz?oc=5",
    "sort_key": "Tue, 08 Sep 2026 07:21:46 GMT"
+  },
+  {
+   "id": "news:2d59c284bead6c2d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신",
+   "source": "글로벌에픽",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10ZUlUODVBVUZRbVVfUFFfZXZhU2FuN0FTV2VPSU1RZXc2dlI3NmRoSE91SXhIMUt5aV9qcktVYWxGZ2pkVWVPRll0MUgxeUEwdUYwWGdiNEkxLU9kQWVBNVczaktBVDVTdUJQR1V2UFVrNmtQTlZ2V2ljYjk?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 05:00:26 GMT"
   }
  ],
  "initialized": true,
