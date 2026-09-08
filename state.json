@@ -304,7 +304,9 @@
   "news:5db4363eb45337d1": 1788834808,
   "news:d0d7f7a887fcb3f7": 1788834808,
   "news:aa86948e10cbfad2": 1788834808,
-  "news:f2c87223dbf64ca5": 1788834808
+  "news:f2c87223dbf64ca5": 1788834808,
+  "news:7eb626d03270ab8f": 1788835887,
+  "news:cdb2be3e08d04e6e": 1788835887
  },
  "stories": {
   "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670,
@@ -416,7 +418,9 @@
   "삼성SDI, 계열사 삼성생명 특별계정 매매로 지분율 19.82% 기록": 1788832331,
   "[금융톡톡] 한화생명 '영업플랫폼' 고도화·삼성생명 100번째 특허·신한라이프케어 시니어 주거 혁신": 1788832331,
   "삼성생명, 실시간 심사 기술로 특허 획득…“거절 대신 ‘플랜B’ 1초 만에”": 1788834808,
-  "“보험 가입 가능 여부 미리 확인”…삼성생명, 심사 시스템 특허 등록": 1788834808
+  "“보험 가입 가능 여부 미리 확인”…삼성생명, 심사 시스템 특허 등록": 1788834808,
+  "전속조직 집중한 삼성생명 \"설계사 AI 활용은 필수 역량\"...보장성보험 시장지배력↑": 1788835887,
+  "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)": 1788835887
  },
  "news_queue": [
   {
@@ -668,6 +672,26 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nenlMa2FYdi0wRUhTMGtQaklEUF9LUm41ME5MeG90UC1wdURUSGZIa1NJVWNMaXlLaUxZSUpkZFJSYnBDdEhGSkhYd2lJSFVLZE1wT3Z3RjFuWEEtejM1WHpBTGQ?oc=5",
    "sort_key": "Tue, 08 Sep 2026 01:18:44 GMT"
+  },
+  {
+   "id": "news:7eb626d03270ab8f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "전속조직 집중한 삼성생명 \"설계사 AI 활용은 필수 역량\"...보장성보험 시장지배력↑",
+   "source": "녹색경제신문",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MXdEaFZzU3B3QXd2WlpJd2FQdmxXUmE0UXMxX2dYQzktMXpHSTV4S25UMHZianVxcm1EYlJRWTBkREttVEkzMEphQkhXVnR4S2NabXhfYWx1LUtoVkdNaXh4UUY0R1RB?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 02:45:00 GMT"
+  },
+  {
+   "id": "news:cdb2be3e08d04e6e",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)",
+   "source": "위클리오늘",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03R1NpQVpHQUpTcTRrNEhBMVVuX3NqODZmWm1ucjNaSzhONEJPREpNVUs5NHNJbms0NTNyVU11bVV3SnlKV0UwMGFXMEFuV01OQVBaNWRQTERXalM2T2FFblRiSUxURlVqOWZIaFZ3?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 02:45:10 GMT"
   }
  ],
  "initialized": true,
