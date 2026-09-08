@@ -326,7 +326,10 @@
   "news:52dc52203cb485e4": 1788848397,
   "news:2cd85abe0099e24e": 1788850872,
   "news:3f3193d3fa10cb11": 1788850873,
-  "news:6023a0611f3c39a1": 1788850873
+  "news:6023a0611f3c39a1": 1788850873,
+  "news:334b389c129d833f": 1788852331,
+  "news:835eb64bbfb29ccb": 1788852331,
+  "news:aa4a76d2782f814e": 1788852331
  },
  "stories": {
   "한화생명, 치매 돌봄 혁신 솔루션 15개팀 선정…AI·사회참여 중심 지원 확대": 1788595056,
@@ -444,7 +447,10 @@
   "한화생명, 영업지원 통합플랫폼 오픈…설계사 편의성 제고": 1788844479,
   "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방": 1788844479,
   "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축": 1788850873,
-  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 신한라이프케어": 1788850873
+  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 신한라이프케어": 1788850873,
+  "교보생명, 협력적 노사문화·일가정 양립 성과 인정받아": 1788852331,
+  "[단독]교보생명, '아픈손가락' 교보라플 연내 흡수통합 - 머니투데이": 1788852331,
+  "[금융 ★들의 궤적] 한화생명 투톱, 글로벌망 넓히고 본업 다졌다": 1788852331
  },
  "news_queue": [
   {
@@ -796,6 +802,36 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wUEtMb2RTOGxVNE5DZnUxNG1xODBnMk94TjQtazd4RnpYRXRhQTlGUjdnVjBYTGJlVGoyV21JSTQ5cGpxclJ4OWMwcTB3V2UzS1hv?oc=5",
    "sort_key": "Tue, 08 Sep 2026 06:41:17 GMT"
+  },
+  {
+   "id": "news:334b389c129d833f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 협력적 노사문화·일가정 양립 성과 인정받아",
+   "source": "popcornnews.net",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RNnA4RUx3VFZjS0YxNE5SSHVoNnZqaWlBaTNNMGQ2Vmx6bFRyWDBISUpHS2daLVBkcXFSQzFQMWY1aHFIRG9MNjRRWFhPN1pzQUV0SlNnTldUZEVxY2pHdnc4VEpKN0FRTkp3cHBR0gFyQVVfeXFMTUNvQVNKWW1sd3VqZWtUOWlWRzlhWTJ5a1U1clpXelFVMGZ2emVDR08yV0ZSdWowWGNBV1BITVZTNjVFa3dXQ1dVbnVqZXRGZGtPcGdrMGNuWXpENklCNkFSNF91azVkVC1ZWU43bU5mX1lB?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 06:27:39 GMT"
+  },
+  {
+   "id": "news:835eb64bbfb29ccb",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[단독]교보생명, '아픈손가락' 교보라플 연내 흡수통합 - 머니투데이",
+   "source": "mt.co.kr",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtYk54QkJmdjZJeGpEQmJJNW9BWmJyMDNQaUFWVGpBeG1iaC1ZWDU4ejVSSEpFYlhFeGF5M0xHak5VR1BoRzkzNkdCUXFuZmRBNmRraDVYSmR1bW9WM3E1d1cwUmVYMnRHZ3dJ0gFwQVVfeXFMTzdYMG1fOEpMM21EekwycS15YzlqN1ZGcjR3WjBIbW5WVEVacnl1R0Q4bHY3RWpYR25HaGRKZ1A5Ym02dEVEYXBQN21QUjNETjgxUXZvLU1Od05Tbk5hOVRHLUFONVFab0wxQjhOYV9Paw?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "id": "news:aa4a76d2782f814e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[금융 ★들의 궤적] 한화생명 투톱, 글로벌망 넓히고 본업 다졌다",
+   "source": "블로터",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41aV91dEphSExUNS0yTExzYkFabzFxTjQzNjZDSzBQcGxLaWhodGhuWUdCREFtQ29mYnJlR2JfMWJ5QWQ5NUszU0gtN0prazBUcEw0ZGV5YVMtZHRWc3JCd29Qc05ldGFf0gFsQVVfeXFMTW9LMHc5bGdjZHA0WDhjRTNtMUxKNFlIdWUtdnp6QmN3cWRnRkZIc1N3ZVBBd0pDM0t4MUdETG83S3FnM1RZNlF0SHVpcURCam9zY1pnSElvRnNmTjVTYTZwLWloZjVMdXdlajNm?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 07:17:23 GMT"
   }
  ],
  "initialized": true,
