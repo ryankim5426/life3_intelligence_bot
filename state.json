@@ -345,7 +345,8 @@
   "news:64d082d7f3645382": 1788868313,
   "news:cc30bf06aa83a89a": 1788870055,
   "news:2d59c284bead6c2d": 1788870055,
-  "news:e9d59a5de0b7d1ff": 1788873984
+  "news:e9d59a5de0b7d1ff": 1788873984,
+  "news:5cec065ebb8410cc": 1788881214
  },
  "stories": {
   "삼성생명, 美 보험사 인수설에 \"결정된 바 없다\" |": 1788634277,
@@ -468,7 +469,8 @@
   "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
   "교보생명, 교보라플 흡수통합 검토": 1788862870,
   "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
-  "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055
+  "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
+  "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214
  },
  "news_queue": [
   {
@@ -920,6 +922,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10ZUlUODVBVUZRbVVfUFFfZXZhU2FuN0FTV2VPSU1RZXc2dlI3NmRoSE91SXhIMUt5aV9qcktVYWxGZ2pkVWVPRll0MUgxeUEwdUYwWGdiNEkxLU9kQWVBNVczaktBVDVTdUJQR1V2UFVrNmtQTlZ2V2ljYjk?oc=5",
    "sort_key": "Tue, 08 Sep 2026 05:00:26 GMT"
+  },
+  {
+   "id": "news:5cec065ebb8410cc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지",
+   "source": "issuevalley.com",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVV29MNmpXSXJ4cVFNeXRHQkJ6UWlVbm54OHlROFBtLWNRMkVDTEdaTV8xQjZId2NPdFh2dGc5R2pRZklfWGVieG5UMVJpZE91NTBOTUNDN21pWXhWcldsSzhHWngwQjVkOFUxN1FB?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 09:05:16 GMT"
   }
  ],
  "initialized": true,
