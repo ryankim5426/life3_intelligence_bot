@@ -306,10 +306,11 @@
   "news:aa86948e10cbfad2": 1788834808,
   "news:f2c87223dbf64ca5": 1788834808,
   "news:7eb626d03270ab8f": 1788835887,
-  "news:cdb2be3e08d04e6e": 1788835887
+  "news:cdb2be3e08d04e6e": 1788835887,
+  "news:0c7b6f934d3fff1b": 1788839513,
+  "news:48d5cabbcc9b974b": 1788839513
  },
  "stories": {
-  "교보생명 고객센터 보험금 청구 계약 해지 방법 안내": 1788579670,
   "﻿「한화생명 WE CARE MEMORY+」 액셀러레이팅 공모전 시상:시사앤피플": 1788589090,
   "호텔신라 지분 0.03%p 감소…삼성생명 특별계정 매도 영향": 1788590154,
   "금융 넘어 문화로…교보생명, 클래식으로 고객 접점 확대": 1788591046,
@@ -420,7 +421,8 @@
   "삼성생명, 실시간 심사 기술로 특허 획득…“거절 대신 ‘플랜B’ 1초 만에”": 1788834808,
   "“보험 가입 가능 여부 미리 확인”…삼성생명, 심사 시스템 특허 등록": 1788834808,
   "전속조직 집중한 삼성생명 \"설계사 AI 활용은 필수 역량\"...보장성보험 시장지배력↑": 1788835887,
-  "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)": 1788835887
+  "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)": 1788835887,
+  "한화생명설계사, AI기반 영업 통합플랫폼 쓴다": 1788839513
  },
  "news_queue": [
   {
@@ -692,6 +694,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03R1NpQVpHQUpTcTRrNEhBMVVuX3NqODZmWm1ucjNaSzhONEJPREpNVUs5NHNJbms0NTNyVU11bVV3SnlKV0UwMGFXMEFuV01OQVBaNWRQTERXalM2T2FFblRiSUxURlVqOWZIaFZ3?oc=5",
    "sort_key": "Tue, 08 Sep 2026 02:45:10 GMT"
+  },
+  {
+   "id": "news:48d5cabbcc9b974b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명설계사, AI기반 영업 통합플랫폼 쓴다",
+   "source": "스트레이트뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MYzFUZEFLd0IzSzNfc2s4OUpfelBTdVZ4YkZtb09QUngtMjVhSU1KVFVDNEgyY0dmQkhHN0t0MGdUN3ppMUtlUHFZdFpqR2owU1pyWFZnNGFhRHl6Vzl0aDR6WDBzc0ZuMko4NFpnMWlHTWPSAXdBVV95cUxPU0hhQ1plSUJ2eE1pYzNVeWNfSklEdVJxZHh4NDhWb2Z4MXAyZHNPUzYxT1FvLXNzOFBueDYyZHkxYnJWTEZnOUNqc2o3aWh5bThwd2xDeXp1N181TzdOYi1WbGRrVTltNkNpVXVLN3k1VWNUU1JoRQ?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 02:09:00 GMT"
   }
  ],
  "initialized": true,
