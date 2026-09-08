@@ -348,7 +348,8 @@
   "news:e9d59a5de0b7d1ff": 1788873984,
   "news:5cec065ebb8410cc": 1788881214,
   "news:b4821f5c69f16bba": 1788885971,
-  "news:6463dd93fa116803": 1788885971
+  "news:6463dd93fa116803": 1788885971,
+  "news:044b47724df7040a": 1788903927
  },
  "stories": {
   "증권사에 밀린 생보 퇴직연금 신계약 4397억 감소…삼성생명만 361%↑": 1788646715,
@@ -470,7 +471,8 @@
   "교보생명, 교보라플 흡수통합 검토": 1788862870,
   "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
   "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
-  "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214
+  "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
+  "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927
  },
  "news_queue": [
   {
@@ -932,6 +934,16 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVV29MNmpXSXJ4cVFNeXRHQkJ6UWlVbm54OHlROFBtLWNRMkVDTEdaTV8xQjZId2NPdFh2dGc5R2pRZklfWGVieG5UMVJpZE91NTBOTUNDN21pWXhWcldsSzhHWngwQjVkOFUxN1FB?oc=5",
    "sort_key": "Tue, 08 Sep 2026 09:05:16 GMT"
+  },
+  {
+   "id": "news:044b47724df7040a",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명",
+   "source": "일간투데이",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQmpHVjV0UWdrb19Pekh5RDZTUVdCYlJyNEdZNDZhajZ0WXZMQWVhNkFHV3JaVFFNU0RJaTVnWVhpdTRXQlhYZ3E1ejNwamRZdUhJNEtaaWd1aFN6eFc0SDhJdHV6Ny1BOHV3?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 21:30:00 GMT"
   }
  ],
  "initialized": true,
