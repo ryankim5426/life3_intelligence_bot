@@ -416,7 +416,10 @@
   "news:6f4eaf5da15e6972": 1788986550,
   "news:609ae42e7481582a": 1788988592,
   "news:05102280e78dd96f": 1788989545,
-  "news:0948cb21a312db04": 1788989545
+  "news:0948cb21a312db04": 1788989545,
+  "news:1906a28f1b7d6cc8": 1788992570,
+  "news:44429b4edf356cd1": 1788992571,
+  "news:55983bd443b39b6b": 1788992571
  },
  "stories": {
   "클레온, 삼성생명과 만든 ‘AI 고객’ 상담 훈련 솔루션 공개한다": 1788737426,
@@ -566,7 +569,9 @@
   "교보생명 '보험금 일괄 청구 서비스'…총 38개 생·손보사 보험금 청구 가능": 1788986550,
   "교보생명, 퇴직연금 보유계약 20兆 눈앞…서비스 차별화": 1788988592,
   "1일 서울 종로구 교보생명빌딩에서 열린 '2026 교보생명 광화문글판 대학생 디자인 공모전 시상식'에서 조대규 교보생명 사장(왼쪽 첫번째)와 이준희 국민대 교수(맨 오른쪽) 및 수상자들이 기념촬영을 하고 있다.(사진=교보생명)": 1788989545,
-  "교보생명 새 대표에 '교보맨' 조대규 부사장 내정, 신창재 의장과 2인 각자대표 체제로": 1788989545
+  "교보생명 새 대표에 '교보맨' 조대규 부사장 내정, 신창재 의장과 2인 각자대표 체제로": 1788989545,
+  "10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 IB 눈길": 1788992571,
+  "GA 브랜드평판 뒤집혔다… 인카금융서비스 1위, 한화생명금융서비스 3위": 1788992571
  },
  "news_queue": [
   {
@@ -938,6 +943,26 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83LWZ3dUxDajhCeHJiZ0xhalZoWnl0YTVNdW00UmE3OFV0YXBFRHVEUGZXUGg2czJHWU90QUM1UG9mMkxRSjFOSVNNMlc3eUZvdWVad0UwdWVjWHRmZE5Ha3VKOUJfanJDamfSAW5BVV95cUxOWHQzMVVZMExRZ1pjX0t4eW0yUzd3MXdJNE5BaTUzblUyWWxxS2ttN2NPakNpR3g4VlZUZW9sWnNzT0I3R3U5SUpKRkhXNXh2aVlqQ0lSTDhRMlh4UV83ZUhrOUp6d2VhcExtYjZhZw?oc=5",
    "sort_key": "Wed, 09 Sep 2026 08:26:00 GMT"
+  },
+  {
+   "id": "news:44429b4edf356cd1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 IB 눈길",
+   "source": "인베스트조선",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWp5UlRVOE5NelNETnpOUy1sT256WGRkZmNCV2pvN1lnaGdFSXI0bXEzNWRsdC0tSXMtRTBwOG13dWFtYVk5SFZYT1pMMVk5dXFZbVZNSC0zTUMtLWNoU3lCTHNGWHg4ZHZIZm5kd3RxMW54cHdjZXd3T2JIRTMyb1A0cw?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 22:00:00 GMT"
+  },
+  {
+   "id": "news:55983bd443b39b6b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "GA 브랜드평판 뒤집혔다… 인카금융서비스 1위, 한화생명금융서비스 3위",
+   "source": "핀포인트뉴스",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82eEpGTjhNU2ZjQ3M1SEUwcXRHeUpaTHEwSDdlM0dBTHNCRDFmeHVVb2ZFaTJxRmdMaG54OXIxcTJtRXJTbU4tcmNwUVdNOVZQM1d0NUNkY0s5LW5VRjFxb244ZnhsTmpjUkRsMHRVd1daV3PSAXdBVV95cUxQZzZjMjJRajFKVkJKX2xDbS1rSGtWME9ZcHpUVXRQTklxSjRUQUJ6bko1YkMwbGNOTjZmNjVZSzA0T3NCQ1UxNi1uV2x6M3VvVFZEMjMyOWZ6ZGM1ejd3UERVakRPaHR3LWFSc3RNckltd3JVMm5tOA?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 22:00:19 GMT"
   }
  ],
  "initialized": true,
