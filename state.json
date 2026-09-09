@@ -393,7 +393,9 @@
   "news:06f2360558ced180": 1788930877,
   "news:59a792b993d3ee3e": 1788930877,
   "news:6349e7437481249e": 1788931978,
-  "news:29b7e3708d7c9b9e": 1788931979
+  "news:29b7e3708d7c9b9e": 1788931979,
+  "news:d178c332a314b407": 1788933027,
+  "news:b15f9dd9ac54da00": 1788933027
  },
  "stories": {
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
@@ -537,7 +539,8 @@
   "한화생명 \"기기 넘나드는 영업\"…전자청약 중단 없이 이어간다": 1788928420,
   "교보생명, '10년 적자' 교보라이프플래닛 흡수통합 검토…\"독자생존 여부 미정\"": 1788929485,
   "[오늘의 보험] 삼성생명·교보생명·흥국생명": 1788930877,
-  "[금융-라운지] 미래에셋증권 / KB골든라이프 / 금융투자협회 / 한화생명금융서비스 / 교보생명 / 하나은행": 1788931979
+  "[금융-라운지] 미래에셋증권 / KB골든라이프 / 금융투자협회 / 한화생명금융서비스 / 교보생명 / 하나은행": 1788931979,
+  "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판": 1788933027
  },
  "news_queue": [
   {
@@ -769,6 +772,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoa19lQ2JRY2REd0lwQk45WG45LTNyZnlCdFJpbkdJZDh6N0pHNWIxUzlTV05JTS10TUhGRXVhbUxXT0VCZ2NGZ2dXbjdmMFJHNjVPb0ZYMmpKNFBEOEpvd1RnQlI1Q0tBM3h0dHpMYw?oc=5",
    "sort_key": "Wed, 09 Sep 2026 02:31:45 GMT"
+  },
+  {
+   "id": "news:b15f9dd9ac54da00",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판",
+   "source": "스마트경제",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xaG9CWkw5YmROY21mMDVCRGRIenBWUGJfa1NRUjlNN2E0dXlTSF9MVVhJM3p1YVVjclhSc3kwQzhYUFZCMFF3NTlielRpN1FjX2ZiMEpzLXV0NVp5bUpCQTlfbVpkTjdkX2VsUmV3MWk?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 04:15:00 GMT"
   }
  ],
  "initialized": true,
