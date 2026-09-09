@@ -399,7 +399,8 @@
   "news:5401b767a199a203": 1788934807,
   "news:0a3a6b99453fe40a": 1788934807,
   "news:66e1c67b87f0db2d": 1788936095,
-  "news:fba86cfe8fd9d7b8": 1788936095
+  "news:fba86cfe8fd9d7b8": 1788936095,
+  "news:d3724a1732202b0e": 1788937251
  },
  "stories": {
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
@@ -545,7 +546,8 @@
   "[오늘의 보험] 삼성생명·교보생명·흥국생명": 1788930877,
   "[금융-라운지] 미래에셋증권 / KB골든라이프 / 금융투자협회 / 한화생명금융서비스 / 교보생명 / 하나은행": 1788931979,
   "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판": 1788933027,
-  "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095
+  "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095,
+  "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251
  },
  "news_queue": [
   {
@@ -797,6 +799,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMldmcV9Wc1Z3UzUyY3lrZVowdG9uQmxWZXV3TEI0T3FNbWxBR2ZZQWVzeS1QT2EtaGdsWmc2ckY4aUNNQS1TRFJHS1JSaWIwbzBpN2JDblRNSHpNelZZYkUyNzRkNFkwZXQ0RnlVOEQ?oc=5",
    "sort_key": "Wed, 09 Sep 2026 06:29:50 GMT"
+  },
+  {
+   "id": "news:d3724a1732202b0e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유",
+   "source": "오늘경제",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSHRFYmJ4WHdEaVRuNWU4RXJobjlfTzBJeDktSGdLWkJnU3pjMWJqVFpzMDZmRFdRcWpmOHc1UnZ3aTUzUnNjcVp4MVNzMnVtRFBNMW9BQVdaM19NQng3dUJJZjFQa1B5WXRWeENWLURlT0E?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 05:29:38 GMT"
   }
  ],
  "initialized": true,
