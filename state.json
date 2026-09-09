@@ -411,7 +411,8 @@
   "news:5beabc7b2abdaca4": 1788953582,
   "news:0a815d943bc816b0": 1788957736,
   "news:ed7a04b6bc02e02e": 1788958832,
-  "news:e9366cffd9ca9de2": 1788971742
+  "news:e9366cffd9ca9de2": 1788971742,
+  "news:050432e7473a9161": 1788982390
  },
  "stories": {
   "사진=교보생명": 1788727682,
@@ -558,7 +559,8 @@
   "[업앤다운]보험주 하락…삼성생명·삼성화재↓": 1788942051,
   "삼성생명, 태국·중국 법인 ‘호조’…배당 실탄으로 선진시장 M&A 나서나": 1788944341,
   "삼성생명, 치료 횟수 따라 연 최대 1억원 보장…‘가족대표건강보험 Plus+’ 출시": 1788957736,
-  "한화생명금융서비스, 자동차보험 비교견적 정확도 높이는 기술 개발": 1788958832
+  "한화생명금융서비스, 자동차보험 비교견적 정확도 높이는 기술 개발": 1788958832,
+  "한화생명금융서비스, 보험료 오차 잡는 특허 취득": 1788982390
  },
  "news_queue": [
   {
@@ -880,6 +882,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5bzRQemk2U3FXQTBxdDdmZFBrWDh1VkFYQVdqeUs5bUdpNEtDaXNIWTZoLXFNOEJYSGp0N3lmaGpLWEZ0a2pzY3cxZFN5TzhZWGladkFGbXFEY212VUZzTGZ1WG9jbW8?oc=5",
    "sort_key": "Wed, 09 Sep 2026 12:57:05 GMT"
+  },
+  {
+   "id": "news:050432e7473a9161",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 보험료 오차 잡는 특허 취득",
+   "source": "우먼타임스",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SE5IR0MwWkxoVWMwcC1iaUotZ05mX2g1QmU2bUtrb3JTN3dRSWhHSkxzUHFacnBkNDZ4anFnMzNzakxRbjdnUWdnM2RrcW82M0RsS090NFkza1FwLWtuaEIwbGpsOURpdjNjRWFXbnTSAXRBVV95cUxObEVhR2E4dUl1Y1FsVUNocUVnMUVfWmpnZ0V6N0FUZmgwZkNmV1F4Q01mdG4wTFltQ2ZieFNPeVpQRFpMWW1kQjFEWHc2UmJjejQ0ckl5NEhMQU5mSHYyNTRDS3RMTDNZLTYxWlBybkJkWUVnXw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 00:56:53 GMT"
   }
  ],
  "initialized": true,
