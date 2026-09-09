@@ -414,10 +414,11 @@
   "news:e9366cffd9ca9de2": 1788971742,
   "news:050432e7473a9161": 1788982390,
   "news:6f4eaf5da15e6972": 1788986550,
-  "news:609ae42e7481582a": 1788988592
+  "news:609ae42e7481582a": 1788988592,
+  "news:05102280e78dd96f": 1788989545,
+  "news:0948cb21a312db04": 1788989545
  },
  "stories": {
-  "교보생명, ‘교보다시채움건강종신보험’ 평생 맞춤형으로 진화": 1788729688,
   "클레온, 삼성생명과 만든 ‘AI 고객’ 상담 훈련 솔루션 공개한다": 1788737426,
   "‘우승 후보’ 한화생명, MSI 첫 경기서 TSW 3-0 완파 [MSI]": 1788738471,
   "\"AI 가상 고객 모셨습니다\" 삼성생명 실전형 롤플레잉 서비스 출격": 1788738471,
@@ -563,7 +564,9 @@
   "한화생명금융서비스, 자동차보험 비교견적 정확도 높이는 기술 개발": 1788958832,
   "한화생명금융서비스, 보험료 오차 잡는 특허 취득": 1788982390,
   "교보생명 '보험금 일괄 청구 서비스'…총 38개 생·손보사 보험금 청구 가능": 1788986550,
-  "교보생명, 퇴직연금 보유계약 20兆 눈앞…서비스 차별화": 1788988592
+  "교보생명, 퇴직연금 보유계약 20兆 눈앞…서비스 차별화": 1788988592,
+  "1일 서울 종로구 교보생명빌딩에서 열린 '2026 교보생명 광화문글판 대학생 디자인 공모전 시상식'에서 조대규 교보생명 사장(왼쪽 첫번째)와 이준희 국민대 교수(맨 오른쪽) 및 수상자들이 기념촬영을 하고 있다.(사진=교보생명)": 1788989545,
+  "교보생명 새 대표에 '교보맨' 조대규 부사장 내정, 신창재 의장과 2인 각자대표 체제로": 1788989545
  },
  "news_queue": [
   {
@@ -915,6 +918,26 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YTmJVbkFZRnFxRjNyRWtJcmVVaFpHNGRVRHh4WmJQVzRBUW5aV3VrTXBfaUFDY2pCZXA5QkJPRmxFVEpJOXlQMk1seENOSXZ5RTVwSzV1cjFibVUzSjBydUxhUGZCV3VZ?oc=5",
    "sort_key": "Wed, 09 Sep 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:05102280e78dd96f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "1일 서울 종로구 교보생명빌딩에서 열린 '2026 교보생명 광화문글판 대학생 디자인 공모전 시상식'에서 조대규 교보생명 사장(왼쪽 첫번째)와 이준희 국민대 교수(맨 오른쪽) 및 수상자들이 기념촬영을 하고 있다.(사진=교보생명)",
+   "source": "전자신문",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMi5A1BVV95cUxNNUNhSGZSUXBkMU1iajVsTWExQ1haNUxUSmxkQmJnenRhaGNNNXlWWWt2WFpLMU5aa1BmVUlwcEVic3pNb3VtV09neDdaOU56c1dGZVZOYUw2em0wRTB3cGZEU3JjaENvSVotd3BNck05eWl3R3ZONnl2VVJ5TlhESTV0RVlfOWNZV0FyNWloNUZNYTZYQ3NubU1wMk00b2NhSnI0MkR6aXhwMFF4Q1lZUjhmOGRaVU5wT09mcF80WWNPNjljNnVVNF92blNLLTExb2VwNXlMSmRSWTBra2VlMjVLTmVQcmpZc3JnempjejNvQlhpeVVLdWVnWGRsbUNFbWhRZ0dLWmoySWRyM0k1aHZUOWNTalBUWjVIYnBCTVh5Ym5kaTlYX0lJbDg4cjdnekdNMkhHcUZEMzF6cGNXcXJrcWNaUTZBdzA0Y2xkUktLNTRPMjdOazFqa1J5WW9OeU9keXVaMjQ2YUM5RUpuZjFfdzgyUVRObEFRUk5DSEtfRnBLeG1MakhyYTZjMGFsdWszeXo4TXh0WkhYSnBsSm03UmszUjVZY0pMRkhiYUxaLXp3alZFR1F0SHVpMjZwWVJGZEZGdkQ2RDNpZC1oTURHTlc3d3Zydk9vTGNKbzhiTHBXRWZIQm94dTBqNkNrcFJhRmJnZUtTTWo5X2VZMXo3U3RqRjN6Tm9MalJFRmZPd1BKY1ZqVmpsdGRlQ2lyOW00SUh1THhXMHJ2aWNVdkNXX0pwZlRCOU1rc0RWbTE0YlV5ZmJudTltVHZWMTd1MGs0NE5IYS1CZUJkYXhOdnlITlJwRkJidTNWTWY0TWd1VXh5NFFwalNCMlczb0JYdW5fR1FfNlQ3TkJqdWZmaHFCSUpHcE1Yb3BvVUhGaVdSa3Q2UVRkZ00tRldpVHNMQ09VVkxvV0stNDVrbzZiUTMzTDAzWGRrTjlpYzYyM2VVSENONXFPSWEwaVo5SHpmTllLczdvWkZvcmNXeUg2VEMtbXNiNXQwOHBta3lWYV9FYWs2RjRHQVNWdmtBdlVwMTIzOUNkVDhOWERXSzdmZ2d3VHhkNjJCRDVrM1FJSEdmYllLUkFtOHhJaGtMUS00T1FwZllEeGVDMW5ZMWdkYlZ6UnRnTmJMcEZyTXZLdnBkM1U4TXVsRXhNejdHNmNmaEZBeThHMlctX2VmWjZqdHk4ZTJBX3ZfcnFwQkxobjcwMXFiYW92MW5IQXYxWEIxZF9hOUJXeEZKbEZiUXJrQlNkQ3hqOFdqOWxFbmk3cDBJaVVEdzBPU2NVTGc2VUJ3ZUhvLVZyQ0lxWnJ5cmRhbG1CRnF0d24wUmhHaUl1V1ltNF9HRVFDYXM0elNITS1KYUtJLW9GN2tMV2syZ1h5S291NkJRQURLYzUtNktDV2FNSWF2WUkyTmtGbjU1SlJQRnI3anFkRF9LSzBaRUxZcTl5Wm9Ld1NrRXE3UUt6WWxlUGIzOVoyMUdJNmlSeHpCLXFsRlhuUHhWcmFlbzdjeng3V1hXWi1MczExd0NkSmgwMENFTjdiSkpkTFhwNHBnUVgzNFBaODA4Z0ZkenVEWnE0LWRKN2ZBVThoQ0JkdmtZTkFETkF1TWtKWktyUkZWdHBETHBvNjJ0cjhnRDFvNjdZUUZySkQyS1NQaWxQZE02S3NMM2xVOG9oazJPdXczVEQ3UHJtYjNSeVVSV2VZTFR1SmZiNzFMa3c4UFRueFhMa2dNa3JHb0NhMjlKeFVZd1N0T2lkTE81MFQzaXg0Mm1wdkZVS0dud3d0V3lLUEctVjF5RU1hTmtFdnNOSGlFcEFkQUpRUDFOOGFMd2k1dEFwZzJjOVlfSGV4WW5wYXFJV1JQYVdHaXYwMlB3aXRRZE9YTVpIZU9HU3F0cDBqS28xYml1emVKOTRlSmxNZWVnejNsUDVkdUZrRWhKblBkcHg1bVBqN0V5YkU1QXV3Q3BOd2Mxb0xVU2RFU0llVVV1SXNOLTFra24xUGREQktOOHBCNlV3VjN3bXF1ZlZIdENjZVNvZHhhOHMwNFVwTTJCLUdyRG81azBLV1gxRWZfVWN3NThRVTE4VzhmckJaYk5vTlFWR01GRmxzcVo0WEdmMUJYRC1mYm42VUJidTlYZXVvak14anBjdjAzOGVHMEg3TkkxUE9iTHR2bmZpTzdBR09HQU5UcURpUGM0RFBZOEpXT0lpUG9WUFpCNjh4cnBoNXhBUUMxOFlKM0padm9QQ1k5ZXhBRGdOUlpUNkRMWnZiLWFSRlh2cUg3eGFkb25GeGVPeFBvRERMOVgzanJwb1d3YUVrNmQ5M3ZtbkFhaGJ5ZXJiOU9GTk9qYy1HZzBMVFI?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 05:03:04 GMT"
+  },
+  {
+   "id": "news:0948cb21a312db04",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 새 대표에 '교보맨' 조대규 부사장 내정, 신창재 의장과 2인 각자대표 체제로",
+   "source": "catchnews.kr",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83LWZ3dUxDajhCeHJiZ0xhalZoWnl0YTVNdW00UmE3OFV0YXBFRHVEUGZXUGg2czJHWU90QUM1UG9mMkxRSjFOSVNNMlc3eUZvdWVad0UwdWVjWHRmZE5Ha3VKOUJfanJDamfSAW5BVV95cUxOWHQzMVVZMExRZ1pjX0t4eW0yUzd3MXdJNE5BaTUzblUyWWxxS2ttN2NPakNpR3g4VlZUZW9sWnNzT0I3R3U5SUpKRkhXNXh2aVlqQ0lSTDhRMlh4UV83ZUhrOUp6d2VhcExtYjZhZw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 08:26:00 GMT"
   }
  ],
  "initialized": true,
