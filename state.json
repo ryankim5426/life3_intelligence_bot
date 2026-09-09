@@ -387,7 +387,8 @@
   "news:a2add667bf17fe1f": 1788923774,
   "news:35cef5b6c6089173": 1788924847,
   "news:86f9af5f844e41f2": 1788925872,
-  "news:9c7abc649bedcad1": 1788925872
+  "news:9c7abc649bedcad1": 1788925872,
+  "news:d0b3152676552288": 1788928420
  },
  "stories": {
   "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264,
@@ -528,7 +529,8 @@
   "교보생명 광화문글판 시상 세종대 학생 대상…조대규 사장 “긍정적 리더되길”": 1788921186,
   "한화생명금융서비스, 특허기술 확보…보험영업 현장 부담 줄인다": 1788923774,
   "삼성생명, 암 치료 횟수별 보장 강화…연 최대 5회": 1788925872,
-  "'車보험 자동 검증' 특허 취득한 초대형 GA...한화생명금융서비스, 최적화된 금융 솔루션 제공 '가속화'": 1788925872
+  "'車보험 자동 검증' 특허 취득한 초대형 GA...한화생명금융서비스, 최적화된 금융 솔루션 제공 '가속화'": 1788925872,
+  "한화생명 \"기기 넘나드는 영업\"…전자청약 중단 없이 이어간다": 1788928420
  },
  "news_queue": [
   {
@@ -720,6 +722,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94eGU4OTJKcG9yejdUWnFpQlFxbWd4c3hGWUh4M1JKNllCWFVwcUhObWY1MXNlc3c1TnNMVFdTaUkxUGFXRjl5bUZJN2FmQXlCUjJDTDhReEpQS0JzUm5BamNUSjlNUWtL?oc=5",
    "sort_key": "Wed, 09 Sep 2026 03:46:00 GMT"
+  },
+  {
+   "id": "news:d0b3152676552288",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 \"기기 넘나드는 영업\"…전자청약 중단 없이 이어간다",
+   "source": "디스커버리뉴스(DISCOVERYNEWS)",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0YlRHV1BtZmZTOThCczQtV1BNMENObklXNzNlN01XWFJqekZnNkFEU2VjOWJaSXI1c0VjcWV1dER5ZTRpLWhYVzVWQ2ZnQkNqVmozZXJ0eWZjeG5TOUlpWm8wMGJ2NU9nUHpsVHdmY1dodw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 04:10:08 GMT"
   }
  ],
  "initialized": true,
