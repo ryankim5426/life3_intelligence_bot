@@ -400,7 +400,9 @@
   "news:0a3a6b99453fe40a": 1788934807,
   "news:66e1c67b87f0db2d": 1788936095,
   "news:fba86cfe8fd9d7b8": 1788936095,
-  "news:d3724a1732202b0e": 1788937251
+  "news:d3724a1732202b0e": 1788937251,
+  "news:00473ab759caaf3a": 1788938742,
+  "news:d5a7bcda22ab9fe5": 1788938742
  },
  "stories": {
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
@@ -547,7 +549,9 @@
   "[금융-라운지] 미래에셋증권 / KB골든라이프 / 금융투자협회 / 한화생명금융서비스 / 교보생명 / 하나은행": 1788931979,
   "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판": 1788933027,
   "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095,
-  "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251
+  "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251,
+  "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬": 1788938742,
+  "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742
  },
  "news_queue": [
   {
@@ -809,6 +813,26 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSHRFYmJ4WHdEaVRuNWU4RXJobjlfTzBJeDktSGdLWkJnU3pjMWJqVFpzMDZmRFdRcWpmOHc1UnZ3aTUzUnNjcVp4MVNzMnVtRFBNMW9BQVdaM19NQng3dUJJZjFQa1B5WXRWeENWLURlT0E?oc=5",
    "sort_key": "Wed, 09 Sep 2026 05:29:38 GMT"
+  },
+  {
+   "id": "news:00473ab759caaf3a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬",
+   "source": "팝콘뉴스",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cnRza3JkYjhTVWs1UVVDNXBVUGE4YUhPNWIwSE5IZGhwR0F1Z3BBUlVwbUhPYnI1X2s4ZnQtaUZJeHdwa2lYTlFldEdNSTdYZUUwSnBZcUhCU01QVnlKN1d1eEFpM25JOHA3YVVR0gFyQVVfeXFMTkpKNWJobW5RaTVCWDdkWUVoRWc0TDFOd0N0bGZUWWJ5bGYtaW1CRlc3S3hzRVZSa3lwS2otVmNLYjl1SXdleXNBNndQd2hsR3h2SHBmR0N5bzM3SUd2RjVhQmJlX3ExRTlLaFhUeTl3elJR?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 06:56:07 GMT"
+  },
+  {
+   "id": "news:d5a7bcda22ab9fe5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보",
+   "source": "nspna.com",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWXZzUGpISUVicTkzVmluTXVHUWxRTzFVMHJVY29SUXNaaEoyODNzYWRBUTRCODNMeE9FVFZZUkVZQ2UtMWcyN3hnOXpnRzhBcWJHRDc5bDYtaDY0UlJIRw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 07:10:01 GMT"
   }
  ],
  "initialized": true,
