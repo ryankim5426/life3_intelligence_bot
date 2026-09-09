@@ -373,7 +373,11 @@
   "news:4b2bfc9dae36fd40": 1788917608,
   "news:206b1252d604958b": 1788917608,
   "news:1656fa7649de5fef": 1788917608,
-  "news:5a913e605b954b89": 1788917608
+  "news:5a913e605b954b89": 1788917608,
+  "news:b1f259d9abd70679": 1788920127,
+  "news:c1039f3cfa7d4cf8": 1788920128,
+  "news:348f212a91ac7d52": 1788920128,
+  "news:af22a463862a79a9": 1788920128
  },
  "stories": {
   "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264,
@@ -505,7 +509,10 @@
   "車보험 견적 오류 잡는다…한화생명금융서비스 특허 취득": 1788916440,
   "한화생명, 9월 생명보험 평판 1위 독주…미래에셋·교보생명 순 ‘톱3’": 1788917608,
   "한화생명, 애큐온 인수 복병은 勞…3년내 '직접 인수'에 발목 잡히나": 1788917608,
-  "[재계 인사이드] 삼성생명과 삼성전자, 삼성자동차 그리고 ‘금산법’": 1788917608
+  "[재계 인사이드] 삼성생명과 삼성전자, 삼성자동차 그리고 ‘금산법’": 1788917608,
+  "삼성생명, 암 치료 1회만 받아도 보험금 지급…연 최대 5회 보장": 1788920128,
+  "횟수별 보장·통합 진단... 삼성생명, 가족대표건강보험 플러스 선봬": 1788920128,
+  "[금융레이더]삼성생명/교보생명/현대카드": 1788920128
  },
  "news_queue": [
   {
@@ -607,6 +614,36 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUXBDNlVTVlBNQmZLbzNPQmpXd09RSmRDM3J1amd3dzhwYk9Gb2ZmajgteGtjR0pGNDhudzZXNkJhUFJQY3JiTkhPZ3h1amZkU2JqTXhGVE1TbHRTUXc?oc=5",
    "sort_key": "Wed, 09 Sep 2026 01:18:00 GMT"
+  },
+  {
+   "id": "news:c1039f3cfa7d4cf8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 암 치료 1회만 받아도 보험금 지급…연 최대 5회 보장",
+   "source": "이지경제",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yZU5mbDVQTXd2eHRfV3RGLW9LOF9DVno2bFZ4U1VHNzE0RmcwellQMDhGdUUwNWNvYjhmTXJqeW5HRzBncG11a3hxMDZncFN4LVhLbE9WNjZlZ1RKWHZSeTFxN19ldUxuNERncUxB?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 01:18:50 GMT"
+  },
+  {
+   "id": "news:348f212a91ac7d52",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "횟수별 보장·통합 진단... 삼성생명, 가족대표건강보험 플러스 선봬",
+   "source": "뉴스락",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02WHR3MG02UTNOUkhZSmdLbXIzR0I4ek10d3htbWs2cUJuNHdhTjJ3NnhmVzRkNU55WjBKR01KQjBhRlp5aGxGdHFYd1FrZ3ZGNXFPNDk3ME5ZMHN2X24tbTVjNm9xRXI2SjhBLQ?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 01:28:56 GMT"
+  },
+  {
+   "id": "news:af22a463862a79a9",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "[금융레이더]삼성생명/교보생명/현대카드",
+   "source": "대한경제",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wN042d1QydE82Rnk1SHNpazJWUXJMRDFjU2JCN29oMzdBdDV0MWVNdHFXb3ZmQUVVOGEwTDZHVUNGaXQxbGpuM21PbDV1RGpqTVVJRDgyNlhMRWdHTTRFeTZLNnM5cDhUbXJMQlBkaXdveDRP?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 01:31:39 GMT"
   }
  ],
  "initialized": true,
