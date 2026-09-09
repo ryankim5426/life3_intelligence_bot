@@ -389,7 +389,9 @@
   "news:86f9af5f844e41f2": 1788925872,
   "news:9c7abc649bedcad1": 1788925872,
   "news:d0b3152676552288": 1788928420,
-  "news:0ba18f03b9312b0a": 1788929485
+  "news:0ba18f03b9312b0a": 1788929485,
+  "news:06f2360558ced180": 1788930877,
+  "news:59a792b993d3ee3e": 1788930877
  },
  "stories": {
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
@@ -531,7 +533,8 @@
   "삼성생명, 암 치료 횟수별 보장 강화…연 최대 5회": 1788925872,
   "'車보험 자동 검증' 특허 취득한 초대형 GA...한화생명금융서비스, 최적화된 금융 솔루션 제공 '가속화'": 1788925872,
   "한화생명 \"기기 넘나드는 영업\"…전자청약 중단 없이 이어간다": 1788928420,
-  "교보생명, '10년 적자' 교보라이프플래닛 흡수통합 검토…\"독자생존 여부 미정\"": 1788929485
+  "교보생명, '10년 적자' 교보라이프플래닛 흡수통합 검토…\"독자생존 여부 미정\"": 1788929485,
+  "[오늘의 보험] 삼성생명·교보생명·흥국생명": 1788930877
  },
  "news_queue": [
   {
@@ -743,6 +746,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50T0gwRjlPUkE4b1JyY2xrVkFDb2MtVTZCLWU0TnFiXzExWUNxU3FRR1czb2Y2dE1RS3dhUVh2QmxDOWZibmtqTFFNQ1RyRWtLcmxWQkUxalU3SVhNaVJzSUkzZ3J0MXhhOVNaMg?oc=5",
    "sort_key": "Wed, 09 Sep 2026 04:16:28 GMT"
+  },
+  {
+   "id": "news:59a792b993d3ee3e",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "[오늘의 보험] 삼성생명·교보생명·흥국생명",
+   "source": "파이낸셜리뷰",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOZFVvZF9iZXUySHBEXzladlV0UDc2dnM4OF9TUzRYUlg1emJMdVBGZ000ODR2bzVNSkNhSjBpWmZTSko3SFhDYXRCakgzTV9zSldhM2haNEVPbWRRS085UDFzQjRGTXJSTGVZRm05NmN2MF9J?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 04:59:31 GMT"
   }
  ],
  "initialized": true,
