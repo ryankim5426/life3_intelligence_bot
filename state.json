@@ -369,10 +369,13 @@
   "news:f1c35dedde9d691c": 1788916439,
   "news:fa513f24b5a91f41": 1788916439,
   "news:6facb29bfd2ede7b": 1788916439,
-  "news:13875036780b61f8": 1788916440
+  "news:13875036780b61f8": 1788916440,
+  "news:4b2bfc9dae36fd40": 1788917608,
+  "news:206b1252d604958b": 1788917608,
+  "news:1656fa7649de5fef": 1788917608,
+  "news:5a913e605b954b89": 1788917608
  },
  "stories": {
-  "[2026 머니엑스포] '생명' 지키고 미래 키운다…삼성생명, 사회공헌도 '본업답게'": 1788657664,
   "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264,
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
   "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장": 1788683047,
@@ -499,7 +502,10 @@
   "삼성생명, 신규 건강보험 시리즈 “치료 횟수따라 보장”": 1788913791,
   "한화생명금융서비스, 자동차보험료 ‘자동 검증’ 기술로 특허 취득": 1788915095,
   "\"치료 횟수만큼 보장…삼성생명 '가족대표건강보험'": 1788915095,
-  "車보험 견적 오류 잡는다…한화생명금융서비스 특허 취득": 1788916440
+  "車보험 견적 오류 잡는다…한화생명금융서비스 특허 취득": 1788916440,
+  "한화생명, 9월 생명보험 평판 1위 독주…미래에셋·교보생명 순 ‘톱3’": 1788917608,
+  "한화생명, 애큐온 인수 복병은 勞…3년내 '직접 인수'에 발목 잡히나": 1788917608,
+  "[재계 인사이드] 삼성생명과 삼성전자, 삼성자동차 그리고 ‘금산법’": 1788917608
  },
  "news_queue": [
   {
@@ -571,6 +577,36 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1UV9CY1NQaXZaT3VjNEh3OVhab1o4Um93cFRPaGlLUkE2bV9EMkdlZDUzTzVUd2g3ZTVjSEp2Nm4tZzI4T2laYlctdEphWE9rN0wyNDd0MGdLQdIBWEFVX3lxTE1qT3M3bFdoc2c3S3FXZkxPQlFJODR2OGhxWmZERlBKM1VFT1dYU1VOVU9idlR1TllTbllWeUdCRzVDckR3eXpqU1Y2UXlUaWtIejI3d0ZhaWw?oc=5",
    "sort_key": "Wed, 09 Sep 2026 00:56:23 GMT"
+  },
+  {
+   "id": "news:206b1252d604958b",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "한화생명, 9월 생명보험 평판 1위 독주…미래에셋·교보생명 순 ‘톱3’",
+   "source": "팝콘뉴스",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oemp6RVRrOUxhTjdIODJ3clRsdlhpbmZid1BrZjNJc3VQLXBaaHk4RXBDRzVuMVVRd1p6cDIxdm1WMWR6bmd6cExZWV83MUVyN0I5RmNRdDZ1V1Z1akFRSnBMcWowOU1rT0R5Sml30gFyQVVfeXFMTk54V1NPN2NqTHJ0d0pTdXd5OUgxaGhOWkJsWU5FWnE4blgzMlNPZ0Q1Q1QySFNpWkMtb3FnX2tJOVJNa3VKMGhtdlpzTm5jRHdOQlZHLWFfbDhDT0xnNmU3bmdUM2xpZlAzYVNLODE5UDBR?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 23:55:12 GMT"
+  },
+  {
+   "id": "news:1656fa7649de5fef",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 인수 복병은 勞…3년내 '직접 인수'에 발목 잡히나",
+   "source": "블로터",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SaTVHcmhhdk1hRDl3MUJpcnVjWXRPQ0tld1dWZW1WT2RUcGFGY05RXzlISGJBMkFSZXRHX01LeGdXOXY2OHlwYjRSX2N2Qzc3VTdfazhDOGcyYmRzQWFlRVdvX0hzV0hp0gFsQVVfeXFMTzA2MG1QSkNoSkFPRHo4eWpzd2t6aVFIRjR6alBwa2NhUzA4RUtiOXE3R2pqS2doRDExa0YtRDhyMkx6cGNjdWNnenV6cFpJS19UR0FwNUdneV9yQ2taZ1VBbWQ4Uk9IWEl4Q1pQ?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 01:10:04 GMT"
+  },
+  {
+   "id": "news:5a913e605b954b89",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[재계 인사이드] 삼성생명과 삼성전자, 삼성자동차 그리고 ‘금산법’",
+   "source": "뉴스투데이",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUXBDNlVTVlBNQmZLbzNPQmpXd09RSmRDM3J1amd3dzhwYk9Gb2ZmajgteGtjR0pGNDhudzZXNkJhUFJQY3JiTkhPZ3h1amZkU2JqTXhGVE1TbHRTUXc?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 01:18:00 GMT"
   }
  ],
  "initialized": true,
