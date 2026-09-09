@@ -404,7 +404,8 @@
   "news:00473ab759caaf3a": 1788938742,
   "news:d5a7bcda22ab9fe5": 1788938742,
   "news:5f390c956195ba81": 1788940708,
-  "news:2c0a76a0939f6fef": 1788942051
+  "news:2c0a76a0939f6fef": 1788942051,
+  "news:e719b43d07644e16": 1788944341
  },
  "stories": {
   "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
@@ -551,7 +552,8 @@
   "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251,
   "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬": 1788938742,
   "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742,
-  "[업앤다운]보험주 하락…삼성생명·삼성화재↓": 1788942051
+  "[업앤다운]보험주 하락…삼성생명·삼성화재↓": 1788942051,
+  "삼성생명, 태국·중국 법인 ‘호조’…배당 실탄으로 선진시장 M&A 나서나": 1788944341
  },
  "news_queue": [
   {
@@ -843,6 +845,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZVhsYlc0WW81Z3hLM3FVdE5JNVhzclFoSnZIbG5qNENiLTZYVEFJeGpKUmdzYlRGS1M1Z2Q3cTdIOUg0SnBsRDZFVjRNdjhCc2pYcF94cGZEVG5DVzlOTmNkZw?oc=5",
    "sort_key": "Wed, 09 Sep 2026 08:06:46 GMT"
+  },
+  {
+   "id": "news:e719b43d07644e16",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 태국·중국 법인 ‘호조’…배당 실탄으로 선진시장 M&A 나서나",
+   "source": "CEO스코어데일리",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oWkxkdkhleWoycUhUU3FfOVJmZHFJaV9ER1VGN0ZtWjloQmtLRkMtNG9yVGFOWlRWWmpLSURKR1JJalZVUVJtRGNWemxwNFVvSzBZYXRadTdGSnlkMnRZcUdhVXRSMWFS?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 08:41:49 GMT"
   }
  ],
  "initialized": true,
