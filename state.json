@@ -403,10 +403,10 @@
   "news:d3724a1732202b0e": 1788937251,
   "news:00473ab759caaf3a": 1788938742,
   "news:d5a7bcda22ab9fe5": 1788938742,
-  "news:5f390c956195ba81": 1788940708
+  "news:5f390c956195ba81": 1788940708,
+  "news:2c0a76a0939f6fef": 1788942051
  },
  "stories": {
-  "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
   "[포커스] 뉴욕법인 이어 美보험사 지분투자까지...삼성생명, 해외사업 확장": 1788683047,
   "“삼성전자 덕에 조 단위 현금”…삼성생명·화재, 돈 풀까 쌓을까": 1788684119,
   "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
@@ -552,7 +552,8 @@
   "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095,
   "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251,
   "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬": 1788938742,
-  "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742
+  "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742,
+  "[업앤다운]보험주 하락…삼성생명·삼성화재↓": 1788942051
  },
  "news_queue": [
   {
@@ -834,6 +835,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWXZzUGpISUVicTkzVmluTXVHUWxRTzFVMHJVY29SUXNaaEoyODNzYWRBUTRCODNMeE9FVFZZUkVZQ2UtMWcyN3hnOXpnRzhBcWJHRDc5bDYtaDY0UlJIRw?oc=5",
    "sort_key": "Wed, 09 Sep 2026 07:10:01 GMT"
+  },
+  {
+   "id": "news:2c0a76a0939f6fef",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[업앤다운]보험주 하락…삼성생명·삼성화재↓",
+   "source": "nspna.com",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZVhsYlc0WW81Z3hLM3FVdE5JNVhzclFoSnZIbG5qNENiLTZYVEFJeGpKUmdzYlRGS1M1Z2Q3cTdIOUg0SnBsRDZFVjRNdjhCc2pYcF94cGZEVG5DVzlOTmNkZw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 08:06:46 GMT"
   }
  ],
  "initialized": true,
