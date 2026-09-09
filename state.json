@@ -358,7 +358,11 @@
   "news:6128de0125927b8b": 1788909730,
   "news:5fc4145b4fa0b69b": 1788910833,
   "news:8bd2f3e2bb0c2601": 1788910833,
-  "news:70a74703ca69bbc1": 1788911874
+  "news:70a74703ca69bbc1": 1788911874,
+  "news:07e6b95307e38d21": 1788913790,
+  "news:1c829f0b92e46725": 1788913791,
+  "news:6b340e0e972e8e37": 1788913791,
+  "news:1ffc8b99fe72b8ef": 1788913791
  },
  "stories": {
   "[2026 머니엑스포] 교보생명, 금융취약계층부터 미래세대까지…사회 안전망 넓힌다": 1788656534,
@@ -484,7 +488,10 @@
   "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653,
   "사진=한화생명": 1788905871,
   "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제": 1788909730,
-  "삼성생명, '삼성 가족대표건강보험 Plus+' 출시": 1788911874
+  "삼성생명, '삼성 가족대표건강보험 Plus+' 출시": 1788911874,
+  "\"816 대 1 뚫은 청춘의 디자인\"…교보생명, 광화문글판 가을편 시상": 1788913791,
+  "교보생명, 광화문글판 ‘대학생 디자인 공모전’ 시상식": 1788913791,
+  "삼성생명, 신규 건강보험 시리즈 “치료 횟수따라 보장”": 1788913791
  },
  "news_queue": [
   {
@@ -496,6 +503,36 @@
    "date": "Tue, 08 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVTdWMmxSeDlJTGlVUVpZUzBwZjItYnptZXhWYjFyekhramhRc0M3UWsxWlN4bHBNMExWbzFqS3FBQ2d6QTVTMlY3RmFxeVVJU0t1SktUbGd5REVOQzEzeA?oc=5",
    "sort_key": "Tue, 08 Sep 2026 23:49:02 GMT"
+  },
+  {
+   "id": "news:1c829f0b92e46725",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"816 대 1 뚫은 청춘의 디자인\"…교보생명, 광화문글판 가을편 시상",
+   "source": "thefairnews.co.kr",
+   "date": "Tue, 08 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zbUdiMUItYWJOLVV1QlZzaFBONnh2bnVSNllseG9HYzM4WU9vT0FoZ01jdjE0NWh2WHZXOVZVZkI2eHItY2tMWFRRVXhNOWpBOXpOeXBTdktLTHpNY1EzOGw3Nlh5N0g3bk4tNVphdGw?oc=5",
+   "sort_key": "Tue, 08 Sep 2026 23:58:12 GMT"
+  },
+  {
+   "id": "news:6b340e0e972e8e37",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 광화문글판 ‘대학생 디자인 공모전’ 시상식",
+   "source": "매일일보",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10LUw2MGQtUXZtb3BucTVaejhQZm9NR2s5dHB6NnE5V01YOGlaMEE4TlVRbzM3aFNram54SnF0QllieHZKS25oQ2JVUXVZT19VWmc5VUpleUFEeTJDWldDZjRqNk_SAWhBVV95cUxNWU9nZnFBRlIwdFlYOFhYeTlKZENPd2EzQUxDTFBrQzNsYUo0bHRRT01iRjZFSFl1Z1JudnFvRi00cXZfRkVnaXhSN0FlYjU0WW95N3pIZEJjUTc2VDNjRUZOdDZ6MlI1ZA?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 00:04:17 GMT"
+  },
+  {
+   "id": "news:1ffc8b99fe72b8ef",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 신규 건강보험 시리즈 “치료 횟수따라 보장”",
+   "source": "글로벌이코노믹",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDJFVFIwMzg1MV83ZjZUSllsQms4TmVQYmQzMFlUeUVCc1ZOcm14QndNVFRvNXp6aHVnc0pjeW1qbzQ4c2ExSDFCZFlRS1NuWTI1cUdqQ2IyNHhKX003Q2trMzhoc1VxZ1JKZjVwU2Z6MGJycTRCTTZTeGI1Y3I4LWJpV3Y?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 00:14:07 GMT"
   }
  ],
  "initialized": true,
