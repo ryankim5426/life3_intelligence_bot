@@ -377,7 +377,11 @@
   "news:b1f259d9abd70679": 1788920127,
   "news:c1039f3cfa7d4cf8": 1788920128,
   "news:348f212a91ac7d52": 1788920128,
-  "news:af22a463862a79a9": 1788920128
+  "news:af22a463862a79a9": 1788920128,
+  "news:c00d5bf5941ad246": 1788921185,
+  "news:00c3a81a1370f457": 1788921186,
+  "news:0b99849d0688f95c": 1788921186,
+  "news:68f136ca815604db": 1788921186
  },
  "stories": {
   "삼성생명, 입원비∙간병비 보장하는 '삼성 인터넷 입원 건강보험' 출시": 1788669264,
@@ -512,7 +516,10 @@
   "[재계 인사이드] 삼성생명과 삼성전자, 삼성자동차 그리고 ‘금산법’": 1788917608,
   "삼성생명, 암 치료 1회만 받아도 보험금 지급…연 최대 5회 보장": 1788920128,
   "횟수별 보장·통합 진단... 삼성생명, 가족대표건강보험 플러스 선봬": 1788920128,
-  "[금융레이더]삼성생명/교보생명/현대카드": 1788920128
+  "[금융레이더]삼성생명/교보생명/현대카드": 1788920128,
+  "[보험업계 동향] 삼성생명ㆍ한화생명금융서비스ㆍ흥국생명 (9.9)": 1788921186,
+  "교보생명, 대학생 디자인 공모전 대상에 세종대 디자인전공 정호윤씨": 1788921186,
+  "교보생명 광화문글판 시상 세종대 학생 대상…조대규 사장 “긍정적 리더되길”": 1788921186
  },
  "news_queue": [
   {
@@ -644,6 +651,36 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wN042d1QydE82Rnk1SHNpazJWUXJMRDFjU2JCN29oMzdBdDV0MWVNdHFXb3ZmQUVVOGEwTDZHVUNGaXQxbGpuM21PbDV1RGpqTVVJRDgyNlhMRWdHTTRFeTZLNnM5cDhUbXJMQlBkaXdveDRP?oc=5",
    "sort_key": "Wed, 09 Sep 2026 01:31:39 GMT"
+  },
+  {
+   "id": "news:00c3a81a1370f457",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[보험업계 동향] 삼성생명ㆍ한화생명금융서비스ㆍ흥국생명 (9.9)",
+   "source": "위클리오늘",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nSzVNY09KNGptQVRXZkFldFZhLTJjUGMwR1otMzN1Q0dOajhrY3BwTExZUER0TWNnaTJ2YnNZZFp2TExyb0NCSjFYazJOSnVMemVJYjRyc2U0R3ozalM1ZkpxVkNBU1ZBQ0RvcU9R?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 02:16:25 GMT"
+  },
+  {
+   "id": "news:0b99849d0688f95c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 대학생 디자인 공모전 대상에 세종대 디자인전공 정호윤씨",
+   "source": "핀포인트뉴스",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qYjluNVJzWlNyYnRxQTJsbHJQTlZwejE5Z1ZSZGIxY2pZMS1BUm0zcEhncUswdVA0TEQtYnBZWURJSEVzN1ByWGh1ekhHdmU5bEhzSjlWX2FZMFJhdUtrUUEyTkFIWjZYa0VRUzV0YUJqLTTSAXdBVV95cUxNWWp1YnNaRUVPNGVVN3hUSTVTUnlHdlpUcTVWZmtLaW1kSHdJYmVQN1gzeE9BWFFYaExKazE4WEhWX2RoOEw1My13Ynd3NmpRRG1MQlVrOTY3Tm02WVdTMmpOZ1pTd25ySDRfdVc1aGp1NER4aGJudw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 02:19:53 GMT"
+  },
+  {
+   "id": "news:68f136ca815604db",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 광화문글판 시상 세종대 학생 대상…조대규 사장 “긍정적 리더되길”",
+   "source": "글로벌이코노믹",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXB0SzgtTFVXZklUT2o3cVl0N0VnY1FRNnJJaThmWWhsdF9hYmhTQnZuSFdmMmt3UHY5ZE56MklIMkQwMnZ4endtRnF4TjR3YnRrMVotWWVGWklQd2E1bnJMZGFJOXpyTUpMNWh0blBRRjhzNXNjazk4aXVOaE9lMzdKQTI?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 02:27:33 GMT"
   }
  ],
  "initialized": true,
