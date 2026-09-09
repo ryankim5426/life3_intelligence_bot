@@ -408,7 +408,8 @@
   "news:e719b43d07644e16": 1788944341,
   "news:9d617209ee79089f": 1788952497,
   "news:2c19d9f83454df03": 1788953582,
-  "news:5beabc7b2abdaca4": 1788953582
+  "news:5beabc7b2abdaca4": 1788953582,
+  "news:0a815d943bc816b0": 1788957736
  },
  "stories": {
   "삼성생명 “배당 우상향 지속…해외 M&": 1788698767,
@@ -556,7 +557,8 @@
   "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬": 1788938742,
   "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742,
   "[업앤다운]보험주 하락…삼성생명·삼성화재↓": 1788942051,
-  "삼성생명, 태국·중국 법인 ‘호조’…배당 실탄으로 선진시장 M&A 나서나": 1788944341
+  "삼성생명, 태국·중국 법인 ‘호조’…배당 실탄으로 선진시장 M&A 나서나": 1788944341,
+  "삼성생명, 치료 횟수 따라 연 최대 1억원 보장…‘가족대표건강보험 Plus+’ 출시": 1788957736
  },
  "news_queue": [
   {
@@ -858,6 +860,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oWkxkdkhleWoycUhUU3FfOVJmZHFJaV9ER1VGN0ZtWjloQmtLRkMtNG9yVGFOWlRWWmpLSURKR1JJalZVUVJtRGNWemxwNFVvSzBZYXRadTdGSnlkMnRZcUdhVXRSMWFS?oc=5",
    "sort_key": "Wed, 09 Sep 2026 08:41:49 GMT"
+  },
+  {
+   "id": "news:0a815d943bc816b0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 치료 횟수 따라 연 최대 1억원 보장…‘가족대표건강보험 Plus+’ 출시",
+   "source": "팍스경제TV",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UYTBOaFR4b20zdnZjWl9ncVFvREMxUTFMZnV6OEIwbldjeFFKS0JYU0ctTXk4Q2pSUXB2aUhwdTNybmJlTHFMOF9kdXRwZ1FUVjRHdVI2VHNYYXpEOGtNT0Z3OFNDWmcw?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 00:40:15 GMT"
   }
  ],
  "initialized": true,
