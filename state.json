@@ -397,7 +397,9 @@
   "news:d178c332a314b407": 1788933027,
   "news:b15f9dd9ac54da00": 1788933027,
   "news:5401b767a199a203": 1788934807,
-  "news:0a3a6b99453fe40a": 1788934807
+  "news:0a3a6b99453fe40a": 1788934807,
+  "news:66e1c67b87f0db2d": 1788936095,
+  "news:fba86cfe8fd9d7b8": 1788936095
  },
  "stories": {
   "교보생명, 보육원·저소득층 대학생에 '희망다솜장학금'...21년간 장학생 442명 배출": 1788681621,
@@ -542,7 +544,8 @@
   "교보생명, '10년 적자' 교보라이프플래닛 흡수통합 검토…\"독자생존 여부 미정\"": 1788929485,
   "[오늘의 보험] 삼성생명·교보생명·흥국생명": 1788930877,
   "[금융-라운지] 미래에셋증권 / KB골든라이프 / 금융투자협회 / 한화생명금융서비스 / 교보생명 / 하나은행": 1788931979,
-  "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판": 1788933027
+  "“아파서 치료받을 때마다 돈 나온다”… 삼성생명, 1년에 5번 주는 ‘역대급 건강보험’ 등판": 1788933027,
+  "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095
  },
  "news_queue": [
   {
@@ -784,6 +787,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xaG9CWkw5YmROY21mMDVCRGRIenBWUGJfa1NRUjlNN2E0dXlTSF9MVVhJM3p1YVVjclhSc3kwQzhYUFZCMFF3NTlielRpN1FjX2ZiMEpzLXV0NVp5bUpCQTlfbVpkTjdkX2VsUmV3MWk?oc=5",
    "sort_key": "Wed, 09 Sep 2026 04:15:00 GMT"
+  },
+  {
+   "id": "news:fba86cfe8fd9d7b8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁",
+   "source": "신아일보",
+   "date": "Wed, 09 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMldmcV9Wc1Z3UzUyY3lrZVowdG9uQmxWZXV3TEI0T3FNbWxBR2ZZQWVzeS1QT2EtaGdsWmc2ckY4aUNNQS1TRFJHS1JSaWIwbzBpN2JDblRNSHpNelZZYkUyNzRkNFkwZXQ0RnlVOEQ?oc=5",
+   "sort_key": "Wed, 09 Sep 2026 06:29:50 GMT"
   }
  ],
  "initialized": true,
