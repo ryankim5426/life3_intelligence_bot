@@ -480,12 +480,10 @@
   "news:0527b665f3ad67cc": 1789057957,
   "news:666c13b9acdc7066": 1789064747,
   "news:41354f56321c36f4": 1789075275,
-  "news:4a008f8fca5a4819": 1789082442
+  "news:4a008f8fca5a4819": 1789082442,
+  "news:a17c9be0958c99a7": 1789084340
  },
  "stories": {
-  "교보생명, 자본증권 5000억 발행 9일 뒤 4700억 상환…기본자본 줄어든다": 1788824892,
-  "삼성생명, 가입 심사부터 대체상품 추천까지…100번째 특허 획득": 1788824892,
-  "삼성생명 보험 가입 가능성 선사 판단 시스템 특허 획득": 1788824892,
   "삼성생명, '예상인수결과 제공 시스템' 100번째 특허 등록": 1788825637,
   "심사 전에 가입 여부 확인…삼성생명 100호 특허 획득": 1788825637,
   "\"보험 가입 되나?\" 바로 확인…삼성생명, 100번째 특허": 1788827700,
@@ -604,9 +602,21 @@
   "코스피, 약보합에도 7000선 지켜내...삼성생명, 삼성물산 상승 VS 삼성바이오로직스, LG에너지솔루션 하락": 1789044824,
   "교보생명 대산문화재단, 대학문학상 공모…김애란·윤고은 이을 신인 찾는다": 1789046125,
   "코스피, 약보합…삼성전자우·삼성생명 선전, 11일 향방은": 1789055449,
-  "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442
+  "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442,
+  "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명": 1789084340
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:a17c9be0958c99a7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명",
+   "source": "세이프타임즈",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hLVQtcWt0T3NiSHluMWRma0Z2TnZGa3pBRlpyT3d2UWp6X0taUFg3cU9aN1R0a3lRMzRtRFhfM3hERVpRajI1VVRwT3FoSkNDT25KV0xrS3VPbi03R1B4NVR2eXJZWmpVeUhScU5QONIBc0FVX3lxTE9hcERCUlQwS1pFUVF3ZkFvT0Fmb3p5enJmRlp3S0ptSllKcjRLVzBfUlY5LVY3TEpiOUhKclRtNjJqcUNSazdQd3l2SFQ4aVVua1RLMVRrTHFHR1VOeFpsYnNjaTJoREJuTUNkMk0tcE1tdmM?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 23:31:42 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-11"
 }
