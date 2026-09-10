@@ -437,7 +437,9 @@
   "news:4d11bbdbdd4722a2": 1789010394,
   "news:d0f8d7495bda4e3a": 1789010394,
   "news:3265b90f085104a5": 1789013734,
-  "news:679d297c27ae2cdc": 1789014833
+  "news:679d297c27ae2cdc": 1789014833,
+  "news:ffd96b316810683e": 1789017264,
+  "news:86ccd06e31912afa": 1789017264
  },
  "stories": {
   "미래에셋운용·교보생명 ‘TIGER 미국S&P500미국채혼합50’ 상장 웹세미나 개최·‘2026 노사문화 우수기업’ 선정": 1788758071,
@@ -571,7 +573,8 @@
   "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵": 1789008220,
   "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394,
   "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734,
-  "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬": 1789014833
+  "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬": 1789014833,
+  "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%": 1789017264
  },
  "news_queue": [
   {
@@ -693,6 +696,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkd29INGtlaVAzQzBZcjJpcWNoaEhWdURWM2VTdFkwam1Ta1l4MDYyMzhuUnVoWXJ2c0RjVHNmWUtZY0tkZWJ4R3FibTZaZmcwX2s1RXRWYWdubnNLcWJyNWpvbFlGSGFyTmFJTVN3?oc=5",
    "sort_key": "Thu, 10 Sep 2026 00:49:13 GMT"
+  },
+  {
+   "id": "news:86ccd06e31912afa",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%",
+   "source": "글로벌이코노믹",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXRTaXZhWHlzOEtJaVE3ejNTNlJJN29MQkJVaEJmNEZQb3pwTXJtd0RoUnRnNERnX3BBcTczU201c1FjWGNONFIxdU55d2piZE16V3RPNVVsazVleXdtanNrSkF0SWdhdXJ2aEFVVExJLWVJM29ucDRXY3JTTjU1azl2QjI?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 05:09:37 GMT"
   }
  ],
  "initialized": true,
