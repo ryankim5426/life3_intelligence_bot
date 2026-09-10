@@ -428,7 +428,8 @@
   "news:19d98e11b9955454": 1789002286,
   "news:b090e3fdc1ca2b2a": 1789002286,
   "news:15936ff5d3467ae8": 1789003382,
-  "news:c7465489ad8054c8": 1789003382
+  "news:c7465489ad8054c8": 1789003382,
+  "news:51edb714855f6ffa": 1789004604
  },
  "stories": {
   "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
@@ -568,7 +569,8 @@
   "[포토] 한화생명, 63빌딩 ‘복합문화공간’ 새 단장 100일": 1789002286,
   "교보생명 대산문화재단, 제25회 대산대학문학상 작품 공모": 1789002286,
   "\"목돈으로 노후 준비\"…삼성생명, 새 연금보험 출시": 1789003382,
-  "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파": 1789003382
+  "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파": 1789003382,
+  "[금융톡톡] 한화생명 63빌딩 리뉴얼 30만명 방문·교보생명 대학문학상 공모·삼성생명 4.40% 연금": 1789004604
  },
  "news_queue": [
   {
@@ -640,6 +642,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEZnX0YwMFdaZEFJb1YtTGtjVXRtcTBHNUpDM3dkaVZ5dThDZzZQT0xkUk5XWDZhYW5Vd2dyVVgyMy1DYVZmR0kwNE5kYWxuOWJURW5fbmJWZTZkMjlvN1ZibnAxZzhEeW9uaGRoRnphVUFrQkRvLVdnQ0twc3dCNHNNWHA?oc=5",
    "sort_key": "Thu, 10 Sep 2026 01:11:41 GMT"
+  },
+  {
+   "id": "news:51edb714855f6ffa",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명 · 한화생명",
+   "title": "[금융톡톡] 한화생명 63빌딩 리뉴얼 30만명 방문·교보생명 대학문학상 공모·삼성생명 4.40% 연금",
+   "source": "뉴스웍스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56SllCSTNIVUdRV0VwUG9FUHVManYweFZxeTNEU0ZLc2tTcE81dGJOTDF3TFJmM201UG5oMTdUOVJNLWE2Ny15bzlIZnR5WDdMTHQxZDhiT1FRNUZsbDJPVDZMaUhsallzS3d3Zy1CNNIBc0FVX3lxTFBoTjJIVTNYeHI5UkZiTzVsbHhyTzgwNl9GRUg5YXdTNF9uUWlkNW1yZzRPdkR5bnBnWG1XcVQwUkQxUER2cmhwX2dEejNhaUJQNlZCYUJ2cUJaOTlvUUFuSlNsdVlfYm4wR1BCVmpqSVFFTGM?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 01:05:46 GMT"
   }
  ],
  "initialized": true,
