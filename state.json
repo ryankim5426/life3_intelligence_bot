@@ -423,19 +423,12 @@
   "news:c81537e7a351adf4": 1788998439,
   "news:36f3f1ffa7bb4191": 1789000191,
   "news:3e68edf6550b17ed": 1789000191,
-  "news:3e9feba34b3c6d36": 1789001411
+  "news:3e9feba34b3c6d36": 1789001411,
+  "news:4ba7e35e2c4acf78": 1789002286,
+  "news:19d98e11b9955454": 1789002286,
+  "news:b090e3fdc1ca2b2a": 1789002286
  },
  "stories": {
-  "[금융레이더]삼성생명/KDB생명/DB손해보험/KB손해보험": 1788742527,
-  "삼성생명, 디지털 휴먼 고객으로 컨설턴트 역량 키운다": 1788742527,
-  "[금융톡톡] 삼성생명 AI 상담훈련·KDB생명 영업시스템 혁신·동양생명 한부모 자립 지원": 1788742527,
-  "클레온-삼성생명, 대화형 상호작용 AI 롤플레이 솔루션 금융 첫 적용": 1788742527,
-  "교보생명, 고용노동부 주관 '2026 노사문화 우수기업' 선정": 1788742527,
-  "[보험브리핑] 삼성생명, AI서비스로 상담역량 강화 외": 1788742527,
-  "삼성생명, 'AI 가상고객' 도입…컨설턴트 상담훈련 돕는다": 1788742527,
-  "삼성생명 주가 상승 중": 1788742527,
-  "클레온, 삼성생명과 AI 롤플레이 개발…금융 상담 훈련에 적용": 1788742527,
-  "[포토] 교보생명, 14년만에 ‘노사문화 우수기업’ 선정": 1788742527,
   "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
   "삼성생명, AI 가상고객으로 보험상담 훈련": 1788747302,
   "G2, TES에 ‘패패승승승’ 대역전극…승자조서 한화생명 만난다 [MSI]": 1788747302,
@@ -568,7 +561,10 @@
   "10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 IB 눈길": 1788992571,
   "GA 브랜드평판 뒤집혔다… 인카금융서비스 1위, 한화생명금융서비스 3위": 1788992571,
   "목돈 한 번에 넣고 굴린다…삼성생명 '굴려받는연금보험' 출시": 1788998439,
-  "삼성생명, '삼성 굴려받는 연금보험' 출시": 1789001411
+  "삼성생명, '삼성 굴려받는 연금보험' 출시": 1789001411,
+  "한화생명 “63빌딩 재개장 100일…30만명 방문”": 1789002286,
+  "[포토] 한화생명, 63빌딩 ‘복합문화공간’ 새 단장 100일": 1789002286,
+  "교보생명 대산문화재단, 제25회 대산대학문학상 작품 공모": 1789002286
  },
  "news_queue": [
   {
@@ -590,6 +586,36 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kWGdTUHdHUEN0enRLWnkyR1d2Z1hHMU5BWVNycVo3VEdzQlFoYXM4bVpJaDVya0pBTVltclJ0MGdVR0RObndwMktlc3d0QQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 00:18:34 GMT"
+  },
+  {
+   "id": "news:4ba7e35e2c4acf78",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 “63빌딩 재개장 100일…30만명 방문”",
+   "source": "헤럴드경제",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RcnRWd2Q5NHplNF8wYmEwSHk5R2ZiTi1Pb0d0U0FHVC03SlU5aHg4alloamtPMmJFbDhBenZsWU15S29JM3g1NjFVU2xGZ3dfLTZYT0Fn?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:46:43 GMT"
+  },
+  {
+   "id": "news:19d98e11b9955454",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[포토] 한화생명, 63빌딩 ‘복합문화공간’ 새 단장 100일",
+   "source": "fetv.co.kr",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNQTVVSEtyWWxWT3J5N1NyVWs3WWZpOUhvQkpYNjdHNUJSMW1jb2E3M2w0NDg1UkxwaVdtR3YtbG16ZGJ3QTNoYXBxaFVWeGd3bFEwYVhDS3d0RTNzd3A4MHVzclBzTUtt?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:52:00 GMT"
+  },
+  {
+   "id": "news:b090e3fdc1ca2b2a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 대산문화재단, 제25회 대산대학문학상 작품 공모",
+   "source": "etnews.com",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WRmhXWG1tLWJjOGN6NU5YaWZzdDB1MVdkZXdoTjZaSVg4R0tBOFB2eVJ3c3dHZFUyNWtuaDBaYTE5UFhaTElpYlJXb1I1QQ?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:55:46 GMT"
   }
  ],
  "initialized": true,
