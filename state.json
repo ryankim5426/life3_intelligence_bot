@@ -464,10 +464,13 @@
   "news:e2731e61749cecc6": 1789029333,
   "news:571b983933426e24": 1789030369,
   "news:d0b219fea7014519": 1789031745,
-  "news:b40c144f442a8155": 1789033902
+  "news:b40c144f442a8155": 1789033902,
+  "news:d656e023e3be0798": 1789035370,
+  "news:81af75832aa534cd": 1789035370,
+  "news:8f134af59149a4ef": 1789035370,
+  "news:4f51e07bc7271b63": 1789035370
  },
  "stories": {
-  "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
   "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433,
   "교보생명, 신뢰의 노사문화 빛났다": 1788777803,
   "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603,
@@ -590,7 +593,10 @@
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 대산문화재단": 1789025683,
   "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’": 1789026700,
   "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편": 1789031745,
-  "[보험 NOW] 푸본현대생명·삼성생명·삼성화재": 1789033902
+  "[보험 NOW] 푸본현대생명·삼성생명·삼성화재": 1789033902,
+  "外人 투매, 코스피 '하락'...한화생명·GS건설은 '껑충'": 1789035370,
+  "한화생명 \"새 단장한 63빌딩, 100일만에 30만명 찾았다\"": 1789035370,
+  "AI 자동신청에 보험사 금리인하요구 2.6배 급증…삼성생명 23억 감면 ‘최대’": 1789035370
  },
  "news_queue": [
   {
@@ -832,6 +838,36 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zMFpxRWRmVm8wRjBXTUhXRHNjdDZYLThqZjR2bTFSeUtjYVd1anJPcjVsQzh2bGFIekt6Mi1jM0RjQXFUWVg5WVFRRXVsU19rVmpkUFVhcF81M3JxNlRQZzZLSlVsbDdLamhLNHZiWWY?oc=5",
    "sort_key": "Thu, 10 Sep 2026 09:34:20 GMT"
+  },
+  {
+   "id": "news:81af75832aa534cd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "外人 투매, 코스피 '하락'...한화생명·GS건설은 '껑충'",
+   "source": "초이스경제",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQ0t0R2hDdnFxTC0zM1Zzd2p1VDJLM1hqY0JIa3VrWENtUXU1bDcyVTZic1Jrd1Z4Mm5jSjlUV2JSajRkVWpsMHlEcW5sbFJ1bzlKLWM3T1VzdWVLeXg5N2Q0MUQ3RlVmaU5KYjJYczPSAXNBVV95cUxOeGJnODZNYnh3cXNMamxUX3VseVpXYjQzYjdDalpWdXpHeVdMSGhXWUh2SXlQdG54cVU1eWRpb3puaTlsU0xlWTF1cUlobkVUMThfOXRwYktoTk1oejk3LVIzbm5SdkRMbjJSX2NCZm80QmNR?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 07:14:35 GMT"
+  },
+  {
+   "id": "news:8f134af59149a4ef",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 \"새 단장한 63빌딩, 100일만에 30만명 찾았다\"",
+   "source": "파이낸셜포스트",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sa1dVaUdXY3VaWmhoY01ESDgxZkNHNUFJZXBDQkItX3pwd1R6WHAzRFpPNWpBbkxxNDd3T3E4NF9PejIzRVVRc0ZTZmtPR1ZuajViUnE3dWZKTF9aUkx0UzgxT05FOGxtbF8tdncyYk9ZSkJB?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 07:44:16 GMT"
+  },
+  {
+   "id": "news:4f51e07bc7271b63",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "AI 자동신청에 보험사 금리인하요구 2.6배 급증…삼성생명 23억 감면 ‘최대’",
+   "source": "CEO스코어데일리",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jQ2lpa0VqWDZoVUt0dXkxX0F0TVI5c1h0SXAzUjh0SEl3ZUVxS29kLTlzY2paSGZBZzFEQzFBNEF2NmFmc0x4YjhjUmd1eVdleXo3NU5EOXdKdFZkalF6OUwyYmlSNTJGNzM4?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 08:26:12 GMT"
   }
  ],
  "initialized": true,
