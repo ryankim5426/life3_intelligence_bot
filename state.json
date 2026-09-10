@@ -439,10 +439,10 @@
   "news:3265b90f085104a5": 1789013734,
   "news:679d297c27ae2cdc": 1789014833,
   "news:ffd96b316810683e": 1789017264,
-  "news:86ccd06e31912afa": 1789017264
+  "news:86ccd06e31912afa": 1789017264,
+  "news:3d80456aa1673e22": 1789019415
  },
  "stories": {
-  "교보생명, 노사문화 우수기업 선정…AI 업무혁신·일가정 양립 성과": 1788759172,
   "삼성전기, 최대주주 등 지분율 22.88% 유지… 삼성생명 특별계정 주식 매매": 1788760279,
   "교보생명, 18년간 이어온 가족친화 인증": 1788760279,
   "[금융계 8월 동향] 교보생명, 지속가능경영 실천···디지털 금융 생태계 확장": 1788762119,
@@ -570,7 +570,8 @@
   "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394,
   "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734,
   "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬": 1789014833,
-  "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%": 1789017264
+  "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%": 1789017264,
+  "[금융계 8월 동향] 한화생명, AI 경쟁력 강화···미래 성장동력 확보 속도": 1789019415
  },
  "news_queue": [
   {
@@ -702,6 +703,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXRTaXZhWHlzOEtJaVE3ejNTNlJJN29MQkJVaEJmNEZQb3pwTXJtd0RoUnRnNERnX3BBcTczU201c1FjWGNONFIxdU55d2piZE16V3RPNVVsazVleXdtanNrSkF0SWdhdXJ2aEFVVExJLWVJM29ucDRXY3JTTjU1azl2QjI?oc=5",
    "sort_key": "Thu, 10 Sep 2026 05:09:37 GMT"
+  },
+  {
+   "id": "news:3d80456aa1673e22",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[금융계 8월 동향] 한화생명, AI 경쟁력 강화···미래 성장동력 확보 속도",
+   "source": "여성소비자신문",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45WjFERmVKS3JUa3lQUVVjSW1QQjVzc2lSVmJPNUFsWFZabmFZRWRDOHAtcFNjb1dnSGxTTEpEeEl5M3JaTXRCajBudGU2Mk9fRmRzNVFUc1gxMkNzTkpFbVd6REI4dw?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 05:41:24 GMT"
   }
  ],
  "initialized": true,
