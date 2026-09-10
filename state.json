@@ -447,7 +447,11 @@
   "news:83bbdec4802e9d92": 1789021920,
   "news:203077a121faa6b7": 1789021920,
   "news:a8ade341f0e3602d": 1789023238,
-  "news:e32508bffbeb4595": 1789023238
+  "news:e32508bffbeb4595": 1789023238,
+  "news:fd1e8f5fab3a0b87": 1789024594,
+  "news:58fca0f0067cbeeb": 1789024594,
+  "news:4a3d6e2d5c3a5984": 1789024595,
+  "news:4badde1eff437d4b": 1789024595
  },
  "stories": {
   "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”": 1788767170,
@@ -576,7 +580,9 @@
   "[금융계 8월 동향] 한화생명, AI 경쟁력 강화···미래 성장동력 확보 속도": 1789019415,
   "[보험브리핑]삼성화재·한화손보·삼성생명·AIA생명": 1789020399,
   "10년간 연 4.4% 확정… 삼성생명에 1억 맡기면 1.5억된다 - 머니투데이": 1789020399,
-  "삼성생명, 10년 확정이율 적용 디지털 연금 출시": 1789021920
+  "삼성생명, 10년 확정이율 적용 디지털 연금 출시": 1789021920,
+  "[금융계 동향] 우리은행·미래에셋자산운용·교보생명": 1789024595,
+  "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ한화생명ㆍNH농협생명 (9.10)": 1789024595
  },
  "news_queue": [
   {
@@ -748,6 +754,26 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZDRSWVhwVzZhTFNIVjhyRXJIVjJ3bk9MeGw5empGZkNISHBNMFoxZTVPd3FGbE80eU5fM2N4RzBLbWRuVERCOWVPZXZTZmQ4a0lhRXFOMU83YlBXSngxN2w4TXhrWHZqQzZGLXlTZTBxSjjSAXdBVV95cUxNZlJRVnB4YU9UZnloZFNDWWQ0djFKQjNpUEhUTk1XaWplb3R2bTFmQU1TOWJ1ZWppemZlOGpmUng1Vmk4ZkNzUWZmT0czbnBpOXRmU2RKZGJvdURkeXFHMkE5VFFQOVBXNERja1cyMnRYWDdHc1NGVQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 05:40:22 GMT"
+  },
+  {
+   "id": "news:4a3d6e2d5c3a5984",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 우리은행·미래에셋자산운용·교보생명",
+   "source": "민주신문",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hR21RNmFtcGx3eFMxd2llUGxlblpyaWlBZ2t1cWJnVVpBMUNCVm1oZEROWmFfZWxsRm9yRW01Qmlqc0x1amNQWVBoZVBwSHEyc0gxOVEzNGFJcnh2ZUMxOXRHMTBKVmPSAWtBVV95cUxOaEJZdHhzNF9wU2h2S1pOMTN2NWtzcno5RktLekV2R3RSODZQa25HMFRqWFg3NFg0NmZzNldNdzZTRm5IV0VJZ1Z4RzRXOEdISEZhOXpNdzZDYVRlekVBdXN2OUMydFB0UVZwZw?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 06:40:23 GMT"
+  },
+  {
+   "id": "news:4badde1eff437d4b",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ한화생명ㆍNH농협생명 (9.10)",
+   "source": "위클리오늘",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHcG5YTDJ6TkRuSkxrdHhCVnNSWlE0YWhHNm4wZURGVm9lYnJwVXBrSGpGZl9PQ2tTbnh4clZsVzNwbG1pY0pVcm9fRkVxRjRmV3J4SkNYTVhYdnBUNzE0U0FLbWcwVXlPSFJJekV3?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 07:09:30 GMT"
   }
  ],
  "initialized": true,
