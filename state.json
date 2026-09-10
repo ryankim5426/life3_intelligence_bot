@@ -422,13 +422,10 @@
   "news:55983bd443b39b6b": 1788992571,
   "news:c81537e7a351adf4": 1788998439,
   "news:36f3f1ffa7bb4191": 1789000191,
-  "news:3e68edf6550b17ed": 1789000191
+  "news:3e68edf6550b17ed": 1789000191,
+  "news:3e9feba34b3c6d36": 1789001411
  },
  "stories": {
-  "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑": 1788741149,
-  "삼성생명, 컨설턴트 역량강화 위한 'AI 롤플레잉 서비스' 출시": 1788741149,
-  "삼성생명, AI가 가상 고객 된다…FC 상담 역량 키우는 ‘AI 롤플레잉’ 출시": 1788741149,
-  "한화생명 주가 상승 중": 1788741149,
   "[금융레이더]삼성생명/KDB생명/DB손해보험/KB손해보험": 1788742527,
   "삼성생명, 디지털 휴먼 고객으로 컨설턴트 역량 키운다": 1788742527,
   "[금융톡톡] 삼성생명 AI 상담훈련·KDB생명 영업시스템 혁신·동양생명 한부모 자립 지원": 1788742527,
@@ -570,7 +567,8 @@
   "교보생명 새 대표에 '교보맨' 조대규 부사장 내정, 신창재 의장과 2인 각자대표 체제로": 1788989545,
   "10년간 잠잠하다 조 단위 거래 불쑥…'계륵' 삼성생명·화재에 IB 눈길": 1788992571,
   "GA 브랜드평판 뒤집혔다… 인카금융서비스 1위, 한화생명금융서비스 3위": 1788992571,
-  "목돈 한 번에 넣고 굴린다…삼성생명 '굴려받는연금보험' 출시": 1788998439
+  "목돈 한 번에 넣고 굴린다…삼성생명 '굴려받는연금보험' 출시": 1788998439,
+  "삼성생명, '삼성 굴려받는 연금보험' 출시": 1789001411
  },
  "news_queue": [
   {
@@ -582,6 +580,16 @@
    "date": "Wed, 09 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrbjU4TWhxX0xwbUNHQkhQT1BMcV90U3p4LVdiUWFvRF9TY0RJWkE2M0xhSUxpbDl6azJHX185d1hhbVZuazI5Q0Y0b3NTN252bU9DQnI5aWVjeFZhUmhOcQ?oc=5",
    "sort_key": "Wed, 09 Sep 2026 23:49:03 GMT"
+  },
+  {
+   "id": "news:3e9feba34b3c6d36",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '삼성 굴려받는 연금보험' 출시",
+   "source": "전자신문",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kWGdTUHdHUEN0enRLWnkyR1d2Z1hHMU5BWVNycVo3VEdzQlFoYXM4bVpJaDVya0pBTVltclJ0MGdVR0RObndwMktlc3d0QQ?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:18:34 GMT"
   }
  ],
  "initialized": true,
