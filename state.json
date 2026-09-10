@@ -436,7 +436,8 @@
   "news:988a28aba16714e0": 1789008220,
   "news:4d11bbdbdd4722a2": 1789010394,
   "news:d0f8d7495bda4e3a": 1789010394,
-  "news:3265b90f085104a5": 1789013734
+  "news:3265b90f085104a5": 1789013734,
+  "news:679d297c27ae2cdc": 1789014833
  },
  "stories": {
   "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의": 1788756696,
@@ -572,7 +573,8 @@
   "[금융톡톡] 한화생명 63빌딩 리뉴얼 30만명 방문·교보생명 대학문학상 공모·삼성생명 4.40% 연금": 1789004604,
   "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵": 1789008220,
   "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394,
-  "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734
+  "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734,
+  "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬": 1789014833
  },
  "news_queue": [
   {
@@ -684,6 +686,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LTWlkUk1fSjJPM3BDOHFuX1hXdlFvbXV6M3NhUXRmb2VrdFJ6Q1BvNEhMTDBaV0JPZnlTVWNtQTctbDktaHRnQUJaazlQdEM1WktDaWI3Q3JRakNrYW9JSlEzcTA3cUVGQTBr?oc=5",
    "sort_key": "Thu, 10 Sep 2026 03:59:47 GMT"
+  },
+  {
+   "id": "news:679d297c27ae2cdc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬",
+   "source": "뉴스케이프",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkd29INGtlaVAzQzBZcjJpcWNoaEhWdURWM2VTdFkwam1Ta1l4MDYyMzhuUnVoWXJ2c0RjVHNmWUtZY0tkZWJ4R3FibTZaZmcwX2s1RXRWYWdubnNLcWJyNWpvbFlGSGFyTmFJTVN3?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:49:13 GMT"
   }
  ],
  "initialized": true,
