@@ -462,10 +462,10 @@
   "news:9dd4e222407334d2": 1789029333,
   "news:b07c03c8e61fec6c": 1789029333,
   "news:e2731e61749cecc6": 1789029333,
-  "news:571b983933426e24": 1789030369
+  "news:571b983933426e24": 1789030369,
+  "news:d0b219fea7014519": 1789031745
  },
  "stories": {
-  "교보생명, ‘교보마이플랜건강보험Ⅱ’ 개정 출시": 1788771569,
   "가상고객과 실전처럼... 삼성생명, AI 영업 훈련 개시": 1788772919,
   "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282,
   "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
@@ -589,7 +589,8 @@
   "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ한화생명ㆍNH농협생명 (9.10)": 1789024595,
   "삼성중공업, 최대주주 삼성전자 등 주식 4만3379주 감소…삼성생명 특별계정 장내매도 영향": 1789025683,
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 대산문화재단": 1789025683,
-  "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’": 1789026700
+  "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’": 1789026700,
+  "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편": 1789031745
  },
  "news_queue": [
   {
@@ -811,6 +812,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WldSZnRPUjRKcVZuVmhZUzZjdDdGbmFKcmtfWUVEMXoxZEw5LTNSTk5VLVZISkN5UTg0S2UzYW11TG4yRFdfWmx6OUNtcktFSDJYcmFqbjhYejdKM2htREFTVkkzQjhPelE?oc=5",
    "sort_key": "Thu, 10 Sep 2026 07:39:41 GMT"
+  },
+  {
+   "id": "news:d0b219fea7014519",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편",
+   "source": "시사캐스트",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVU1tWl9SeFczRlZJRHdzYzNTR0IzcW0tOFN4NmxnX3FiMTFfdlRWYV9FM05aN0ROSnJwdzJjdy01ZkdiSG9hblBBV21rTGtBRF9lUU5WZTFiZmJKcDk4NlEzc1JFTTg?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 08:54:15 GMT"
   }
  ],
  "initialized": true,
