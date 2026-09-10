@@ -454,10 +454,10 @@
   "news:4badde1eff437d4b": 1789024595,
   "news:f21d147d686819c1": 1789025683,
   "news:74d910984f74fa33": 1789025683,
-  "news:9a7ee0b15fb7a3bf": 1789025683
+  "news:9a7ee0b15fb7a3bf": 1789025683,
+  "news:b88bbce02462ad8e": 1789026700
  },
  "stories": {
-  "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”": 1788767170,
   "피치, 한화생명 인수 인니 리포손해보험 신용등급 최고수준 'AAA'로 상향": 1788767993,
   "\"직무급제·AI 혁신 결실\"…교보생명, 노사 상생 모델 입증": 1788769401,
   "교보생명, 노사문화 우수기업 선정": 1788769401,
@@ -587,7 +587,8 @@
   "[금융계 동향] 우리은행·미래에셋자산운용·교보생명": 1789024595,
   "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ한화생명ㆍNH농협생명 (9.10)": 1789024595,
   "삼성중공업, 최대주주 삼성전자 등 주식 4만3379주 감소…삼성생명 특별계정 장내매도 영향": 1789025683,
-  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 대산문화재단": 1789025683
+  "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 대산문화재단": 1789025683,
+  "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’": 1789026700
  },
  "news_queue": [
   {
@@ -799,6 +800,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQmpFYkoxVmJXM2pidWxGQ2ZWWWo4SUstb2tfWWpLT2l1OG43U0xjTU51ZFBNTVNNY3hsSVpHUWNmYW9keHRBbmNlR2pscE8yYlN3?oc=5",
    "sort_key": "Thu, 10 Sep 2026 07:22:20 GMT"
+  },
+  {
+   "id": "news:b88bbce02462ad8e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’",
+   "source": "rookie.co.kr",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WldSZnRPUjRKcVZuVmhZUzZjdDdGbmFKcmtfWUVEMXoxZEw5LTNSTk5VLVZISkN5UTg0S2UzYW11TG4yRFdfWmx6OUNtcktFSDJYcmFqbjhYejdKM2htREFTVkkzQjhPelE?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 07:39:41 GMT"
   }
  ],
  "initialized": true,
