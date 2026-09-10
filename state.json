@@ -479,11 +479,10 @@
   "news:45950fdd559f7251": 1789055449,
   "news:0527b665f3ad67cc": 1789057957,
   "news:666c13b9acdc7066": 1789064747,
-  "news:41354f56321c36f4": 1789075275
+  "news:41354f56321c36f4": 1789075275,
+  "news:4a008f8fca5a4819": 1789082442
  },
  "stories": {
-  "판매민원 줄인 삼성생명, 유지·지급은 늘었다": 1788823052,
-  "유니세프 한국위원회, 허금주 신임 사무총장 취임···교보생명 전무 출신 경영 전문가": 1788823052,
   "교보생명, 자본증권 5000억 발행 9일 뒤 4700억 상환…기본자본 줄어든다": 1788824892,
   "삼성생명, 가입 심사부터 대체상품 추천까지…100번째 특허 획득": 1788824892,
   "삼성생명 보험 가입 가능성 선사 판단 시스템 특허 획득": 1788824892,
@@ -604,7 +603,8 @@
   "지식재산처, 삼성생명보험주식회사와 현장소통 간담회": 1789044824,
   "코스피, 약보합에도 7000선 지켜내...삼성생명, 삼성물산 상승 VS 삼성바이오로직스, LG에너지솔루션 하락": 1789044824,
   "교보생명 대산문화재단, 대학문학상 공모…김애란·윤고은 이을 신인 찾는다": 1789046125,
-  "코스피, 약보합…삼성전자우·삼성생명 선전, 11일 향방은": 1789055449
+  "코스피, 약보합…삼성전자우·삼성생명 선전, 11일 향방은": 1789055449,
+  "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442
  },
  "news_queue": [
   {
@@ -926,6 +926,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pb1p3SWwtdlYyemZIaGFkdno0aE1OUEF3cUkwNkdyTHNwNmhHMzNwamRIMG9vR3dKSjVwRkZINnUwTnNjMnIwS29Yc2JUTmlaei0xTWppQnU5UmlLdkJPb0ZtY0d1ZFg5?oc=5",
    "sort_key": "Thu, 10 Sep 2026 15:30:00 GMT"
+  },
+  {
+   "id": "news:4a008f8fca5a4819",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명",
+   "source": "오늘경제",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QLTVjM3dBYXU2dlVYc0FtcG5fR3d1MFFDT3VDZGdsYzBXX1BNbVJPUE5FeXdVR203SWVCb0xPd1pub3MyQ0I4MGhjbVY0YzZoTEtKaWdicU5jNEpSMnc4T0xkdmNobGEwMUZtblF5cnJRRk0?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 23:02:45 GMT"
   }
  ],
  "initialized": true,
