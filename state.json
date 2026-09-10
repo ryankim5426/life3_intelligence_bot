@@ -426,7 +426,9 @@
   "news:3e9feba34b3c6d36": 1789001411,
   "news:4ba7e35e2c4acf78": 1789002286,
   "news:19d98e11b9955454": 1789002286,
-  "news:b090e3fdc1ca2b2a": 1789002286
+  "news:b090e3fdc1ca2b2a": 1789002286,
+  "news:15936ff5d3467ae8": 1789003382,
+  "news:c7465489ad8054c8": 1789003382
  },
  "stories": {
   "[금융 HOT 뉴스] 삼성생명, AI롤플레잉 서비스 9월 중순 출시": 1788747302,
@@ -564,7 +566,9 @@
   "삼성생명, '삼성 굴려받는 연금보험' 출시": 1789001411,
   "한화생명 “63빌딩 재개장 100일…30만명 방문”": 1789002286,
   "[포토] 한화생명, 63빌딩 ‘복합문화공간’ 새 단장 100일": 1789002286,
-  "교보생명 대산문화재단, 제25회 대산대학문학상 작품 공모": 1789002286
+  "교보생명 대산문화재단, 제25회 대산대학문학상 작품 공모": 1789002286,
+  "\"목돈으로 노후 준비\"…삼성생명, 새 연금보험 출시": 1789003382,
+  "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파": 1789003382
  },
  "news_queue": [
   {
@@ -616,6 +620,26 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WRmhXWG1tLWJjOGN6NU5YaWZzdDB1MVdkZXdoTjZaSVg4R0tBOFB2eVJ3c3dHZFUyNWtuaDBaYTE5UFhaTElpYlJXb1I1QQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 00:55:46 GMT"
+  },
+  {
+   "id": "news:15936ff5d3467ae8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"목돈으로 노후 준비\"…삼성생명, 새 연금보험 출시",
+   "source": "joongangenews.com",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nOTdNcDJaWnlsZ3VTSURtMWhrX1NyaG5XT1VFc3QxUXlMaEN0SV9lSjZHZXdManBkakhWX2YwbURYdkJvVDRaQURyS2VMVFBwUVF2cjRHZmN5Ql93dDVHZmtyNWhBWmYtTDIxZzhsNTBGZw?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 00:53:49 GMT"
+  },
+  {
+   "id": "news:c7465489ad8054c8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파",
+   "source": "글로벌이코노믹",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEZnX0YwMFdaZEFJb1YtTGtjVXRtcTBHNUpDM3dkaVZ5dThDZzZQT0xkUk5XWDZhYW5Vd2dyVVgyMy1DYVZmR0kwNE5kYWxuOWJURW5fbmJWZTZkMjlvN1ZibnAxZzhEeW9uaGRoRnphVUFrQkRvLVdnQ0twc3dCNHNNWHA?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 01:11:41 GMT"
   }
  ],
  "initialized": true,
