@@ -435,7 +435,8 @@
   "news:207cca2498bdfef9": 1789006837,
   "news:988a28aba16714e0": 1789008220,
   "news:4d11bbdbdd4722a2": 1789010394,
-  "news:d0f8d7495bda4e3a": 1789010394
+  "news:d0f8d7495bda4e3a": 1789010394,
+  "news:3265b90f085104a5": 1789013734
  },
  "stories": {
   "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의": 1788756696,
@@ -570,7 +571,8 @@
   "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파": 1789003382,
   "[금융톡톡] 한화생명 63빌딩 리뉴얼 30만명 방문·교보생명 대학문학상 공모·삼성생명 4.40% 연금": 1789004604,
   "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵": 1789008220,
-  "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394
+  "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394,
+  "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734
  },
  "news_queue": [
   {
@@ -672,6 +674,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRXY3aFhlX3FDSHkxVDgxV3B6OW5tcjNkdW5VTlJLRkxabFJ1YjNxcXlqV1M1TmxQMi1YYllSV0U1MG9vblJSX1Fkc2k2RDFobGc?oc=5",
    "sort_key": "Thu, 10 Sep 2026 03:03:51 GMT"
+  },
+  {
+   "id": "news:3265b90f085104a5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬",
+   "source": "라이센스뉴스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LTWlkUk1fSjJPM3BDOHFuX1hXdlFvbXV6M3NhUXRmb2VrdFJ6Q1BvNEhMTDBaV0JPZnlTVWNtQTctbDktaHRnQUJaazlQdEM1WktDaWI3Q3JRakNrYW9JSlEzcTA3cUVGQTBr?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 03:59:47 GMT"
   }
  ],
  "initialized": true,
