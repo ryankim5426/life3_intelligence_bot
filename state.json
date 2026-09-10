@@ -471,7 +471,9 @@
   "news:4f51e07bc7271b63": 1789035370,
   "news:595b3b9803fdbc1a": 1789037474,
   "news:4321595198dc3347": 1789041979,
-  "news:1aa726ec15481b8b": 1789043494
+  "news:1aa726ec15481b8b": 1789043494,
+  "news:17bf30cecbd12e75": 1789044824,
+  "news:86f1ff0b6115bdfe": 1789044824
  },
  "stories": {
   "합병 접은 인니 당국, 한화생명에 \"자본 더 넣어라\"": 1788787603,
@@ -598,7 +600,9 @@
   "外人 투매, 코스피 '하락'...한화생명·GS건설은 '껑충'": 1789035370,
   "한화생명 \"새 단장한 63빌딩, 100일만에 30만명 찾았다\"": 1789035370,
   "AI 자동신청에 보험사 금리인하요구 2.6배 급증…삼성생명 23억 감면 ‘최대’": 1789035370,
-  "삼성생명·화재 성과급 퇴직금서 제외 … 삼성전자와 엇갈린 1심": 1789037474
+  "삼성생명·화재 성과급 퇴직금서 제외 … 삼성전자와 엇갈린 1심": 1789037474,
+  "지식재산처, 삼성생명보험주식회사와 현장소통 간담회": 1789044824,
+  "코스피, 약보합에도 7000선 지켜내...삼성생명, 삼성물산 상승 VS 삼성바이오로직스, LG에너지솔루션 하락": 1789044824
  },
  "news_queue": [
   {
@@ -880,6 +884,26 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOWW1CbHowc3BSYUJ2NkFQSmNfMmFzTGZ3cWpydkJ4VWNmMjM4TW95bTFyREpDRWFhcXdIUVNPMEg2NWRBZVd2bHRIaTUweGpjcndZU3Jla1B4RHpjUlNPTlVqZFBWSnFRQzRKTlU2c9IBc0FVX3lxTE5FV3RnY1FKN0ptV2tKU1RydjVwTThKZXV6aXNva0o5NHlyVEVtNnN6OVptX21CX2pyM3BEeFcyN0tNaTNwLWRCYklyMW1NVHV0bUhGc1UxN0ZhT2pFenl3MktmNDFKU3RteU8yckJ6U29iS28?oc=5",
    "sort_key": "Thu, 10 Sep 2026 10:17:19 GMT"
+  },
+  {
+   "id": "news:17bf30cecbd12e75",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "지식재산처, 삼성생명보험주식회사와 현장소통 간담회",
+   "source": "연합뉴스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ndThTbmV5WFV2MDFJM1lGZ2pQR3lROFNwV3FZRy1mRk03YUVxaF9iQ3lhYWdnWlAxVXpqLW1OdmFIR3J6bldIOVdZVmpxRG1XRjBNd0RYZHJneVZlcEpyStIBYEFVX3lxTE1ndThTbmV5WFV2MDFJM1lGZ2pQR3lROFNwV3FZRy1mRk03YUVxaF9iQ3lhYWdnWlAxVXpqLW1OdmFIR3J6bldIOVdZVmpxRG1XRjBNd0RYZHJneVZlcEpySg?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 09:24:30 GMT"
+  },
+  {
+   "id": "news:86f1ff0b6115bdfe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "코스피, 약보합에도 7000선 지켜내...삼성생명, 삼성물산 상승 VS 삼성바이오로직스, LG에너지솔루션 하락",
+   "source": "이코노뉴스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tV29FSkxNSWZrdW1iMFRWdU5NRW1USHd2d1hfazZPRUxBWUFNa3g2X2lPb0puUE5Mek1ndHkzNXl1NDRZVnNuc0hNSVR4V2R6VG1FRUVKUzk4TmhlYTl1X1JfTWJLbjdqakxQajhB?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 12:30:00 GMT"
   }
  ],
  "initialized": true,
