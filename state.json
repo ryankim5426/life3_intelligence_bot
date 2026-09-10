@@ -433,10 +433,11 @@
   "news:7472c7bce7178225": 1789005556,
   "news:990c22fe10f3a510": 1789006837,
   "news:207cca2498bdfef9": 1789006837,
-  "news:988a28aba16714e0": 1789008220
+  "news:988a28aba16714e0": 1789008220,
+  "news:4d11bbdbdd4722a2": 1789010394,
+  "news:d0f8d7495bda4e3a": 1789010394
  },
  "stories": {
-  "교보생명, 토스와 업무협약…디지털 자산 협력 나선다": 1788750968,
   "삼성생명, AI 상담 훈련 도입…삼성화재, 모빌리티 대응 논의": 1788756696,
   "“실제 고객처럼 묻고 답한다”…삼성생명, AI 상담훈련 도입": 1788756696,
   "고객 반론까지 AI가 묻는다…삼성생명, 컨설턴트 역량 강화": 1788756696,
@@ -568,7 +569,8 @@
   "\"목돈으로 노후 준비\"…삼성생명, 새 연금보험 출시": 1789003382,
   "한화생명 63빌딩 새 단장 100일…퐁피두센터 하루 관람객 7000명 돌파": 1789003382,
   "[금융톡톡] 한화생명 63빌딩 리뉴얼 30만명 방문·교보생명 대학문학상 공모·삼성생명 4.40% 연금": 1789004604,
-  "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵": 1789008220
+  "'적자' 애큐온저축은행, 勞 250억 요구에 묵묵부답…한화생명도 침묵": 1789008220,
+  "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394
  },
  "news_queue": [
   {
@@ -660,6 +662,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90OF9mRXg2U0RLMnJyQWVfUzNwYXU3QXRWZFNrdlFhUDJxeGZXU000WlhYNkwzUmh0VEJDUk1LWTRpeGVBY2JobllFc3NiSXcyX0lGSEFGcjRRWE5jcGo3WExiQUpLcFpG0gFsQVVfeXFMUEdfYUdubEdTeFlDclpoeVBFRVFGRzlRMjFUVEh4LXctYml0ZERtZ2NEbUxCb25yYzA3NGdMekRKck80SGlMaXlQYXZzZnBnMXBaS19uQkhscFZDN3VMbjViYWUyWld1U3BUa0VQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 02:13:02 GMT"
+  },
+  {
+   "id": "news:d0f8d7495bda4e3a",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨",
+   "source": "한국정경신문",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRXY3aFhlX3FDSHkxVDgxV3B6OW5tcjNkdW5VTlJLRkxabFJ1YjNxcXlqV1M1TmxQMi1YYllSV0U1MG9vblJSX1Fkc2k2RDFobGc?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 03:03:51 GMT"
   }
  ],
  "initialized": true,
