@@ -442,10 +442,12 @@
   "news:86ccd06e31912afa": 1789017264,
   "news:3d80456aa1673e22": 1789019415,
   "news:99675fb361e3eb1f": 1789020399,
-  "news:ce111da1b8c1cbef": 1789020399
+  "news:ce111da1b8c1cbef": 1789020399,
+  "news:5158b60fda18d86c": 1789021920,
+  "news:83bbdec4802e9d92": 1789021920,
+  "news:203077a121faa6b7": 1789021920
  },
  "stories": {
-  "[금융계 8월 동향] 교보생명, 지속가능경영 실천···디지털 금융 생태계 확장": 1788762119,
   "교보생명, 노사 우수기업 14년 만에 재선정… \"갈등 사전예방 구축\"": 1788763724,
   "대출 11% 줄고 순익도 85% 급감…애큐온저축銀, 한화생명에 안착할까": 1788763724,
   "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”": 1788767170,
@@ -573,7 +575,8 @@
   "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%": 1789017264,
   "[금융계 8월 동향] 한화생명, AI 경쟁력 강화···미래 성장동력 확보 속도": 1789019415,
   "[보험브리핑]삼성화재·한화손보·삼성생명·AIA생명": 1789020399,
-  "10년간 연 4.4% 확정… 삼성생명에 1억 맡기면 1.5억된다 - 머니투데이": 1789020399
+  "10년간 연 4.4% 확정… 삼성생명에 1억 맡기면 1.5억된다 - 머니투데이": 1789020399,
+  "삼성생명, 10년 확정이율 적용 디지털 연금 출시": 1789021920
  },
  "news_queue": [
   {
@@ -735,6 +738,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ObkJhSTZtUEw0X0N2dWZKWVJQSGQ1cnVEM3c1LXc1dVRnSndobDdfUEE2SUtEWGpod1puXzdLZEl0ZTRHM0J6Z0lHTXQySG41OTlrOFpPbXpCV3JKdFRvQWIxanlxYl91SGpUNEptWUZMNnpQeGdlVNIBfkFVX3lxTE1VRnJNU3VTTDUwYVVDQWt1UTl6eHBSaWg3VW5uU2J3Zl9oMGZzbzRLYmMzRllpZTNzWks3dk1xLVFKaE5VdGlkeFp6YzloZVRwdWNFYTJtZ1NLWFRrVkVqamR2eTFXQXFlTFM1MkNIdXNpQnFSN1J0TDFsUzZ5UQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 05:51:28 GMT"
+  },
+  {
+   "id": "news:203077a121faa6b7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 10년 확정이율 적용 디지털 연금 출시",
+   "source": "핀포인트뉴스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZDRSWVhwVzZhTFNIVjhyRXJIVjJ3bk9MeGw5empGZkNISHBNMFoxZTVPd3FGbE80eU5fM2N4RzBLbWRuVERCOWVPZXZTZmQ4a0lhRXFOMU83YlBXSngxN2w4TXhrWHZqQzZGLXlTZTBxSjjSAXdBVV95cUxNZlJRVnB4YU9UZnloZFNDWWQ0djFKQjNpUEhUTk1XaWplb3R2bTFmQU1TOWJ1ZWppemZlOGpmUng1Vmk4ZkNzUWZmT0czbnBpOXRmU2RKZGJvdURkeXFHMkE5VFFQOVBXNERja1cyMnRYWDdHc1NGVQ?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 05:40:22 GMT"
   }
  ],
  "initialized": true,
