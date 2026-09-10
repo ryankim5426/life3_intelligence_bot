@@ -463,10 +463,10 @@
   "news:b07c03c8e61fec6c": 1789029333,
   "news:e2731e61749cecc6": 1789029333,
   "news:571b983933426e24": 1789030369,
-  "news:d0b219fea7014519": 1789031745
+  "news:d0b219fea7014519": 1789031745,
+  "news:b40c144f442a8155": 1789033902
  },
  "stories": {
-  "[수상소식] 하나금융·DB손해·KT&G·교보생명, '기술 혁신·상생 문화'로 국내외 경쟁력 입증": 1788774282,
   "삼성생명 PFG 지분 15% 땐 美 아이오와주·SEC ‘지배력 심사’ 첫 관문": 1788775154,
   "교보생명, ‘노블리에 콘서트’ 서울서 개최… 5천여 고객에 클래식 감동 선사": 1788776433,
   "교보생명, 신뢰의 노사문화 빛났다": 1788777803,
@@ -589,7 +589,8 @@
   "삼성중공업, 최대주주 삼성전자 등 주식 4만3379주 감소…삼성생명 특별계정 장내매도 영향": 1789025683,
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 대산문화재단": 1789025683,
   "삼성생명 지명 후 첫 경기 치른 광주대 조우 ‘이기던 지던 우리 팀 스타일로!’": 1789026700,
-  "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편": 1789031745
+  "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편": 1789031745,
+  "[보험 NOW] 푸본현대생명·삼성생명·삼성화재": 1789033902
  },
  "news_queue": [
   {
@@ -821,6 +822,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVU1tWl9SeFczRlZJRHdzYzNTR0IzcW0tOFN4NmxnX3FiMTFfdlRWYV9FM05aN0ROSnJwdzJjdy01ZkdiSG9hblBBV21rTGtBRF9lUU5WZTFiZmJKcDk4NlEzc1JFTTg?oc=5",
    "sort_key": "Thu, 10 Sep 2026 08:54:15 GMT"
+  },
+  {
+   "id": "news:b40c144f442a8155",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험 NOW] 푸본현대생명·삼성생명·삼성화재",
+   "source": "위키리크스한국",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zMFpxRWRmVm8wRjBXTUhXRHNjdDZYLThqZjR2bTFSeUtjYVd1anJPcjVsQzh2bGFIekt6Mi1jM0RjQXFUWVg5WVFRRXVsU19rVmpkUFVhcF81M3JxNlRQZzZLSlVsbDdLamhLNHZiWWY?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 09:34:20 GMT"
   }
  ],
  "initialized": true,
