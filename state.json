@@ -505,10 +505,10 @@
   "news:4933053902274796": 1789112028,
   "news:c1296d03a6af6732": 1789112029,
   "news:1bcf187be150b222": 1789118112,
-  "news:a12e3a76a3bb615b": 1789119201
+  "news:a12e3a76a3bb615b": 1789119201,
+  "news:6a03a648a6282dca": 1789125296
  },
  "stories": {
-  "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
   "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
   "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
   "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
@@ -603,7 +603,8 @@
   "삼성생명 주가 2,000원 하락 후 장마감": 1789110945,
   "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029,
   "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112,
-  "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201
+  "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
+  "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296
  },
  "news_queue": [
   {
@@ -775,6 +776,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3aXJLWEJYb2NoOVdidE5Lal9hUFo3Y2R1alpOYlhVZTJoa3Brdmw1ZG40MmliRDFUNUVWUHVrUHV2TF9XUnlZZjI4ZzdUbnRiUTE5czJqSm9uaDBERURHR1JLODJpblE?oc=5",
    "sort_key": "Fri, 11 Sep 2026 09:11:15 GMT"
+  },
+  {
+   "id": "news:6a03a648a6282dca",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다",
+   "source": "newsdream.kr",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90STFMblduTUtQbnZKNXBXejdkTnlqUElrUDkwLXh2UGN3X3JkZ1pSOXRwcTlqVHZOZlhzWDh1VzViS0J0NnlrNDRSajBUNjNIUDhCRERBdnJDNFRSNDVjWk5xM2JxVzRYaXRHYWpB0gFuQVVfeXFMT3RJMUxuV25NS1Budko1cFd6N2ROeWpQSWtQOTAteHZQY3dfcmRnWlI5dHBxOWpUdk5mWHNYOHVXNWJLQnQ2eWs0NFJqMFQ2M0hQOEJEREF2ckM0VFI0NWNaTnEzYnFXNFhpdEdhakE?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 04:50:30 GMT"
   }
  ],
  "initialized": true,
