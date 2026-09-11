@@ -493,11 +493,10 @@
   "news:4170c7423282e8f7": 1789094590,
   "news:f9ab9421030d1c99": 1789095476,
   "news:e2f649b4b409b570": 1789102253,
-  "news:833e962f48fada9a": 1789103649
+  "news:833e962f48fada9a": 1789103649,
+  "news:147f6bce90668fe4": 1789104737
  },
  "stories": {
-  "한화생명, 영업지원 통합플랫폼 오픈…설계사 편의성 제고": 1788844479,
-  "한화생명, 전속·GA 설계사 전체 새 영업지원플랫폼 개방": 1788844479,
   "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축": 1788850873,
   "[더밸류 브리핑] 오늘의 생명보험 소식…삼성생명·한화생명· 신한라이프케어": 1788850873,
   "교보생명, 협력적 노사문화·일가정 양립 성과 인정받아": 1788852331,
@@ -593,7 +592,8 @@
   "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
   "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정": 1789094590,
   "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590,
-  "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253
+  "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
+  "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737
  },
  "news_queue": [
   {
@@ -665,6 +665,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sY0NmdVBUUFg1U1hkc3Y5N1Vidl9HTEtmQ3ppNWhzVmE5RzJPZkZhY1hsbHJVRG9kVDRLZUhGcHQ3NERDYXdaektYR0N6ZVlhTlBscGlpYXZyanVVbEJjcmRUVnBnTkVhYkItaGVUMHfSAXRBVV95cUxNQkF5NUpTM0lfNGRBNW5XVF95WVhQeEZDV2ZuT1FoeFVjWWtRekVJSUcwSnZScWpmeEJ5UVE2NTVvWWk4WG4yLUxaRjZvdUZhWkt0U1JSMGltNE81MDJyUVFZOGxpbE5BdmZsS1oyMElxVjdHRA?oc=5",
    "sort_key": "Fri, 11 Sep 2026 03:18:05 GMT"
+  },
+  {
+   "id": "news:147f6bce90668fe4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 우리금융그룹·교보생명·삼성증권",
+   "source": "민주신문",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaEVlTC1Wc0JKZE4tOUUwX3pPTmYxOG9ON3YxN3dCdkJBcEsxTkFZVjZvejU0Vjl2b0Z3aml0bWozbmpPX2F0VmpSbkxtWDFGT29ndlF4STF1WXFMZ2FSbTh6clducVnSAWtBVV95cUxOSFpGdGdicV9QV2gtblBRRDhXN0FqOGkwQnZYMTBYN19jWTFpdXB0N001aHJfT2s1WjdtRVFsVVNMVDRISExlblpFZU5MSjFmT1RUY3NNYWVzVDROOHBfRjRHQ3Q4OGhVNWp4MA?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 04:38:40 GMT"
   }
  ],
  "initialized": true,
