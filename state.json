@@ -491,7 +491,8 @@
   "news:eba75841ded045fc": 1789093458,
   "news:c9cd4088d4efde23": 1789094590,
   "news:4170c7423282e8f7": 1789094590,
-  "news:f9ab9421030d1c99": 1789095476
+  "news:f9ab9421030d1c99": 1789095476,
+  "news:e2f649b4b409b570": 1789102253
  },
  "stories": {
   "한화생명, 미래이익 8.9조로 늘려…신계약서 1.3조 확보": 1788843122,
@@ -591,7 +592,8 @@
   "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431,
   "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
   "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정": 1789094590,
-  "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590
+  "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590,
+  "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253
  },
  "news_queue": [
   {
@@ -653,6 +655,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZkdBYkZpREtTUFdvOFJiV3RCenVuRFlXVVNobU8zZmhMRUUySWhZX3J5Y1lPS2FIQUlHS1NXN3d1S0N6anpDNzRUbDl0OWtGdTZCQk1CZmpvVWxESkVoS9IBZkFVX3lxTFBpZHJrMGt6OEdPSlhjcGE4ZWg0V2lWNUNJTEdjdE5zSWZhQjhCY0VaRTJjb3lfdzVvbmRpa3pFeGxmSG5aNFViRWE5TjVlNWVTeVBrT1BvbFFGSUNzSC04T0dod19vdw?oc=5",
    "sort_key": "Fri, 11 Sep 2026 02:21:19 GMT"
+  },
+  {
+   "id": "news:e2f649b4b409b570",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유",
+   "source": "포인트데일리",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sY0NmdVBUUFg1U1hkc3Y5N1Vidl9HTEtmQ3ppNWhzVmE5RzJPZkZhY1hsbHJVRG9kVDRLZUhGcHQ3NERDYXdaektYR0N6ZVlhTlBscGlpYXZyanVVbEJjcmRUVnBnTkVhYkItaGVUMHfSAXRBVV95cUxNQkF5NUpTM0lfNGRBNW5XVF95WVhQeEZDV2ZuT1FoeFVjWWtRekVJSUcwSnZScWpmeEJ5UVE2NTVvWWk4WG4yLUxaRjZvdUZhWkt0U1JSMGltNE81MDJyUVFZOGxpbE5BdmZsS1oyMElxVjdHRA?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 03:18:05 GMT"
   }
  ],
  "initialized": true,
