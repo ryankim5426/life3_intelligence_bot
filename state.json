@@ -501,12 +501,11 @@
   "news:043fef788229e339": 1789106770,
   "news:73a280708ec556f5": 1789110945,
   "news:5d6fd636e0514fca": 1789110945,
-  "news:749152e59dfc94a9": 1789110945
+  "news:749152e59dfc94a9": 1789110945,
+  "news:4933053902274796": 1789112028,
+  "news:c1296d03a6af6732": 1789112029
  },
  "stories": {
-  "교보생명, 협력적 노사문화·일가정 양립 성과 인정받아": 1788852331,
-  "[단독]교보생명, '아픈손가락' 교보라플 연내 흡수통합 - 머니투데이": 1788852331,
-  "[금융 ★들의 궤적] 한화생명 투톱, 글로벌망 넓히고 본업 다졌다": 1788852331,
   "\"이 상품 가입될까\" 삼성생명, 심사 전에 결과 알려준다": 1788853477,
   "삼성SDI 투자 재원 확보 속 삼성생명 특별계정, 보유주식 16% ‘싹쓸이’": 1788857109,
   "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961,
@@ -604,7 +603,8 @@
   "“금융 AI 혁신, 강한 특허로 연결한다”... 지식재산처, 삼성생명과 현장 해법 모색": 1789106770,
   "[르포] 한화생명의 63빌딩 재정의…전망 넘어 경험을 담다": 1789110945,
   "한화생명 주가 10원 상승후 장마감": 1789110945,
-  "삼성생명 주가 2,000원 하락 후 장마감": 1789110945
+  "삼성생명 주가 2,000원 하락 후 장마감": 1789110945,
+  "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029
  },
  "news_queue": [
   {
@@ -746,6 +746,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ZzEzb212a3ZTZHBSOE9EWnNMNDg0UlJ4MU9WM1d0WmMzandpSkszc0s1aHJkbjg4RVJFb0xyWkp6QnIwbFV3bjd2MFdEaXZscGVTU3JjMnJzQ1lD?oc=5",
    "sort_key": "Fri, 11 Sep 2026 06:59:10 GMT"
+  },
+  {
+   "id": "news:c1296d03a6af6732",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다",
+   "source": "ESG경제",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55czZVTWdjLW8yajJleDN6RFdKRUVpSWE0eDdISUVZbndKbk01Slc0V2pRVVk1QV9LeVJycllid0djWVZyb0YyZHBLMVhEQVA2ZWh4QlIzXzdVR2ZHZkM4Qnc3OTljcTZzQnMwbw?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 07:08:59 GMT"
   }
  ],
  "initialized": true,
