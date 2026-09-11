@@ -508,7 +508,8 @@
   "news:a12e3a76a3bb615b": 1789119201,
   "news:6a03a648a6282dca": 1789125296,
   "news:29ff3e6b22f7508f": 1789126337,
-  "news:3b0fad62eb95148d": 1789129761
+  "news:3b0fad62eb95148d": 1789129761,
+  "news:95fc3496758a1a7b": 1789131004
  },
  "stories": {
   "삼성생명 특별계정, 삼성전자 22만5066주 순매도…최대주주 측 지분율 17.32% 유지": 1788881214,
@@ -605,7 +606,8 @@
   "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029,
   "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112,
   "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
-  "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296
+  "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296,
+  "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004
  },
  "news_queue": [
   {
@@ -787,6 +789,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90STFMblduTUtQbnZKNXBXejdkTnlqUElrUDkwLXh2UGN3X3JkZ1pSOXRwcTlqVHZOZlhzWDh1VzViS0J0NnlrNDRSajBUNjNIUDhCRERBdnJDNFRSNDVjWk5xM2JxVzRYaXRHYWpB0gFuQVVfeXFMT3RJMUxuV25NS1Budko1cFd6N2ROeWpQSWtQOTAteHZQY3dfcmRnWlI5dHBxOWpUdk5mWHNYOHVXNWJLQnQ2eWs0NFJqMFQ2M0hQOEJEREF2ckM0VFI0NWNaTnEzYnFXNFhpdEdhakE?oc=5",
    "sort_key": "Fri, 11 Sep 2026 04:50:30 GMT"
+  },
+  {
+   "id": "news:95fc3496758a1a7b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검",
+   "source": "뉴스티앤티",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxMk0tNlBiYmdJZi1jM0w0TllXQXpMZTVldUhRTUtReHFHdVVpalIyVXdEMzdyUGFubHVFUkVUNXJ4M3RWek8tc2NvZ1R1N2pnR0c0QlRsQ0VtUHVuSGFxUHhWQXRCMjNrdHc?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 12:30:00 GMT"
   }
  ],
  "initialized": true,
