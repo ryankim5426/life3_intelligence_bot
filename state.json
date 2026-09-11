@@ -487,7 +487,8 @@
   "news:db1d47a65d5740ab": 1789088373,
   "news:8d9016201f9e2750": 1789090431,
   "news:5c7c68711c5b7e82": 1789092271,
-  "news:330416f1fe987cc9": 1789092271
+  "news:330416f1fe987cc9": 1789092271,
+  "news:eba75841ded045fc": 1789093458
  },
  "stories": {
   "삼성생명, 실시간 심사 기술로 특허 획득…“거절 대신 ‘플랜B’ 1초 만에”": 1788834808,
@@ -591,7 +592,8 @@
   "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442,
   "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명": 1789084340,
   "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373,
-  "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431
+  "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431,
+  "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458
  },
  "news_queue": [
   {
@@ -623,6 +625,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNkxQWVNicEVhMV9iRk9adzdyYldYRXZ4VHZSREI0YWo0dVRZTXRIb3k3X3Nrb0drN3FjYTZfcF9xV3Y4bmhtRUtzVUk0R015cnFzTVZxaDJBaEREaHhnN0p2UzNUQWlt?oc=5",
    "sort_key": "Fri, 11 Sep 2026 01:20:00 GMT"
+  },
+  {
+   "id": "news:eba75841ded045fc",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험",
+   "source": "더밸류뉴스",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91bWMtTUVkeWs2anhHdWl6Rzh6S3g1UmQ4YUhzYWxyRnFLbHFfQ1NVNHZqTllKejJyWF9DNjlVTzd2LWVzY21iaGFWRC1CdklqOVVv?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 02:03:40 GMT"
   }
  ],
  "initialized": true,
