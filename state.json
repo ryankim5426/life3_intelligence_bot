@@ -511,10 +511,10 @@
   "news:3b0fad62eb95148d": 1789129761,
   "news:95fc3496758a1a7b": 1789131004,
   "news:dae3b88979b54999": 1789138400,
-  "news:c5229b1e9f04f4b4": 1789161410
+  "news:c5229b1e9f04f4b4": 1789161410,
+  "news:61d1e65348a77a57": 1789163271
  },
  "stories": {
-  "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
   "“불필요한 반복 설계 없앤다”…삼성생명, 100번째 특허 등록": 1788904653,
   "사진=한화생명": 1788905871,
   "대한암협회·한화생명, 암경험청년과 함께한 특별한 불꽃축제": 1788909730,
@@ -609,7 +609,8 @@
   "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
   "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296,
   "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004,
-  "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410
+  "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410,
+  "치료비부터 노후자금까지… 삼성생명, 라이프케어 강화": 1789163271
  },
  "news_queue": [
   {
@@ -811,6 +812,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94NkVkc1pxVHh3dTVSZXdTQWJHUjJUSU9LX2liakxEZm5wR3d1cml1U2tmZmM4SXhBbjJ3bEFudDI5WVNybDQxeGFrellwbXNmLU4zbFNhVEZMR1M3V2kyS2w2cmxIN3lV?oc=5",
    "sort_key": "Fri, 11 Sep 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:61d1e65348a77a57",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "치료비부터 노후자금까지… 삼성생명, 라이프케어 강화",
+   "source": "IT조선",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96TTllWlRHVFBHUmVBN2FVNGlMdkdnWVRjeGxsMnRLX0JHcDVxMXBfSnNqcjU3WmpuM3MyZ3lYTHdjTjJFdjY4bE9NWmZSYUo2aEl4bERPZmJFU1VXV1RaQUNGeG5pME82a3YzLWZQS3XSAXRBVV95cUxPdVdRRWx1RzB3VW1YY3U3QUI3ZWppb2NMVVdKN2FyZVlpY2tKT0ZvTEpGR1ktSFpiZlJNNmZTUXpHTkU4R04xb2hrZTNYTkhVaFNSQXhKOUMtMVNwVlVxRlpuQ1ota256U1Y2YlQ2bHl0V3lXcg?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 21:30:00 GMT"
   }
  ],
  "initialized": true,
