@@ -484,10 +484,10 @@
   "news:a17c9be0958c99a7": 1789084340,
   "news:ffd63c7dab35efea": 1789086118,
   "news:e83f4cc73657a348": 1789086118,
-  "news:db1d47a65d5740ab": 1789088373
+  "news:db1d47a65d5740ab": 1789088373,
+  "news:8d9016201f9e2750": 1789090431
  },
  "stories": {
-  "교보생명, 5000억원 규모 신종자본증권 발행…“차환·건전성 관리”": 1788831136,
   "삼성생명, 100번째 등록 특허 나와…심사 결과 '미리보기'": 1788832331,
   "교보생명, 신종자본증권 5000억 발행…자본여력 높인다": 1788832331,
   "삼성SDI, 계열사 삼성생명 특별계정 매매로 지분율 19.82% 기록": 1788832331,
@@ -592,7 +592,8 @@
   "코스피, 약보합…삼성전자우·삼성생명 선전, 11일 향방은": 1789055449,
   "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442,
   "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명": 1789084340,
-  "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373
+  "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373,
+  "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431
  },
  "news_queue": [
   {
@@ -614,6 +615,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUXBsUHJZRGl6U1J2Z2haU0JvOU02X2lmMTdIckNMWmlRY1V6LTQtWEUtNEROalNsNFg2bFRXb294bnFQaEFaSGJROGJpb3JyS21hVDhqa3AxLWRhZ2xrRDF2RlN4MUE?oc=5",
    "sort_key": "Fri, 11 Sep 2026 00:53:13 GMT"
+  },
+  {
+   "id": "news:8d9016201f9e2750",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도",
+   "source": "녹색경제신문",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNkxQWVNicEVhMV9iRk9adzdyYldYRXZ4VHZSREI0YWo0dVRZTXRIb3k3X3Nrb0drN3FjYTZfcF9xV3Y4bmhtRUtzVUk0R015cnFzTVZxaDJBaEREaHhnN0p2UzNUQWlt?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 01:20:00 GMT"
   }
  ],
  "initialized": true,
