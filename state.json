@@ -488,11 +488,11 @@
   "news:8d9016201f9e2750": 1789090431,
   "news:5c7c68711c5b7e82": 1789092271,
   "news:330416f1fe987cc9": 1789092271,
-  "news:eba75841ded045fc": 1789093458
+  "news:eba75841ded045fc": 1789093458,
+  "news:c9cd4088d4efde23": 1789094590,
+  "news:4170c7423282e8f7": 1789094590
  },
  "stories": {
-  "삼성생명, 실시간 심사 기술로 특허 획득…“거절 대신 ‘플랜B’ 1초 만에”": 1788834808,
-  "“보험 가입 가능 여부 미리 확인”…삼성생명, 심사 시스템 특허 등록": 1788834808,
   "전속조직 집중한 삼성생명 \"설계사 AI 활용은 필수 역량\"...보장성보험 시장지배력↑": 1788835887,
   "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (9.8)": 1788835887,
   "한화생명설계사, AI기반 영업 통합플랫폼 쓴다": 1788839513,
@@ -593,7 +593,9 @@
   "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명": 1789084340,
   "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373,
   "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431,
-  "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458
+  "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
+  "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정": 1789094590,
+  "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590
  },
  "news_queue": [
   {
@@ -635,6 +637,26 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91bWMtTUVkeWs2anhHdWl6Rzh6S3g1UmQ4YUhzYWxyRnFLbHFfQ1NVNHZqTllKejJyWF9DNjlVTzd2LWVzY21iaGFWRC1CdklqOVVv?oc=5",
    "sort_key": "Fri, 11 Sep 2026 02:03:40 GMT"
+  },
+  {
+   "id": "news:c9cd4088d4efde23",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정",
+   "source": "보험신보",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lVnhSSDNKcDJKQzhTSEZId3R5QzlxUHQwcGdXREo2aFJhUjd1VGg3VVNVR3lkcHpTazR3cFktR0U0QUtJX2cwa1JBeHgxVHF0REpMbnJlTnRFRExkeTJsUXlIRHRTcFl3Xzhn?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 02:17:13 GMT"
+  },
+  {
+   "id": "news:4170c7423282e8f7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영",
+   "source": "뉴스1",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZkdBYkZpREtTUFdvOFJiV3RCenVuRFlXVVNobU8zZmhMRUUySWhZX3J5Y1lPS2FIQUlHS1NXN3d1S0N6anpDNzRUbDl0OWtGdTZCQk1CZmpvVWxESkVoS9IBZkFVX3lxTFBpZHJrMGt6OEdPSlhjcGE4ZWg0V2lWNUNJTEdjdE5zSWZhQjhCY0VaRTJjb3lfdzVvbmRpa3pFeGxmSG5aNFViRWE5TjVlNWVTeVBrT1BvbFFGSUNzSC04T0dod19vdw?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 02:21:19 GMT"
   }
  ],
  "initialized": true,
