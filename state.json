@@ -504,10 +504,10 @@
   "news:749152e59dfc94a9": 1789110945,
   "news:4933053902274796": 1789112028,
   "news:c1296d03a6af6732": 1789112029,
-  "news:1bcf187be150b222": 1789118112
+  "news:1bcf187be150b222": 1789118112,
+  "news:a12e3a76a3bb615b": 1789119201
  },
  "stories": {
-  "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
   "교보생명, 교보라플 흡수통합 검토": 1788862870,
   "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
   "\"플랫폼 장벽 허물었다\"…한화생명, GA 영업 인프라 혁신": 1788870055,
@@ -603,7 +603,8 @@
   "한화생명 주가 10원 상승후 장마감": 1789110945,
   "삼성생명 주가 2,000원 하락 후 장마감": 1789110945,
   "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029,
-  "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112
+  "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112,
+  "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201
  },
  "news_queue": [
   {
@@ -765,6 +766,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81b1NrMGxZRGt3QVRoUE9HRlJQejVZSnFoN1lWZk9sRnIyZmxwdFlDNmNQcV90UEdvRFN1Q0tndFQ3TllaanR0MERMU1FyNFFNaE5sbHdRSkpuaXl1cl93amxnM1djVHdhU0E?oc=5",
    "sort_key": "Fri, 11 Sep 2026 05:38:00 GMT"
+  },
+  {
+   "id": "news:a12e3a76a3bb615b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'",
+   "source": "팍스경제TV",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3aXJLWEJYb2NoOVdidE5Lal9hUFo3Y2R1alpOYlhVZTJoa3Brdmw1ZG40MmliRDFUNUVWUHVrUHV2TF9XUnlZZjI4ZzdUbnRiUTE5czJqSm9uaDBERURHR1JLODJpblE?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 09:11:15 GMT"
   }
  ],
  "initialized": true,
