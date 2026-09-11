@@ -497,7 +497,8 @@
   "news:147f6bce90668fe4": 1789104737,
   "news:54e714b6bec4b562": 1789105845,
   "news:ba404e3e73409eab": 1789105845,
-  "news:17dc3453b436a917": 1789105845
+  "news:17dc3453b436a917": 1789105845,
+  "news:043fef788229e339": 1789106770
  },
  "stories": {
   "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축": 1788850873,
@@ -598,7 +599,8 @@
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
   "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737,
   "[금융 ★들의 궤적] 교보생명 신창재·조대규, 본업 다지고 외연 확장": 1789105845,
-  "[모닝리포트] 2026년 9월 11일: HD현대중공업, HD현대마린솔루션, 삼성생명, 삼성화재, 알테오젠, 미스토홀딩스, 한미반도체, 신세계, 현대백화점, 롯데쇼핑, LG전자": 1789105845
+  "[모닝리포트] 2026년 9월 11일: HD현대중공업, HD현대마린솔루션, 삼성생명, 삼성화재, 알테오젠, 미스토홀딩스, 한미반도체, 신세계, 현대백화점, 롯데쇼핑, LG전자": 1789105845,
+  "“금융 AI 혁신, 강한 특허로 연결한다”... 지식재산처, 삼성생명과 현장 해법 모색": 1789106770
  },
  "news_queue": [
   {
@@ -700,6 +702,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WQUtXbXN5TktWX3ZUaVpJVF80Ul91Q2o4RlRpa09fcnhPanU0b1U2anhtdXVOMmVvaUhkTW8zaWgwcVpnZzZRckd0dXAyRXVLZ0dwUTBnU1ladFl1VWwzYU9NMmwtcFh5VmJZVlZrRi1MdG4yRWhDVA?oc=5",
    "sort_key": "Thu, 10 Sep 2026 22:42:00 GMT"
+  },
+  {
+   "id": "news:043fef788229e339",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“금융 AI 혁신, 강한 특허로 연결한다”... 지식재산처, 삼성생명과 현장 해법 모색",
+   "source": "e-patentnews.com",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5N0JhOHZrYjc3VWRKOW1DRENLWnJKcjB2UDFWUmd3TUcwd19nZUYyamwyT2p3Wm55Q3QzbGhfd0hydUFjcGR3aA?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 05:50:00 GMT"
   }
  ],
  "initialized": true,
