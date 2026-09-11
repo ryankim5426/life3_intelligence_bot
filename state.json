@@ -510,7 +510,8 @@
   "news:29ff3e6b22f7508f": 1789126337,
   "news:3b0fad62eb95148d": 1789129761,
   "news:95fc3496758a1a7b": 1789131004,
-  "news:dae3b88979b54999": 1789138400
+  "news:dae3b88979b54999": 1789138400,
+  "news:c5229b1e9f04f4b4": 1789161410
  },
  "stories": {
   "[빅데이터로본다] 생명보험 2026년 9월 브랜드평판... 1위 한화생명, 2위 미래에셋생명, 3위 교보생명": 1788903927,
@@ -607,7 +608,8 @@
   "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112,
   "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
   "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296,
-  "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004
+  "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004,
+  "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410
  },
  "news_queue": [
   {
@@ -799,6 +801,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxMk0tNlBiYmdJZi1jM0w0TllXQXpMZTVldUhRTUtReHFHdVVpalIyVXdEMzdyUGFubHVFUkVUNXJ4M3RWek8tc2NvZ1R1N2pnR0c0QlRsQ0VtUHVuSGFxUHhWQXRCMjNrdHc?oc=5",
    "sort_key": "Fri, 11 Sep 2026 12:30:00 GMT"
+  },
+  {
+   "id": "news:c5229b1e9f04f4b4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장",
+   "source": "fetv.co.kr",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94NkVkc1pxVHh3dTVSZXdTQWJHUjJUSU9LX2liakxEZm5wR3d1cml1U2tmZmM4SXhBbjJ3bEFudDI5WVNybDQxeGFrellwbXNmLU4zbFNhVEZMR1M3V2kyS2w2cmxIN3lV?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
