@@ -494,7 +494,10 @@
   "news:f9ab9421030d1c99": 1789095476,
   "news:e2f649b4b409b570": 1789102253,
   "news:833e962f48fada9a": 1789103649,
-  "news:147f6bce90668fe4": 1789104737
+  "news:147f6bce90668fe4": 1789104737,
+  "news:54e714b6bec4b562": 1789105845,
+  "news:ba404e3e73409eab": 1789105845,
+  "news:17dc3453b436a917": 1789105845
  },
  "stories": {
   "한화생명, 업계 최초 '모바일·태블릿 연동' 영업 환경 구축": 1788850873,
@@ -593,7 +596,9 @@
   "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정": 1789094590,
   "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590,
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
-  "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737
+  "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737,
+  "[금융 ★들의 궤적] 교보생명 신창재·조대규, 본업 다지고 외연 확장": 1789105845,
+  "[모닝리포트] 2026년 9월 11일: HD현대중공업, HD현대마린솔루션, 삼성생명, 삼성화재, 알테오젠, 미스토홀딩스, 한미반도체, 신세계, 현대백화점, 롯데쇼핑, LG전자": 1789105845
  },
  "news_queue": [
   {
@@ -675,6 +680,26 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CaEVlTC1Wc0JKZE4tOUUwX3pPTmYxOG9ON3YxN3dCdkJBcEsxTkFZVjZvejU0Vjl2b0Z3aml0bWozbmpPX2F0VmpSbkxtWDFGT29ndlF4STF1WXFMZ2FSbTh6clducVnSAWtBVV95cUxOSFpGdGdicV9QV2gtblBRRDhXN0FqOGkwQnZYMTBYN19jWTFpdXB0N001aHJfT2s1WjdtRVFsVVNMVDRISExlblpFZU5MSjFmT1RUY3NNYWVzVDROOHBfRjRHQ3Q4OGhVNWp4MA?oc=5",
    "sort_key": "Fri, 11 Sep 2026 04:38:40 GMT"
+  },
+  {
+   "id": "news:ba404e3e73409eab",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융 ★들의 궤적] 교보생명 신창재·조대규, 본업 다지고 외연 확장",
+   "source": "블로터",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jQ191OGJfc3YwcDlCeXB0N0FQQk1qNVllV1l5WXAtRHVIR1hjamc1MDNpYUFGSldlejlockJ1dUlraWlZMGpobm5VQ3lHcThtRndlWXdENnE4aXc3VnVweWNKVFdnUjBL0gFsQVVfeXFMUGJyYjBBRXJ3ZXJLb2taeUF2YWtZX3dfVU1CeHRSSTFEem5xTlI1SnF2UVVtWXpXeHBEVmlyeFZlNUlNeF9WVUpEcE1taHJPemR0bXFab2RpUEdFdk54OFZfVC1mLVpoQXR6UFpR?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 05:36:48 GMT"
+  },
+  {
+   "id": "news:17dc3453b436a917",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[모닝리포트] 2026년 9월 11일: HD현대중공업, HD현대마린솔루션, 삼성생명, 삼성화재, 알테오젠, 미스토홀딩스, 한미반도체, 신세계, 현대백화점, 롯데쇼핑, LG전자",
+   "source": "네이버 프리미엄콘텐츠",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WQUtXbXN5TktWX3ZUaVpJVF80Ul91Q2o4RlRpa09fcnhPanU0b1U2anhtdXVOMmVvaUhkTW8zaWgwcVpnZzZRckd0dXAyRXVLZ0dwUTBnU1ladFl1VWwzYU9NMmwtcFh5VmJZVlZrRi1MdG4yRWhDVA?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 22:42:00 GMT"
   }
  ],
  "initialized": true,
