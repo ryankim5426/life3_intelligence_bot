@@ -503,10 +503,10 @@
   "news:5d6fd636e0514fca": 1789110945,
   "news:749152e59dfc94a9": 1789110945,
   "news:4933053902274796": 1789112028,
-  "news:c1296d03a6af6732": 1789112029
+  "news:c1296d03a6af6732": 1789112029,
+  "news:1bcf187be150b222": 1789118112
  },
  "stories": {
-  "[보험 NOW] 삼성생명·신한라이프·한화생명·미래에셋생명": 1788857961,
   "디지털 영업 혁신을 넘어, AI 영업 환경 기반 구축…한화생명, 영업지원 통합플랫폼 고도화": 1788859272,
   "교보생명, 교보라플 흡수통합 검토": 1788862870,
   "한화 이어 삼성생명도 “보험설계사 AI 교육”…실적으로 돌아와": 1788865108,
@@ -602,7 +602,8 @@
   "[르포] 한화생명의 63빌딩 재정의…전망 넘어 경험을 담다": 1789110945,
   "한화생명 주가 10원 상승후 장마감": 1789110945,
   "삼성생명 주가 2,000원 하락 후 장마감": 1789110945,
-  "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029
+  "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029,
+  "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112
  },
  "news_queue": [
   {
@@ -754,6 +755,16 @@
    "date": "Fri, 11 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55czZVTWdjLW8yajJleDN6RFdKRUVpSWE0eDdISUVZbndKbk01Slc0V2pRVVk1QV9LeVJycllid0djWVZyb0YyZHBLMVhEQVA2ZWh4QlIzXzdVR2ZHZkM4Qnc3OTljcTZzQnMwbw?oc=5",
    "sort_key": "Fri, 11 Sep 2026 07:08:59 GMT"
+  },
+  {
+   "id": "news:1bcf187be150b222",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자",
+   "source": "데일리팝",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81b1NrMGxZRGt3QVRoUE9HRlJQejVZSnFoN1lWZk9sRnIyZmxwdFlDNmNQcV90UEdvRFN1Q0tndFQ3TllaanR0MERMU1FyNFFNaE5sbHdRSkpuaXl1cl93amxnM1djVHdhU0E?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 05:38:00 GMT"
   }
  ],
  "initialized": true,
