@@ -521,7 +521,8 @@
   "news:e0eb539a32a2e72e": 1789196378,
   "news:6f163a48af80de07": 1789196378,
   "news:1291b1d6ef788812": 1789208542,
-  "news:634bf57da06c64f4": 1789212586
+  "news:634bf57da06c64f4": 1789212586,
+  "news:450199de32120c05": 1789239483
  },
  "stories": {
   "한화생명금융서비스, 보험료 오차 잡는 특허 취득": 1788982390,
@@ -590,7 +591,8 @@
   "이미지=삼성생명": 1789195619,
   "한화생명 투자분석 2026. 09. 10": 1789196378,
   "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
-  "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542
+  "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
+  "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483
  },
  "news_queue": [
   {
@@ -652,6 +654,16 @@
    "date": "Sat, 12 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQ29WV2hBSmhuUHRrVlhRSDdTUnZtSE5nSXY5bzFQUlowQ1djamhHdUNNbU9hZFVHT0xXQlpaNXIxTldubHp6ZFZpYlRwQ04xOEZPajExRHctRVFLNzE4dTBvOEd4ZXhRWVRnaA?oc=5",
    "sort_key": "Sat, 12 Sep 2026 09:23:24 GMT"
+  },
+  {
+   "id": "news:450199de32120c05",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.",
+   "source": "Vietnam.vn",
+   "date": "Sat, 12 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTFMemgzWnZUYV9ST2ppeFFTS1Q0M3NZSGdUYmIyVDhfM3Q2VGd1T1VRVkN1YVBkSm9xRW1kbnNpbkdkTWZGT2xKblNDVy1FTThWLUp0QjRmbzRPdURGRHJNX2QxWVF6c05HdnhpQWw1QTd3RjZyclNBcjN2czNTcWs4Xzh4eE9GTkhWc1Vpd0JZWG84dUF6UHUwd19BVnotX1dwTmxobDNkVGlMdjZVUg?oc=5",
+   "sort_key": "Sat, 12 Sep 2026 17:43:12 GMT"
   }
  ],
  "initialized": true,
