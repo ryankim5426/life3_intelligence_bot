@@ -517,7 +517,9 @@
   "news:d6b97dcc3d883b0a": 1789192095,
   "news:d7b5b26d930bbe81": 1789192851,
   "news:da6c648f5cd774d0": 1789195619,
-  "news:ac0adb7ed479a5f0": 1789195619
+  "news:ac0adb7ed479a5f0": 1789195619,
+  "news:e0eb539a32a2e72e": 1789196378,
+  "news:6f163a48af80de07": 1789196378
  },
  "stories": {
   "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251,
@@ -590,7 +592,9 @@
   "치료비부터 노후자금까지… 삼성생명, 라이프케어 강화": 1789163271,
   "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095,
   "교보생명, 양육시설 아동 514명 교육": 1789195619,
-  "이미지=삼성생명": 1789195619
+  "이미지=삼성생명": 1789195619,
+  "한화생명 투자분석 2026. 09. 10": 1789196378,
+  "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378
  },
  "news_queue": [
   {
@@ -622,6 +626,26 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOWHhBVUxZM3g5eTdVSXdVcGp3d1Z0WUtJYzR4QkVfQmxXSi1OQzA1TDkzTVhla0Q5ZHdWaC1VZEZxdmVtelQ4UUNaSXlqLXR0UGVEa09rYnM0YnItVWRCZnhsRVFSUzFKaEh1YXlSRnBWekJ1bjBNdXJWbGNoY0stbzdNanZkVTJDbkRYWEZRQlFsRDQ2RHpRRmdtd1BTc1BqNXdrbzJfTnJROG5FRG41SXo5Vl9qeFJETjVaZGptVXc1eG9neDY5dElDLXJ3dXdJZlZpUjZxSUpsY2tONmZ2NHNyc1VMYWx5cTg5eXVpUHVHbXNta0VQUHpTQXlmUWoxaUZTX25tWm4tS3VzeDhKWDBPVm5OX2NhLVZPb3dpbUxyQmYwd2xWU0tCUktFaWNwRUdyNHc3cnNEdENtZ3NqMVdNM1JleDlld2VHMEtXN010WnNlVXhRRW9MZ1RhU3dhWGdjQmhUT1ZTakVHTnFWUFdKM2pBdjZUZy1KVkdVbzdRaU1waUdxT29ZQkdRQ1k4N1FsUUR4d2RGVnhrU2RaS3c5X2RMSThfZkJiZ21FdzM2TnBYVm9JVEZLZUZjNk9wdFV1TjFsUVYtdDBCZWNucGI0MzlkOUFZbEdsdFN5a0dKeUk1SUw3WXNNTHRHcEVTTmV2SDJCM2ZQdFQ3dl8tdjZlcko0bVVRa3QydkxGY2tITTlEV3RVeXBJa3ByY2d2WDQtNQ?oc=5",
    "sort_key": "Thu, 10 Sep 2026 13:46:37 GMT"
+  },
+  {
+   "id": "news:e0eb539a32a2e72e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 투자분석 2026. 09. 10",
+   "source": "주달",
+   "date": "Sat, 12 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RTVNUcU1sNjN2eDVKcUdoYWpVWWRYcHhQMWRQRlNsVzNmaGU3VWg1V3BScDVfQTZvSy1aQ2hpVnR6NlJBSXREcUNsR3ZvbmQ1LVpWbm11QmVDMnBsQzFHN2Z4V0R4U0lJaTZDbFJ1NFk1bFk?oc=5",
+   "sort_key": "Sat, 12 Sep 2026 01:39:16 GMT"
+  },
+  {
+   "id": "news:6f163a48af80de07",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매",
+   "source": "서울타임즈뉴스",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTEh4Qmx2cF9mckQxOS13ZzNKaU1qMWxGZ2NRMHZEbmtkaVhqeUFIM05GTnBrTEluYnRDUDNScFUwZ3NUcS0wUlZFVGt4Ukh0a2pEZUw0VkZDRzFrZEk3c1RwUFVyU2xLd2tj?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 08:27:23 GMT"
   }
  ],
  "initialized": true,
