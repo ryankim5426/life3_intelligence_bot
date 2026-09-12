@@ -519,7 +519,8 @@
   "news:da6c648f5cd774d0": 1789195619,
   "news:ac0adb7ed479a5f0": 1789195619,
   "news:e0eb539a32a2e72e": 1789196378,
-  "news:6f163a48af80de07": 1789196378
+  "news:6f163a48af80de07": 1789196378,
+  "news:1291b1d6ef788812": 1789208542
  },
  "stories": {
   "삼성생명, 치료 횟수 따라 연 최대 1억원 보장…‘가족대표건강보험 Plus+’ 출시": 1788957736,
@@ -589,7 +590,8 @@
   "교보생명, 양육시설 아동 514명 교육": 1789195619,
   "이미지=삼성생명": 1789195619,
   "한화생명 투자분석 2026. 09. 10": 1789196378,
-  "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378
+  "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
+  "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542
  },
  "news_queue": [
   {
@@ -641,6 +643,16 @@
    "date": "Thu, 10 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTEh4Qmx2cF9mckQxOS13ZzNKaU1qMWxGZ2NRMHZEbmtkaVhqeUFIM05GTnBrTEluYnRDUDNScFUwZ3NUcS0wUlZFVGt4Ukh0a2pEZUw0VkZDRzFrZEk3c1RwUFVyU2xLd2tj?oc=5",
    "sort_key": "Thu, 10 Sep 2026 08:27:23 GMT"
+  },
+  {
+   "id": "news:1291b1d6ef788812",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"",
+   "source": "플레이포럼",
+   "date": "Sat, 12 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQ29WV2hBSmhuUHRrVlhRSDdTUnZtSE5nSXY5bzFQUlowQ1djamhHdUNNbU9hZFVHT0xXQlpaNXIxTldubHp6ZFZpYlRwQ04xOEZPajExRHctRVFLNzE4dTBvOEd4ZXhRWVRnaA?oc=5",
+   "sort_key": "Sat, 12 Sep 2026 09:23:24 GMT"
   }
  ],
  "initialized": true,
