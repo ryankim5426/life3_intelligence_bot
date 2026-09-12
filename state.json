@@ -515,10 +515,11 @@
   "news:61d1e65348a77a57": 1789163271,
   "news:acb7d58544d6a032": 1789176706,
   "news:d6b97dcc3d883b0a": 1789192095,
-  "news:d7b5b26d930bbe81": 1789192851
+  "news:d7b5b26d930bbe81": 1789192851,
+  "news:da6c648f5cd774d0": 1789195619,
+  "news:ac0adb7ed479a5f0": 1789195619
  },
  "stories": {
-  "교보생명, 광화문글판 대학생 손으로 새 단장…816개 작품 경쟁": 1788936095,
   "[이슈] 삼성생명 해약환금준비금 3.1조대...석달새 1.4조 늘어난 이유": 1788937251,
   "삼성생명, 치료 횟수별 보장 강화한 건강보험 선봬": 1788938742,
   "삼성생명, 가족건강보험 보장 강화…치료 여정 전반 담보": 1788938742,
@@ -587,7 +588,9 @@
   "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004,
   "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410,
   "치료비부터 노후자금까지… 삼성생명, 라이프케어 강화": 1789163271,
-  "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095
+  "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095,
+  "교보생명, 양육시설 아동 514명 교육": 1789195619,
+  "이미지=삼성생명": 1789195619
  },
  "news_queue": [
   {
@@ -599,6 +602,26 @@
    "date": "Sat, 12 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3WFFOb1I4QVowUzl2RnZfZFF0cTB4aXNrN2dYLTUxcXFobFNmQ1l3U0F6Vnd2OEZVQTdmRkNoa3JzR1M0N1oyWjVERHhlSVd1QVhj?oc=5",
    "sort_key": "Sat, 12 Sep 2026 05:44:00 GMT"
+  },
+  {
+   "id": "news:da6c648f5cd774d0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 양육시설 아동 514명 교육",
+   "source": "plus.hankyung.com",
+   "date": "Fri, 11 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iYVhDOHpWOXR0TEdvTjZra3ZXSUZzOHZXVS1UUEpTSkpXOXFrNl9GdEZUNEdHS1VITTMyMGhpVDRVd05jV3lQcTJMeEVTVzUtQksyenJCYkxhbFZ0NHZGXzktYTNUd3k5VWpya0s3NnVWZHNPNmYwOE9ydjY0Sm8?oc=5",
+   "sort_key": "Fri, 11 Sep 2026 08:56:19 GMT"
+  },
+  {
+   "id": "news:ac0adb7ed479a5f0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "이미지=삼성생명",
+   "source": "전자신문",
+   "date": "Thu, 10 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOWHhBVUxZM3g5eTdVSXdVcGp3d1Z0WUtJYzR4QkVfQmxXSi1OQzA1TDkzTVhla0Q5ZHdWaC1VZEZxdmVtelQ4UUNaSXlqLXR0UGVEa09rYnM0YnItVWRCZnhsRVFSUzFKaEh1YXlSRnBWekJ1bjBNdXJWbGNoY0stbzdNanZkVTJDbkRYWEZRQlFsRDQ2RHpRRmdtd1BTc1BqNXdrbzJfTnJROG5FRG41SXo5Vl9qeFJETjVaZGptVXc1eG9neDY5dElDLXJ3dXdJZlZpUjZxSUpsY2tONmZ2NHNyc1VMYWx5cTg5eXVpUHVHbXNta0VQUHpTQXlmUWoxaUZTX25tWm4tS3VzeDhKWDBPVm5OX2NhLVZPb3dpbUxyQmYwd2xWU0tCUktFaWNwRUdyNHc3cnNEdENtZ3NqMVdNM1JleDlld2VHMEtXN010WnNlVXhRRW9MZ1RhU3dhWGdjQmhUT1ZTakVHTnFWUFdKM2pBdjZUZy1KVkdVbzdRaU1waUdxT29ZQkdRQ1k4N1FsUUR4d2RGVnhrU2RaS3c5X2RMSThfZkJiZ21FdzM2TnBYVm9JVEZLZUZjNk9wdFV1TjFsUVYtdDBCZWNucGI0MzlkOUFZbEdsdFN5a0dKeUk1SUw3WXNNTHRHcEVTTmV2SDJCM2ZQdFQ3dl8tdjZlcko0bVVRa3QydkxGY2tITTlEV3RVeXBJa3ByY2d2WDQtNQ?oc=5",
+   "sort_key": "Thu, 10 Sep 2026 13:46:37 GMT"
   }
  ],
  "initialized": true,
