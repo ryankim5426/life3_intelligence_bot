@@ -530,7 +530,8 @@
   "news:9ac00f3ccd8a4f2e": 1789273410,
   "news:274dd5210476d264": 1789293651,
   "news:f50be09f0d9833d5": 1789295199,
-  "news:b503016dda6cf30c": 1789312628
+  "news:b503016dda6cf30c": 1789312628,
+  "news:39095b8902918bca": 1789337858
  },
  "stories": {
   "[기자수첩] “마지막 불꽃축제가 아니었으면”…암 환우 삶을 바꾼 한화생명": 1789082442,
@@ -566,7 +567,8 @@
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
   "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410,
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
-  "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐": 1789295199
+  "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐": 1789295199,
+  "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858
  },
  "news_queue": [
   {
@@ -618,6 +620,16 @@
    "date": "Sun, 13 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuSXp6cXhfVjdMaWlRMDYwVmI5aGdvRWcyNHBwTXRDMnhySG1FenRnYm1nQlY0R1dQMk9LbGFyX1I4c2hzYjFwREg5U01NN0pfY0hlYVh1S2E1dkJE?oc=5",
    "sort_key": "Sun, 13 Sep 2026 09:42:00 GMT"
+  },
+  {
+   "id": "news:39095b8902918bca",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등",
+   "source": "CEO스코어데일리",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
