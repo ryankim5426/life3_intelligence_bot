@@ -522,7 +522,8 @@
   "news:6f163a48af80de07": 1789196378,
   "news:1291b1d6ef788812": 1789208542,
   "news:634bf57da06c64f4": 1789212586,
-  "news:450199de32120c05": 1789239483
+  "news:450199de32120c05": 1789239483,
+  "news:5021c4f2f9e787ae": 1789260404
  },
  "stories": {
   "삼성생명, '삼성 굴려받는 연금보험' 출시": 1789001411,
@@ -584,9 +585,21 @@
   "한화생명 투자분석 2026. 09. 10": 1789196378,
   "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
-  "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483
+  "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
+  "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:5021c4f2f9e787ae",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’",
+   "source": "이코노미톡뉴스",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5maHlPUF8zekFOdEdIMjVhWi02OUdXeWZxRWRMWjJaNGFZaWZIWmVVMjZScTR5RHh1c3RyRVNtR3QtTzdLRE5tdE13alF2ZjgxdzhRR0xjSjVsV0pSdXZGalFDUjhDcmRKTEhiZw?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 00:22:59 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-13"
 }
