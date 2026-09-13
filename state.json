@@ -531,7 +531,8 @@
   "news:274dd5210476d264": 1789293651,
   "news:f50be09f0d9833d5": 1789295199,
   "news:b503016dda6cf30c": 1789312628,
-  "news:39095b8902918bca": 1789337858
+  "news:39095b8902918bca": 1789337858,
+  "news:846dabf5a67b9806": 1789342799
  },
  "stories": {
   "[기자수첩] 보도자료엔 열리고 질문엔 닫힌 삼성생명": 1789084340,
@@ -567,70 +568,10 @@
   "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410,
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
   "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐": 1789295199,
-  "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858
+  "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
+  "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799
  },
- "news_queue": [
-  {
-   "id": "news:5021c4f2f9e787ae",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’",
-   "source": "이코노미톡뉴스",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5maHlPUF8zekFOdEdIMjVhWi02OUdXeWZxRWRMWjJaNGFZaWZIWmVVMjZScTR5RHh1c3RyRVNtR3QtTzdLRE5tdE13alF2ZjgxdzhRR0xjSjVsV0pSdXZGalFDUjhDcmRKTEhiZw?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 00:22:59 GMT"
-  },
-  {
-   "id": "news:732e8484b22387bc",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상",
-   "source": "한스경제",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eXNBODZsVmhvQVp3ZXJhS0tWT1hKWnh6UVNJZnpCSTR4cWs4Yld3S3JBd2lhdHlmV2pGT0M2WmZRX1VuZnZtUE54RkVId09hY19CUjR5OVBnTi1uM0ZBa2w5RVJ0VC1zcVd5cdIBb0FVX3lxTFB2X3ZEbVNVZ2hGdGJjcm5LMC1KNHJhMDJjcEcyZU1GVUpGT2hOWTdFMGd1c2VXeWUxLTEyeUxlcGdHejVycWM2cGtkVWFiZTVxQTlzQ19QNlBzeExxY2hmM09CbkgyQUVXR0FJWk5HQQ?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 02:01:27 GMT"
-  },
-  {
-   "id": "news:9ac00f3ccd8a4f2e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허",
-   "source": "블로터",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdF9HeDM1YVVGR1ktVUpkUEFoVDNLelg0dE55Q1NLZ2ZjNjdJNk14QTdKd1Z2a2hacjUtakgtNTNMSm9JeXlHOHBySFFpbkRNa2tTX21LN2RfSzRuY180M2RXR1U2VnZX0gFsQVVfeXFMTjdhNGFwY2xMZEZVSFpmRnljYmxpX1BWdE1WSjBkQzJZRWpiUEhrRmdJVXNqOGl6bGZUN3RXOVFrWHBVMGxSeDlLTF9jTWY1eXVFX1gwazRmZlY1aDNGSHJqV3VuQkhjNUw3b1ZE?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 03:50:59 GMT"
-  },
-  {
-   "id": "news:274dd5210476d264",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"",
-   "source": "플레이포럼",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiU3UxcnVfdlVvSGNZQTY0MlNCa2dXOVc2akpqcjIweVU4YzNfcFoyZy1nZTBTOC1pTXhqZm9KSVBNSXdCOHhMWjd5YU5Hckx0a29RMTlRb0YyRmNoNFRoNmFUWUVqNE1iS2p6Xw?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 09:24:26 GMT"
-  },
-  {
-   "id": "news:f50be09f0d9833d5",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐",
-   "source": "네이트",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuSXp6cXhfVjdMaWlRMDYwVmI5aGdvRWcyNHBwTXRDMnhySG1FenRnYm1nQlY0R1dQMk9LbGFyX1I4c2hzYjFwREg5U01NN0pfY0hlYVh1S2E1dkJE?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 09:42:00 GMT"
-  },
-  {
-   "id": "news:39095b8902918bca",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등",
-   "source": "CEO스코어데일리",
-   "date": "Sun, 13 Sep 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
-   "sort_key": "Sun, 13 Sep 2026 22:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-09-13"
+ "last_digest": "2026-09-14"
 }
