@@ -526,10 +526,10 @@
   "news:5021c4f2f9e787ae": 1789260404,
   "news:8adfe4f5b550190a": 1789269499,
   "news:732e8484b22387bc": 1789269499,
-  "news:c0ec87caa3332cd1": 1789271384
+  "news:c0ec87caa3332cd1": 1789271384,
+  "news:9ac00f3ccd8a4f2e": 1789273410
  },
  "stories": {
-  "‘연금보험 라인업 확대’…삼성생명, 10년 확정이율 상품 선봬": 1789013734,
   "\"목돈 한 번에 맡기고 노후 대비\"… 삼성생명, 고정금리 연금보험 선봬": 1789014833,
   "삼성생명, ‘일시납 목돈 10년 굴리기’ 연금보험… 10년 확정이율 4.4%": 1789017264,
   "[금융계 8월 동향] 한화생명, AI 경쟁력 강화···미래 성장동력 확보 속도": 1789019415,
@@ -581,7 +581,8 @@
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
-  "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499
+  "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
+  "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410
  },
  "news_queue": [
   {
@@ -603,6 +604,16 @@
    "date": "Sun, 13 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eXNBODZsVmhvQVp3ZXJhS0tWT1hKWnh6UVNJZnpCSTR4cWs4Yld3S3JBd2lhdHlmV2pGT0M2WmZRX1VuZnZtUE54RkVId09hY19CUjR5OVBnTi1uM0ZBa2w5RVJ0VC1zcVd5cdIBb0FVX3lxTFB2X3ZEbVNVZ2hGdGJjcm5LMC1KNHJhMDJjcEcyZU1GVUpGT2hOWTdFMGd1c2VXeWUxLTEyeUxlcGdHejVycWM2cGtkVWFiZTVxQTlzQ19QNlBzeExxY2hmM09CbkgyQUVXR0FJWk5HQQ?oc=5",
    "sort_key": "Sun, 13 Sep 2026 02:01:27 GMT"
+  },
+  {
+   "id": "news:9ac00f3ccd8a4f2e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허",
+   "source": "블로터",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdF9HeDM1YVVGR1ktVUpkUEFoVDNLelg0dE55Q1NLZ2ZjNjdJNk14QTdKd1Z2a2hacjUtakgtNTNMSm9JeXlHOHBySFFpbkRNa2tTX21LN2RfSzRuY180M2RXR1U2VnZX0gFsQVVfeXFMTjdhNGFwY2xMZEZVSFpmRnljYmxpX1BWdE1WSjBkQzJZRWpiUEhrRmdJVXNqOGl6bGZUN3RXOVFrWHBVMGxSeDlLTF9jTWY1eXVFX1gwazRmZlY1aDNGSHJqV3VuQkhjNUw3b1ZE?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 03:50:59 GMT"
   }
  ],
  "initialized": true,
