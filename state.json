@@ -527,11 +527,10 @@
   "news:8adfe4f5b550190a": 1789269499,
   "news:732e8484b22387bc": 1789269499,
   "news:c0ec87caa3332cd1": 1789271384,
-  "news:9ac00f3ccd8a4f2e": 1789273410
+  "news:9ac00f3ccd8a4f2e": 1789273410,
+  "news:274dd5210476d264": 1789293651
  },
  "stories": {
-  "한화생명, 63빌딩 리뉴얼 100일…문화·미식 공간으로 재편": 1789031745,
-  "[보험 NOW] 푸본현대생명·삼성생명·삼성화재": 1789033902,
   "外人 투매, 코스피 '하락'...한화생명·GS건설은 '껑충'": 1789035370,
   "한화생명 \"새 단장한 63빌딩, 100일만에 30만명 찾았다\"": 1789035370,
   "AI 자동신청에 보험사 금리인하요구 2.6배 급증…삼성생명 23억 감면 ‘최대’": 1789035370,
@@ -571,7 +570,8 @@
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
-  "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410
+  "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410,
+  "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651
  },
  "news_queue": [
   {
@@ -603,6 +603,16 @@
    "date": "Sun, 13 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdF9HeDM1YVVGR1ktVUpkUEFoVDNLelg0dE55Q1NLZ2ZjNjdJNk14QTdKd1Z2a2hacjUtakgtNTNMSm9JeXlHOHBySFFpbkRNa2tTX21LN2RfSzRuY180M2RXR1U2VnZX0gFsQVVfeXFMTjdhNGFwY2xMZEZVSFpmRnljYmxpX1BWdE1WSjBkQzJZRWpiUEhrRmdJVXNqOGl6bGZUN3RXOVFrWHBVMGxSeDlLTF9jTWY1eXVFX1gwazRmZlY1aDNGSHJqV3VuQkhjNUw3b1ZE?oc=5",
    "sort_key": "Sun, 13 Sep 2026 03:50:59 GMT"
+  },
+  {
+   "id": "news:274dd5210476d264",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"",
+   "source": "플레이포럼",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiU3UxcnVfdlVvSGNZQTY0MlNCa2dXOVc2akpqcjIweVU4YzNfcFoyZy1nZTBTOC1pTXhqZm9KSVBNSXdCOHhMWjd5YU5Hckx0a29RMTlRb0YyRmNoNFRoNmFUWUVqNE1iS2p6Xw?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 09:24:26 GMT"
   }
  ],
  "initialized": true,
