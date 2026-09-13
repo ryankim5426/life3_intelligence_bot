@@ -523,7 +523,9 @@
   "news:1291b1d6ef788812": 1789208542,
   "news:634bf57da06c64f4": 1789212586,
   "news:450199de32120c05": 1789239483,
-  "news:5021c4f2f9e787ae": 1789260404
+  "news:5021c4f2f9e787ae": 1789260404,
+  "news:8adfe4f5b550190a": 1789269499,
+  "news:732e8484b22387bc": 1789269499
  },
  "stories": {
   "한화생명, 63빌딩 새 단장..커피 라이프스타일 등 즐겨": 1789010394,
@@ -578,7 +580,8 @@
   "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
-  "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404
+  "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
+  "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499
  },
  "news_queue": [
   {
@@ -590,6 +593,16 @@
    "date": "Sun, 13 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5maHlPUF8zekFOdEdIMjVhWi02OUdXeWZxRWRMWjJaNGFZaWZIWmVVMjZScTR5RHh1c3RyRVNtR3QtTzdLRE5tdE13alF2ZjgxdzhRR0xjSjVsV0pSdXZGalFDUjhDcmRKTEhiZw?oc=5",
    "sort_key": "Sun, 13 Sep 2026 00:22:59 GMT"
+  },
+  {
+   "id": "news:732e8484b22387bc",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상",
+   "source": "한스경제",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eXNBODZsVmhvQVp3ZXJhS0tWT1hKWnh6UVNJZnpCSTR4cWs4Yld3S3JBd2lhdHlmV2pGT0M2WmZRX1VuZnZtUE54RkVId09hY19CUjR5OVBnTi1uM0ZBa2w5RVJ0VC1zcVd5cdIBb0FVX3lxTFB2X3ZEbVNVZ2hGdGJjcm5LMC1KNHJhMDJjcEcyZU1GVUpGT2hOWTdFMGd1c2VXeWUxLTEyeUxlcGdHejVycWM2cGtkVWFiZTVxQTlzQ19QNlBzeExxY2hmM09CbkgyQUVXR0FJWk5HQQ?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 02:01:27 GMT"
   }
  ],
  "initialized": true,
