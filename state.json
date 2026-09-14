@@ -567,10 +567,10 @@
   "news:49904d6d3e607919": 1789374177,
   "news:98765f2e2e26d4ba": 1789374177,
   "news:95c88a837b126899": 1789375496,
-  "news:45d1f6c9d1545526": 1789376422
+  "news:45d1f6c9d1545526": 1789376422,
+  "news:5eb9881ba48c544a": 1789379194
  },
  "stories": {
-  "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
   "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296,
   "정주용 대전 중구의원, 한화생명볼파크와 원도심의 주차 문제 등 중구 미래 직결 현안 집중 점검": 1789131004,
   "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410,
@@ -612,7 +612,8 @@
   "삼성생명, 실효 보험계약 모바일로 되살린다…서류 작성·납입도": 1789369447,
   "[보험업계 동향] 삼성생명ㆍNH농협생명ㆍ하나손해보험 (9.14)": 1789372032,
   "'애큐온 패키지 인수' 한화생명, '아픈손가락' 저축은행 골머리": 1789374177,
-  "대전동부소방서, 한화생명볼파크 재난 대비 현지적응훈련 실시": 1789375496
+  "대전동부소방서, 한화생명볼파크 재난 대비 현지적응훈련 실시": 1789375496,
+  "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194
  },
  "news_queue": [
   {
@@ -854,6 +855,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRR2dZY1Z2aGJtVW96TU4tR0NZODhpU1FZcDlHZklqQkZuUUVjX0xkZzRaekxYMlRxQWlsOElxUEhFYjhGVHR0d2xXM3lZUzRkLXJJVVJMVXdYelotSFBHdVV6WkZNQQ?oc=5",
    "sort_key": "Mon, 14 Sep 2026 08:35:00 GMT"
+  },
+  {
+   "id": "news:5eb9881ba48c544a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다",
+   "source": "리버티코리아포스트",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ITFRSQ2h0cDR2ZU1KYzh6OGlsb3NJT1k4dUUtOFNYOU1peXNSRTFfVVdHRTBSandoVUEtLVZPeTkwdUdDcWpISWp1ekxaMzdvVTVpSFBsRDVKdW9nV3F0cGdlaljSAWdBVV95cUxOLUdnWFVXamk3OEFjNmNhWXIteGlWcWtac08weGNab0Fzb21OaWF3UDFKZ2VUb19mdzFEc04tTnlZbDZQR29wTzVhZUlPWkg4dVJUc2tGLTF2bGlnMnktOEZnakF6QlJR?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 06:36:39 GMT"
   }
  ],
  "initialized": true,
