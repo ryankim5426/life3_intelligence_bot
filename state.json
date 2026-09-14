@@ -537,7 +537,10 @@
   "news:c5ee965e7d011f5a": 1789345363,
   "news:30b5e3406baf5a24": 1789345363,
   "news:522311620ecada46": 1789345363,
-  "news:5b339c8fa3aea067": 1789345363
+  "news:5b339c8fa3aea067": 1789345363,
+  "news:2e1cae1be2c0ffc9": 1789346877,
+  "news:7ecd88b1a4594dec": 1789346878,
+  "news:3dc62af9d4b619fe": 1789346878
  },
  "stories": {
   "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373,
@@ -578,7 +581,9 @@
   "삼성생명, 스마트폰으로 연체 해지보험 ‘부활’": 1789345363,
   "해지된 보험계약, 스마트폰으로 다시 살린다…삼성생명 모바일 부활": 1789345363,
   "삼성생명, 보험계약 부활도 모바일로…서류 작성부터 보험료 납입까지": 1789345363,
-  "[금융레이더] 삼성생명/애큐온캐피탈": 1789345363
+  "[금융레이더] 삼성생명/애큐온캐피탈": 1789345363,
+  "삼성생명에 떨어진 2.5조 '배당잭팟'…돈 어디로 갈까": 1789346878,
+  "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에": 1789346878
  },
  "news_queue": [
   {
@@ -630,6 +635,26 @@
    "date": "Sun, 13 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNUpndXo3NGxpXzFyYTdiel9PWEh0dmJZVHpQMjNvZkJyTVE2YU5JdzF5dUFscG9TaUthei1DUVJNT3FyVnd0TncxUmxKTVkwTUFNT0RpWW1nQjVXdVZUS2VqdWZZbzlVX3Y5Y2MxbTNwVWdV?oc=5",
    "sort_key": "Sun, 13 Sep 2026 23:55:41 GMT"
+  },
+  {
+   "id": "news:7ecd88b1a4594dec",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명에 떨어진 2.5조 '배당잭팟'…돈 어디로 갈까",
+   "source": "딜사이트",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NcGluZU12QXcyWnp2TXpoajZEM0xHamFDN0VSYzFRaDFyZlc0WUVESjdUbTNqa3NIS2ZCNnZaRUJUaFlVZGZQdGZKQXdKdlE?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:3dc62af9d4b619fe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에",
+   "source": "서울타임즈뉴스",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0T3BDVTJOYXJoWFcyRl9kQmtJZ0kwLUVIS1VwTndDdWNuU1VYUndwR0oxT2U0aFdrRk1LajFHek1MaEJqNXNrcDFPYUpyT2xSV25VclJjSVNfZEZjT2dQRHVkZHVaWGtPeGNV?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:40:51 GMT"
   }
  ],
  "initialized": true,
