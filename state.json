@@ -543,7 +543,9 @@
   "news:3dc62af9d4b619fe": 1789346878,
   "news:c7e98fd7b9556e08": 1789347704,
   "news:ec4305829b06e3b2": 1789347704,
-  "news:847feb9ce1bdd976": 1789347704
+  "news:847feb9ce1bdd976": 1789347704,
+  "news:f2a0f248cbb127ce": 1789349027,
+  "news:b2307eaed213006d": 1789349027
  },
  "stories": {
   "삼성생명, 독창적 담보 발굴로 건강보험 시장 경쟁력↑...고객 트렌드 변화 주도": 1789090431,
@@ -587,7 +589,8 @@
   "삼성생명에 떨어진 2.5조 '배당잭팟'…돈 어디로 갈까": 1789346878,
   "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에": 1789346878,
   "삼성생명, 연체 해지된 보험 '비대면 부활' 가능해진다": 1789347704,
-  "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704
+  "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704,
+  "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027
  },
  "news_queue": [
   {
@@ -679,6 +682,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT012TE4wMVAzUWY5VmhjYWhoaVZNaFhFc1BsbW1BQ2tvVG5XNDhYdE1aS0VFTm5YaVdOZTdYV0dwd2xsTFpWcF9ja2hjbVVJX1pUT1ZpVUlSdGdRRWJzWDVpaEVuQU55OUpB?oc=5",
    "sort_key": "Mon, 14 Sep 2026 00:49:19 GMT"
+  },
+  {
+   "id": "news:b2307eaed213006d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 해지 보험계약 모바일 부활 서비스 도입",
+   "source": "보험매일",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94U1NhRG1Uc0c3anJBa2dzbHZxOXFqbEtES2VIVkg1NElMVEpDSlQ1UWNINHhhVkwxdzFWNWkzS0pNdjFDYzlhb3RfTGllbURPQVBUN0VYY2ZmVjFqRW1TTmFHbmN3MzRP?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:00:51 GMT"
   }
  ],
  "initialized": true,
