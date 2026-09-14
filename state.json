@@ -560,10 +560,11 @@
   "news:da9aa2d3a27339ae": 1789363169,
   "news:c1552767f9b7a6d6": 1789366916,
   "news:daf46cf708bfe9ae": 1789368545,
-  "news:ece0ada9f121e3d3": 1789369447
+  "news:ece0ada9f121e3d3": 1789369447,
+  "news:d0c47147d417b1e0": 1789372032,
+  "news:c9a19da30f5d0a86": 1789372032
  },
  "stories": {
-  "김동원 한화생명 부회장, 글로벌 종합금융그룹 향한 보폭 넓힌다": 1789112029,
   "[ESG경영] 보호대상아동부터 청년 문학인까지…교보생명, '교육'에 지속 투자": 1789118112,
   "[이슈] 삼성생명·화재, 해외 M&A 확대…새 성장동력 확보 '정조준'": 1789119201,
   "교보생명, 단계별 맞춤 교육으로 아동 홀로서기 지원…‘장기 멘토링’ 빛났다": 1789125296,
@@ -604,7 +605,8 @@
   "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169,
   "삼성생명, 종이없는 디지털 보험 서비스 선도...\"모바일에서도 보험계약 부활\"": 1789366916,
   "[오늘의 금융리뷰] 현대카드·우리카드·삼성생명": 1789368545,
-  "삼성생명, 실효 보험계약 모바일로 되살린다…서류 작성·납입도": 1789369447
+  "삼성생명, 실효 보험계약 모바일로 되살린다…서류 작성·납입도": 1789369447,
+  "[보험업계 동향] 삼성생명ㆍNH농협생명ㆍ하나손해보험 (9.14)": 1789372032
  },
  "news_queue": [
   {
@@ -816,6 +818,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWmRlN2treXAyWGY2M3dCTllaQjNSV2Rabm9fR0tfOUpwblE5c29uUGQ2cS1Jc1h4NDhuREdXRkF4aUQ0X3hsNU53NExzbjRDWVB6bTlyOU16RTlCdnlwdUlCNWxJRjNfZnh6MA?oc=5",
    "sort_key": "Mon, 14 Sep 2026 06:41:20 GMT"
+  },
+  {
+   "id": "news:c9a19da30f5d0a86",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험업계 동향] 삼성생명ㆍNH농협생명ㆍ하나손해보험 (9.14)",
+   "source": "위클리오늘",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcUxNa01wLUo2b01zQzNBX3VlNjhSUGRpRlJYM0x4VkZCYzV0WVNIS0RWZVdNQVNrS2NkbmlKY1BVODJvb1BvRkVUaUd0R0lRRjh3cFM0RmFmMDdGaEVYZlJpY0VxV0QzMlJSUU53?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 07:45:14 GMT"
   }
  ],
  "initialized": true,
