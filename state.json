@@ -553,7 +553,8 @@
   "news:fdbc875f2d34c7c7": 1789352441,
   "news:a4b3a5971f5731db": 1789353819,
   "news:6014d130b2009d16": 1789354738,
-  "news:8a27c264c75c4405": 1789357503
+  "news:8a27c264c75c4405": 1789357503,
+  "news:69601957e74bca12": 1789359678
  },
  "stories": {
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
@@ -599,7 +600,8 @@
   "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
   "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
   "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
-  "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738
+  "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738,
+  "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678
  },
  "news_queue": [
   {
@@ -751,6 +753,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wc2g4Sm1sWVpYdVp4Nk9rM2p5WFdOWEhCYUxxaEd5c0pjSHAxRTFSWExTMnlvdzFGWEZhQVZicUs0R1FwT0tZZUFXQ2RqRS1TUmVTejQyZnBKd3J6cU0zWkhBZGptRzVIa3lFMFRZTWXSAXRBVV95cUxOekxqWUxqbTZXY2UzUERYSXpjX1ppaVpzcEE4OVY3bkJDMWFzc3psYUFuSDNsb3pNZXdmblRaM0xwT1lYa2JSSVJOeURBekpIZ0VGMzFPRXJMUUhGS3R4UmNZQ19Xeld4RnZjNkh1eFhhV3gyQQ?oc=5",
    "sort_key": "Mon, 14 Sep 2026 02:44:14 GMT"
+  },
+  {
+   "id": "news:69601957e74bca12",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명",
+   "source": "메트로신문",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtekFmVTVmX3F5TlJSc0VjV0w1YXhEUVVfQ3hQcGZpdEFxS2hlN2kxVGhPaXV6QWdtN003M3pDY0ExMURJZVNjZjM1cTBuRjlqd0lBUmlyelZ3bW0ydWJacg?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 03:36:19 GMT"
   }
  ],
  "initialized": true,
