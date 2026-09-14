@@ -559,7 +559,8 @@
   "news:e4ecc28fd09fc8f7": 1789361070,
   "news:da9aa2d3a27339ae": 1789363169,
   "news:c1552767f9b7a6d6": 1789366916,
-  "news:daf46cf708bfe9ae": 1789368545
+  "news:daf46cf708bfe9ae": 1789368545,
+  "news:ece0ada9f121e3d3": 1789369447
  },
  "stories": {
   "[르포] 한화생명의 63빌딩 재정의…전망 넘어 경험을 담다": 1789110945,
@@ -605,7 +606,8 @@
   "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070,
   "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169,
   "삼성생명, 종이없는 디지털 보험 서비스 선도...\"모바일에서도 보험계약 부활\"": 1789366916,
-  "[오늘의 금융리뷰] 현대카드·우리카드·삼성생명": 1789368545
+  "[오늘의 금융리뷰] 현대카드·우리카드·삼성생명": 1789368545,
+  "삼성생명, 실효 보험계약 모바일로 되살린다…서류 작성·납입도": 1789369447
  },
  "news_queue": [
   {
@@ -807,6 +809,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94dGxTUzdoVGtwTFhqMEVWQjYzR0tPY0F2OVlLSERfR3RlSHByUXRydjhBby1HRmQ4cVhheElvbUlJZVlSNXR4XzBqOTFyREFhRWlseGNqRE1CSEhLd2xsT0ZtU1J6R2ZKM3ZoZVFUOFRiWjZp?oc=5",
    "sort_key": "Mon, 14 Sep 2026 06:35:39 GMT"
+  },
+  {
+   "id": "news:ece0ada9f121e3d3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 실효 보험계약 모바일로 되살린다…서류 작성·납입도",
+   "source": "스페셜경제",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWmRlN2treXAyWGY2M3dCTllaQjNSV2Rabm9fR0tfOUpwblE5c29uUGQ2cS1Jc1h4NDhuREdXRkF4aUQ0X3hsNU53NExzbjRDWVB6bTlyOU16RTlCdnlwdUlCNWxJRjNfZnh6MA?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 06:41:20 GMT"
   }
  ],
  "initialized": true,
