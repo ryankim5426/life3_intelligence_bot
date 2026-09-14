@@ -549,7 +549,8 @@
   "news:a98137ae4854cfc7": 1789350143,
   "news:672c334d9a3e0a7d": 1789350143,
   "news:722b76ab0646df9c": 1789351166,
-  "news:6eac88104c90e1b6": 1789351166
+  "news:6eac88104c90e1b6": 1789351166,
+  "news:fdbc875f2d34c7c7": 1789352441
  },
  "stories": {
   "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
@@ -595,7 +596,8 @@
   "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704,
   "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
-  "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166
+  "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
+  "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441
  },
  "news_queue": [
   {
@@ -717,6 +719,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUbGdDa3BDbXl1ZXZaZEVucXRpblhZUjk5Sjg4S19IbnFqMTNZQk5mWm9hdkRsNk9kVXR4Q3VhNVk1QXNBN1Z2ZHVWSS0ydkdNVzNkX1NodUdqU09ES0c3UEVRZEppUGRs?oc=5",
    "sort_key": "Mon, 14 Sep 2026 01:42:00 GMT"
+  },
+  {
+   "id": "news:fdbc875f2d34c7c7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고",
+   "source": "뉴스투데이",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WcGlWR3NZTFZwVzhRWlVNY2hNU3JCb0pra0R4ZnlwVmp3WlFOV0xjV3k2Z1l4ckRDXzIwQWEwRmwxOTZHelpxV1lCRDIzVjBWTG5NRzNYNWdzSHo3b2c?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 02:06:00 GMT"
   }
  ],
  "initialized": true,
