@@ -574,7 +574,8 @@
   "news:8d54b91cb610c3d6": 1789388450,
   "news:af9f0bd5f36cedfe": 1789390147,
   "news:bcbfbbac0f01256e": 1789399708,
-  "news:d71fa4801f800850": 1789416218
+  "news:d71fa4801f800850": 1789416218,
+  "news:d64b1fbbd7efaf14": 1789421721
  },
  "stories": {
   "치료비부터 노후자금까지… 삼성생명, 라이프케어 강화": 1789163271,
@@ -619,7 +620,8 @@
   "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194,
   "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
   "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708,
-  "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218
+  "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218,
+  "교보생명 지주전환 늦추나… 세법 개정에 시간 벌수도": 1789421721
  },
  "news_queue": [
   {
@@ -901,6 +903,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kMl9ETnZqTWIyd3BaZDNqUlhQOXg2UWNEci1uNll4c3U4TXpDc3U3UHZGLWVRZk1ua3pDU0VjUEpTcE1VcTlyWkRNSS1DYWtzNERycUo1anU3Q2lCb3hSWVIzNTk0aWZReURPVjBIOEZFdkU?oc=5",
    "sort_key": "Mon, 14 Sep 2026 19:40:00 GMT"
+  },
+  {
+   "id": "news:d64b1fbbd7efaf14",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 지주전환 늦추나… 세법 개정에 시간 벌수도",
+   "source": "IT조선",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qcy16Tk5wQlBhNF9NbHc5TF9Gbk0tdGFTbVdWajZIQ3lBaTdlQ2M3LUpjQ1JQa2hVdFhoZ0x1MzdPeEgxRlB5dG9mdk1jVlFQVEx5OWRiRDlGVW1aSWQ1LXJSMzdhV1NjNENPMFpEQmrSAXRBVV95cUxQdEliQTlXb1JZb3FHYXZCMFlIVWxmQjJLXzZyM3BtS2ZXWkRlN0hJRU5jY1F4ZzF6ekNsalFfVEJBakpsc0gxYnBBakFWT2VORVlSZkltQ21jbXNwV3ZJbUFFMFZ1c2tLN05VOUlPZlZJX05meA?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 21:20:00 GMT"
   }
  ],
  "initialized": true,
