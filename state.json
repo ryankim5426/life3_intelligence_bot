@@ -532,7 +532,12 @@
   "news:f50be09f0d9833d5": 1789295199,
   "news:b503016dda6cf30c": 1789312628,
   "news:39095b8902918bca": 1789337858,
-  "news:846dabf5a67b9806": 1789342799
+  "news:846dabf5a67b9806": 1789342799,
+  "news:5461ac30b6cb7c92": 1789345363,
+  "news:c5ee965e7d011f5a": 1789345363,
+  "news:30b5e3406baf5a24": 1789345363,
+  "news:522311620ecada46": 1789345363,
+  "news:5b339c8fa3aea067": 1789345363
  },
  "stories": {
   "보호대상아동 홀로서기 돕는 교보생명 ‘꿈도깨비’…장기동행형 사회공헌 벤치마킹 모델로 2021년부터 언어•심리정서에서 진로•ICT•금융까지…성장단계별 맞춤 교육": 1789088373,
@@ -568,9 +573,65 @@
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
   "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐": 1789295199,
   "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
-  "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799
+  "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799,
+  "삼성생명, 연체 해지 계약 ‘모바일 부활 시스템’ 개설": 1789345363,
+  "삼성생명, 스마트폰으로 연체 해지보험 ‘부활’": 1789345363,
+  "해지된 보험계약, 스마트폰으로 다시 살린다…삼성생명 모바일 부활": 1789345363,
+  "삼성생명, 보험계약 부활도 모바일로…서류 작성부터 보험료 납입까지": 1789345363,
+  "[금융레이더] 삼성생명/애큐온캐피탈": 1789345363
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:5461ac30b6cb7c92",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 연체 해지 계약 ‘모바일 부활 시스템’ 개설",
+   "source": "fetv.co.kr",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZkRYMVZtd1VHci1TdFZzOHV0d016TDBfS085eDN0M3RLOXNST1hjMjhtb2VDUzJmOEltemp1ZnROSkgyYVo1dTJCLWEtRllyeW1EZkpJOFRwQjdyeFpmZ1ZZY214U1Zf?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:03:16 GMT"
+  },
+  {
+   "id": "news:c5ee965e7d011f5a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 스마트폰으로 연체 해지보험 ‘부활’",
+   "source": "경제타임스",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92M01tQWZWSElfR2V6Y0dKSEVBSk56YTV4NGVoQUNNWldXY1haWVFscUM3VzJNMEpjeXlsMTRBZmc3UjBQV3RtZmhOckpiVFRZb1hj?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:16:07 GMT"
+  },
+  {
+   "id": "news:30b5e3406baf5a24",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "해지된 보험계약, 스마트폰으로 다시 살린다…삼성생명 모바일 부활",
+   "source": "파이낸셜뉴스",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNGJiT29lVy1YbHpRSGxJRnJjTzA0M3RMZENVbjdSV2xJNHZGeVVUamdjYl85cWtSdVJVc0dRX1M4VTh0WDFxZlBEVGhGNVptZ0tlOGV1NDZTZw?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 23:46:30 GMT"
+  },
+  {
+   "id": "news:522311620ecada46",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 보험계약 부활도 모바일로…서류 작성부터 보험료 납입까지",
+   "source": "아주경제",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yckd4U3hWb3RMcldCcHhETkFUVHUzM1BNTnlBVG9ELTdUd2pzUmNUcWVsRjJDakJUSW1rY3ZUV05nenJvWkZiN1cyVklRY0FPZkpldFNWT1NId9IBWEFVX3lxTFB1VzVMYlk2UFV0VnlQM2lESmQ0dEVtTW4xLUxLaU9qalA3ZTZjLXVzUXhrM0JFaGhMZVoxc2lTNWVRaUZTdEhBbWJtU3FhMllHcm5HZ1FNckY?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 23:54:41 GMT"
+  },
+  {
+   "id": "news:5b339c8fa3aea067",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융레이더] 삼성생명/애큐온캐피탈",
+   "source": "대한경제",
+   "date": "Sun, 13 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNUpndXo3NGxpXzFyYTdiel9PWEh0dmJZVHpQMjNvZkJyTVE2YU5JdzF5dUFscG9TaUthei1DUVJNT3FyVnd0TncxUmxKTVkwTUFNT0RpWW1nQjVXdVZUS2VqdWZZbzlVX3Y5Y2MxbTNwVWdV?oc=5",
+   "sort_key": "Sun, 13 Sep 2026 23:55:41 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-14"
 }
