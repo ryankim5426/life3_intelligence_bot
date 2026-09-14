@@ -551,7 +551,8 @@
   "news:722b76ab0646df9c": 1789351166,
   "news:6eac88104c90e1b6": 1789351166,
   "news:fdbc875f2d34c7c7": 1789352441,
-  "news:a4b3a5971f5731db": 1789353819
+  "news:a4b3a5971f5731db": 1789353819,
+  "news:6014d130b2009d16": 1789354738
  },
  "stories": {
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
@@ -596,7 +597,8 @@
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
   "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
   "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
-  "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819
+  "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
+  "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738
  },
  "news_queue": [
   {
@@ -738,6 +740,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50M2xfei1oVnVWVTNNR2NScG9pRm8wT2ctVU1wYVl3U0pSTHhSclFsM0NhckNMVkFBaVNQQ1E2Q0lDdWxWS0NwV1BfcGFFb2Z4WWl1SHpEM2hCNnBhVGgzdjBaeWVMU2RSY1E?oc=5",
    "sort_key": "Mon, 14 Sep 2026 02:00:00 GMT"
+  },
+  {
+   "id": "news:6014d130b2009d16",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 비대면 보험 부활 청약 시스템 출시",
+   "source": "이뉴스투데이",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wc2g4Sm1sWVpYdVp4Nk9rM2p5WFdOWEhCYUxxaEd5c0pjSHAxRTFSWExTMnlvdzFGWEZhQVZicUs0R1FwT0tZZUFXQ2RqRS1TUmVTejQyZnBKd3J6cU0zWkhBZGptRzVIa3lFMFRZTWXSAXRBVV95cUxOekxqWUxqbTZXY2UzUERYSXpjX1ppaVpzcEE4OVY3bkJDMWFzc3psYUFuSDNsb3pNZXdmblRaM0xwT1lYa2JSSVJOeURBekpIZ0VGMzFPRXJMUUhGS3R4UmNZQ19Xeld4RnZjNkh1eFhhV3gyQQ?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 02:44:14 GMT"
   }
  ],
  "initialized": true,
