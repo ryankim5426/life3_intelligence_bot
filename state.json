@@ -554,7 +554,9 @@
   "news:a4b3a5971f5731db": 1789353819,
   "news:6014d130b2009d16": 1789354738,
   "news:8a27c264c75c4405": 1789357503,
-  "news:69601957e74bca12": 1789359678
+  "news:69601957e74bca12": 1789359678,
+  "news:98a92df98b3dad83": 1789361070,
+  "news:e4ecc28fd09fc8f7": 1789361070
  },
  "stories": {
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
@@ -601,7 +603,8 @@
   "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
   "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
   "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738,
-  "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678
+  "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678,
+  "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070
  },
  "news_queue": [
   {
@@ -763,6 +766,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtekFmVTVmX3F5TlJSc0VjV0w1YXhEUVVfQ3hQcGZpdEFxS2hlN2kxVGhPaXV6QWdtN003M3pDY0ExMURJZVNjZjM1cTBuRjlqd0lBUmlyelZ3bW0ydWJacg?oc=5",
    "sort_key": "Mon, 14 Sep 2026 03:36:19 GMT"
+  },
+  {
+   "id": "news:e4ecc28fd09fc8f7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, ‘모바일 보험 시스템’ 도입",
+   "source": "소년한국일보",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMkVmQ3E2V0FqYng4bXl1QXJmaDB4OHAtZzB2VlAtWnJ4UWdWTHpPQTluOGNUZ2FjY000UUdxQ3lrRHp2Z3pmV2pnWHNHLXlBZ2hndXVsR0RTcFJaaWZvaTlqYnJKVE5ERVg0WdIBcEFVX3lxTFB4MG9aMldSV215UEY1U1RiX0ItdmNZTERKM0U0b0M3YWFzeDFIa2trWUFDZ0RmdVhvZGtGSHVFMnR0MTJLRXhTUV9DVEt6YkVmVW1sUl9JOHVYU25lSkRSRHowYjZMWWoxQUh1aVM3ekY?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 01:25:59 GMT"
   }
  ],
  "initialized": true,
