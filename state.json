@@ -573,7 +573,8 @@
   "news:badbc05096f5b0b2": 1789384783,
   "news:8d54b91cb610c3d6": 1789388450,
   "news:af9f0bd5f36cedfe": 1789390147,
-  "news:bcbfbbac0f01256e": 1789399708
+  "news:bcbfbbac0f01256e": 1789399708,
+  "news:d71fa4801f800850": 1789416218
  },
  "stories": {
   "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410,
@@ -618,7 +619,8 @@
   "대전동부소방서, 한화생명볼파크 재난 대비 현지적응훈련 실시": 1789375496,
   "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194,
   "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
-  "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708
+  "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708,
+  "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218
  },
  "news_queue": [
   {
@@ -890,6 +892,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83YzNCSzNWN1BPakd4aUVsWUtNS2NvYU9RM2QyaGM3UEtha1AzN1hWVXpGVHByTUdJSXh4MTNYYXA3RDlFVkxacTRvMm9CQW8?oc=5",
    "sort_key": "Mon, 14 Sep 2026 15:03:16 GMT"
+  },
+  {
+   "id": "news:d71fa4801f800850",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다",
+   "source": "오늘경제",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kMl9ETnZqTWIyd3BaZDNqUlhQOXg2UWNEci1uNll4c3U4TXpDc3U3UHZGLWVRZk1ua3pDU0VjUEpTcE1VcTlyWkRNSS1DYWtzNERycUo1anU3Q2lCb3hSWVIzNTk0aWZReURPVjBIOEZFdkU?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 19:40:00 GMT"
   }
  ],
  "initialized": true,
