@@ -556,7 +556,8 @@
   "news:8a27c264c75c4405": 1789357503,
   "news:69601957e74bca12": 1789359678,
   "news:98a92df98b3dad83": 1789361070,
-  "news:e4ecc28fd09fc8f7": 1789361070
+  "news:e4ecc28fd09fc8f7": 1789361070,
+  "news:da9aa2d3a27339ae": 1789363169
  },
  "stories": {
   "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737,
@@ -603,7 +604,8 @@
   "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
   "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738,
   "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678,
-  "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070
+  "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070,
+  "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169
  },
  "news_queue": [
   {
@@ -775,6 +777,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMkVmQ3E2V0FqYng4bXl1QXJmaDB4OHAtZzB2VlAtWnJ4UWdWTHpPQTluOGNUZ2FjY000UUdxQ3lrRHp2Z3pmV2pnWHNHLXlBZ2hndXVsR0RTcFJaaWZvaTlqYnJKVE5ERVg0WdIBcEFVX3lxTFB4MG9aMldSV215UEY1U1RiX0ItdmNZTERKM0U0b0M3YWFzeDFIa2trWUFDZ0RmdVhvZGtGSHVFMnR0MTJLRXhTUV9DVEt6YkVmVW1sUl9JOHVYU25lSkRSRHowYjZMWWoxQUh1aVM3ekY?oc=5",
    "sort_key": "Mon, 14 Sep 2026 01:25:59 GMT"
+  },
+  {
+   "id": "news:da9aa2d3a27339ae",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산",
+   "source": "choicenews.co.kr",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VX1JMbnNfUkJrUlRkYlZSXzF5dXVSWENkWWhVUkpVYV9LQWlMVVoyblRlaFpLdlNYeGZRaUdCMjlISGlFTXFIdkdZUkFpTkxaWmVBamJad1BlUWpXQVdkN0RETk9yWjVPQlhvYjFNcTdrNzDSAXNBVV95cUxNVV9STG5zX1JCa1JUZGJWUl8xeXV1UlhDZFloVVJKVWFfS0FpTFVaMm5UZWhaS3ZTWHhmUWlHQjI5SEhpRU1xSHZHWVJBaU5MWlplQWpiWndQZVFqV0FXZDdERE5Pclo1T0JYb2IxTXE3azcw?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 03:52:52 GMT"
   }
  ],
  "initialized": true,
