@@ -572,7 +572,8 @@
   "news:bc79decd5f222340": 1789382652,
   "news:badbc05096f5b0b2": 1789384783,
   "news:8d54b91cb610c3d6": 1789388450,
-  "news:af9f0bd5f36cedfe": 1789390147
+  "news:af9f0bd5f36cedfe": 1789390147,
+  "news:bcbfbbac0f01256e": 1789399708
  },
  "stories": {
   "[이달의 신상품] 삼성생명, ‘가족건강보험 플러스’ 출시…연 5회 보장": 1789161410,
@@ -616,7 +617,8 @@
   "'애큐온 패키지 인수' 한화생명, '아픈손가락' 저축은행 골머리": 1789374177,
   "대전동부소방서, 한화생명볼파크 재난 대비 현지적응훈련 실시": 1789375496,
   "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194,
-  "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783
+  "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
+  "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708
  },
  "news_queue": [
   {
@@ -878,6 +880,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zbkQxN3RjNTd1NFN2V2ZrTDkxdlMxd0FzV2xnTXBiNHFwTDY0UEk3RU50R0VlVElBdHJ0VThlbzBXMFNnTzlEMTNOSV9jTXVtZGRWdTBxT3dTMTQyYkFULUNSQTc5b09QMF9teTN6OHA?oc=5",
    "sort_key": "Mon, 14 Sep 2026 08:59:34 GMT"
+  },
+  {
+   "id": "news:bcbfbbac0f01256e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI 협업형 컨택센터로 고객경험 혁신",
+   "source": "v.daum.net",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83YzNCSzNWN1BPakd4aUVsWUtNS2NvYU9RM2QyaGM3UEtha1AzN1hWVXpGVHByTUdJSXh4MTNYYXA3RDlFVkxacTRvMm9CQW8?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 15:03:16 GMT"
   }
  ],
  "initialized": true,
