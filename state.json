@@ -547,7 +547,9 @@
   "news:f2a0f248cbb127ce": 1789349027,
   "news:b2307eaed213006d": 1789349027,
   "news:a98137ae4854cfc7": 1789350143,
-  "news:672c334d9a3e0a7d": 1789350143
+  "news:672c334d9a3e0a7d": 1789350143,
+  "news:722b76ab0646df9c": 1789351166,
+  "news:6eac88104c90e1b6": 1789351166
  },
  "stories": {
   "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
@@ -591,7 +593,9 @@
   "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에": 1789346878,
   "삼성생명, 연체 해지된 보험 '비대면 부활' 가능해진다": 1789347704,
   "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704,
-  "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027
+  "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
+  "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
+  "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166
  },
  "news_queue": [
   {
@@ -693,6 +697,26 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94U1NhRG1Uc0c3anJBa2dzbHZxOXFqbEtES2VIVkg1NElMVEpDSlQ1UWNINHhhVkwxdzFWNWkzS0pNdjFDYzlhb3RfTGllbURPQVBUN0VYY2ZmVjFqRW1TTmFHbmN3MzRP?oc=5",
    "sort_key": "Mon, 14 Sep 2026 00:00:51 GMT"
+  },
+  {
+   "id": "news:722b76ab0646df9c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다",
+   "source": "직썰",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zekNWQ2NCWVNBZ2xCNzROZ0oyVnk5M3ozTU5jRzd6U1lMNmhMY01aNWtSaUY5bUNaUFZtR1ZLQ0dLVlJWRWhHbDZyT1lVZ050eDBreWZDaUxLZGJKNWFrdE5oRmNsRXliU3VzQtIBbEFVX3lxTE9zekNWQ2NCWVNBZ2xCNzROZ0oyVnk5M3ozTU5jRzd6U1lMNmhMY01aNWtSaUY5bUNaUFZtR1ZLQ0dLVlJWRWhHbDZyT1lVZ050eDBreWZDaUxLZGJKNWFrdE5oRmNsRXliU3VzQg?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 00:40:27 GMT"
+  },
+  {
+   "id": "news:6eac88104c90e1b6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'",
+   "source": "녹색경제신문",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUbGdDa3BDbXl1ZXZaZEVucXRpblhZUjk5Sjg4S19IbnFqMTNZQk5mWm9hdkRsNk9kVXR4Q3VhNVk1QXNBN1Z2ZHVWSS0ydkdNVzNkX1NodUdqU09ES0c3UEVRZEppUGRs?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 01:42:00 GMT"
   }
  ],
  "initialized": true,
