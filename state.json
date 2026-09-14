@@ -550,12 +550,10 @@
   "news:672c334d9a3e0a7d": 1789350143,
   "news:722b76ab0646df9c": 1789351166,
   "news:6eac88104c90e1b6": 1789351166,
-  "news:fdbc875f2d34c7c7": 1789352441
+  "news:fdbc875f2d34c7c7": 1789352441,
+  "news:a4b3a5971f5731db": 1789353819
  },
  "stories": {
-  "[더밸류 브리핑] 오늘의 보험계 소식…교보생명·DB 손해보험": 1789093458,
-  "교보생명, ‘교보다솜이 꿈도깨비’ 사회공헌 우수사례 선정": 1789094590,
-  "교보생명, 보호대상아동 514명 자립 지원…'꿈도깨비' 6년째 운영": 1789094590,
   "교보생명, '교보다솜이 꿈도깨비 사업' 성과 공유": 1789102253,
   "[금융계 동향] 우리금융그룹·교보생명·삼성증권": 1789104737,
   "[금융 ★들의 궤적] 교보생명 신창재·조대규, 본업 다지고 외연 확장": 1789105845,
@@ -597,7 +595,8 @@
   "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
   "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
-  "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441
+  "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
+  "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819
  },
  "news_queue": [
   {
@@ -729,6 +728,16 @@
    "date": "Mon, 14 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WcGlWR3NZTFZwVzhRWlVNY2hNU3JCb0pra0R4ZnlwVmp3WlFOV0xjV3k2Z1l4ckRDXzIwQWEwRmwxOTZHelpxV1lCRDIzVjBWTG5NRzNYNWdzSHo3b2c?oc=5",
    "sort_key": "Mon, 14 Sep 2026 02:06:00 GMT"
+  },
+  {
+   "id": "news:a4b3a5971f5731db",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입",
+   "source": "joseilbo.com",
+   "date": "Mon, 14 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50M2xfei1oVnVWVTNNR2NScG9pRm8wT2ctVU1wYVl3U0pSTHhSclFsM0NhckNMVkFBaVNQQ1E2Q0lDdWxWS0NwV1BfcGFFb2Z4WWl1SHpEM2hCNnBhVGgzdjBaeWVMU2RSY1E?oc=5",
+   "sort_key": "Mon, 14 Sep 2026 02:00:00 GMT"
   }
  ],
  "initialized": true,
