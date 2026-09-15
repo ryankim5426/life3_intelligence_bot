@@ -645,7 +645,8 @@
   "news:41d51f708b5460c8": 1789487525,
   "news:fbe03e21cb60f79e": 1789505860,
   "news:b62b8eb8600f3bb0": 1789507050,
-  "news:967d5b40e5b8e15e": 1789507050
+  "news:967d5b40e5b8e15e": 1789507050,
+  "news:da682074d9a0c10a": 1789510995
  },
  "stories": {
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
@@ -726,7 +727,8 @@
   "삼성생명, InvestingPro 적정가치 경고 후 42% 폭락 By Investing.com": 1789485311,
   "[부고] 남승우(한화생명 홍보실 파트장)씨 본인상 By EBN": 1789487525,
   "(단독)삼성생명, 요양보호사 양성학교 ‘글로케어’ 지분 투자": 1789507050,
-  "코스피 하락…삼성전기 삼성생명 약세, 삼성전자우는 강세": 1789507050
+  "코스피 하락…삼성전기 삼성생명 약세, 삼성전자우는 강세": 1789507050,
+  "삼성생명·화재에 내려진 빅딜 특명…사장 임기 연장 분수령 될까": 1789510995
  },
  "news_queue": [
   {
@@ -1158,6 +1160,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQXdFNEdsY0g0TzU4Q2NuZWJ1c1JSTXU4Mm9qMDN3enNQZzJxVUtaT2RTVTBFbENrcG9qR20yazZFWTZkX2cxV09IdjY3WWdSQmpUYms4b19GTzdzNUhNbk1MQ0MzUE5i?oc=5",
    "sort_key": "Tue, 15 Sep 2026 21:05:00 GMT"
+  },
+  {
+   "id": "news:da682074d9a0c10a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재에 내려진 빅딜 특명…사장 임기 연장 분수령 될까",
+   "source": "인베스트조선",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlNrUmhzWlBZazVhMjlEUGl2bmdRVUVtSkRlMVpsVHBILUs5a2tFWFZybERBNXhsMWVVX2RzTk4xX0tFRFdhdEZHN1JhRnF1OTQzZjc5UGZHc0RUZDNZUXdLX0Rfc3QtVWNQdDZldTF5R2preVlTbWtRdnVNdlJSa1FDSQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 22:02:17 GMT"
   }
  ],
  "initialized": true,
