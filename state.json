@@ -641,7 +641,8 @@
   "news:3d3647411e76a4d8": 1789478209,
   "news:e737108a74631a46": 1789481785,
   "news:4bde5c946590a4c1": 1789482828,
-  "news:27fd739b681e92bc": 1789485311
+  "news:27fd739b681e92bc": 1789485311,
+  "news:41d51f708b5460c8": 1789487525
  },
  "stories": {
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
@@ -720,7 +721,8 @@
   "교보생명, 라이프플래닛 흡수합병 “독립 성장 ‘한계’”": 1789472143,
   "교보생명, 교보라이프플래닛생명 흡수합병": 1789472143,
   "[보험 뉴스브리핑] 삼성생명 '삼성팩 건강보험 케어플러스' 출시": 1789482828,
-  "삼성생명, InvestingPro 적정가치 경고 후 42% 폭락 By Investing.com": 1789485311
+  "삼성생명, InvestingPro 적정가치 경고 후 42% 폭락 By Investing.com": 1789485311,
+  "[부고] 남승우(한화생명 홍보실 파트장)씨 본인상 By EBN": 1789487525
  },
  "news_queue": [
   {
@@ -1122,6 +1124,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43YjlpY0tuYlpFQUZscjl2Z0d1MGc0RGZLZ2Y3Ql81QmdqU3hsSnZOcTNGQURDOE45UlpFejRFWjJuTEZPa3JmRmhxYkZiWkpIalJxTW83ZVVQV3hMVElkaS1fWGxONVRuZFJtODBqWDZVYVhRUEE?oc=5",
    "sort_key": "Tue, 15 Sep 2026 11:49:00 GMT"
+  },
+  {
+   "id": "news:41d51f708b5460c8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부고] 남승우(한화생명 홍보실 파트장)씨 본인상 By EBN",
+   "source": "kr.investing.com",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15X1Z4SlRULWR4WXE5Y2hndldvTnNLRFpTbTlMZDZtOU9USGVXV2h6MHdCSTBzRWJFQkljYy0zeXRpRm5iR2xIMkpNVFV6WUpBMEJ2OGVjU09yenRnLUpGempaQUwtdlU2M1UxWWY5Y1U?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 07:41:00 GMT"
   }
  ],
  "initialized": true,
