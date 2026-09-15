@@ -591,10 +591,10 @@
   "news:d6fcb732413510b6": 1789444848,
   "news:1e84af20c0080d0c": 1789446369,
   "news:1e26732d4424ad3e": 1789451092,
-  "news:a958f2461ad5dd03": 1789451092
+  "news:a958f2461ad5dd03": 1789451092,
+  "news:178712ef70485033": 1789451955
  },
  "stories": {
-  "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095,
   "교보생명, 양육시설 아동 514명 교육": 1789195619,
   "이미지=삼성생명": 1789195619,
   "한화생명 투자분석 2026. 09. 10": 1789196378,
@@ -644,7 +644,8 @@
   "녹색교육센터, 한화생명과 함께하는 숲생태감수성 향상 프로젝트 ‘와숲’ 활동 실시": 1789441230,
   "[강대권의 시시각각] 삼성생명 10%룰에 막힌 삼성전자...\"우선주 소각이 답\"": 1789441230,
   "삼성생명, 걷기·건강관리 활동으로 머니적립 '건강보험' 출시": 1789444848,
-  "[금융계 동향] 현대카드·교보생명·신한투자증권": 1789444848
+  "[금융계 동향] 현대카드·교보생명·신한투자증권": 1789444848,
+  "사진=삼성생명": 1789451955
  },
  "news_queue": [
   {
@@ -726,6 +727,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OSG92RFpON0ZJUnNYempaY2tOT09UU3B0UUVEd0xENzVKZ2JDbTRZQk1iWW16RFVKdUJ4N0loTlBYS2RXeGczYm1yeHFSY3N4SS1ITHVUek80M0x2cjZHbU1yQ1RrbFHSAWtBVV95cUxPdWhPcFZINFRPc1FlN0lCOWFldVotQ0NsbzRCQVM3QUEyUHFMOVJleG5PWHJUVjBfSXhqcXZZcnlxNVVMLWZBX0ZnNXBXeGJjUjAtMmoyRFQyajh4c1VhSjJtcEFwQl9tNm5fTQ?oc=5",
    "sort_key": "Tue, 15 Sep 2026 03:47:44 GMT"
+  },
+  {
+   "id": "news:178712ef70485033",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "사진=삼성생명",
+   "source": "전자신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNaDY2ZWttc0MwRmFSZWxGQTQ0ZUg4OHRGZXFrTU1IeGh5SFZ4YkFjRHZ5S1N4VzgxUWdkczA3UTBUdVZsN0poc214N0hHenl6b2F4Q1BZTGp4bDdkSjhIckxYMG9xdC02SVVQUHJQeVZGS2N5bVJJTTlCMVktRXBHenN4XzJaMUlrbkZ3OUQxUUVqMjJwdVlIbnY2SE81ME9oOEpleFJaU0xHVnVYT1ItN0d2dEkxUUZsR0xKWDhhMllocmNXa1psWkNrbWtYbEdmWHFTaEUteFNad0pYb2RpN1dOVDBVdFFMX1RLUndVelVkX0ItMURnNDdVRk45bDB2cVVTYjEwc1RZcUxoZk9haklFWHR5U1hEXy1lcGtnbDVjSEMwOGQxX0ZIVldrVElaZ3AtZGVPdlctakx1QjFOclB5OUo1V1BvMEtpNGFFLVlnLXVnb1RVMzVJODQwWDlLTHJCQkdtUDdfYTZwTzYtc21YMjZsdURqS2xLNmVGck1lNzBqbVJaSnhEUXp4VkJic2I3VE9fVF9qOE9uVmU5MGdWT0tIRExrYWxUTF84Y3B5cmk1eUplZGhaVjhfRnRmYUY2SzlxQ1JleHFTdS15V21ibDRWbFhVcjN2d3VXYnNfSXhRUEJXTG9hYjBLT3pqRHRqaVN5MWhLb1otUENTRk1NVXFaM3RhQ2dJd3FXTk1XX2hKaHEzMEtuX3RoQ0ZJUVZMZw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 04:47:50 GMT"
   }
  ],
  "initialized": true,
