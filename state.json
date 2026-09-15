@@ -592,7 +592,11 @@
   "news:1e84af20c0080d0c": 1789446369,
   "news:1e26732d4424ad3e": 1789451092,
   "news:a958f2461ad5dd03": 1789451092,
-  "news:178712ef70485033": 1789451955
+  "news:178712ef70485033": 1789451955,
+  "news:ccbeb0e7e8a8d178": 1789453621,
+  "news:dac6a0e5d20a2a0d": 1789453621,
+  "news:57ce4c8451bb713d": 1789453621,
+  "news:44879f649896bddf": 1789453621
  },
  "stories": {
   "교보생명, 양육시설 아동 514명 교육": 1789195619,
@@ -645,7 +649,11 @@
   "[강대권의 시시각각] 삼성생명 10%룰에 막힌 삼성전자...\"우선주 소각이 답\"": 1789441230,
   "삼성생명, 걷기·건강관리 활동으로 머니적립 '건강보험' 출시": 1789444848,
   "[금융계 동향] 현대카드·교보생명·신한투자증권": 1789444848,
-  "사진=삼성생명": 1789451955
+  "사진=삼성생명": 1789451955,
+  "삼성생명, 건강관리하면 최대 67만원 적립…걷기도 보상": 1789453621,
+  "[보험브리핑]DB손보·롯데손보·삼성생명·KB손보": 1789453621,
+  "삼성생명, 건강관리 보상 더한 ‘Care+’ 출시": 1789453621,
+  "삼성생명 하반기 공채 뜯어보니…보험·자산운용·AX ‘3축’ [보험사 채용 트렌드]": 1789453621
  },
  "news_queue": [
   {
@@ -737,6 +745,46 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNaDY2ZWttc0MwRmFSZWxGQTQ0ZUg4OHRGZXFrTU1IeGh5SFZ4YkFjRHZ5S1N4VzgxUWdkczA3UTBUdVZsN0poc214N0hHenl6b2F4Q1BZTGp4bDdkSjhIckxYMG9xdC02SVVQUHJQeVZGS2N5bVJJTTlCMVktRXBHenN4XzJaMUlrbkZ3OUQxUUVqMjJwdVlIbnY2SE81ME9oOEpleFJaU0xHVnVYT1ItN0d2dEkxUUZsR0xKWDhhMllocmNXa1psWkNrbWtYbEdmWHFTaEUteFNad0pYb2RpN1dOVDBVdFFMX1RLUndVelVkX0ItMURnNDdVRk45bDB2cVVTYjEwc1RZcUxoZk9haklFWHR5U1hEXy1lcGtnbDVjSEMwOGQxX0ZIVldrVElaZ3AtZGVPdlctakx1QjFOclB5OUo1V1BvMEtpNGFFLVlnLXVnb1RVMzVJODQwWDlLTHJCQkdtUDdfYTZwTzYtc21YMjZsdURqS2xLNmVGck1lNzBqbVJaSnhEUXp4VkJic2I3VE9fVF9qOE9uVmU5MGdWT0tIRExrYWxUTF84Y3B5cmk1eUplZGhaVjhfRnRmYUY2SzlxQ1JleHFTdS15V21ibDRWbFhVcjN2d3VXYnNfSXhRUEJXTG9hYjBLT3pqRHRqaVN5MWhLb1otUENTRk1NVXFaM3RhQ2dJd3FXTk1XX2hKaHEzMEtuX3RoQ0ZJUVZMZw?oc=5",
    "sort_key": "Tue, 15 Sep 2026 04:47:50 GMT"
+  },
+  {
+   "id": "news:ccbeb0e7e8a8d178",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 건강관리하면 최대 67만원 적립…걷기도 보상",
+   "source": "이지경제",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PRGI2NERybVJOMEMzVkZudk5UNzgtTTlIY015SGJDMml1VmZsVmJvQmx2Szd5YWRoREd0UUg2Tng3MWd5TlRQWjJvLU8tZFZQN25KbGxYdHBaVW9OMF92ZFJaVjRQNHhsaTJKQUJB?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 05:31:37 GMT"
+  },
+  {
+   "id": "news:dac6a0e5d20a2a0d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험브리핑]DB손보·롯데손보·삼성생명·KB손보",
+   "source": "메트로신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xR1Y1akNEc0xrMHFQRjBUbHJ3NkRYRlpfcm16YUlXZU1rbjc0aUw1VGRUa2dyc1hyYnl3aXl2VmRwLXJ0Q3h6WmMwbUluT1NPSHhMZjYzVTlwQk9kQzQtdg?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 05:39:24 GMT"
+  },
+  {
+   "id": "news:57ce4c8451bb713d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 건강관리 보상 더한 ‘Care+’ 출시",
+   "source": "핀포인트뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jLTdTdUdDWWw1ZFB0ZEZfc2UtZzFoa01HdFFROExHbko4YVJTbE1idGV5QXNWWEtjN0JhaHZWVkhfeDhPdG1UbENOMVFJMHlnWjhWb2NaeWQ1X3RiZHJoU3VkTjZFSmhBTW9nZWtrUTBYLVXSAXdBVV95cUxQQ2plMUlYeF9JVzg4emdCYmNsWjI2R3lvSHVjNVpYRHRFbF9XdEY1YjFtcjNDQWF2OEJJX0ttTnFpTHo5VU1XTVNXRGV4MUEzSDhWMWhqX3hacGU3cjk0LUZYSEFXd2RwVnZBRXV1RHlJNldzQ0pkbw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 05:48:27 GMT"
+  },
+  {
+   "id": "news:44879f649896bddf",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 하반기 공채 뜯어보니…보험·자산운용·AX ‘3축’ [보험사 채용 트렌드]",
+   "source": "한국금융신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5R21fcUN6cDQ3OFBJay1JVzczQXExVmNUd1IxSVFnZ2ptYWE5dEcxLU1ZVlNqc3B4bUlpRWI2WldoVy1CdndKWEFicXhGSERWc0ZIS25WUVVJUXdmaFY4WlQ1NHFiaGNHVUwxUWFpM0tMaVc4OFQ2VEVUeDI?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:00:00 GMT"
   }
  ],
  "initialized": true,
