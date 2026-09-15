@@ -622,7 +622,8 @@
   "news:cc201df2254e4b3c": 1789465612,
   "news:90ce349d77098662": 1789465612,
   "news:43c0b9e5e3c80235": 1789465612,
-  "news:98a5b5d9ab3f6281": 1789465612
+  "news:98a5b5d9ab3f6281": 1789465612,
+  "news:a1444015b91cef6d": 1789466494
  },
  "stories": {
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -694,7 +695,8 @@
   "교보생명, 자회사 라이프플래닛 흡수합병…\"디지털 경쟁력 확보\"": 1789465612,
   "교보생명, 교보라플 흡수합병…\"디지털 역량 결합\"": 1789465612,
   "13년째 적자에 홀로서기 접는다…교보생명, 교보라플 흡수합병": 1789465612,
-  "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다": 1789465612
+  "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다": 1789465612,
+  "교보생명, 라이프플래닛 품는다… \"디지털 역량 내재화\"": 1789466494
  },
  "news_queue": [
   {
@@ -1016,6 +1018,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RMEJFNjU1NlNFMmlOQzZlblM4X2pFdnZiV0ttWkRHZWxTNTFjM2xseHVoOUQ1alBEQTNBUzN6ckJEMFRzWmE5MUJTZ1RqZkpYTzNsTkRsZUhVclE?oc=5",
    "sort_key": "Tue, 15 Sep 2026 09:40:30 GMT"
+  },
+  {
+   "id": "news:a1444015b91cef6d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 품는다… \"디지털 역량 내재화\"",
+   "source": "한국일보",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZR3JIWmg0aDR6SXVIeHVhajB6S0tTZmlZdm0xRFJxT29GQ2VSb3FFNXlEZTZ0ZncyVUI4bDJJc0JFSWVqOHJBUWZaZFRtLW0zMWtKeWY1RnVXSkRHeEptVnA3MlVpcm5KUHZfV3VjbVNsOGvSAXNBVV95cUxOWUdySFpoNGg0ekl1SHh1YWowektLU2ZpWXZtMURScU9vRkNlUm9xRTV5RGU2dGZ3MlVCOGwySXNCRUllajhyQVFmWmRUbS1tMzFrSnlmNUZ1V0pER3hKbVZwNzJVaXJuSlB2X1d1Y21TbDhr?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:09:00 GMT"
   }
  ],
  "initialized": true,
