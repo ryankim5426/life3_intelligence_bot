@@ -623,10 +623,15 @@
   "news:90ce349d77098662": 1789465612,
   "news:43c0b9e5e3c80235": 1789465612,
   "news:98a5b5d9ab3f6281": 1789465612,
-  "news:a1444015b91cef6d": 1789466494
+  "news:a1444015b91cef6d": 1789466494,
+  "news:7598747025d66c89": 1789469010,
+  "news:ff99f9d66489f3ec": 1789469010,
+  "news:ac8c919ec7683465": 1789469010,
+  "news:aa0a72254db654f6": 1789469010,
+  "news:d7df42cd504283fe": 1789469011,
+  "news:686d4db09ff4e3d9": 1789469011
  },
  "stories": {
-  "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -696,7 +701,9 @@
   "교보생명, 교보라플 흡수합병…\"디지털 역량 결합\"": 1789465612,
   "13년째 적자에 홀로서기 접는다…교보생명, 교보라플 흡수합병": 1789465612,
   "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다": 1789465612,
-  "교보생명, 라이프플래닛 품는다… \"디지털 역량 내재화\"": 1789466494
+  "교보생명, 라이프플래닛 품는다… \"디지털 역량 내재화\"": 1789466494,
+  "[부음] 남승우(한화생명 홍보실 부장)씨 본인상 - 조선비즈": 1789469011,
+  "한화생명 베트남, 한국선 \"매출 35% 증가\" 베트남선 \"보험료 7% 감소\"": 1789469011
  },
  "news_queue": [
   {
@@ -1028,6 +1035,26 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZR3JIWmg0aDR6SXVIeHVhajB6S0tTZmlZdm0xRFJxT29GQ2VSb3FFNXlEZTZ0ZncyVUI4bDJJc0JFSWVqOHJBUWZaZFRtLW0zMWtKeWY1RnVXSkRHeEptVnA3MlVpcm5KUHZfV3VjbVNsOGvSAXNBVV95cUxOWUdySFpoNGg0ekl1SHh1YWowektLU2ZpWXZtMURScU9vRkNlUm9xRTV5RGU2dGZ3MlVCOGwySXNCRUllajhyQVFmWmRUbS1tMzFrSnlmNUZ1V0pER3hKbVZwNzJVaXJuSlB2X1d1Y21TbDhr?oc=5",
    "sort_key": "Tue, 15 Sep 2026 09:09:00 GMT"
+  },
+  {
+   "id": "news:d7df42cd504283fe",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부음] 남승우(한화생명 홍보실 부장)씨 본인상 - 조선비즈",
+   "source": "Chosunbiz",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenZUa3VxbE9ZaHk1WlhTMVhOQi1yTGFqTF9Nb0VxQ2dCRTNlWWFmb2RMWEVHeFNSUFM0Ujdzd2xMWnlGMTRjZG5MUHd6Ukh6NlBZMU9wY3VzOU40S3NocmNoRzRFaEM5NG5fZ2FHT09JVHBPSHVCVndaNmdFUlVJQ3YxQXlqbmZDdmE2QjVVUDhqUDFXTG5z0gGXAUFVX3lxTFB6dlRrdXFsT1loeTVaWFMxWE5CLXJMYWpMX01vRXFDZ0JFM2VZYWZvZExYRUd4U1JQUzRSN3N3bExaeUYxNGNkbkxQd3pSSHo2UFkxT3BjdXM5TjRLc2hyY2hHNEVoQzk0bl9nYUdPT0lUcE9IdUJWd1o2Z0VSVUlDdjFBeWpuZkN2YTZCNVVQOGpQMVdMbnM?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 07:27:00 GMT"
+  },
+  {
+   "id": "news:686d4db09ff4e3d9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 베트남, 한국선 \"매출 35% 증가\" 베트남선 \"보험료 7% 감소\"",
+   "source": "한국신용신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZ1d3dFl1cTdLUW5ZSXFzMzVCelY3OXdCZHdNTGFyNWpHZ2Y1Q29RcnFtX1VHOThrb1N6cDdOczBGMllJRkQ4WjJsVENfSWdMRFpmanFhQ045MDRrbHpRdjZsWDJmOW9zSmFV?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 10:02:53 GMT"
   }
  ],
  "initialized": true,
