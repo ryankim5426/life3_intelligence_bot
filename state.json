@@ -608,7 +608,8 @@
   "news:1b903a33bf311fd8": 1789456663,
   "news:d236a7bf11987a2e": 1789457781,
   "news:987975c980e5ad55": 1789458864,
-  "news:32a9601e17143fff": 1789458864
+  "news:32a9601e17143fff": 1789458864,
+  "news:729196b36bec8599": 1789461449
  },
  "stories": {
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -669,7 +670,8 @@
   "[부고] 남승우(한화생명 홍보실 파트장)씨 별세": 1789456663,
   "[부고] 남승우 한화생명 홍보실 부장 별세": 1789456663,
   "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이": 1789456663,
-  "삼성생명, 걷기·만성질환 관리 연계 건강보험 선봬": 1789458864
+  "삼성생명, 걷기·만성질환 관리 연계 건강보험 선봬": 1789458864,
+  "삼성생명, ‘건강관리 리워드로 보험료 납부’ 혜택": 1789461449
  },
  "news_queue": [
   {
@@ -881,6 +883,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uckRsU3BaUlpCeGNneUhRaXBkbEV0QnJwVmxiT1pGR05mdlM4S04xY3FSeDJLSkYzMFZBQWtkVXA4c2t5QnBQUW02amd3QnFELVZuOEJqQmpxZjV3M1ZJUzN1bHRkMXFlZVRrMHM4a9IBckFVX3lxTE1iU2pMZEljYmdiOElVWTNWNVd3ZGsyb2NMQU9GS0lmc09GQnJDTGhNejljd3IwbEoyZnNMcXRWZEp1aUIwUlFMaE9EUEVST09SUXVtNC1IUWJwYzNxeW95RHRsSExUY0RkaDN0cmhqbFFHUQ?oc=5",
    "sort_key": "Tue, 15 Sep 2026 07:17:58 GMT"
+  },
+  {
+   "id": "news:729196b36bec8599",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, ‘건강관리 리워드로 보험료 납부’ 혜택",
+   "source": "g-enews.com",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkxramIwZGtzVTl3emdXSl9idUNaQVJ3eTJ4Ml9pUlBMUS1JdEVTM1Y1c0dKWVMzcnZIYmp2MTBDU1VVSkNCMEJiOEVhbVNPOVdCZ01OQmR2YjdxbHNZSlZIMFJ6NzBrSUstcVY1eVRoa3h2VkczV2ZBdkliTDZGNlYtTEc?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 08:34:15 GMT"
   }
  ],
  "initialized": true,
