@@ -611,7 +611,12 @@
   "news:32a9601e17143fff": 1789458864,
   "news:729196b36bec8599": 1789461449,
   "news:63800cc5376fab73": 1789462600,
-  "dart:20260915000423": 1789462601
+  "dart:20260915000423": 1789462601,
+  "news:862cec695ce2df16": 1789464028,
+  "news:e185dd68d968a4c7": 1789464028,
+  "news:ee59d3559e3d7ec7": 1789464028,
+  "news:a56f3af3582a6b14": 1789464028,
+  "news:a44d05d5826742f1": 1789464028
  },
  "stories": {
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -674,7 +679,12 @@
   "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이": 1789456663,
   "삼성생명, 걷기·만성질환 관리 연계 건강보험 선봬": 1789458864,
   "삼성생명, ‘건강관리 리워드로 보험료 납부’ 혜택": 1789461449,
-  "[금융계 동향] KB증권·신한은행·삼성생명": 1789462600
+  "[금융계 동향] KB증권·신한은행·삼성생명": 1789462600,
+  "금리 출렁여도 끄떡없는 삼성생명…킥스 민감도 10배 개선": 1789464028,
+  "교보생명, 라이프플래닛 합병 결정… 디지털 생보사 역사 속으로": 1789464028,
+  "교보생명, 인터넷 생보사 라이프플래닛 흡수합병…내년 4월 완료": 1789464028,
+  "교보생명, 라이프플래닛 흡수합병…13년 만에 막 내린 디지털보험사 실험": 1789464028,
+  "교보생명, 라이프플래닛 흡수합병": 1789464028
  },
  "news_queue": [
   {
@@ -906,6 +916,56 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdFoya2NjQkdSX0VkZ0k0YnBsc2VwMVZQaWkwMmZ0VUN4M21HSVpNT19NTm1nMTdZaVNpeVRieXdhaFhsLWtIQjY3bE9sSnVwNU5LUU9zUTNCSkM1ZlVVQjI2MnBZUWPSAWtBVV95cUxPWFVvTC1hVWdqSkpleHVyRjNsVXduUlpzSHdSSWlidl9NQ0lkX1lldVA2VG1IU3NkNDhpR2N5U0k5a2FFa1lqUDFfVzFvZkZLSUFtUkxVVHBTaG0yT3dxRVJzdkZJcGV2TW5WMA?oc=5",
    "sort_key": "Tue, 15 Sep 2026 08:05:10 GMT"
+  },
+  {
+   "id": "news:862cec695ce2df16",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "금리 출렁여도 끄떡없는 삼성생명…킥스 민감도 10배 개선",
+   "source": "DFT 대한금융신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrb21NbEsxdGVaNWtqZV90aHh4elFvLU5lQUMyM0plbjJDUktjeUV5NzNTbHgzWWlMR3JDQ2tNYlFOMVFsQVdtb3pfZ0UxSFdlbThYa25FSWJGMnV1VVRRdjdkYWZYVlUzNFZQcVk2U2PSAXBBVV95cUxQa29tTWxLMXRlWjVramVfdGh4eHpRby1OZUFDMjNKZW4yQ1JLY3lFeTczU2x4M1lpTEdyQ0NrTWJRTjFRbEFXbW96X2dFMUhXZW04WGtuRUliRjJ1dVVUUXY3ZGFmWFZVMzRWUHFZNlNj?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:54:20 GMT"
+  },
+  {
+   "id": "news:e185dd68d968a4c7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 합병 결정… 디지털 생보사 역사 속으로",
+   "source": "it.chosun.com",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bDJVcmN6akI4RVpvWmwtcURRXzZVZzR1VjRQSlBnMFRtU3FVdjV1aExSenVDSzljM2dHcmFTb3dtRmY1Y1prZXAzU2J4VnYwcXFwZFNpZzcxczVPbzRNaGhsU1RNVzU5YlZTY2FGeF_SAXRBVV95cUxPYU1xSHZhWlAydE5aNDhkRC1vYW81cmRhX1dhcXl3b0tSMUlyZE5CaWhDNVVpSG9wdDRrU1o1Ql9lNzBKVEFQemVwRFZjdjB6N09JX1YwejlOaExnYklLVEdsVGw5LWxTTW1lY1QyXzJCckZiVQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 08:56:33 GMT"
+  },
+  {
+   "id": "news:ee59d3559e3d7ec7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 인터넷 생보사 라이프플래닛 흡수합병…내년 4월 완료",
+   "source": "글로벌이코노믹",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUFxbndvV3lTVkdNQXB3TUFsWmpqcFlNVXotbmp2cmdpTm9Ia2ZjWGdGTnBJOFdGdXprQ2hCOGFnNWQtY0l5d250eUR6Q2IzWDJrc3QtT294VldKR2Ztby00ME9ZRTRkZ3NMTmRFX1NXV3AyQ1E5Mjh6cVF2bGxtNUp2TXg?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:03:32 GMT"
+  },
+  {
+   "id": "news:a56f3af3582a6b14",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 흡수합병…13년 만에 막 내린 디지털보험사 실험",
+   "source": "연합인포맥스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OQndJVEZ6dzV6RWg2NzVPb2N4Q1dkUEdVcjQ0MlY3aVNqUi14SVVkMTl5TDlmdjNTeUx6M1U5aXFEUEY5UUhsSUVEazE1RnlTN3BZckxzU1lDNVBPOV9SN1p4Qmt0Z1hubHdybXY3WXHSAXRBVV95cUxNekpzYWJ3cFloQnNrcUc0VHB2STJGaHlfMjlELVpwaGhoVU5sRVlfTnVHYTVTUkhRQllfRllyTzNCcFp2OGVaSDRJSUtvVUJnUEVNTGpRUnZlRnQtaFVnVWZucFMyN29TT3FseWJldDR2X0Z6eA?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:05:59 GMT"
+  },
+  {
+   "id": "news:a44d05d5826742f1",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 흡수합병",
+   "source": "매일일보",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52R2c5bWxZLW1MbGRKRWtBNEJGWHpCUXNyRl9NZnRWdk9sNXZhM0x1ZmprR1A5cExmcXZvRklYMHlXV2JaejI0YnhtdmxoMkZQdU1lYVNlNnJJX05jbWl5ekFxa1LSAWhBVV95cUxQYjNsN3Voc0JXQjIzaExfeDBwelpCd2xzUXcydVl2YzBkdnB1d213YkpneFF4ME9wSjJEMlY5TTYzbmdCeU1veDRqVFRnamFEQUl4ZVZEV0JzRTdTQkVwQXdoNmlmSkFYcw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:07:45 GMT"
   }
  ],
  "initialized": true,
