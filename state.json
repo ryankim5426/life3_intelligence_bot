@@ -616,7 +616,13 @@
   "news:e185dd68d968a4c7": 1789464028,
   "news:ee59d3559e3d7ec7": 1789464028,
   "news:a56f3af3582a6b14": 1789464028,
-  "news:a44d05d5826742f1": 1789464028
+  "news:a44d05d5826742f1": 1789464028,
+  "news:0b81f8beac35c9d1": 1789465611,
+  "news:460e78a634d3b36b": 1789465611,
+  "news:cc201df2254e4b3c": 1789465612,
+  "news:90ce349d77098662": 1789465612,
+  "news:43c0b9e5e3c80235": 1789465612,
+  "news:98a5b5d9ab3f6281": 1789465612
  },
  "stories": {
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -684,7 +690,11 @@
   "교보생명, 라이프플래닛 합병 결정… 디지털 생보사 역사 속으로": 1789464028,
   "교보생명, 인터넷 생보사 라이프플래닛 흡수합병…내년 4월 완료": 1789464028,
   "교보생명, 라이프플래닛 흡수합병…13년 만에 막 내린 디지털보험사 실험": 1789464028,
-  "교보생명, 라이프플래닛 흡수합병": 1789464028
+  "교보생명, 라이프플래닛 흡수합병": 1789464028,
+  "교보생명, 자회사 라이프플래닛 흡수합병…\"디지털 경쟁력 확보\"": 1789465612,
+  "교보생명, 교보라플 흡수합병…\"디지털 역량 결합\"": 1789465612,
+  "13년째 적자에 홀로서기 접는다…교보생명, 교보라플 흡수합병": 1789465612,
+  "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다": 1789465612
  },
  "news_queue": [
   {
@@ -966,6 +976,46 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52R2c5bWxZLW1MbGRKRWtBNEJGWHpCUXNyRl9NZnRWdk9sNXZhM0x1ZmprR1A5cExmcXZvRklYMHlXV2JaejI0YnhtdmxoMkZQdU1lYVNlNnJJX05jbWl5ekFxa1LSAWhBVV95cUxQYjNsN3Voc0JXQjIzaExfeDBwelpCd2xzUXcydVl2YzBkdnB1d213YkpneFF4ME9wSjJEMlY5TTYzbmdCeU1veDRqVFRnamFEQUl4ZVZEV0JzRTdTQkVwQXdoNmlmSkFYcw?oc=5",
    "sort_key": "Tue, 15 Sep 2026 09:07:45 GMT"
+  },
+  {
+   "id": "news:cc201df2254e4b3c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 자회사 라이프플래닛 흡수합병…\"디지털 경쟁력 확보\"",
+   "source": "연합뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fQW5XU1FsMmFnZmNFdkhyMXhyY09ONFVDVklVbGh4Vk1sb1ltT0NoVE11WEl5Q3ZIR20xLWJDdTRuVWQ0aEYyT1lXNnh0cU5UenoyS1REWTM4N2_SAWBBVV95cUxPeW9zREJIblZFMjNhRnZfWURILWJrdzJuMEJQUDhnY3VvMnBpc1N1bHZYRk1uMk9QYzItSkowZzNDTjFaTjhiQ1ZvbjNVR1lZcXR2aXFqTEZaOWFwWTVYQjE?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:20:26 GMT"
+  },
+  {
+   "id": "news:90ce349d77098662",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 교보라플 흡수합병…\"디지털 역량 결합\"",
+   "source": "v.daum.net",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00OFBucUNkWnlRdmJIcHdaNFdjckpXbUJTNmV4NTJ2YjhOYVBCUldVUXJ3Zy0wVWtOU1pxV1U5YXpQMHQ4bTlUZm1aS2RVSFU?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:21:00 GMT"
+  },
+  {
+   "id": "news:43c0b9e5e3c80235",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "13년째 적자에 홀로서기 접는다…교보생명, 교보라플 흡수합병",
+   "source": "mydaily.co.kr",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hMGtsVXZQS19IQy1lSUZGMlZuTjFGYU94WkktamRnb21kU0hQQTFmSXBQUm1vVDJ6R2JkQ1VRMzFCWUN4SGhPeHVkRy1fWE5MRXN6d1RXMkYxcWR4OWZQMA?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:38:58 GMT"
+  },
+  {
+   "id": "news:98a5b5d9ab3f6281",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다",
+   "source": "에너지경제신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RMEJFNjU1NlNFMmlOQzZlblM4X2pFdnZiV0ttWkRHZWxTNTFjM2xseHVoOUQ1alBEQTNBUzN6ckJEMFRzWmE5MUJTZ1RqZkpYTzNsTkRsZUhVclE?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:40:30 GMT"
   }
  ],
  "initialized": true,
