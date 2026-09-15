@@ -596,11 +596,12 @@
   "news:ccbeb0e7e8a8d178": 1789453621,
   "news:dac6a0e5d20a2a0d": 1789453621,
   "news:57ce4c8451bb713d": 1789453621,
-  "news:44879f649896bddf": 1789453621
+  "news:44879f649896bddf": 1789453621,
+  "news:68052d57acc847ed": 1789455026,
+  "news:bec163762b8e5f0b": 1789455026,
+  "news:2f5123465f854f3d": 1789455026
  },
  "stories": {
-  "교보생명, 양육시설 아동 514명 교육": 1789195619,
-  "이미지=삼성생명": 1789195619,
   "한화생명 투자분석 2026. 09. 10": 1789196378,
   "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -653,7 +654,10 @@
   "삼성생명, 건강관리하면 최대 67만원 적립…걷기도 보상": 1789453621,
   "[보험브리핑]DB손보·롯데손보·삼성생명·KB손보": 1789453621,
   "삼성생명, 건강관리 보상 더한 ‘Care+’ 출시": 1789453621,
-  "삼성생명 하반기 공채 뜯어보니…보험·자산운용·AX ‘3축’ [보험사 채용 트렌드]": 1789453621
+  "삼성생명 하반기 공채 뜯어보니…보험·자산운용·AX ‘3축’ [보험사 채용 트렌드]": 1789453621,
+  "[보험 NOW] 삼성생명·DB손보·KB손보": 1789455026,
+  "[부고] 남승우 한화생명 홍보실 부장 본인상": 1789455026,
+  "[부음] 남승우(한화생명 홍보실 부장)씨 본인상": 1789455026
  },
  "news_queue": [
   {
@@ -785,6 +789,36 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5R21fcUN6cDQ3OFBJay1JVzczQXExVmNUd1IxSVFnZ2ptYWE5dEcxLU1ZVlNqc3B4bUlpRWI2WldoVy1CdndKWEFicXhGSERWc0ZIS25WUVVJUXdmaFY4WlQ1NHFiaGNHVUwxUWFpM0tMaVc4OFQ2VEVUeDI?oc=5",
    "sort_key": "Tue, 15 Sep 2026 06:00:00 GMT"
+  },
+  {
+   "id": "news:68052d57acc847ed",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험 NOW] 삼성생명·DB손보·KB손보",
+   "source": "위키리크스한국",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNUYxRGUwMmFReEFZdXdLckJKY3NFa2Z0R1VWNXhqTHF5NjBULVlvSjJrbnFhWTZfNHQybXR0a2V4TWNOd0ZTSU10TlAxeURGV2JxWEdESGVJd1dMTThWTy1GdmlvSHpPS3VVLW1hZF8?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:39:33 GMT"
+  },
+  {
+   "id": "news:bec163762b8e5f0b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부고] 남승우 한화생명 홍보실 부장 본인상",
+   "source": "천지일보",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fRGVmOFJ0cFBzSTJYYUVocTg4UjIyaENaNmU0OXpxcUp2aHFEbU9BaHR0QmdndGRpbGtxWGljSkJTX2tMLThrRU1GS1VhWHJUZDlON0NTY1FXZzQtNThyZEtFZTNGRnN3ekE?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:40:50 GMT"
+  },
+  {
+   "id": "news:2f5123465f854f3d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부음] 남승우(한화생명 홍보실 부장)씨 본인상",
+   "source": "전자신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NVByYWpnWDV4X2lueU5Pcks2UnVySll3Y0Y3R2s2M05qZGpnMHBXclotTkpkd2NQVGdsQXV3RlhOdFNZT0N6SmRYanFZZw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:45:15 GMT"
   }
  ],
  "initialized": true,
