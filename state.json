@@ -585,7 +585,10 @@
   "news:071d002b5ccd7ef6": 1789441230,
   "news:e7d307416741d091": 1789441230,
   "news:b5e54b577520928b": 1789442781,
-  "news:dc919c7dbbf62c4a": 1789443983
+  "news:dc919c7dbbf62c4a": 1789443983,
+  "news:4f038ba9fccfd18e": 1789444847,
+  "news:a7cd24e3725556ca": 1789444848,
+  "news:d6fcb732413510b6": 1789444848
  },
  "stories": {
   "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095,
@@ -636,7 +639,9 @@
   "삼성생명, 건강관리 리워드 더한 「삼성 팩 건강보험 Care+」 출시": 1789439192,
   "[보험업계 동향] 삼성생명ㆍDB손해보험ㆍKB손해보험 (9.15)": 1789439192,
   "녹색교육센터, 한화생명과 함께하는 숲생태감수성 향상 프로젝트 ‘와숲’ 활동 실시": 1789441230,
-  "[강대권의 시시각각] 삼성생명 10%룰에 막힌 삼성전자...\"우선주 소각이 답\"": 1789441230
+  "[강대권의 시시각각] 삼성생명 10%룰에 막힌 삼성전자...\"우선주 소각이 답\"": 1789441230,
+  "삼성생명, 걷기·건강관리 활동으로 머니적립 '건강보험' 출시": 1789444848,
+  "[금융계 동향] 현대카드·교보생명·신한투자증권": 1789444848
  },
  "news_queue": [
   {
@@ -698,6 +703,26 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yNnlJMmN5eDRKVEl1MGdyT1dzSE1XOFp0VHc5TGhISWJVaW9uSlNXNDdUZW1DczRCdk9RdHF3MnZWTE1aTDRieGZMeFBHR29aZFZFdGJITlk?oc=5",
    "sort_key": "Tue, 15 Sep 2026 02:00:52 GMT"
+  },
+  {
+   "id": "news:a7cd24e3725556ca",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 걷기·건강관리 활동으로 머니적립 '건강보험' 출시",
+   "source": "화이트페이퍼",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMlRIdUJMcWY2V09DWlZEOEtZT3VzVF8xb0FMcEw5U0lPMUJjRVZEWmFyVlBlMEVjR2NyZU5ZS2dfRzk2cy15M1lmQXhOZWZpRl9XUnh1Q3V1aUJqUWthejQydEFEYkU1MV9kbHpXYk8xdGPSAXNBVV95cUxNazJUSHVCTHFmNldPQ1pWRDhLWU91c1RfMW9BTHBMOVNJTzFCY0VWRFphclZQZTBFY0djcmVOWUtnX0c5NnMteTNZZkF4TmVmaUZfV1J4dUN1dWlCalFrYXo0MnRBRGJFNTFfZGx6V2JPMXRj?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 03:04:50 GMT"
+  },
+  {
+   "id": "news:d6fcb732413510b6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 현대카드·교보생명·신한투자증권",
+   "source": "민주신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OSG92RFpON0ZJUnNYempaY2tOT09UU3B0UUVEd0xENzVKZ2JDbTRZQk1iWW16RFVKdUJ4N0loTlBYS2RXeGczYm1yeHFSY3N4SS1ITHVUek80M0x2cjZHbU1yQ1RrbFHSAWtBVV95cUxPdWhPcFZINFRPc1FlN0lCOWFldVotQ0NsbzRCQVM3QUEyUHFMOVJleG5PWHJUVjBfSXhqcXZZcnlxNVVMLWZBX0ZnNXBXeGJjUjAtMmoyRFQyajh4c1VhSjJtcEFwQl9tNm5fTQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 03:47:44 GMT"
   }
  ],
  "initialized": true,
