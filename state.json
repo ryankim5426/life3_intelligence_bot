@@ -575,7 +575,8 @@
   "news:af9f0bd5f36cedfe": 1789390147,
   "news:bcbfbbac0f01256e": 1789399708,
   "news:d71fa4801f800850": 1789416218,
-  "news:d64b1fbbd7efaf14": 1789421721
+  "news:d64b1fbbd7efaf14": 1789421721,
+  "news:f5cc5d16d84d818f": 1789432012
  },
  "stories": {
   "‘제우스’ 최우제, ‘한화생명에서도 우승해야죠’": 1789192095,
@@ -620,9 +621,21 @@
   "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
   "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708,
   "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218,
-  "교보생명 지주전환 늦추나… 세법 개정에 시간 벌수도": 1789421721
+  "교보생명 지주전환 늦추나… 세법 개정에 시간 벌수도": 1789421721,
+  "보험사도 '생산적 금융' 체제로…한화생명 미래산업 투자·메리츠화재 전담조직 가동": 1789432012
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:f5cc5d16d84d818f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "보험사도 '생산적 금융' 체제로…한화생명 미래산업 투자·메리츠화재 전담조직 가동",
+   "source": "보험저널",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNl9sdHpqS3hrYmxVX2V5NGctQjJaeG1xZ0V3MjNnbTctbUxCMzI4WTgwZ2h0bjdPZVlReFRUMHFBdGQ1ZjFqejZYOG42UlVxcEdpQVBYYlJzZkwtWHdDUVpUTkFMX1pyWnpnTWs5SQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 00:00:28 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-15"
 }
