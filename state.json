@@ -606,7 +606,9 @@
   "news:18cbb004ca29926c": 1789456663,
   "news:bde68dd052695795": 1789456663,
   "news:1b903a33bf311fd8": 1789456663,
-  "news:d236a7bf11987a2e": 1789457781
+  "news:d236a7bf11987a2e": 1789457781,
+  "news:987975c980e5ad55": 1789458864,
+  "news:32a9601e17143fff": 1789458864
  },
  "stories": {
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
@@ -666,7 +668,8 @@
   "삼성생명, 걸으면 포인트 쌓는 ‘팩 건강보험 Care+’ 선보여": 1789456663,
   "[부고] 남승우(한화생명 홍보실 파트장)씨 별세": 1789456663,
   "[부고] 남승우 한화생명 홍보실 부장 별세": 1789456663,
-  "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이": 1789456663
+  "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이": 1789456663,
+  "삼성생명, 걷기·만성질환 관리 연계 건강보험 선봬": 1789458864
  },
  "news_queue": [
   {
@@ -868,6 +871,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV1NyVTktQ1JZR0VHV3FFME9Ib3lfeV85clVzX0RDYkVyS0lYSVcxN21CWDdDREZIWDJqbE55WV9JQk1IMFFvVkpTVnMwRVUwa0ZrakNrU1Mwc0xXTVpIYzk0ZzdHdGFGaldaczhLam4wd2FKcWpMadIBfkFVX3lxTE1sUXBwbmNTWkdKSEhHQ1gzY295WndDYS1YeUtzVUxKQ2x4VkZYYng3MFdrZk1QSGV3SUhYM0ZuaEhCVkF6djVoRlVnSXdJY0dHZlNBZlRxbjJmWVY2ZXBlSVI4X09LN1dKSzAteklmX01hdW1yOFpVTHNvSl83Zw?oc=5",
    "sort_key": "Tue, 15 Sep 2026 07:10:16 GMT"
+  },
+  {
+   "id": "news:32a9601e17143fff",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 걷기·만성질환 관리 연계 건강보험 선봬",
+   "source": "팝콘뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uckRsU3BaUlpCeGNneUhRaXBkbEV0QnJwVmxiT1pGR05mdlM4S04xY3FSeDJLSkYzMFZBQWtkVXA4c2t5QnBQUW02amd3QnFELVZuOEJqQmpxZjV3M1ZJUzN1bHRkMXFlZVRrMHM4a9IBckFVX3lxTE1iU2pMZEljYmdiOElVWTNWNVd3ZGsyb2NMQU9GS0lmc09GQnJDTGhNejljd3IwbEoyZnNMcXRWZEp1aUIwUlFMaE9EUEVST09SUXVtNC1IUWJwYzNxeW95RHRsSExUY0RkaDN0cmhqbFFHUQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 07:17:58 GMT"
   }
  ],
  "initialized": true,
