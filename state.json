@@ -649,7 +649,10 @@
   "news:da682074d9a0c10a": 1789510995,
   "news:20ad782488717103": 1789512061,
   "news:37ba134406add481": 1789513081,
-  "news:1e80b8850b653824": 1789514223
+  "news:1e80b8850b653824": 1789514223,
+  "news:cf0ad2d308ff7f2b": 1789516086,
+  "news:4d3a619bca576b89": 1789516086,
+  "news:e08f96a7de7d42ad": 1789516086
  },
  "stories": {
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
@@ -732,9 +735,32 @@
   "(단독)삼성생명, 요양보호사 양성학교 ‘글로케어’ 지분 투자": 1789507050,
   "코스피 하락…삼성전기 삼성생명 약세, 삼성전자우는 강세": 1789507050,
   "삼성생명·화재에 내려진 빅딜 특명…사장 임기 연장 분수령 될까": 1789510995,
-  "따로 키운 디지털, 이제 한몸으로…교보생명·라이프플래닛 13년 만에 통합": 1789512061
+  "따로 키운 디지털, 이제 한몸으로…교보생명·라이프플래닛 13년 만에 통합": 1789512061,
+  "\"저부터 먼저...모든 선수들이 내가 해야겠다는 마음 가져야 한다\" 삼성생명 NEW 캡틴 김아름이 강조한 부분은?": 1789516086,
+  "삼성생명, '라이프놀로지 랩 데모데이' 개최": 1789516086
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:4d3a619bca576b89",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"저부터 먼저...모든 선수들이 내가 해야겠다는 마음 가져야 한다\" 삼성생명 NEW 캡틴 김아름이 강조한 부분은?",
+   "source": "v.daum.net",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yT2Nla3U4bmdod3RVbXM2SnRscnlXVGRmY2cwMjRJelBraWs4ZFBDNm1mcldVMkZqLWJ0cFpMR0VyN3FYc0ttSzd2OWFCSzA?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 16:22:59 GMT"
+  },
+  {
+   "id": "news:e08f96a7de7d42ad",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '라이프놀로지 랩 데모데이' 개최",
+   "source": "전자신문",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HMFVqamNNZzZfcWRVNmdpVE1JZm12STRkTmxjX3hyRjVSd0tvZU9ibWJ6ZGhlTzhVRXZYdWg3QWRxYWk3cFFSc1dkcWE2QQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 23:37:21 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-16"
 }
