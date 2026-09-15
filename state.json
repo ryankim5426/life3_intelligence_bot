@@ -599,11 +599,15 @@
   "news:44879f649896bddf": 1789453621,
   "news:68052d57acc847ed": 1789455026,
   "news:bec163762b8e5f0b": 1789455026,
-  "news:2f5123465f854f3d": 1789455026
+  "news:2f5123465f854f3d": 1789455026,
+  "news:87fda75c8f82776c": 1789456662,
+  "news:1ef26cbe2e9c468f": 1789456662,
+  "news:df2ec3ea683d2516": 1789456663,
+  "news:18cbb004ca29926c": 1789456663,
+  "news:bde68dd052695795": 1789456663,
+  "news:1b903a33bf311fd8": 1789456663
  },
  "stories": {
-  "한화생명 투자분석 2026. 09. 10": 1789196378,
-  "삼성생명, 목돈 넣고 10년간 4.40% 적용하는 연금보험 판매": 1789196378,
   "한화생명에 패배한 페이커...\"만족스럽지 않은 폼 아쉬워\"": 1789208542,
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
@@ -657,7 +661,11 @@
   "삼성생명 하반기 공채 뜯어보니…보험·자산운용·AX ‘3축’ [보험사 채용 트렌드]": 1789453621,
   "[보험 NOW] 삼성생명·DB손보·KB손보": 1789455026,
   "[부고] 남승우 한화생명 홍보실 부장 본인상": 1789455026,
-  "[부음] 남승우(한화생명 홍보실 부장)씨 본인상": 1789455026
+  "[부음] 남승우(한화생명 홍보실 부장)씨 본인상": 1789455026,
+  "삼성생명, 걸으면 포인트 쌓는 ‘팩 건강보험 Care+’ 선보여": 1789456663,
+  "[부고] 남승우(한화생명 홍보실 파트장)씨 별세": 1789456663,
+  "[부고] 남승우 한화생명 홍보실 부장 별세": 1789456663,
+  "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이": 1789456663
  },
  "news_queue": [
   {
@@ -819,6 +827,46 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NVByYWpnWDV4X2lueU5Pcks2UnVySll3Y0Y3R2s2M05qZGpnMHBXclotTkpkd2NQVGdsQXV3RlhOdFNZT0N6SmRYanFZZw?oc=5",
    "sort_key": "Tue, 15 Sep 2026 06:45:15 GMT"
+  },
+  {
+   "id": "news:df2ec3ea683d2516",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 걸으면 포인트 쌓는 ‘팩 건강보험 Care+’ 선보여",
+   "source": "서울타임즈뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VnVkZEtOdXZMbGFiM3pab3RSOGR2NjJOblZ4Y2dlQW05dGNIQWRmLVgyMTF4OVVYNVpPX1ZBU2JBczZaNHpCNWxmek56a29zSThXRkV0UTFIVURUMGJHelZETXUxZU5yT3Fz?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 04:41:27 GMT"
+  },
+  {
+   "id": "news:18cbb004ca29926c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부고] 남승우(한화생명 홍보실 파트장)씨 별세",
+   "source": "중앙이코노미뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OaUc4MGVpOVhMUE9pakFjT0RfY0xfbXBjNzN5dGVyb2tRelIyZy1QVmJzYzRhZENIR09GZkg0a3U5cUlxSkFPY2czUjJDS3hVMEFzTjJoWEVEYXNOZ1d1aUJDX0FRNFJiM3ctWVFOOS16Zw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 06:47:18 GMT"
+  },
+  {
+   "id": "news:bde68dd052695795",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부고] 남승우 한화생명 홍보실 부장 별세",
+   "source": "디지털데일리",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV2c2Wm9lV1BsZXJLamp4TWZiN1Vud0lFQjgzM1YwVDF1OFk2M1cwZ3pfSERuS1VEYVVPOEFNOVFwN2t1SG11UHF2MlJBc2NZNXI5UTRjNG5hcTMzUHlLM0JR?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 07:00:56 GMT"
+  },
+  {
+   "id": "news:1b903a33bf311fd8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[부고]남승우씨(한화생명 홍보실 부장) 본인상 - 머니투데이",
+   "source": "머니투데이",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV1NyVTktQ1JZR0VHV3FFME9Ib3lfeV85clVzX0RDYkVyS0lYSVcxN21CWDdDREZIWDJqbE55WV9JQk1IMFFvVkpTVnMwRVUwa0ZrakNrU1Mwc0xXTVpIYzk0ZzdHdGFGaldaczhLam4wd2FKcWpMadIBfkFVX3lxTE1sUXBwbmNTWkdKSEhHQ1gzY295WndDYS1YeUtzVUxKQ2x4VkZYYng3MFdrZk1QSGV3SUhYM0ZuaEhCVkF6djVoRlVnSXdJY0dHZlNBZlRxbjJmWVY2ZXBlSVI4X09LN1dKSzAteklmX01hdW1yOFpVTHNvSl83Zw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 07:10:16 GMT"
   }
  ],
  "initialized": true,
