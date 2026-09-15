@@ -639,7 +639,8 @@
   "news:bb8f209ac5f05caa": 1789473009,
   "news:46c2e20f57e0bdd2": 1789473009,
   "news:3d3647411e76a4d8": 1789478209,
-  "news:e737108a74631a46": 1789481785
+  "news:e737108a74631a46": 1789481785,
+  "news:4bde5c946590a4c1": 1789482828
  },
  "stories": {
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
@@ -716,7 +717,8 @@
   "한화생명 베트남, 한국선 \"매출 35% 증가\" 베트남선 \"보험료 7% 감소\"": 1789469011,
   "교보생명, 교보라플 흡수합병…\"디지털보험사 성장 어렵다 판단\" - 머니투데이": 1789472143,
   "교보생명, 라이프플래닛 흡수합병 “독립 성장 ‘한계’”": 1789472143,
-  "교보생명, 교보라이프플래닛생명 흡수합병": 1789472143
+  "교보생명, 교보라이프플래닛생명 흡수합병": 1789472143,
+  "[보험 뉴스브리핑] 삼성생명 '삼성팩 건강보험 케어플러스' 출시": 1789482828
  },
  "news_queue": [
   {
@@ -1098,6 +1100,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tV3kxMnRwQUNXQWpJbjJPTkZCWkl2dFFRM3BBTm5TWXhMNXdFdzRoaFdrZ1RfTFdaN3JkbVExZl9hZkNqTWJiVlVnNmtJWDJSNGJUelNMZ2ItdFcxZndVa1l0cXhjbVRBLTBn?oc=5",
    "sort_key": "Tue, 15 Sep 2026 09:36:12 GMT"
+  },
+  {
+   "id": "news:4bde5c946590a4c1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험 뉴스브리핑] 삼성생명 '삼성팩 건강보험 케어플러스' 출시",
+   "source": "아시아타임즈",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMENTd1d2YTBIODJ0Zlk2SndKaVpabnVVRHJobl9zamRXaHRaWWJZWTZOWDBPQUNfMk1vS3JVN0l1QUM5MDVkZVdNUk95eTREaE9VVVpCX0pBcFlueFE?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:10:00 GMT"
   }
  ],
  "initialized": true,
