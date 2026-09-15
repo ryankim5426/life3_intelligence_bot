@@ -632,7 +632,10 @@
   "news:686d4db09ff4e3d9": 1789469011,
   "news:da3ef7241653cf0e": 1789469966,
   "news:47f9b6eaada63a56": 1789469966,
-  "news:0ba27b213743f706": 1789471162
+  "news:0ba27b213743f706": 1789471162,
+  "news:0ac7e950f4b648cd": 1789472143,
+  "news:08147a089008e297": 1789472143,
+  "news:172c7de924ee6780": 1789472143
  },
  "stories": {
   "핵심 매출 감소에도 불구하고 한화생명베트남은 금융 서비스 부문 덕분에 이익이 급증했다고 발표했습니다.": 1789239483,
@@ -706,7 +709,10 @@
   "교보생명, ‘1호 인터넷 생보사’ 교보라플 품는다": 1789465612,
   "교보생명, 라이프플래닛 품는다… \"디지털 역량 내재화\"": 1789466494,
   "[부음] 남승우(한화생명 홍보실 부장)씨 본인상 - 조선비즈": 1789469011,
-  "한화생명 베트남, 한국선 \"매출 35% 증가\" 베트남선 \"보험료 7% 감소\"": 1789469011
+  "한화생명 베트남, 한국선 \"매출 35% 증가\" 베트남선 \"보험료 7% 감소\"": 1789469011,
+  "교보생명, 교보라플 흡수합병…\"디지털보험사 성장 어렵다 판단\" - 머니투데이": 1789472143,
+  "교보생명, 라이프플래닛 흡수합병 “독립 성장 ‘한계’”": 1789472143,
+  "교보생명, 교보라이프플래닛생명 흡수합병": 1789472143
  },
  "news_queue": [
   {
@@ -1058,6 +1064,36 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZ1d3dFl1cTdLUW5ZSXFzMzVCelY3OXdCZHdNTGFyNWpHZ2Y1Q29RcnFtX1VHOThrb1N6cDdOczBGMllJRkQ4WjJsVENfSWdMRFpmanFhQ045MDRrbHpRdjZsWDJmOW9zSmFV?oc=5",
    "sort_key": "Tue, 15 Sep 2026 10:02:53 GMT"
+  },
+  {
+   "id": "news:0ac7e950f4b648cd",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 교보라플 흡수합병…\"디지털보험사 성장 어렵다 판단\" - 머니투데이",
+   "source": "머니투데이",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pS0RGcVdLRG0tN1FyMy1sRmc4aGhGRHFhdDZnRF82QldLLWV5NnpKWERyTTQxdC1faXk0ZTdjRFJDTU9VRXBoaW1hTEJtV1J6eFd1N2wxdVpnSDdtQkFva29qU0xraE9kcTRJYVRqbDJXendvWFhucjNMOG1kZ9IBfkFVX3lxTE1pS0RGcVdLRG0tN1FyMy1sRmc4aGhGRHFhdDZnRF82QldLLWV5NnpKWERyTTQxdC1faXk0ZTdjRFJDTU9VRXBoaW1hTEJtV1J6eFd1N2wxdVpnSDdtQkFva29qU0xraE9kcTRJYVRqbDJXendvWFhucjNMOG1kZw?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:01:26 GMT"
+  },
+  {
+   "id": "news:08147a089008e297",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 흡수합병 “독립 성장 ‘한계’”",
+   "source": "asiatoday.co.kr",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FanBJZDRoRHBiR3czQVdZOEc5cUxlYkxyYXU0V0Q2OThVYUxXYVdqbGZEekw1TmI4QWZZZWhFb3hpdXc0dFk1eWxyU09EbjU0Ti1Td1VNZVBMX21hTXZJbFFMdmRrUUNuY0ZUU0pB?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:25:03 GMT"
+  },
+  {
+   "id": "news:172c7de924ee6780",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 교보라이프플래닛생명 흡수합병",
+   "source": "insweek.co.kr",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tV3kxMnRwQUNXQWpJbjJPTkZCWkl2dFFRM3BBTm5TWXhMNXdFdzRoaFdrZ1RfTFdaN3JkbVExZl9hZkNqTWJiVlVnNmtJWDJSNGJUelNMZ2ItdFcxZndVa1l0cXhjbVRBLTBn?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 09:36:12 GMT"
   }
  ],
  "initialized": true,
