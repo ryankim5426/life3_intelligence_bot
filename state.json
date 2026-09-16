@@ -654,7 +654,8 @@
   "news:4d3a619bca576b89": 1789516086,
   "news:e08f96a7de7d42ad": 1789516086,
   "news:f063a811002141e3": 1789516826,
-  "news:456faa3cc74914c0": 1789516826
+  "news:456faa3cc74914c0": 1789516826,
+  "news:d7cab16491230e6e": 1789518606
  },
  "stories": {
   "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
@@ -740,7 +741,8 @@
   "따로 키운 디지털, 이제 한몸으로…교보생명·라이프플래닛 13년 만에 통합": 1789512061,
   "\"저부터 먼저...모든 선수들이 내가 해야겠다는 마음 가져야 한다\" 삼성생명 NEW 캡틴 김아름이 강조한 부분은?": 1789516086,
   "삼성생명, '라이프놀로지 랩 데모데이' 개최": 1789516086,
-  "삼성생명, 대학생들과 보험 넘어 미래기술 찾는다": 1789516826
+  "삼성생명, 대학생들과 보험 넘어 미래기술 찾는다": 1789516826,
+  "삼성생명, 대학생 개발 미래기술 솔루션 공개": 1789518606
  },
  "news_queue": [
   {
@@ -772,6 +774,16 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wX0toTWRzZFNFRGhRd21vLVhrU0gwbGZjbzA5VEZaYmhBM2l0N3JWX0RZSzV5SUtfcTg0T2lGSmVKeDlkbnp0NFdlZHpzNHc?oc=5",
    "sort_key": "Tue, 15 Sep 2026 23:47:31 GMT"
+  },
+  {
+   "id": "news:d7cab16491230e6e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 대학생 개발 미래기술 솔루션 공개",
+   "source": "팝콘뉴스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pV2VsWTdCZmQxZ3pDU2dGbTNuRXhlVnR0RHdhWDFneE85aVhZTVV4dUpzNk9peGFsdkxWNXdkMzFaaTRWbWF2Tl9JVjZZWldQZ0tWMDdSckRCU2JuNUt0NjlIbVBCM084UHF6VEtGZ9IBckFVX3lxTE5sVVQwWjd3Vkg3ZnZkMkxaQTZ2dlo3OW40TFJMa0VZdmEtUzlpQkxYQmxwY3JmYlU3UzgxMUhicllVemU1SUxBaHZlZmdaZjgzcXB2aExUUXpnbHdwNmhLUmk1QnhYQnVBeG1iQXJ3dzJXQQ?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 23:56:34 GMT"
   }
  ],
  "initialized": true,
