@@ -702,7 +702,11 @@
   "news:9a318010007db89d": 1789537849,
   "news:8d31089289ce2463": 1789539623,
   "news:4aac573757bef809": 1789539623,
-  "news:467bfd425125e3da": 1789539623
+  "news:467bfd425125e3da": 1789539623,
+  "news:e5f917f0c1d0fde3": 1789541318,
+  "news:8080037142321a82": 1789541318,
+  "news:ad6136a79d4f3988": 1789541318,
+  "dart:20260916000359": 1789541319
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -816,7 +820,9 @@
   "교보생명, 자회사 '라이프플래닛' 합병…기존 가입자에 어떤 영향?": 1789534326,
   "[오늘Who] 교보생명 교보라플 품고 자본효율 높인다, 신창재 '종합금융그룹' 확장 속도": 1789539623,
   "한화생명, 전국 29개 영업현장 찾는다…CCO 주관 ‘고객신뢰 플러스 데이’": 1789539623,
-  "“10년 뒤 삶 바꿀 기술 찾는다”…삼성생명, 대학생과 미래 솔루션 개발": 1789539623
+  "“10년 뒤 삶 바꿀 기술 찾는다”…삼성생명, 대학생과 미래 솔루션 개발": 1789539623,
+  "“불통 영업 끝낸다”… 한화생명 CCO, 전국 29개 현장 뛴다": 1789541318,
+  "[오늘의 보험] 삼성생명·교보생명": 1789541318
  },
  "news_queue": [
   {
@@ -1158,6 +1164,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWnhYNFJWcWpqckp0djJoZDN2dzFXaFRUZkNScWpyNDAzNkQwbVlWakhOR0twcTJOUXVsMEExUU1VN0x5VVFBX3Y4SlA0cXZaRHd6WXctOWpVR0JSREt3VHdkeVk?oc=5",
    "sort_key": "Wed, 16 Sep 2026 06:06:40 GMT"
+  },
+  {
+   "id": "news:8080037142321a82",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“불통 영업 끝낸다”… 한화생명 CCO, 전국 29개 현장 뛴다",
+   "source": "dailysmart.co.kr",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1naFVEdG9BMUhfdjR2UWhDYk0tRXdabkNUMTc3andXMzV5VGRfdHpqRU0xRGVmeGx3ZjNWaXFodnBvWWlNSEcxUmlUeXNsX2phRXRoV0dVZ1ZCNDVvU2p4NXFQTjJoYmZ4M0JYbkdFY3E?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 05:45:11 GMT"
+  },
+  {
+   "id": "news:ad6136a79d4f3988",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "[오늘의 보험] 삼성생명·교보생명",
+   "source": "파이낸셜리뷰",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HYWxjWHZ0NXkzWllDT2FSZlB4UEZQVlBXMUl4WENIMzRlZnpXd1loTnh3NmY4NmszSDQ2bUVZSmk1TUFkMGVHQ2tjZVFtbzNsS1BfeFVhWVFNRlJERTJXMHNMSlZBa1pDb1d6SXdSckkzb2cw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:28:20 GMT"
   }
  ],
  "initialized": true,
