@@ -747,7 +747,10 @@
   "news:797b6183ad47a2d8": 1789584464,
   "news:419d9aed1ecbfc12": 1789590273,
   "news:78ebe31ca48834ba": 1789597377,
-  "news:1f6646b48eaa9578": 1789597378
+  "news:1f6646b48eaa9578": 1789597378,
+  "news:d938a8de7e97c47a": 1789599454,
+  "news:aa12a8245de62469": 1789599455,
+  "news:85ae627b4ebdfea6": 1789599455
  },
  "stories": {
   "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799,
@@ -885,7 +888,9 @@
   "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴": 1789573381,
   "15일 서울 서초동 소재 삼성금융캠퍼스에서 개최된 라이프놀로지 랩 데모데이에서 삼성생명 관계자 및 참가자들이 기념촬영을 하고 있다.(사진=삼성생명)": 1789584464,
   "아카마이, 삼성생명에 ‘가디코어 마이크로세그멘테이션’ 구축": 1789590273,
-  "예보, 남은 공적자금 회수 앞두고… 서울보증·한화생명 매각 '장고'": 1789597378
+  "예보, 남은 공적자금 회수 앞두고… 서울보증·한화생명 매각 '장고'": 1789597378,
+  "3690억 쏟았지만 ‘누적 적자’···교보생명, 13년 만에 디지털 생보 흡수": 1789599455,
+  "삼성생명, 8월 생보업계 소비자 관심도 1위...한화·교보생명 순": 1789599455
  },
  "news_queue": [
   {
@@ -1497,6 +1502,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EODBpM0N6Qnd1MXMtTnN2WTIxQTBDdnQzcmJPaDJBeG9pZ3Q2Ui1BS3hTeFJwX0M0My1Uc21nQnJyVnF1TjRhcHk2TjRvZUxDc1FsdEk1d2VFUEZnOTluTlJpUXRiZDBaRDNrZFBTLU3SAXRBVV95cUxOcDgxTG1seU5iVnV3R04wU3RoUklLWG1ibkpBc0R5TFdfRWFOdllYS3JiRUF6SmZ2NHZjcmR0aHlndEh0b0J2TE1KMHl5VjBYVzl6QTBacFJqV3gwbEhJMWdHNk1XT1d5ekozUE51c0tnTHFsaA?oc=5",
    "sort_key": "Wed, 16 Sep 2026 22:00:00 GMT"
+  },
+  {
+   "id": "news:aa12a8245de62469",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "3690억 쏟았지만 ‘누적 적자’···교보생명, 13년 만에 디지털 생보 흡수",
+   "source": "스마트비즈",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwb1VyeGFDSS1RS2lVLVRfM3VJbXp1bGlINjA4TEcyeHlWalMzOFNURmNFSGw1X2RhT0lWMU1URXRsVkt0MEtUX3FOSVZESXk5dndid2lkSVBENmd6Q1hncW5abmcwM0JRWDZ3Yw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 22:15:00 GMT"
+  },
+  {
+   "id": "news:85ae627b4ebdfea6",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "삼성생명, 8월 생보업계 소비자 관심도 1위...한화·교보생명 순",
+   "source": "빅데이터뉴스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VdmZ5NC1OTmxtRDFCWklrUWNsZU1LY1Zac3FLX0l0Vlc0dUJ5bjBucERCeFpvWU51WmdiMmZjdTN4TjN1ZGp4NDBBaFlHM1B5bjZZbmFlbGR5YUxSQVU3eFdSUU43SnlEUUhjcmJvNGoyS3I3WUZpQXVxLVM?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 22:47:03 GMT"
   }
  ],
  "initialized": true,
