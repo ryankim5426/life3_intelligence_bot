@@ -719,7 +719,11 @@
   "news:4780935ef05c9349": 1789546871,
   "news:9ba32c3ae7c1e014": 1789546871,
   "news:6c8783a9b3b5cdfe": 1789546872,
-  "news:5e91714648cd4d3b": 1789546872
+  "news:5e91714648cd4d3b": 1789546872,
+  "news:577e9309ddc7bca4": 1789548299,
+  "news:fb9dcb541d88f31e": 1789548299,
+  "news:7b4503c4b0cdbbd4": 1789548299,
+  "news:dd2882c8568331a0": 1789548299
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -843,7 +847,11 @@
   "삼성생명, 대학생들과 미래 기술 선보인 '데모데이' 개최": 1789543519,
   "[보험 NOW] 농협손보·교보생명·한화생명·동양생명": 1789543519,
   "삼성생명, ‘100년 기업 차세대 CEO 과정’ 4기 개강": 1789546872,
-  "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까": 1789546872
+  "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까": 1789546872,
+  "교보생명, 우수고객 초청 정가·가곡 공연 개최": 1789548299,
+  "한화생명, 영업현장 직접 찾아 고객신뢰 강화… 전국 순회 교육": 1789548299,
+  "교보생명, 라이프플래닛 흡수...금융지주 전환 앞두고 '군살빼기'": 1789548299,
+  "[보험사 풍향계] 삼성생명, 대학생 아이디어 모은다 外": 1789548299
  },
  "news_queue": [
   {
@@ -1285,6 +1293,46 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RRHZIZ0sxSVhhQzN3VGtjQkpvcExJcm16Q25zM2t5YkdfUy1PRzJaLW1tU2tyQ0w5eWxPNWI2NzQ1WTFwYjZRQjRyeTY3TmRBTGFoRTNvWllxYkxLaUstalZYNjJaOTJH0gFsQVVfeXFMTllUa1lKNTEwY29GeWdjdzk0eUdTVzhCbXJHajV4a3hwYTJyd1BWcHdydElnX1ozMXBlOEYtZ05fb2hPN0dZRVVaakJkMmtzU2g5ZUJXT0tENEtiSlBYeFJiR3V1Y1pncVdIamVS?oc=5",
    "sort_key": "Wed, 16 Sep 2026 08:10:47 GMT"
+  },
+  {
+   "id": "news:577e9309ddc7bca4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 우수고객 초청 정가·가곡 공연 개최",
+   "source": "팝콘뉴스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84eE1TSlhhRzRfbHJrMG9YeGpzRy13MjhPWEtSaEt0Mll4WGVxN204MVJGZ0dOMEcwdHM0TFBuYnI5dGRBZ1ZuVnQ5LWFBbU1ZLVNNOGpjbUdrdWJtZXBvQWtPYkVqTUtnY0F0djBB0gFyQVVfeXFMTlBDM2RtdlBLa19zVHBJVDFJMlZ2RUktSk85WHFDZ0psNGU4X1FGTGJVenEtR3kyVjFjSlQtUVBqb1RXRlRwbmZ2aW5ROHZyNjNmSjkzbWY0S3N4eXVrM1ZVN3JFRDJxTkU0NDJOYURKcDZn?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:10:25 GMT"
+  },
+  {
+   "id": "news:fb9dcb541d88f31e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 영업현장 직접 찾아 고객신뢰 강화… 전국 순회 교육",
+   "source": "천지일보",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BUlJwTUowWFdrS2lmb3ItTkZjaGg4SktXUkhKU2JDSVMxVjR2ei1NNmxpc2tLYmhldnFMV0JmbE0yLXpwaGhrc3dSVFN1UXIyM0VnMlI4VVJYcm5aUkJ4eDVjVm1TWGVmOWc?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:24:07 GMT"
+  },
+  {
+   "id": "news:7b4503c4b0cdbbd4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 흡수...금융지주 전환 앞두고 '군살빼기'",
+   "source": "톱데일리",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fdDJpNTFVOHNpZUdiNzJ1ZmFDb2dmVnFvY00ybklCRkNMMlhxcVlIaERrbHI0S25QV2Foa2xocGVPOURubm42c0pQMVdpOFU?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:36:00 GMT"
+  },
+  {
+   "id": "news:dd2882c8568331a0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험사 풍향계] 삼성생명, 대학생 아이디어 모은다 外",
+   "source": "에너지경제신문",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xT3plbzZhMTctLXNyVmFyU0NtRU1aUjZxNVkyVXdqUmRSXzNjR1lwU25fYUphMzhuUmQtUmM2eWJGU0F4TEUtcUpraGUwRDlCbHZxWmN4cVlzVGIwWDFfbEtwdw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:39:52 GMT"
   }
  ],
  "initialized": true,
