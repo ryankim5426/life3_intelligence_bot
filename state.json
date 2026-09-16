@@ -695,7 +695,8 @@
   "news:b83176ed4da4605b": 1789529602,
   "news:ce802a62e56fe235": 1789529602,
   "news:3b04d9a7df122f11": 1789530679,
-  "news:f1bb60af0cb49891": 1789533205
+  "news:f1bb60af0cb49891": 1789533205,
+  "news:68015a825e9bfd39": 1789534326
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -805,7 +806,8 @@
   "13년간 흑자 '제로' 라이프플래닛, 결국 교보생명 사업부로 편입": 1789527102,
   "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위": 1789527102,
   "[포토] 한화생명, 전국 순회 금융소비자 보호 교육 실시": 1789528516,
-  "보험사 킥스 5개 분기 만에 하락⋯교보생명·DB손보 두자릿수↓": 1789528516
+  "보험사 킥스 5개 분기 만에 하락⋯교보생명·DB손보 두자릿수↓": 1789528516,
+  "교보생명, 자회사 '라이프플래닛' 합병…기존 가입자에 어떤 영향?": 1789534326
  },
  "news_queue": [
   {
@@ -1107,6 +1109,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnNjdKTGRROGlBSHlUaVNLdmJJUEJmNWVYSER1amdOamdRZmc1UHZzeFl0WFJZUFFPdHRESGF3MUh6a3FWVnpoQXd0RQ?oc=5",
    "sort_key": "Wed, 16 Sep 2026 03:00:01 GMT"
+  },
+  {
+   "id": "news:68015a825e9bfd39",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 자회사 '라이프플래닛' 합병…기존 가입자에 어떤 영향?",
+   "source": "논객닷컴",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zTEhVendBTTJTQWljVHFjYm56ZzAyMXN4SXZVajFsZGNZQ180MFMtWWU1VmN4US1FVllJdFJrVEhfU1VzS2FDRTBoNW9sam9BU1J4VE8zbkxRdlU1a0pMQTU4elhFQ2M20gFrQVVfeXFMTjFtMHZURlNGZl9CMFFoVEJQazF4cWJlR09OTzl5VzgzVldMU0VELURUelFSWDRkRFp0TEVSVWpCbDdXVUNlclpseXNDNEpsWGJMV3pXZ1FqVnhZNFdDSHdEdUYzSkNad2NlQU0?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 03:56:03 GMT"
   }
  ],
  "initialized": true,
