@@ -715,7 +715,11 @@
   "news:d2c4c30c9f0960cd": 1789543518,
   "news:4b64f453bcd2b448": 1789543519,
   "news:86d1c5dbf9b30218": 1789543519,
-  "news:fd9ac83dbcbf8186": 1789544599
+  "news:fd9ac83dbcbf8186": 1789544599,
+  "news:4780935ef05c9349": 1789546871,
+  "news:9ba32c3ae7c1e014": 1789546871,
+  "news:6c8783a9b3b5cdfe": 1789546872,
+  "news:5e91714648cd4d3b": 1789546872
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -837,7 +841,9 @@
   "교보생명, 라이프플래닛 통합해 디지털 경쟁력 강화...내년 4월 합병 목표": 1789542150,
   "한화생명, 전국 영업현장 찾아 소비자보호 교육…완전판매 문화 정착": 1789542150,
   "삼성생명, 대학생들과 미래 기술 선보인 '데모데이' 개최": 1789543519,
-  "[보험 NOW] 농협손보·교보생명·한화생명·동양생명": 1789543519
+  "[보험 NOW] 농협손보·교보생명·한화생명·동양생명": 1789543519,
+  "삼성생명, ‘100년 기업 차세대 CEO 과정’ 4기 개강": 1789546872,
+  "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까": 1789546872
  },
  "news_queue": [
   {
@@ -1259,6 +1265,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00clc4eHR3ZHo3RmstZGQ4VVU4YUVrdU53eTBvR3JNOGVZWFJTOUlRWHg2ZF9DTEsxMXo2WWxOUGhJc1pVeDQwRUtBa1VlczFyWTZYWTBsbHVaRFNPNmdnTFhUZWJXa3ZGcUhkNTBKeVI?oc=5",
    "sort_key": "Wed, 16 Sep 2026 07:01:47 GMT"
+  },
+  {
+   "id": "news:6c8783a9b3b5cdfe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, ‘100년 기업 차세대 CEO 과정’ 4기 개강",
+   "source": "매일경제",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wX2w2Yzk2OVBnOUtuQXR4dXFFT2NfNWE0bE9NWC1nblZCLWE1RThtdkJiZ0ctdXJ6OUxYek9fVDV3MGMtSU5QSGQ4SmJ0eVZjSjZfazRn?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:08:35 GMT"
+  },
+  {
+   "id": "news:5e91714648cd4d3b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까",
+   "source": "블로터",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RRHZIZ0sxSVhhQzN3VGtjQkpvcExJcm16Q25zM2t5YkdfUy1PRzJaLW1tU2tyQ0w5eWxPNWI2NzQ1WTFwYjZRQjRyeTY3TmRBTGFoRTNvWllxYkxLaUstalZYNjJaOTJH0gFsQVVfeXFMTllUa1lKNTEwY29GeWdjdzk0eUdTVzhCbXJHajV4a3hwYTJyd1BWcHdydElnX1ozMXBlOEYtZ05fb2hPN0dZRVVaakJkMmtzU2g5ZUJXT0tENEtiSlBYeFJiR3V1Y1pncVdIamVS?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:10:47 GMT"
   }
  ],
  "initialized": true,
