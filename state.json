@@ -680,7 +680,11 @@
   "news:a914cb8b06f2aace": 1789525166,
   "news:a7f885b1498decfc": 1789525166,
   "news:0bc17c3387fc4652": 1789525166,
-  "news:ca5199681af91aef": 1789525166
+  "news:ca5199681af91aef": 1789525166,
+  "news:663bd6a2ad8490d7": 1789526168,
+  "news:7da1871c2df47ebd": 1789526168,
+  "news:f1116dd042d00ff2": 1789526169,
+  "news:7fd710eac678c8e6": 1789526169
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -784,7 +788,9 @@
   "한화생명, 전국 29개 영업현장 순회…소비자보호 강화": 1789523901,
   "한화생명, 소비자보호 '현장 실행' 강화…CCO가 전국 29개 기관 찾는다": 1789525166,
   "교보생명이 자회사 라이프플래닛을 흡수하는 이유는?": 1789525166,
-  "교보생명, 우수고객 350명 초청해 강연 콘서트": 1789525166
+  "교보생명, 우수고객 350명 초청해 강연 콘서트": 1789525166,
+  "[8월 생보사 GA M/S] 삼성생명...지에이코리아 5억3600만원·17.1% 선두, 상위 3사 32.4%...에이플러스 7계단": 1789526169,
+  "'신창재의 꿈' 라이프플래닛 13년 만에 마침표…교보생명 품으로": 1789526169
  },
  "news_queue": [
   {
@@ -1006,6 +1012,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmZnQzNyQWZzbTZlMmZQYzU3YkstTklYaUgwSnpjN3p5NG9VZlJWU3czRXNLT2VLb3NmdkhVNDl3ZmVHamVqM05uelFBb1J1YzhRS1NPQWdNUk9ZZm03Vm9acFBmNE9lNjZXT0FveEp5Wl81RjBzN3NzcXRSZnVBWjN5elI?oc=5",
    "sort_key": "Wed, 16 Sep 2026 02:01:12 GMT"
+  },
+  {
+   "id": "news:f1116dd042d00ff2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[8월 생보사 GA M/S] 삼성생명...지에이코리아 5억3600만원·17.1% 선두, 상위 3사 32.4%...에이플러스 7계단",
+   "source": "보험저널",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01bkJ0R0dEdlpIRDhjUzZFSnRKZm1UdEF6Z2Y4cExkc3BmRUVrZmxzTUhkLUhLdW5GdHpZYmpfdkJVUm9rcEhWejRYbkx0MzJDdDFnbjBsbHdJbGw0MGIyaWliUk84cXg5S05OVFM4RQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 02:12:17 GMT"
+  },
+  {
+   "id": "news:7fd710eac678c8e6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "'신창재의 꿈' 라이프플래닛 13년 만에 마침표…교보생명 품으로",
+   "source": "v.daum.net",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZDFrY2MzVzZvZlBrTUotT1BfUUFRWmNzOEtwUXBHdGRubU1Eakl0MGhrb1o4UkZJTTFJQ0hjTUJmOHRqdFVGRExCcFVMaDA?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 02:19:32 GMT"
   }
  ],
  "initialized": true,
