@@ -658,7 +658,10 @@
   "news:d7cab16491230e6e": 1789518606,
   "news:387b4d65effc2a9e": 1789519808,
   "news:fa575bc80f2cbcdb": 1789519808,
-  "news:73cf43212aa890c4": 1789519808
+  "news:73cf43212aa890c4": 1789519808,
+  "news:1e54d9430ae9ba86": 1789520649,
+  "news:44c289bffb1e91c5": 1789520650,
+  "news:b7069878d10e1004": 1789520650
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -746,7 +749,9 @@
   "삼성생명, 대학생들과 보험 넘어 미래기술 찾는다": 1789516826,
   "삼성생명, 대학생 개발 미래기술 솔루션 공개": 1789518606,
   "삼성생명, 5개 대학과 미래기술 발굴…'라이프놀로지 랩' 결과물 공개": 1789519808,
-  "13년 무수익의 침몰…교보생명 ‘디지털 혁신 실험’ 이대로 멈추나?": 1789519808
+  "13년 무수익의 침몰…교보생명 ‘디지털 혁신 실험’ 이대로 멈추나?": 1789519808,
+  "교보생명, 교보라플 품는다…내년 4월 흡수합병 결정": 1789520650,
+  "한화생명, 전국 영업현장 찾아 '고객신뢰 문화' 확산": 1789520650
  },
  "news_queue": [
   {
@@ -808,6 +813,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQjFQZW1kUmtQZzk3UEYxOWpsaFB2UE94T1VUdURxVW1LTTRrQnhoRlUwMEN3QWMwdG02cUNWMlZZX283TnBKVGM5d2hIcEt4cmV3YUdMTjJ2UEpjMEpwRVZJQmxfbWk2MXdSdU91ONIBc0FVX3lxTFBNTlZ2VWd3RkFvblJvbGJIWGYtajAyUmVTZ0laTjJsb0pjdENDaEdqM0ZwSk96a2dwdTBHdVJZcllGZnRHSHdpbU50bUpJWm1iLW1rdUluWmRfeG1BOWEyY3hRbjNVSklGRFpwdm1WOHNjU0E?oc=5",
    "sort_key": "Wed, 16 Sep 2026 00:37:14 GMT"
+  },
+  {
+   "id": "news:44c289bffb1e91c5",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 교보라플 품는다…내년 4월 흡수합병 결정",
+   "source": "컨슈머타임스",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NDhwWkxSRklBQzQ1a3VhSk85azUyRkh2UDl3R0dKQ01RVjlYdXRCMTZBbFplRjE2Mk1RZEw1MDZjMnJQLVFwUjY1QndVdmJTVURpOU5KM0pfdWZWRUNtR3Jqb2xmVnFSbHc?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 23:49:37 GMT"
+  },
+  {
+   "id": "news:b7069878d10e1004",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 영업현장 찾아 '고객신뢰 문화' 확산",
+   "source": "전자신문",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tV3ZiREJFSXBSMjkwaDZ1ZnJQSTl3QWx3NXhINkhkdWdEc2NCMl9XNGJ5X1FQemFNMDktM3NENFk5aTg3RVFzZWZuZl9sdw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 00:57:14 GMT"
   }
  ],
  "initialized": true,
