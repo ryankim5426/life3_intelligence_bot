@@ -667,7 +667,12 @@
   "news:ee880b4d405987c5": 1789521782,
   "news:6902c8334aaaf76d": 1789521782,
   "news:ec51caa1da9c6f4e": 1789521782,
-  "news:dd966e60c24dd947": 1789521782
+  "news:dd966e60c24dd947": 1789521782,
+  "news:40cb6832c3c01ec8": 1789522910,
+  "news:b8c7cc941469cdc1": 1789522910,
+  "news:a8a8c3867c3eb894": 1789522910,
+  "news:f7fc304bcd0756b4": 1789522910,
+  "news:4bf732fb52127da2": 1789522910
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -761,7 +766,12 @@
   "교보생명, 우수고객 초청 '살롱 드 교보' 개최": 1789521782,
   "삼성생명, 대학생과 미래 기술 실험…빅테크 솔루션 39개 공개": 1789521782,
   "한화생명, 전국 영업현장 돌며 소비자보호 점검": 1789521782,
-  "교보생명, 라이프플래닛 품는다…내년 4월 합병": 1789521782
+  "교보생명, 라이프플래닛 품는다…내년 4월 합병": 1789521782,
+  "삼성생명, IT 인재 샌프란시스코 ‘디벨로퍼 위크’ 참관 기회 제공": 1789522910,
+  "삼성생명, 대학생 39개팀과 10년 뒤 미래기술 개발…3개팀 대상": 1789522910,
+  "더 나은 삶 고민한 대학생들…삼성생명 라이프놀로지 랩서 기량 겨뤘다 - 머니투데이": 1789522910,
+  "한화생명, 전국 영업현장 직접 찾아가는 플러스 데이 운영": 1789522910,
+  "한화생명, 전국 누비며 소비자보호 강화…'영업현장 고객신뢰 PLUS 데이' 운영": 1789522910
  },
  "news_queue": [
   {
@@ -883,6 +893,56 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wRnNsZkJWd2VHaWFwS0pNZ3RCZDVBbGt3SjlOemlkTFpnR2p1YUV0dnR0aDZMMU8yVU5saFhWRkhxMEdVUXhIcTUwTFFJS3J6MHMyUi00MlBRdGJKamlWZ3hncnBLTUllY1F0VmhrbWxfQk5F?oc=5",
    "sort_key": "Wed, 16 Sep 2026 01:15:00 GMT"
+  },
+  {
+   "id": "news:40cb6832c3c01ec8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, IT 인재 샌프란시스코 ‘디벨로퍼 위크’ 참관 기회 제공",
+   "source": "글로벌이코노믹",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEVXTFNoVTR0NmxaTTc2NVp6WXRNZUVWd3phS2RzVUlRandUel9LVHhlbG5WOVVVM180UENyT0pkb3FYVkpaRzZTVng4VkRlaHpTbzNjbmtkX08xc2ZXUWY0Uy1HNllmRWhQNnVRU2p3UDc5U0Vrem5XUmZoRVphTnZGYkw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:23:43 GMT"
+  },
+  {
+   "id": "news:b8c7cc941469cdc1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 대학생 39개팀과 10년 뒤 미래기술 개발…3개팀 대상",
+   "source": "서울타임즈뉴스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2U19SM0VWbmRCQmJaR1V6ZVhsSm8xTElZYUxPb1BrRFViNkhId0ljUUFvMzdxZEFKZjZORkItTXFRSWU2VE1DMHR6bGtNNTY1N1ZwenBGSGhrWU5mVnV6MGJlNjM1b09SZGlB?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:27:34 GMT"
+  },
+  {
+   "id": "news:a8a8c3867c3eb894",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "더 나은 삶 고민한 대학생들…삼성생명 라이프놀로지 랩서 기량 겨뤘다 - 머니투데이",
+   "source": "머니투데이",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45eTR2c3JxUmU0VzFxbmp5WUlPRlBIVFZMRXoxeC1XcHdOaXlITUF2WG5CSy1Rb0VrdFVjUGpjR1c2QU1kNkY4R1p4WmVydXQwVXBVNVFTdnRNeUcyTExPaE1mcVNaQ0dOMUxDQ3ktV0RZVDNjYmluaNIBfkFVX3lxTE1yZXZsT1hKT1otaHNUN2tvZU9MbjdLZmFoV1pkR0tEZ0pPc0oxY1dOUkdrckNUdF81WFpTLS1mUzNiREl6YVV2VnU2aXpRX1ZleThubkdENXpORlFXc21tSllGN3BhbnBjUjBkaVdFdlhvLVVrU2VVeGltRmtPZw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:31:59 GMT"
+  },
+  {
+   "id": "news:f7fc304bcd0756b4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 영업현장 직접 찾아가는 플러스 데이 운영",
+   "source": "데이터뉴스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIVmdSZzltYlgtMmJOam1La3oyNVhXeWtENzBnNkQ2aHdUVG51a3VGYi14RklVcFZZTUV0ZmtUZW12bGg4dHNlOURZcGk2c19SalFkSTdQRXBUSDVrVHBn?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:32:58 GMT"
+  },
+  {
+   "id": "news:4bf732fb52127da2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 누비며 소비자보호 강화…'영업현장 고객신뢰 PLUS 데이' 운영",
+   "source": "열린뉴스통신",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SVDh3WVptUUg1ellQSzB4RHNTWUZLbTNkck9UYklHWGR2WG9zd0t2NkJueW1TZFgzN1JDT0dVN0ZQeEtCM1FjTk5aa0g2aG53Nl9Fa3JFRGdvNWhlSVNTVlZueHozQQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:36:57 GMT"
   }
  ],
  "initialized": true,
