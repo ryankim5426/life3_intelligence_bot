@@ -684,7 +684,12 @@
   "news:663bd6a2ad8490d7": 1789526168,
   "news:7da1871c2df47ebd": 1789526168,
   "news:f1116dd042d00ff2": 1789526169,
-  "news:7fd710eac678c8e6": 1789526169
+  "news:7fd710eac678c8e6": 1789526169,
+  "news:f79ed864a6121d8e": 1789527101,
+  "news:d930964a694bfc01": 1789527102,
+  "news:d9665769dfec3350": 1789527102,
+  "news:63c483d58141e7c3": 1789527102,
+  "news:4dabd753349f381f": 1789527102
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -790,7 +795,11 @@
   "교보생명이 자회사 라이프플래닛을 흡수하는 이유는?": 1789525166,
   "교보생명, 우수고객 350명 초청해 강연 콘서트": 1789525166,
   "[8월 생보사 GA M/S] 삼성생명...지에이코리아 5억3600만원·17.1% 선두, 상위 3사 32.4%...에이플러스 7계단": 1789526169,
-  "'신창재의 꿈' 라이프플래닛 13년 만에 마침표…교보생명 품으로": 1789526169
+  "'신창재의 꿈' 라이프플래닛 13년 만에 마침표…교보생명 품으로": 1789526169,
+  "“보험 10년 뒤 미리 본다”… 삼성생명, 5개 대학과 ‘미래 빅테크’ 전격 공개": 1789527102,
+  "[지속가능경영이 글로벌 경쟁력-한화생명] 지속가능경영 체계 다지기…환경·사회·투명경영 관리 내실화": 1789527102,
+  "13년간 흑자 '제로' 라이프플래닛, 결국 교보생명 사업부로 편입": 1789527102,
+  "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위": 1789527102
  },
  "news_queue": [
   {
@@ -1032,6 +1041,46 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZDFrY2MzVzZvZlBrTUotT1BfUUFRWmNzOEtwUXBHdGRubU1Eakl0MGhrb1o4UkZJTTFJQ0hjTUJmOHRqdFVGRExCcFVMaDA?oc=5",
    "sort_key": "Wed, 16 Sep 2026 02:19:32 GMT"
+  },
+  {
+   "id": "news:d930964a694bfc01",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“보험 10년 뒤 미리 본다”… 삼성생명, 5개 대학과 ‘미래 빅테크’ 전격 공개",
+   "source": "스마트경제",
+   "date": "Tue, 15 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FNFRacnhlcTdGeEZrV0Vyai0tc2VLc0Z5TUcyLWx6bjY3azJCWHJzaS1JUlFYZThjUElrQzZoZmIwYUd5UzVKLXdrYmtxWmY2VHpiM1EwcEVGYXA2TlpkQ3F4U1g3dWVkaktSMElDaHU?oc=5",
+   "sort_key": "Tue, 15 Sep 2026 23:37:41 GMT"
+  },
+  {
+   "id": "news:d9665769dfec3350",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[지속가능경영이 글로벌 경쟁력-한화생명] 지속가능경영 체계 다지기…환경·사회·투명경영 관리 내실화",
+   "source": "SDG뉴스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnSFpJaDREZ3VjV19uUTRzYi1sT25pSlZwQTd6RGhocDlFTzFhb3FjUEdGQWtmQjdiVS1LNHVjMjlNM29PVDlSNm96WHBwVkZNNUVsek5ZVmp2NTdRa3dmeDZNODg3UVFqRWdF0gFrQVVfeXFMUGdIWkloNERndWNXX25RNHNiLWxPbmlKVnBBN3pEaGhwOUVPMWFvcWNQR0ZBa2ZCN2JVLUs0dWMyOU0zb09UOVI2b3pYcHBWRk01RWx6TllWanY1N1Frd2Z4Nk04ODdRUWpFZ0U?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:10:07 GMT"
+  },
+  {
+   "id": "news:63c483d58141e7c3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "13년간 흑자 '제로' 라이프플래닛, 결국 교보생명 사업부로 편입",
+   "source": "알파경제",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90ZlRvZW9pb3RYbk9BeUFQalNkVkh0VkY5eUlsb3VJdEhmMGVmb1VnazJWdnB6aG9JT1pLMlhfc2pRcnZvT1M5YVdYZWl2c2JnY01TMl9BM3VMLWlMYUk5cDZ2NEFzVTJkSUdWRVJ3?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:36:07 GMT"
+  },
+  {
+   "id": "news:4dabd753349f381f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위",
+   "source": "보험저널",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DUVFscWZPd1hUeTJPTml4STVOa2FYMjBHVm9BMjIzRUdoUVhFdzVMQ1AtVi1WdnFQMjNhVVB2ZDlZN0NYel80ZHVvM21nUWUzQ05meUFtZC1uQkc2WDRjU1BPRUp4Ym1WVjExWUFuRQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 02:36:55 GMT"
   }
  ],
  "initialized": true,
