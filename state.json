@@ -743,7 +743,8 @@
   "news:fc33bc705a604be3": 1789569853,
   "news:b3aa4b895cb53ccd": 1789573381,
   "news:9371b20e5961c440": 1789577928,
-  "news:867ec7f42952d2ec": 1789577928
+  "news:867ec7f42952d2ec": 1789577928,
+  "news:797b6183ad47a2d8": 1789584464
  },
  "stories": {
   "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
@@ -879,7 +880,8 @@
   "삼성생명, AI 인생 시뮬레이터·치매 기억 보조 서비스 등 선봬": 1789562488,
   "[포커스] 보험료 못내서 효력 정지?...삼성생명, 모바일로 계약 되살린다": 1789565168,
   "한화생명, 전국 영업현장서 완전판매 강화": 1789569853,
-  "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴": 1789573381
+  "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴": 1789573381,
+  "15일 서울 서초동 소재 삼성금융캠퍼스에서 개최된 라이프놀로지 랩 데모데이에서 삼성생명 관계자 및 참가자들이 기념촬영을 하고 있다.(사진=삼성생명)": 1789584464
  },
  "news_queue": [
   {
@@ -1461,6 +1463,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96NENDcGNQa2Z2WEl2V2ZlRGI4MFFOWWw2Z3ZRNUtMR2tGWS1kMjV4bUtZT3U3VEprRXdZaWdTTldnd3VweDlQVC1xMWs5cE5UYlc1aUVSalh3T2Q4MmRTcHVxc3JkU096?oc=5",
    "sort_key": "Wed, 16 Sep 2026 09:26:39 GMT"
+  },
+  {
+   "id": "news:797b6183ad47a2d8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "15일 서울 서초동 소재 삼성금융캠퍼스에서 개최된 라이프놀로지 랩 데모데이에서 삼성생명 관계자 및 참가자들이 기념촬영을 하고 있다.(사진=삼성생명)",
+   "source": "전자신문",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwApBVV95cUxNbk9GVWxQV3duLVh4XzRQUE41ZGlrQWlSdGpnZlJtamxqTGE5NndXcmE2WkhwQi1LU0thbUdlNTBoUjZtYV9vUVh3NzJYNFRFenFzRV9DRkJmUHg1eFRqeU9tQU1wXzlDNFV6LWU3Sk5OeFhyN3BnbkFYbGZUQzN3SmdaODU3U2hUcFFKVFpOUjRDaC1XVFZXNkNiUzc2N2h1STRITHBGYl9LZkppb3hBTjdsTTJHNFhVcE51SEpsNHhSUWxraTA0REdyaEJnZmNlS1dvbW5GV3RWWUlnSHNEVG83enhSam5rbzMtSzVodGpWbld5dlU1WU1CcERzZlFPemVzTGxYY2RjTkVQZ0ZndUJvQnNOcW5SYlZFS2c3Q1RnVU1fTGFaVFhSNDdiVjF6ZDJUYTAya3F3b3FkTUhmVXpEejBqUG1keWRwS2FVNldlSHlKVmIyUHQxV3A1R0tqVV80ZHg1RGJob0I1eHBla2JfNFNtSDgwb2JWQVlONjlTektQbFRPU2kxSXB6bXNhekxjOTB2RjY3NHFUeUxzZEVZb1BRZ01VVHRxbnpkSm9LdGZqRlhNMjRFek51eExTcFhMUjUtY0JKLUV1bldCM1FYUjRJamc5RS1LQXJ0d0JlSzlMMlNtcHpzYWgxWlB3U21nZFhHeXdWV2o5M0tmS2RSbFFkOTd5dkdqeWVDMmJ4ejVFbVZBRHk5QmpNNVhvUkp6X1plbVFmYlV6WkNUNkdVNEp6THo4Y2xiNUxfQ08zR3g1Ym92MzkyMUdDcm9lc2M5Mi1EbkxtajZwT2FvMG5SUE1LU3pRTDZHRkcySEdxUWx5dEZuYW9wVFNyckptc0ZGUERKOGQ4aHBTYkltWXVHSndpX1Btb2ZfSU9pRXNkaThmclEwdDZWN24yaWYxR1BpQ0RPTHhnbmI5T2h3RXlKcUhjNXkxOGhPd0UyakVSX1VjRlFQU3g2OC03bm9peVJCcC1KdTliejNyNGJCLWRDTEpJLWRzSHd3bWEyV2lzZU5TV2tLMWFYbUFIb3NNczV5Z3JFelppRDNtVDJCZ3Vwc2ZMWWVuZGVDVzJJS3NxQU43ZVJjbGNQdnR3NTdPbFFXd19xdThReVlZSFllT19BQ2hzOXVCNHBhQ3NpX0lwNFdfb2RWOTJwQkp2NWIySzBzaWtBOGRwamxldnMtMkxGZDRLZm1wRmExeTBqekhwTHFxLXlhYk1Ebk92c1o0V21YVDUydF9mNkZCUHZmSTlrWjAzZ1BLNGpGTUVwNktHZ0JBWm1POWVBd0EyT1FmaXhDczhzZm9EVFQ0ZWNhbnBsdW9SLW4wUWNLMm1Zb002bW9YeW43RVpOUkl3ZHBhLURXNndQdnRDZVlVX1g4dHJFaF9RVk5VYVU3WkZKZTkwWkZrRUg1ZFdIdkRWenFDOEdWRks4OHQzZnhiUWQxTjhHcHQ2LUEtdVN4YWFURUZYcmlxWndFQjd5ODRQQmR0T3NzbWFBQUVIWEhvaHVabGc3NHZGMUU4MkZTekRGQm5SU0tFamdHMTRDbXlRNjFaZjFkUXdsdTNId2FjR0Eyc3V2bjZCWmhkZGMxRVlNTThEc1NseWttRU04dklNdmRKY3Z1Wnd4b1RTSk1MYS1PUGM0Yk1UdXNBb2VyamJiRTczYlpoNzJBaDBEeTktZXJJYW9kTEd3S1NTRTNkdUVyNUhSOElWY24wRUlNeXVCVjNVdW41MGhha1hFSWpIbjBuZmp3dVZBc0NQMDRmVzNBTFhod1ZBNUdIUjJrQk80cDI?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 17:03:55 GMT"
   }
  ],
  "initialized": true,
