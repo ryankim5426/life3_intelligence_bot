@@ -710,7 +710,11 @@
   "news:ecd3371bd22e214a": 1789542150,
   "news:d0bf60dcc0e666cc": 1789542150,
   "news:261fef00aaa5af32": 1789542150,
-  "news:087c6ce82073decf": 1789542150
+  "news:087c6ce82073decf": 1789542150,
+  "news:51fa39f3c2e78696": 1789543518,
+  "news:d2c4c30c9f0960cd": 1789543518,
+  "news:4b64f453bcd2b448": 1789543519,
+  "news:86d1c5dbf9b30218": 1789543519
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -830,7 +834,9 @@
   "[보험브리핑]삼성생명·동양생명·NH농협손보·카카오페이손보": 1789542150,
   "교보생명, 100% 자회사 라이프플래닛 품어…13년 독립경영 접는 이유": 1789542150,
   "교보생명, 라이프플래닛 통합해 디지털 경쟁력 강화...내년 4월 합병 목표": 1789542150,
-  "한화생명, 전국 영업현장 찾아 소비자보호 교육…완전판매 문화 정착": 1789542150
+  "한화생명, 전국 영업현장 찾아 소비자보호 교육…완전판매 문화 정착": 1789542150,
+  "삼성생명, 대학생들과 미래 기술 선보인 '데모데이' 개최": 1789543519,
+  "[보험 NOW] 농협손보·교보생명·한화생명·동양생명": 1789543519
  },
  "news_queue": [
   {
@@ -1232,6 +1238,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWmhLQXBSNExOSTNuOU0wcWs4WjJaSWQ4VDM3THhkSF9randHUnlESjlJWnR1VzdDN2NBQ2g4dm94cmV5LXlJR09aaUI3SUt3ZFNXblI3d21Ba3ZkLVNTR3p0UGQ?oc=5",
    "sort_key": "Wed, 16 Sep 2026 06:59:34 GMT"
+  },
+  {
+   "id": "news:4b64f453bcd2b448",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 대학생들과 미래 기술 선보인 '데모데이' 개최",
+   "source": "우먼타임스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcDNnOWNOREkxV2wybGE0cl91QzZKdnNoQXlUMzNINXFlbnp5STF4UXNDWnlLdGdDNG0ydzVVUFFkb0dEQ01nWjVEaW9qc0RYa0FXWmR0ZnE3VlRFWjVQaDJvazc1RjljeklDekNVQlnSAXRBVV95cUxQSUhkQm51Z2hJamM3Y3dVbDUwV3hMc0NxY3EzVTU2c0NJaktuQTF6Z0NGZ0phMXRTRlpHeDk0VTdoWTNhbXJPcVc0MEduTVlnMlBtZTh0RjQ4SXRxR0lYTHkzalZ2dk16XzFudE1tTlhpUXQxSg?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 00:44:15 GMT"
+  },
+  {
+   "id": "news:86d1c5dbf9b30218",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "[보험 NOW] 농협손보·교보생명·한화생명·동양생명",
+   "source": "위키리크스한국",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00clc4eHR3ZHo3RmstZGQ4VVU4YUVrdU53eTBvR3JNOGVZWFJTOUlRWHg2ZF9DTEsxMXo2WWxOUGhJc1pVeDQwRUtBa1VlczFyWTZYWTBsbHVaRFNPNmdnTFhUZWJXa3ZGcUhkNTBKeVI?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 07:01:47 GMT"
   }
  ],
  "initialized": true,
