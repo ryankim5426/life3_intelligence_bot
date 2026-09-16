@@ -699,7 +699,10 @@
   "news:68015a825e9bfd39": 1789534326,
   "news:507fc3662df1f426": 1789535670,
   "news:cee8b963d8138d22": 1789537849,
-  "news:9a318010007db89d": 1789537849
+  "news:9a318010007db89d": 1789537849,
+  "news:8d31089289ce2463": 1789539623,
+  "news:4aac573757bef809": 1789539623,
+  "news:467bfd425125e3da": 1789539623
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -810,7 +813,10 @@
   "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위": 1789527102,
   "[포토] 한화생명, 전국 순회 금융소비자 보호 교육 실시": 1789528516,
   "보험사 킥스 5개 분기 만에 하락⋯교보생명·DB손보 두자릿수↓": 1789528516,
-  "교보생명, 자회사 '라이프플래닛' 합병…기존 가입자에 어떤 영향?": 1789534326
+  "교보생명, 자회사 '라이프플래닛' 합병…기존 가입자에 어떤 영향?": 1789534326,
+  "[오늘Who] 교보생명 교보라플 품고 자본효율 높인다, 신창재 '종합금융그룹' 확장 속도": 1789539623,
+  "한화생명, 전국 29개 영업현장 찾는다…CCO 주관 ‘고객신뢰 플러스 데이’": 1789539623,
+  "“10년 뒤 삶 바꿀 기술 찾는다”…삼성생명, 대학생과 미래 솔루션 개발": 1789539623
  },
  "news_queue": [
   {
@@ -1122,6 +1128,36 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zTEhVendBTTJTQWljVHFjYm56ZzAyMXN4SXZVajFsZGNZQ180MFMtWWU1VmN4US1FVllJdFJrVEhfU1VzS2FDRTBoNW9sam9BU1J4VE8zbkxRdlU1a0pMQTU4elhFQ2M20gFrQVVfeXFMTjFtMHZURlNGZl9CMFFoVEJQazF4cWJlR09OTzl5VzgzVldMU0VELURUelFSWDRkRFp0TEVSVWpCbDdXVUNlclpseXNDNEpsWGJMV3pXZ1FqVnhZNFdDSHdEdUYzSkNad2NlQU0?oc=5",
    "sort_key": "Wed, 16 Sep 2026 03:56:03 GMT"
+  },
+  {
+   "id": "news:8d31089289ce2463",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[오늘Who] 교보생명 교보라플 품고 자본효율 높인다, 신창재 '종합금융그룹' 확장 속도",
+   "source": "비즈니스포스트",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrZFhEMU5sSHdySlVvZ0FPNE9RemNwSVo5ZFdtb19BTmJqci1jWmVZZ3dtRXhFUkFDSjBBX2tLUVRrVUxCbEp2TUt4Z0hFVG8ta0lyYm9vejgwU3h4SmxvZTd4OVNZNURRNDAtSDFQU1FlSnM?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 05:54:12 GMT"
+  },
+  {
+   "id": "news:4aac573757bef809",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 29개 영업현장 찾는다…CCO 주관 ‘고객신뢰 플러스 데이’",
+   "source": "intn.co.kr",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sYnZCNG5YUENzWFlMc2w5U181Q2laajN0OXB5azc5Q1REbGxzQUY2NnVVb25iUDh3MWtFR2xBcEEtSXVjZDMzVVNIRGYwMmVVTHdNNGlid0NLbER0Szg5T1FCcjRYeE1KV0E?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 05:54:58 GMT"
+  },
+  {
+   "id": "news:467bfd425125e3da",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“10년 뒤 삶 바꿀 기술 찾는다”…삼성생명, 대학생과 미래 솔루션 개발",
+   "source": "디지털데일리",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWnhYNFJWcWpqckp0djJoZDN2dzFXaFRUZkNScWpyNDAzNkQwbVlWakhOR0twcTJOUXVsMEExUU1VN0x5VVFBX3Y4SlA0cXZaRHd6WXctOWpVR0JSREt3VHdkeVk?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:06:40 GMT"
   }
  ],
  "initialized": true,
