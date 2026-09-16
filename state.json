@@ -740,7 +740,8 @@
   "news:3e9c78bd797dabc0": 1789565168,
   "news:1ce3c9e47870c22f": 1789568736,
   "news:b1fb6c938358788c": 1789569852,
-  "news:fc33bc705a604be3": 1789569853
+  "news:fc33bc705a604be3": 1789569853,
+  "news:b3aa4b895cb53ccd": 1789573381
  },
  "stories": {
   "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
@@ -875,7 +876,8 @@
   "교보생명·교보라플 13년 만에 통합…내년 4월 합병": 1789558413,
   "삼성생명, AI 인생 시뮬레이터·치매 기억 보조 서비스 등 선봬": 1789562488,
   "[포커스] 보험료 못내서 효력 정지?...삼성생명, 모바일로 계약 되살린다": 1789565168,
-  "한화생명, 전국 영업현장서 완전판매 강화": 1789569853
+  "한화생명, 전국 영업현장서 완전판매 강화": 1789569853,
+  "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴": 1789573381
  },
  "news_queue": [
   {
@@ -1447,6 +1449,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95Vk9XX05aQW1RSGxvYjVoemVXQ2Job2RZWFhybGxHUjNLY3RlZGFITXdOT3NhOXR0ZlNELWYxQVQyRjhGMUZXRHlLMnFHb0JDT1p3c1BXa3ViTnpxamZmaVNSYmRBWWtVS21ac3poMEs?oc=5",
    "sort_key": "Wed, 16 Sep 2026 14:27:16 GMT"
+  },
+  {
+   "id": "news:b3aa4b895cb53ccd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴",
+   "source": "시사캐스트",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96NENDcGNQa2Z2WEl2V2ZlRGI4MFFOWWw2Z3ZRNUtMR2tGWS1kMjV4bUtZT3U3VEprRXdZaWdTTldnd3VweDlQVC1xMWs5cE5UYlc1aUVSalh3T2Q4MmRTcHVxc3JkU096?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 09:26:39 GMT"
   }
  ],
  "initialized": true,
