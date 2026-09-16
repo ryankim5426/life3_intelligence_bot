@@ -724,7 +724,10 @@
   "news:fb9dcb541d88f31e": 1789548299,
   "news:7b4503c4b0cdbbd4": 1789548299,
   "news:dd2882c8568331a0": 1789548299,
-  "news:c3a1795fa0209990": 1789549110
+  "news:c3a1795fa0209990": 1789549110,
+  "news:3730ce2616ac3113": 1789551421,
+  "news:5d891de101fe4fb3": 1789551421,
+  "news:b9046ef9aa990b87": 1789551421
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -853,7 +856,10 @@
   "한화생명, 영업현장 직접 찾아 고객신뢰 강화… 전국 순회 교육": 1789548299,
   "교보생명, 라이프플래닛 흡수...금융지주 전환 앞두고 '군살빼기'": 1789548299,
   "[보험사 풍향계] 삼성생명, 대학생 아이디어 모은다 外": 1789548299,
-  "한화생명, K-ICS 167%로 개선…생보 평균과 39.8%p 격차": 1789549110
+  "한화생명, K-ICS 167%로 개선…생보 평균과 39.8%p 격차": 1789549110,
+  "한화생명보험, 4대 생보사중 K-ICS비율 최저": 1789551421,
+  "적자 극복 못한 교보라플…결국 '母교보생명' 품에": 1789551421,
+  "교보생명, 클래식 이어 국악 공연…우수고객 문화 프로그램 확대": 1789551421
  },
  "news_queue": [
   {
@@ -1345,6 +1351,36 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93VlUyOHczNFA3OC1Demt1SmFTTWx0dzRIX3FuUzY1YmZDMUZVQnlpUVZRMENKZjItOFdDNnJ5bVBZemNxanlRdy1RdHZfd1g4bVc5cFR2cUZ3Z0ZSd3NXQmlsWWU?oc=5",
    "sort_key": "Wed, 16 Sep 2026 07:29:00 GMT"
+  },
+  {
+   "id": "news:3730ce2616ac3113",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명보험, 4대 생보사중 K-ICS비율 최저",
+   "source": "중기이코노미",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Xb1kzT1Nxb1cwb29XRmgxUGJORkdSMldlVUdja09jWXJOTEhURTdaci10cmMyWENhNHZ0Q0oxbVBCYXp2WlBBdHZZN2pwYWFxZ3B2SThZVzdHdlFfR0dWaDVyeXR3c3I3d2c?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 07:23:36 GMT"
+  },
+  {
+   "id": "news:5d891de101fe4fb3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "적자 극복 못한 교보라플…결국 '母교보생명' 품에",
+   "source": "뉴스드림",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OWFrZ25TZ2txWUZDc1RjaTBFdV9QUThDQmVaMmZ5bWZMYU41UE9qM0FUdlNUR0hMeVRsUFM0WjhqOEN4ZXplLXNQR2Vvc1V3aUxWcy1TQThBS1BYUGE3SWVHREJDQnlSekJzbDNR0gFuQVVfeXFMT3U5YWtnblNna3FZRkNzVGNpMEV1X1BROENCZVoyZnltZkxhTjVQT2ozQVR2U1RHSEx5VGxQUzRaOGo4Q3hlemUtc1BHZW9zVXdpTFZzLVNBOEFLUFhQYTdJZUdEQkNCeVJ6QnNsM1E?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:15:35 GMT"
+  },
+  {
+   "id": "news:b9046ef9aa990b87",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 클래식 이어 국악 공연…우수고객 문화 프로그램 확대",
+   "source": "시사캐스트",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IY3NfODJjSUJRekVQTmRSNXk1RVk4N2F6RlFLTmhxY19FUVJZM2lNZEZaMzZDNXVjUjNvNWtZeFVaMlNEdVl4dFR0RThrU0x0VHJ5Z0EwRDJSTnhjci02MjhycW5IQ0R5?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 09:26:43 GMT"
   }
  ],
  "initialized": true,
