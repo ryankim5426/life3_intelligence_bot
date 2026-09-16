@@ -689,7 +689,9 @@
   "news:d930964a694bfc01": 1789527102,
   "news:d9665769dfec3350": 1789527102,
   "news:63c483d58141e7c3": 1789527102,
-  "news:4dabd753349f381f": 1789527102
+  "news:4dabd753349f381f": 1789527102,
+  "news:03f472a7cf3a1499": 1789528516,
+  "news:d213cc485b65716d": 1789528516
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -799,7 +801,9 @@
   "“보험 10년 뒤 미리 본다”… 삼성생명, 5개 대학과 ‘미래 빅테크’ 전격 공개": 1789527102,
   "[지속가능경영이 글로벌 경쟁력-한화생명] 지속가능경영 체계 다지기…환경·사회·투명경영 관리 내실화": 1789527102,
   "13년간 흑자 '제로' 라이프플래닛, 결국 교보생명 사업부로 편입": 1789527102,
-  "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위": 1789527102
+  "[8월 생보사 GA M/S] 교보생명 1·2위 모두 바뀌었다…스타리치 5위→1위, 메가 13위→2위": 1789527102,
+  "[포토] 한화생명, 전국 순회 금융소비자 보호 교육 실시": 1789528516,
+  "보험사 킥스 5개 분기 만에 하락⋯교보생명·DB손보 두자릿수↓": 1789528516
  },
  "news_queue": [
   {
@@ -1081,6 +1085,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DUVFscWZPd1hUeTJPTml4STVOa2FYMjBHVm9BMjIzRUdoUVhFdzVMQ1AtVi1WdnFQMjNhVVB2ZDlZN0NYel80ZHVvM21nUWUzQ05meUFtZC1uQkc2WDRjU1BPRUp4Ym1WVjExWUFuRQ?oc=5",
    "sort_key": "Wed, 16 Sep 2026 02:36:55 GMT"
+  },
+  {
+   "id": "news:03f472a7cf3a1499",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[포토] 한화생명, 전국 순회 금융소비자 보호 교육 실시",
+   "source": "fetv.co.kr",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUVpPd3g1OU0yZFpvcHhjdFlFZ0VfanRfSm5oRkVYUEEtZlJvcDVraWktZkx6ajlpODVEeGVSLXdQbzl6VWhmdmdIR3RDY0IyODVZNTdUUG9UWHVWeHNocE1Gc1ppWDli?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 02:42:52 GMT"
+  },
+  {
+   "id": "news:d213cc485b65716d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "보험사 킥스 5개 분기 만에 하락⋯교보생명·DB손보 두자릿수↓",
+   "source": "inews24.com",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnNjdKTGRROGlBSHlUaVNLdmJJUEJmNWVYSER1amdOamdRZmc1UHZzeFl0WFJZUFFPdHRESGF3MUh6a3FWVnpoQXd0RQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 03:00:01 GMT"
   }
  ],
  "initialized": true,
