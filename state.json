@@ -672,7 +672,9 @@
   "news:b8c7cc941469cdc1": 1789522910,
   "news:a8a8c3867c3eb894": 1789522910,
   "news:f7fc304bcd0756b4": 1789522910,
-  "news:4bf732fb52127da2": 1789522910
+  "news:4bf732fb52127da2": 1789522910,
+  "news:9669ee6032d6a4a8": 1789523901,
+  "news:871e125523299915": 1789523901
  },
  "stories": {
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
@@ -771,7 +773,9 @@
   "삼성생명, 대학생 39개팀과 10년 뒤 미래기술 개발…3개팀 대상": 1789522910,
   "더 나은 삶 고민한 대학생들…삼성생명 라이프놀로지 랩서 기량 겨뤘다 - 머니투데이": 1789522910,
   "한화생명, 전국 영업현장 직접 찾아가는 플러스 데이 운영": 1789522910,
-  "한화생명, 전국 누비며 소비자보호 강화…'영업현장 고객신뢰 PLUS 데이' 운영": 1789522910
+  "한화생명, 전국 누비며 소비자보호 강화…'영업현장 고객신뢰 PLUS 데이' 운영": 1789522910,
+  "삼성생명, IT분야 대학생 산학협력…데모데이 개최": 1789523901,
+  "한화생명, 전국 29개 영업현장 순회…소비자보호 강화": 1789523901
  },
  "news_queue": [
   {
@@ -943,6 +947,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SVDh3WVptUUg1ellQSzB4RHNTWUZLbTNkck9UYklHWGR2WG9zd0t2NkJueW1TZFgzN1JDT0dVN0ZQeEtCM1FjTk5aa0g2aG53Nl9Fa3JFRGdvNWhlSVNTVlZueHozQQ?oc=5",
    "sort_key": "Wed, 16 Sep 2026 01:36:57 GMT"
+  },
+  {
+   "id": "news:9669ee6032d6a4a8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, IT분야 대학생 산학협력…데모데이 개최",
+   "source": "SBS Biz",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42Xy1GVHd5TUw1a19xcnNsdkpDOHdiNmR4MVA1WXFNQWp6LXVLbGItTXNhVXNzUktnWjNkR01tMzE5dFJlelF4c3lGM3R6TFdrX3hF0gFYQVVfeXFMTWJSTTVncWo0c2cyZm5yQ3Z5S0VKUG9rdFZJZ3Nmc0RkMGtIenNHRGdMel9LNFg0TGZ2Y1lPanlwUlFPSlA4MFB6QlU5SlRCZzdUcmMtSmN2SQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 00:47:00 GMT"
+  },
+  {
+   "id": "news:871e125523299915",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 29개 영업현장 순회…소비자보호 강화",
+   "source": "뉴스핌",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uRzEweHhnbHFBYzlYajU2Mk1tLVlqUlZWQS1CZ0M5Zi00VTE1T0RzR0JFUE0zaDY2aktDZFlsOHQweU5pdTJfcmJvR1ZhNWFMLVUtMlIzU25zNzYw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 01:53:00 GMT"
   }
  ],
  "initialized": true,
