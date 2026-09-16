@@ -706,7 +706,11 @@
   "news:e5f917f0c1d0fde3": 1789541318,
   "news:8080037142321a82": 1789541318,
   "news:ad6136a79d4f3988": 1789541318,
-  "dart:20260916000359": 1789541319
+  "dart:20260916000359": 1789541319,
+  "news:ecd3371bd22e214a": 1789542150,
+  "news:d0bf60dcc0e666cc": 1789542150,
+  "news:261fef00aaa5af32": 1789542150,
+  "news:087c6ce82073decf": 1789542150
  },
  "stories": {
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -822,7 +826,11 @@
   "한화생명, 전국 29개 영업현장 찾는다…CCO 주관 ‘고객신뢰 플러스 데이’": 1789539623,
   "“10년 뒤 삶 바꿀 기술 찾는다”…삼성생명, 대학생과 미래 솔루션 개발": 1789539623,
   "“불통 영업 끝낸다”… 한화생명 CCO, 전국 29개 현장 뛴다": 1789541318,
-  "[오늘의 보험] 삼성생명·교보생명": 1789541318
+  "[오늘의 보험] 삼성생명·교보생명": 1789541318,
+  "[보험브리핑]삼성생명·동양생명·NH농협손보·카카오페이손보": 1789542150,
+  "교보생명, 100% 자회사 라이프플래닛 품어…13년 독립경영 접는 이유": 1789542150,
+  "교보생명, 라이프플래닛 통합해 디지털 경쟁력 강화...내년 4월 합병 목표": 1789542150,
+  "한화생명, 전국 영업현장 찾아 소비자보호 교육…완전판매 문화 정착": 1789542150
  },
  "news_queue": [
   {
@@ -1184,6 +1192,46 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HYWxjWHZ0NXkzWllDT2FSZlB4UEZQVlBXMUl4WENIMzRlZnpXd1loTnh3NmY4NmszSDQ2bUVZSmk1TUFkMGVHQ2tjZVFtbzNsS1BfeFVhWVFNRlJERTJXMHNMSlZBa1pDb1d6SXdSckkzb2cw?oc=5",
    "sort_key": "Wed, 16 Sep 2026 06:28:20 GMT"
+  },
+  {
+   "id": "news:ecd3371bd22e214a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험브리핑]삼성생명·동양생명·NH농협손보·카카오페이손보",
+   "source": "메트로신문",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMTA0SERRZHRZbEw4Q21kX3RtR3FKUHlHY0VhX1FXY3Z4MXhWUEhoREQ2by00RGhmSW9CSk11dXhWNTNIamdKaGlsTnBqekd4STFNWUF4Q0NBSkN4T2I4Tw?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:18:24 GMT"
+  },
+  {
+   "id": "news:d0bf60dcc0e666cc",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 100% 자회사 라이프플래닛 품어…13년 독립경영 접는 이유",
+   "source": "블로터",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3OGV2d3RMQll0dV9fMU51aDNkTHNPUEszTEJBbzM0TlFoU1dCc180cGtNQUd2ck1xVTU5cDNtXzZrUTVhMzNpa1d1RmdFMFJsYW1FbklHQ0MtS01uWm1iMjhhUGdoQ0Jr0gFsQVVfeXFMTVpjVE1Ka2NmUHNDVlVPY0Y0blFOLWNNWnMxdXVYMktoS1BiZFl2VDVZNHJkX2ZIbzBQS0JPUGEwYmZLenZIVEZFTEIwemV0ZGctOElJOFRxUUVVc0FlWGpYUjBuWGZNMXQzRTkx?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:32:50 GMT"
+  },
+  {
+   "id": "news:261fef00aaa5af32",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 라이프플래닛 통합해 디지털 경쟁력 강화...내년 4월 합병 목표",
+   "source": "녹색경제신문",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85c0ZEOUk2R0VtdzhGRjd5N3JBWWVHbjhvZXFJYVlfejBRNXEtRUVZY2ZJclVpTDU2NURWQ3N1R1p0Wnpjd2hEU1dOcHBMTWhGNnNSR0FjSVJ3M0lkOG0xWHRfcGdnbHhD?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:49:56 GMT"
+  },
+  {
+   "id": "news:087c6ce82073decf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 전국 영업현장 찾아 소비자보호 교육…완전판매 문화 정착",
+   "source": "PRESS9",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWmhLQXBSNExOSTNuOU0wcWs4WjJaSWQ4VDM3THhkSF9randHUnlESjlJWnR1VzdDN2NBQ2g4dm94cmV5LXlJR09aaUI3SUt3ZFNXblI3d21Ba3ZkLVNTR3p0UGQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 06:59:34 GMT"
   }
  ],
  "initialized": true,
