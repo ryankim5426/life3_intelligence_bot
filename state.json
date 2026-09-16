@@ -734,7 +734,8 @@
   "news:2e33d4408b4c3788": 1789553768,
   "news:c7bb817759494841": 1789555886,
   "news:b61c2ec6e96369aa": 1789555886,
-  "news:88f211b788fd52df": 1789558413
+  "news:88f211b788fd52df": 1789558413,
+  "news:64cdf500c3289b28": 1789562488
  },
  "stories": {
   "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
@@ -866,7 +867,8 @@
   "적자 극복 못한 교보라플…결국 '母교보생명' 품에": 1789551421,
   "교보생명, 클래식 이어 국악 공연…우수고객 문화 프로그램 확대": 1789551421,
   "교보생명, 13년 만에 '라이프플래닛' 접는다...3650억 붓고도 적자": 1789553768,
-  "교보생명·교보라플 13년 만에 통합…내년 4월 합병": 1789558413
+  "교보생명·교보라플 13년 만에 통합…내년 4월 합병": 1789558413,
+  "삼성생명, AI 인생 시뮬레이터·치매 기억 보조 서비스 등 선봬": 1789562488
  },
  "news_queue": [
   {
@@ -1408,6 +1410,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qU0s5MnR2bExDMEFBMl9uakdqTTh0U1p5WHVmbjBWVHExNkZtS1V5Q3pZbDIwTzVTVmRXUjNGeDh0d3JJcWoyc3ZzdU5Lc3pxQVlwV21uQ2VPYl9wVzJRY0w1SGRQbkN4Y2liVg?oc=5",
    "sort_key": "Wed, 16 Sep 2026 05:49:19 GMT"
+  },
+  {
+   "id": "news:64cdf500c3289b28",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, AI 인생 시뮬레이터·치매 기억 보조 서비스 등 선봬",
+   "source": "시사캐스트",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zS1BISzF6Rmw5NEJLN3ZPZzZVdkl5TGcyVzFVSlRGUmtMbExsQ2FPcnZzWHhOQ2NFQ1FNeXFHMEYtOWthSEpKNFUwVHlGY3E2QkF5dmdUSEQwZTU2aUJNa1pJSHJ6eXVG?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 12:28:07 GMT"
   }
  ],
  "initialized": true,
