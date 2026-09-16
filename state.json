@@ -745,10 +745,11 @@
   "news:9371b20e5961c440": 1789577928,
   "news:867ec7f42952d2ec": 1789577928,
   "news:797b6183ad47a2d8": 1789584464,
-  "news:419d9aed1ecbfc12": 1789590273
+  "news:419d9aed1ecbfc12": 1789590273,
+  "news:78ebe31ca48834ba": 1789597377,
+  "news:1f6646b48eaa9578": 1789597378
  },
  "stories": {
-  "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
   "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799,
   "삼성생명, 연체 해지 계약 ‘모바일 부활 시스템’ 개설": 1789345363,
   "삼성생명, 스마트폰으로 연체 해지보험 ‘부활’": 1789345363,
@@ -883,7 +884,8 @@
   "한화생명, 전국 영업현장서 완전판매 강화": 1789569853,
   "한화생명, 영업현장서 금융소비자보호 교육·현장 의견 수렴": 1789573381,
   "15일 서울 서초동 소재 삼성금융캠퍼스에서 개최된 라이프놀로지 랩 데모데이에서 삼성생명 관계자 및 참가자들이 기념촬영을 하고 있다.(사진=삼성생명)": 1789584464,
-  "아카마이, 삼성생명에 ‘가디코어 마이크로세그멘테이션’ 구축": 1789590273
+  "아카마이, 삼성생명에 ‘가디코어 마이크로세그멘테이션’ 구축": 1789590273,
+  "예보, 남은 공적자금 회수 앞두고… 서울보증·한화생명 매각 '장고'": 1789597378
  },
  "news_queue": [
   {
@@ -1485,6 +1487,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xQklqakFVOHhPdkRld1R0QmJsRDJqUG5PMS1ad0xBdjhacEsyYVQ1RmQ4SjlMQXg0Y3U2R3dLNUVZb3lVUTd3MjJNU2R3YmdITjU4bUd3RnlvRG8zYzZXMGpkZk9jQ2Ex?oc=5",
    "sort_key": "Wed, 16 Sep 2026 18:34:43 GMT"
+  },
+  {
+   "id": "news:1f6646b48eaa9578",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "예보, 남은 공적자금 회수 앞두고… 서울보증·한화생명 매각 '장고'",
+   "source": "IT조선",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EODBpM0N6Qnd1MXMtTnN2WTIxQTBDdnQzcmJPaDJBeG9pZ3Q2Ui1BS3hTeFJwX0M0My1Uc21nQnJyVnF1TjRhcHk2TjRvZUxDc1FsdEk1d2VFUEZnOTluTlJpUXRiZDBaRDNrZFBTLU3SAXRBVV95cUxOcDgxTG1seU5iVnV3R04wU3RoUklLWG1ibkpBc0R5TFdfRWFOdllYS3JiRUF6SmZ2NHZjcmR0aHlndEh0b0J2TE1KMHl5VjBYVzl6QTBacFJqV3gwbEhJMWdHNk1XT1d5ekozUE51c0tnTHFsaA?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
