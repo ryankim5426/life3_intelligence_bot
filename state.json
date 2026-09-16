@@ -728,10 +728,12 @@
   "news:3730ce2616ac3113": 1789551421,
   "news:5d891de101fe4fb3": 1789551421,
   "news:b9046ef9aa990b87": 1789551421,
-  "news:349e8690a1c633f1": 1789552378
+  "news:349e8690a1c633f1": 1789552378,
+  "news:45b5c293bf1593a7": 1789553768,
+  "news:140dfaf999aa57c1": 1789553768,
+  "news:2e33d4408b4c3788": 1789553768
  },
  "stories": {
-  "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
   "'준우승' 한화생명 윤성영 감독 \"소통 갈리면서 선수들이 따로 움직였다\"…월즈 앞두고 보완 다짐": 1789295199,
   "금리·제도 개선 기대에 보험주 16% 들썩…한화생명·한화손보 40%대 급등": 1789337858,
   "삼성생명 “연체 후 해지된 보험, 모바일로 되살려요”": 1789342799,
@@ -860,7 +862,8 @@
   "한화생명, K-ICS 167%로 개선…생보 평균과 39.8%p 격차": 1789549110,
   "한화생명보험, 4대 생보사중 K-ICS비율 최저": 1789551421,
   "적자 극복 못한 교보라플…결국 '母교보생명' 품에": 1789551421,
-  "교보생명, 클래식 이어 국악 공연…우수고객 문화 프로그램 확대": 1789551421
+  "교보생명, 클래식 이어 국악 공연…우수고객 문화 프로그램 확대": 1789551421,
+  "교보생명, 13년 만에 '라이프플래닛' 접는다...3650억 붓고도 적자": 1789553768
  },
  "news_queue": [
   {
@@ -1382,6 +1385,16 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IY3NfODJjSUJRekVQTmRSNXk1RVk4N2F6RlFLTmhxY19FUVJZM2lNZEZaMzZDNXVjUjNvNWtZeFVaMlNEdVl4dFR0RThrU0x0VHJ5Z0EwRDJSTnhjci02MjhycW5IQ0R5?oc=5",
    "sort_key": "Wed, 16 Sep 2026 09:26:43 GMT"
+  },
+  {
+   "id": "news:2e33d4408b4c3788",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 13년 만에 '라이프플래닛' 접는다...3650억 붓고도 적자",
+   "source": "인사이트코리아",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2QzdKVjFBUXpQY1cwMWdOUjFWdjFGTXlQaXRzYTdxQlp6SEU3YkRYNWFObDhFQkNQMU5mQV9kVERyVExjUVVzUzRpOHFMTnI1LUQyMWVvVWpZTWRnT2pvX19GV0ZlSHpVZTlJYVdscWNWVDTSAXdBVV95cUxQSkxDRmRVUlJhSVF0QWhjbDF5VGFNVnpjZG1XZWJ5V0JFODk3bU9hb0dQc2dYcHBmUHAzMnNDMWVYdmkybFJkZnZwVGVVMWtmUXFKbklLaHVzUnpIdGlUY0c3SkI4Tm90R3lCN3dhR1RiYU81eWVaNA?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 07:34:18 GMT"
   }
  ],
  "initialized": true,
