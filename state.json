@@ -655,10 +655,12 @@
   "news:e08f96a7de7d42ad": 1789516086,
   "news:f063a811002141e3": 1789516826,
   "news:456faa3cc74914c0": 1789516826,
-  "news:d7cab16491230e6e": 1789518606
+  "news:d7cab16491230e6e": 1789518606,
+  "news:387b4d65effc2a9e": 1789519808,
+  "news:fa575bc80f2cbcdb": 1789519808,
+  "news:73cf43212aa890c4": 1789519808
  },
  "stories": {
-  "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’": 1789260404,
   "교보생명 ‘꿈도깨비’, 사회공헌 대표모델 부상": 1789269499,
   "한화생명금융서비스, 자동차보험 견적 오차 잡는다…비교견적 기술 특허": 1789273410,
   "한화생명 옴므 감독...\"유리할 때 소통 아쉬워, 월즈 우승하려면 보완 해야\"": 1789293651,
@@ -742,7 +744,9 @@
   "\"저부터 먼저...모든 선수들이 내가 해야겠다는 마음 가져야 한다\" 삼성생명 NEW 캡틴 김아름이 강조한 부분은?": 1789516086,
   "삼성생명, '라이프놀로지 랩 데모데이' 개최": 1789516086,
   "삼성생명, 대학생들과 보험 넘어 미래기술 찾는다": 1789516826,
-  "삼성생명, 대학생 개발 미래기술 솔루션 공개": 1789518606
+  "삼성생명, 대학생 개발 미래기술 솔루션 공개": 1789518606,
+  "삼성생명, 5개 대학과 미래기술 발굴…'라이프놀로지 랩' 결과물 공개": 1789519808,
+  "13년 무수익의 침몰…교보생명 ‘디지털 혁신 실험’ 이대로 멈추나?": 1789519808
  },
  "news_queue": [
   {
@@ -784,6 +788,26 @@
    "date": "Tue, 15 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pV2VsWTdCZmQxZ3pDU2dGbTNuRXhlVnR0RHdhWDFneE85aVhZTVV4dUpzNk9peGFsdkxWNXdkMzFaaTRWbWF2Tl9JVjZZWldQZ0tWMDdSckRCU2JuNUt0NjlIbVBCM084UHF6VEtGZ9IBckFVX3lxTE5sVVQwWjd3Vkg3ZnZkMkxaQTZ2dlo3OW40TFJMa0VZdmEtUzlpQkxYQmxwY3JmYlU3UzgxMUhicllVemU1SUxBaHZlZmdaZjgzcXB2aExUUXpnbHdwNmhLUmk1QnhYQnVBeG1iQXJ3dzJXQQ?oc=5",
    "sort_key": "Tue, 15 Sep 2026 23:56:34 GMT"
+  },
+  {
+   "id": "news:fa575bc80f2cbcdb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 5개 대학과 미래기술 발굴…'라이프놀로지 랩' 결과물 공개",
+   "source": "컨슈머타임스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tOVZwdGhJRmdGaEFaYWNaVkktUy1QZ01NQWVfd2J2UWJ5WGUzQVBQM0x1MGIwckRZSEhZdnFTR19GVmZSQ0hKVXJEZ091THJGeXB0N0d0NldBeW1LeHZUSlpkTWJzUXRXSEE?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 00:32:07 GMT"
+  },
+  {
+   "id": "news:73cf43212aa890c4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "13년 무수익의 침몰…교보생명 ‘디지털 혁신 실험’ 이대로 멈추나?",
+   "source": "뉴스웍스",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQjFQZW1kUmtQZzk3UEYxOWpsaFB2UE94T1VUdURxVW1LTTRrQnhoRlUwMEN3QWMwdG02cUNWMlZZX283TnBKVGM5d2hIcEt4cmV3YUdMTjJ2UEpjMEpwRVZJQmxfbWk2MXdSdU91ONIBc0FVX3lxTFBNTlZ2VWd3RkFvblJvbGJIWGYtajAyUmVTZ0laTjJsb0pjdENDaEdqM0ZwSk96a2dwdTBHdVJZcllGZnRHSHdpbU50bUpJWm1iLW1rdUluWmRfeG1BOWEyY3hRbjNVSklGRFpwdm1WOHNjU0E?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 00:37:14 GMT"
   }
  ],
  "initialized": true,
