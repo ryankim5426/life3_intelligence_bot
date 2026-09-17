@@ -815,7 +815,9 @@
   "news:13696985ea865f4d": 1789633290,
   "news:e9f8a901ae94328e": 1789633291,
   "news:607c141921f6efb3": 1789633291,
-  "news:b45fccbbcea5bc6e": 1789634582
+  "news:b45fccbbcea5bc6e": 1789634582,
+  "news:d15886c6462c3f1a": 1789636825,
+  "news:7df1cbb391e76a39": 1789636825
  },
  "stories": {
   "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194,
@@ -968,7 +970,9 @@
   "주요 GA 8월 실적, 전월比 1.9%↓…한화생명금융서비스 101억·인카금융서비스 설계사 증가폭 최대·사랑모아금융서비스 생산성 1위": 1789631897,
   "교보생명, SBI그룹과 스테이블코인 실증 완료": 1789633291,
   "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개": 1789633291,
-  "[금융계 동향] 한화생명·신한라이프·삼성생명": 1789634582
+  "[금융계 동향] 한화생명·신한라이프·삼성생명": 1789634582,
+  "日 SBI·교보생명, 엔화·원화 스테이블코인 송금 검증...\"달러 패싱 직거래\"": 1789636825,
+  "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색": 1789636825
  },
  "news_queue": [
   {
@@ -1350,6 +1354,26 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tREE1djBEWjRwSGFvWWQ5ZDF6M083TW1QdzZCbjhfcUpmYXEtTlVJNU8wMG13Zy1HeVJUYlQwalpRb2RMRVM5YU1fOEJ1UnBXWEh5NDFyeGpxZUo3NWlXcnB5bFE1dE3SAWtBVV95cUxPSTIwOE9oM1NiS1gzOW0wYm1EQlNmQkJxa1paTUpfeV9aYW5xY2xsTXZ1ekowNVl6RmhfbjlzSGpmMWxQTzlFdDgxanpfYmp0Q09FNGVJTURZekNjMTl6WHJuMGE4bG1SRVhlYw?oc=5",
    "sort_key": "Thu, 17 Sep 2026 08:08:46 GMT"
+  },
+  {
+   "id": "news:d15886c6462c3f1a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "日 SBI·교보생명, 엔화·원화 스테이블코인 송금 검증...\"달러 패싱 직거래\"",
+   "source": "코인리더스",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmRTBtR0JkNnM0YjRhUGdwUUxBTDZFd2tNcGZyWU54ck16QkkzeHJGbnBDOXJhT2VrR25ubkJpa2VrYXdJdWlKY2Rn?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 09:00:00 GMT"
+  },
+  {
+   "id": "news:7df1cbb391e76a39",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색",
+   "source": "시사캐스트",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWkticlZLWk5ZZ1FRSVpCN0dzeHZoY0tacW1BeVhaMllhdjI5NjlWWE9OWDRSdjBYQmpXY09xdGl5bFhSTXVIUnQxSHlHOTFDRTB3SW1leTYzclRzbDlFNUhDX1U2emhl?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 09:00:58 GMT"
   }
  ],
  "initialized": true,
