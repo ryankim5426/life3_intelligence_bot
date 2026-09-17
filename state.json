@@ -785,7 +785,9 @@
   "news:b9cbdf739717e472": 1789618571,
   "news:6c4b01a357870d24": 1789618571,
   "news:9330b058b81812fc": 1789619657,
-  "news:94c7a54c3aca0486": 1789620698
+  "news:94c7a54c3aca0486": 1789620698,
+  "news:e3bed42d313589d9": 1789622094,
+  "news:ec94c5ea0f4ba89d": 1789622094
  },
  "stories": {
   "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169,
@@ -931,7 +933,8 @@
   "[초점] IBK 빠지고 한화생명 진입…강남 에이프로스퀘어 차환 '미스터리'": 1789612613,
   "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581,
   "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축": 1789619657,
-  "[금융계 동향] 교보생명·KB국민은행·우리금융그룹": 1789620698
+  "[금융계 동향] 교보생명·KB국민은행·우리금융그룹": 1789620698,
+  "신창재 디지털 전략 새판…교보라플 23만 고객 교보생명과 묶는다": 1789622094
  },
  "news_queue": [
   {
@@ -1173,6 +1176,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbFd6QWpzY25oTzZndkpZbHpFRWlSUjJ0b25PcG9wRzNKZTVMRUdpeHRFd1NBelRfZXhTVGRmTmYtY1hQVU92TThUdkpzbjEtM3M0ODVmREZZdUYwR1lRMnY5LUJQM3PSAWtBVV95cUxON2xpSEJxTVZWNjZlbjVTRlVlbDFCeUt2TGc4NWR1al9FX0tzR3F5WnRCb1JCdmwtYVpZN1F4bk5aTEo3cGxqNzhqaTE4ekl5N0lPdThJcEk1VkhLMzJSczlfT0puVUFka1ZRQQ?oc=5",
    "sort_key": "Thu, 17 Sep 2026 04:27:05 GMT"
+  },
+  {
+   "id": "news:ec94c5ea0f4ba89d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "신창재 디지털 전략 새판…교보라플 23만 고객 교보생명과 묶는다",
+   "source": "파이낸셜포스트",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KV0FzcHlzdzdUaDhRQ0JyVXkwZndITGZPWWptVjZTRGZZT3hDNWo5eFhDR1ZRamFEOFV0bWJiV1RxS2gtMXBkTTIxUXhkM3VMdGdUVVNELVJMMlRXWmF0Q1FlYzJ1UTg0X2E0bEh5dGcwLTBu?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 04:58:26 GMT"
   }
  ],
  "initialized": true,
