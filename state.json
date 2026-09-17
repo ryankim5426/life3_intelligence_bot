@@ -772,11 +772,12 @@
   "news:49548e865faabb8c": 1789609365,
   "news:96dde020ee3ff191": 1789609365,
   "news:4dbb002d301c61fa": 1789610354,
-  "news:e16bc19a0bc69be1": 1789610354
+  "news:e16bc19a0bc69be1": 1789610354,
+  "news:33cd86265d5843be": 1789611590,
+  "news:301d47e8c11ade82": 1789611590,
+  "news:1f1541dd0b60ac4b": 1789611590
  },
  "stories": {
-  "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
-  "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
   "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
   "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
   "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738,
@@ -919,7 +920,8 @@
   "삼성생명, 보험업계 첫 '고객의 소리 백서' 공개…소비자보호 성과 담아": 1789609365,
   "교보생명, 보험 넘어 금융·디지털로 외연 확장": 1789609365,
   "교보생명, 한일 기관자금 '달러 우회' 길 열었다": 1789610354,
-  "美 금리 인상에 보험주 강세…한화생명·DB손보 5%↑[핫종목]": 1789610354
+  "美 금리 인상에 보험주 강세…한화생명·DB손보 5%↑[핫종목]": 1789610354,
+  "[이슈] 교보생명, 왜 달러를 건너뛰었나...韓·日 '토큰 자금이전' 실증": 1789611590
  },
  "news_queue": [
   {
@@ -1101,6 +1103,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUHZGbEJSSmRXSHI2dFQxMnE0UUhwMUt1czdTTGszX3hIOHZ1a3Nnc19mVU4xdEtVQ3o0UkdtZldqWlpZek1XeXFEWnNuN2F5QnYySVdCRGkwc2RzUzhJ0gFkQVVfeXFMTVAxLU5MSnRQTzFTem02T3BwYmVpaXM2VEE0VjViMzhSVUw2Wk5paVpwdElRZDE1cld2ODIzemIxZ1BZbUZiUmhrSzdKbmhULXlUbG0tRFlkSmdsd0x5bTBEZGdETw?oc=5",
    "sort_key": "Thu, 17 Sep 2026 01:47:40 GMT"
+  },
+  {
+   "id": "news:1f1541dd0b60ac4b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[이슈] 교보생명, 왜 달러를 건너뛰었나...韓·日 '토큰 자금이전' 실증",
+   "source": "오늘경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHMWFrX2xjRXEwWVc4RktIeDV5SE1GNGZWOUdXV2loZXo5WEhNVEloVkhwb0liMGVDSWppYnBlSXkzbjFISkNQZzRJRnNWZ0x5bzkwNENrSmxScFJzRkZUUDZrb1JMSk9pandSSWNOZjZwb0k?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 02:02:08 GMT"
   }
  ],
  "initialized": true,
