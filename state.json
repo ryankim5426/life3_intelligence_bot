@@ -829,10 +829,11 @@
   "news:a8f5ff94ea354937": 1789658434,
   "news:42556f8d95c52af6": 1789658434,
   "news:8b5953190b16c88d": 1789669630,
-  "news:330d32ec882dde7d": 1789672914
+  "news:330d32ec882dde7d": 1789672914,
+  "news:f1e59d29078b5111": 1789676369,
+  "news:d2da4a2124608b44": 1789676369
  },
  "stories": {
-  "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218,
   "교보생명 지주전환 늦추나… 세법 개정에 시간 벌수도": 1789421721,
   "보험사도 '생산적 금융' 체제로…한화생명 미래산업 투자·메리츠화재 전담조직 가동": 1789432012,
   "교보생명 대산신용호기념사업회, '제21회 대산보험대상' 후보자 공모": 1789434256,
@@ -986,7 +987,8 @@
   "교보생명, 라이프플래닛 흡수…출범 13년 만에 독립법인 마침표 : 네이버 블로그": 1789652624,
   "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다": 1789654922,
   "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도": 1789657163,
-  "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'": 1789672914
+  "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'": 1789672914,
+  "삼성생명 투자분석 2026. 09. 17": 1789676369
  },
  "news_queue": [
   {
@@ -1438,6 +1440,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93V2h5emJfOHZnMTlwbzU3NlYzVUtfdzZzcWUxV21xX0RiOEJ0czdpczB6ZHcxTEJxb2Q5Q2ViZWFqOFpVdHNoUGNrN1EyYnh5Tm5CQW9YT1VfR015ZVh6WG0xdkV6dGQtaDZUa1laQXbSAXNBVV95cUxNWFBhSkdCSG5qdmZMZENleVFaZV8xdmhMUlpWSDNCTEdXWkwxSWRoY1dWYVlUV3gxenBSX21BaHpjSTJjbGRNZ2REWGVMMm5tY2dHdUtSTVdNMnFrbmtEUEgzdjRROHg5cDR4emFJaXltTEZN?oc=5",
    "sort_key": "Thu, 17 Sep 2026 07:25:10 GMT"
+  },
+  {
+   "id": "news:d2da4a2124608b44",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 투자분석 2026. 09. 17",
+   "source": "주달",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ba01OZWRwMkFMYjhXNHFrRWwycWVaOE5ETS1YbVV4R1lVbUFweUZYT2VDT3cyVGFYc3NMNTkteW9jRExZZWhUUFZldWF5ekM1WDI2ekVBVm5rODdQVlV4dGlVVG40WDNqa0pSQ3YzcURZRXc?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 11:01:05 GMT"
   }
  ],
  "initialized": true,
