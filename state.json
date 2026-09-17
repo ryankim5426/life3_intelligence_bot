@@ -759,11 +759,13 @@
   "news:aa0988f88f61a136": 1789604808,
   "news:c26355e69996875f": 1789606186,
   "news:911225cc73e1ee05": 1789606186,
-  "news:bc9ec363f34b763d": 1789606186
+  "news:bc9ec363f34b763d": 1789606186,
+  "news:2fb5701d93e68eee": 1789607049,
+  "news:c7befad7fe8fffb2": 1789607049,
+  "news:b862217627865c5f": 1789607049,
+  "news:fbbb5b24d682dd37": 1789607049
  },
  "stories": {
-  "삼성생명, 연체 해지된 보험 '비대면 부활' 가능해진다": 1789347704,
-  "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704,
   "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
   "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
@@ -897,7 +899,11 @@
   "암 진단 고객 끝까지 챙긴 삼성생명 ‘소비자보호 히어로’": 1789604808,
   "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순": 1789604808,
   "교보생명, SBI그룹과 디지털토큰 활용 韓日 기관 자금이전 검증": 1789606186,
-  "교보생명, SBI와 스테이블코인으로 한일 기관자금 이전 실증": 1789606186
+  "교보생명, SBI와 스테이블코인으로 한일 기관자금 이전 실증": 1789606186,
+  "특징주, 한화생명-생명보험 테마 상승세에 6.16% ↑": 1789607049,
+  "교보생명, 일본 SBI와 스테이블코인 실증 성공…보험업계 최초": 1789607049,
+  "달러 안 거치고 엔화→원화로…교보생명·SBI, 디지털 자금이전 실증": 1789607049,
+  "삼성생명, 소비자보호 히어로 9명 선정": 1789607049
  },
  "news_queue": [
   {
@@ -959,6 +965,46 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMTkoxM1hFYV9hTlBySGRUMW9PbmdidmUycUh3MHZ2RmpISzdYdkdqOGs2dElBWjBvSXRueF9QRFByaFltRllqb0JaUFpzUy1faFJmMGgwbURPSS1acnFQQUx2VVU?oc=5",
    "sort_key": "Thu, 17 Sep 2026 00:41:05 GMT"
+  },
+  {
+   "id": "news:2fb5701d93e68eee",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "특징주, 한화생명-생명보험 테마 상승세에 6.16% ↑",
+   "source": "매일경제 마켓",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhUWJsSFdtX0ppSXZwYUpqWDZPVjI1akM4U0FmaDIzcmVaekFaYzVhWUVRT2FfRFAxRGRJN1ItOXZaWjRfb1luQVR5dnl3eDMxS3c?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:45:10 GMT"
+  },
+  {
+   "id": "news:c7befad7fe8fffb2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 일본 SBI와 스테이블코인 실증 성공…보험업계 최초",
+   "source": "아주경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FbXlNYmdXU1JDclhIQVFxNUM1V0d1bFhmWWxyQ3VrX0ttSUNfbXdEb2RUWENXT25zbEcxZ1JRYzBEZVBxZHJVTkdwYnpmRTJaSV9MWlZrelZuUdIBWEFVX3lxTE15SEtoU1lDZWRaVjhXZ1Z1U1Rxdml0ZFRHT1ExMURFNjN4cFJOVFFMRkwwcllFZGRsa2lDeXFERU5tem9mRlE5Z2pKZFY1WnRuX2lyNTRPQmc?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:47:15 GMT"
+  },
+  {
+   "id": "news:b862217627865c5f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "달러 안 거치고 엔화→원화로…교보생명·SBI, 디지털 자금이전 실증",
+   "source": "데일리안",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRHhyUUZGMy02WHAyV1l5eFozdWRHdUpVaUlQMjFDaV94dlhObWxXRmcwcTdhN3E2WTBCZ0ZKVHMydlRCQ1hEVmtGdEZOdVNfcDdfSkpPcEF5cmNqYTdNdVpzVWdBX0xING9ZSHQxMnR2Q0pqWkdYdUU4VmtVMkFTOWFXVHh4SnZYbExQX2xXUDRqTzhXeFlxel9JMFp6azdYMGNJM3ptbGx4alZ0djlGX3Fpa21wc2lJdE1XX1YtQTZqR1AxaU5lV0RlTm5BRVAwRlNwRElkcFNTUDZNdWEySnlrdnM4T1pmTV9sU01HdXdvX0paTzl0NTVVX2lQTnJIbTdQWUpUYzQxcUpPNjJYTzBTOEhUcGln?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:50:00 GMT"
+  },
+  {
+   "id": "news:fbbb5b24d682dd37",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 소비자보호 히어로 9명 선정",
+   "source": "아주경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5WjFCMjBvaThGbmhyNVAtdDB1OE9iaDF5VGZUaUx5ZVRjLTI5X2ZRNWZ5SDl3c1NjOWRYZ2lYWXZXTS1aMFE3OXZWQmZuYjlSVlBvQjdXUXY2Z9IBWEFVX3lxTE9hbG9EY1VxS0hYZnBnZnE0SEh0bjF0ZWk3V1BHeXdMUWxlT1BOYnRrQ2FuX1YxbjVHTHk0cUh1Wk1SNkt5NWlxNmotcDNieHZxX1FVTm45NFU?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:51:05 GMT"
   }
  ],
  "initialized": true,
