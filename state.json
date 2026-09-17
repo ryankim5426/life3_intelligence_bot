@@ -753,14 +753,12 @@
   "news:85ae627b4ebdfea6": 1789599455,
   "news:80be7bd2110860ea": 1789600615,
   "news:f8a72279ec4a4e64": 1789602474,
-  "news:1965ce56681a914e": 1789603212
+  "news:1965ce56681a914e": 1789603212,
+  "news:d13bf03b581bbaa1": 1789604808,
+  "news:7fc45b1c7b2b8744": 1789604808,
+  "news:aa0988f88f61a136": 1789604808
  },
  "stories": {
-  "삼성생명, 연체 해지 계약 ‘모바일 부활 시스템’ 개설": 1789345363,
-  "삼성생명, 스마트폰으로 연체 해지보험 ‘부활’": 1789345363,
-  "해지된 보험계약, 스마트폰으로 다시 살린다…삼성생명 모바일 부활": 1789345363,
-  "삼성생명, 보험계약 부활도 모바일로…서류 작성부터 보험료 납입까지": 1789345363,
-  "[금융레이더] 삼성생명/애큐온캐피탈": 1789345363,
   "삼성생명에 떨어진 2.5조 '배당잭팟'…돈 어디로 갈까": 1789346878,
   "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에": 1789346878,
   "삼성생명, 연체 해지된 보험 '비대면 부활' 가능해진다": 1789347704,
@@ -893,7 +891,10 @@
   "예보, 남은 공적자금 회수 앞두고… 서울보증·한화생명 매각 '장고'": 1789597378,
   "3690억 쏟았지만 ‘누적 적자’···교보생명, 13년 만에 디지털 생보 흡수": 1789599455,
   "삼성생명, 8월 생보업계 소비자 관심도 1위...한화·교보생명 순": 1789599455,
-  "삼성생명, '소비자보호 위크' 돌입…보이스피싱 예방 등 캠페인 전개": 1789602474
+  "삼성생명, '소비자보호 위크' 돌입…보이스피싱 예방 등 캠페인 전개": 1789602474,
+  "삼성생명, 제2회 ‘금융소비자의 날’ 행사 개최": 1789604808,
+  "암 진단 고객 끝까지 챙긴 삼성생명 ‘소비자보호 히어로’": 1789604808,
+  "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순": 1789604808
  },
  "news_queue": [
   {
@@ -905,6 +906,36 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRG5aaW5pbTlDemVXYnNibzdYaWcxTXdpVkNuQWdiNG9hb3JYaEpsdkJuQXFnNExFbmwtcXhXbV84a2dpTmF0dENWQlJEVUZCdWo5ckh2LWFhclJDcjRULWt2WXpPTFc2Rnc?oc=5",
    "sort_key": "Wed, 16 Sep 2026 23:40:30 GMT"
+  },
+  {
+   "id": "news:d13bf03b581bbaa1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 제2회 ‘금융소비자의 날’ 행사 개최",
+   "source": "biz.heraldcorp.com",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdGtobXJGRkpxcF9DN2lHR21OY3RxVFdpQTQzaERfX2RXelRUeXA3cmVmUEpwVlNNLVpwZjJBRVVhcHoxbHlrVnhCTGJLbmJ0WXpnRGZn?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:12:59 GMT"
+  },
+  {
+   "id": "news:7fc45b1c7b2b8744",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "암 진단 고객 끝까지 챙긴 삼성생명 ‘소비자보호 히어로’",
+   "source": "fetv.co.kr",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNmVOeVdQdm9CTEhrbmZoak92cEZBWTFXTXdGcTRKLS16cVN5aUJyRFJ6UmFjTjlpaFlCeG85OS12RG5NYWQ3TE5fWUVuckF6Unh3dnFjWTFlQ3Z4aDVqVk1xVVhsNzhY?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 23:59:10 GMT"
+  },
+  {
+   "id": "news:aa0988f88f61a136",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순",
+   "source": "보험저널",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZWhUX01DV1c2RlN3dDBwelVESldmLTRJQkp3Sk9RNGt2eHFUWGxHcG8yMFp0amFOTzlSSGhjenhwSWNtMTVJdUJXakNOelFOYTBlblEtcWloSmUydXoyQzNxZ0ZYV2hCRU00TFluUQ?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 23:59:58 GMT"
   }
  ],
  "initialized": true,
