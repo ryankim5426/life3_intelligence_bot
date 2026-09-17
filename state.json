@@ -821,7 +821,8 @@
   "news:285ae0a6db5eaf61": 1789641390,
   "news:11d6fee57242e4c6": 1789651508,
   "news:95b8885f7086f84d": 1789651508,
-  "news:e721e69d180987b7": 1789652624
+  "news:e721e69d180987b7": 1789652624,
+  "news:6bec3f4174c0a4c6": 1789654922
  },
  "stories": {
   "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708,
@@ -976,7 +977,8 @@
   "日 SBI·교보생명, 엔화·원화 스테이블코인 송금 검증...\"달러 패싱 직거래\"": 1789636825,
   "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색": 1789636825,
   "삼성생명의 '소비자 권익' 강조 : 대표 직속 소비자보호실 설치, 외부 전문가 올해 심의 안건 10건 중 9건 수용": 1789641390,
-  "교보생명, 라이프플래닛 흡수…출범 13년 만에 독립법인 마침표 : 네이버 블로그": 1789652624
+  "교보생명, 라이프플래닛 흡수…출범 13년 만에 독립법인 마침표 : 네이버 블로그": 1789652624,
+  "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다": 1789654922
  },
  "news_queue": [
   {
@@ -1398,6 +1400,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXpxQTVRanRXMXRYR3pyeXRHUlZzOHFOUmxkTURiaERTTmxsLURKMEgzcTFHcnJuZEQ5NE5Iblp6ZDJNY0ppQXhlS2N1blc1bV9vUmZZQ1pHZVljd1JZc0NaR0FsUkdiZTlNeWtnSzRnSlpuMUkwdFg2SkdPT2pFUlFkaVZhclpVb0llLWVhRQ?oc=5",
    "sort_key": "Thu, 17 Sep 2026 05:23:45 GMT"
+  },
+  {
+   "id": "news:6bec3f4174c0a4c6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다",
+   "source": "데일리팝",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kOERMREhQcXBxRVN2M0p0Q3NtdmZTbFY5T2Rfb1h6NHNZVnVUaS1uWUVCbnhibXlSLUd1TzZjaEFwU0JacVl1a2J0UXZ1RkNiZWNHNDlIZ0xYbW9JS1ktZkV6Vkx2SFpm?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 08:13:00 GMT"
   }
  ],
  "initialized": true,
