@@ -828,7 +828,8 @@
   "news:5e5ac8a0d2604802": 1789658434,
   "news:a8f5ff94ea354937": 1789658434,
   "news:42556f8d95c52af6": 1789658434,
-  "news:8b5953190b16c88d": 1789669630
+  "news:8b5953190b16c88d": 1789669630,
+  "news:330d32ec882dde7d": 1789672914
  },
  "stories": {
   "[포커스] 순이익 줄었는데 CSM 확장...교보생명, 마진 7조원 보인다": 1789416218,
@@ -984,7 +985,8 @@
   "삼성생명의 '소비자 권익' 강조 : 대표 직속 소비자보호실 설치, 외부 전문가 올해 심의 안건 10건 중 9건 수용": 1789641390,
   "교보생명, 라이프플래닛 흡수…출범 13년 만에 독립법인 마침표 : 네이버 블로그": 1789652624,
   "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다": 1789654922,
-  "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도": 1789657163
+  "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도": 1789657163,
+  "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'": 1789672914
  },
  "news_queue": [
   {
@@ -1426,6 +1428,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TN2FtNktYZ1JVNnlONGJEdXBrRm5VN19oQmg0NTVyMTBULW0xUzRDNTJfS2RSMVh1UW5ES0lQVU9RMDJZMzBuZnkyYXBRRzhUZXJRNTRDMkdaYlJKS2h2WUtyLUZaQXhpSHc?oc=5",
    "sort_key": "Thu, 17 Sep 2026 08:04:24 GMT"
+  },
+  {
+   "id": "news:330d32ec882dde7d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'",
+   "source": "초이스경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93V2h5emJfOHZnMTlwbzU3NlYzVUtfdzZzcWUxV21xX0RiOEJ0czdpczB6ZHcxTEJxb2Q5Q2ViZWFqOFpVdHNoUGNrN1EyYnh5Tm5CQW9YT1VfR015ZVh6WG0xdkV6dGQtaDZUa1laQXbSAXNBVV95cUxNWFBhSkdCSG5qdmZMZENleVFaZV8xdmhMUlpWSDNCTEdXWkwxSWRoY1dWYVlUV3gxenBSX21BaHpjSTJjbGRNZ2REWGVMMm5tY2dHdUtSTVdNMnFrbmtEUEgzdjRROHg5cDR4emFJaXltTEZN?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 07:25:10 GMT"
   }
  ],
  "initialized": true,
