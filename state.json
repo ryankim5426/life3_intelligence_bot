@@ -817,7 +817,8 @@
   "news:607c141921f6efb3": 1789633291,
   "news:b45fccbbcea5bc6e": 1789634582,
   "news:d15886c6462c3f1a": 1789636825,
-  "news:7df1cbb391e76a39": 1789636825
+  "news:7df1cbb391e76a39": 1789636825,
+  "news:285ae0a6db5eaf61": 1789641390
  },
  "stories": {
   "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
@@ -971,7 +972,8 @@
   "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개": 1789633291,
   "[금융계 동향] 한화생명·신한라이프·삼성생명": 1789634582,
   "日 SBI·교보생명, 엔화·원화 스테이블코인 송금 검증...\"달러 패싱 직거래\"": 1789636825,
-  "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색": 1789636825
+  "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색": 1789636825,
+  "삼성생명의 '소비자 권익' 강조 : 대표 직속 소비자보호실 설치, 외부 전문가 올해 심의 안건 10건 중 9건 수용": 1789641390
  },
  "news_queue": [
   {
@@ -1373,6 +1375,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWkticlZLWk5ZZ1FRSVpCN0dzeHZoY0tacW1BeVhaMllhdjI5NjlWWE9OWDRSdjBYQmpXY09xdGl5bFhSTXVIUnQxSHlHOTFDRTB3SW1leTYzclRzbDlFNUhDX1U2emhl?oc=5",
    "sort_key": "Thu, 17 Sep 2026 09:00:58 GMT"
+  },
+  {
+   "id": "news:285ae0a6db5eaf61",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명의 '소비자 권익' 강조 : 대표 직속 소비자보호실 설치, 외부 전문가 올해 심의 안건 10건 중 9건 수용",
+   "source": "허프포스트코리아",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zcHlHd0ZYWlFwUTROTkREOVQxUFNYc3dqUm9MNHkxVGNieXJweXNPQXY0ckJoZ2QtT2g0ZkY1Q21QOWVaYU0yTmF0V3RubG5EVzB2bi1UYw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 06:48:55 GMT"
   }
  ],
  "initialized": true,
