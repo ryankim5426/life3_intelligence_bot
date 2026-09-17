@@ -777,10 +777,11 @@
   "news:301d47e8c11ade82": 1789611590,
   "news:1f1541dd0b60ac4b": 1789611590,
   "news:e093081c25573c1d": 1789612613,
-  "news:121050a6b06344dd": 1789612613
+  "news:121050a6b06344dd": 1789612613,
+  "news:0d238dae6481f1e4": 1789613580,
+  "news:5806823c72c2aaa2": 1789613581
  },
  "stories": {
-  "\"해지된 보험 되살리기 쉬워진다\"…삼성생명 ‘모바일 부활’ 도입": 1789353819,
   "삼성생명, 비대면 보험 부활 청약 시스템 출시": 1789354738,
   "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678,
   "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070,
@@ -924,7 +925,8 @@
   "美 금리 인상에 보험주 강세…한화생명·DB손보 5%↑[핫종목]": 1789610354,
   "[이슈] 교보생명, 왜 달러를 건너뛰었나...韓·日 '토큰 자금이전' 실증": 1789611590,
   "생명보험주 동반 강세…한화생명 5%대·미래에셋생명 3%대 상승, 삼성생명도 오름세": 1789612613,
-  "[초점] IBK 빠지고 한화생명 진입…강남 에이프로스퀘어 차환 '미스터리'": 1789612613
+  "[초점] IBK 빠지고 한화생명 진입…강남 에이프로스퀘어 차환 '미스터리'": 1789612613,
+  "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581
  },
  "news_queue": [
   {
@@ -1136,6 +1138,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EX090b0hOVDdpZzBLYXpQNkRhbUZzZ0ZMNmV2T2NaczlteWNBMEhKVkJsV1U1a0ZUVDkxTm5XaWhHSDA1TVBjUllKZzRvdVA3eGpBQzJhYk5XWlVGVVEzVklMQWRiZWV6?oc=5",
    "sort_key": "Thu, 17 Sep 2026 02:27:47 GMT"
+  },
+  {
+   "id": "news:5806823c72c2aaa2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증",
+   "source": "CNB뉴스",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95N1E5Vks2aTBtSFIzNVVGZHI0eG53VVFBcHVRMTZ5NjgzT3hiZnROaEJzamZIb2o4LVRKRkVXZlJRcm1uWXBMLUZHQ0pKYlNpRHZRdGY3NGU2YWJzMU9iOGtSRDJxdUVjS0NF?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 02:38:21 GMT"
   }
  ],
  "initialized": true,
