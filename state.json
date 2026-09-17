@@ -770,7 +770,9 @@
   "news:4b02e8bf19f8fbed": 1789609365,
   "news:e843277e01b674f2": 1789609365,
   "news:49548e865faabb8c": 1789609365,
-  "news:96dde020ee3ff191": 1789609365
+  "news:96dde020ee3ff191": 1789609365,
+  "news:4dbb002d301c61fa": 1789610354,
+  "news:e16bc19a0bc69be1": 1789610354
  },
  "stories": {
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
@@ -915,7 +917,9 @@
   "[금융레이더]삼성생명/신한카드/NH농협카드": 1789609365,
   "교보생명, 업계 최초 '디지털토큰' 검증…달러 없이 한일 자금이전": 1789609365,
   "삼성생명, 보험업계 첫 '고객의 소리 백서' 공개…소비자보호 성과 담아": 1789609365,
-  "교보생명, 보험 넘어 금융·디지털로 외연 확장": 1789609365
+  "교보생명, 보험 넘어 금융·디지털로 외연 확장": 1789609365,
+  "교보생명, 한일 기관자금 '달러 우회' 길 열었다": 1789610354,
+  "美 금리 인상에 보험주 강세…한화생명·DB손보 5%↑[핫종목]": 1789610354
  },
  "news_queue": [
   {
@@ -1077,6 +1081,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CekNpMllEajJjbkhTVVlvcTlkS181R1Y4WThfSjhXT3l1RVNxV2RZUjQ3QnJKc056cXB5Nmh1WmFKcTdaRGJtSkF1NVd3TmRwQjk0cmNKYWFFa2hpMGdCQzdveHNIXzk5dXln0gFvQVVfeXFMT0pQWFFuM3RXRE56XzFzSnpFS0RkUjR6OXVRaGRLQ19XZ1FLRjRTSDVtREFBVkd1SHVZTFptMnRSRi1IZ2tCNm9YVmFtbHhnYTV2Rzg1aUFDczRfQkdOLVNDU2dISllnb1hWa1k1d2Q4?oc=5",
    "sort_key": "Wed, 16 Sep 2026 22:49:02 GMT"
+  },
+  {
+   "id": "news:4dbb002d301c61fa",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 한일 기관자금 '달러 우회' 길 열었다",
+   "source": "신아일보",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4S2ZvNHhOQ2x0Q3hzRmFoRG9VUWJ0RHpOcm5laVBUVkozaG1KZ29MUkR6YXlZYVhvcm8zME9sa1NOcHlJbjFja0s0SGtHa1lJQXE4dVltVHRHLV92SXBYOXFKcjRFbVp3WGE3MTlFcHQ?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:42:13 GMT"
+  },
+  {
+   "id": "news:e16bc19a0bc69be1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "美 금리 인상에 보험주 강세…한화생명·DB손보 5%↑[핫종목]",
+   "source": "뉴스1",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUHZGbEJSSmRXSHI2dFQxMnE0UUhwMUt1czdTTGszX3hIOHZ1a3Nnc19mVU4xdEtVQ3o0UkdtZldqWlpZek1XeXFEWnNuN2F5QnYySVdCRGkwc2RzUzhJ0gFkQVVfeXFMTVAxLU5MSnRQTzFTem02T3BwYmVpaXM2VEE0VjViMzhSVUw2Wk5paVpwdElRZDE1cld2ODIzemIxZ1BZbUZiUmhrSzdKbmhULXlUbG0tRFlkSmdsd0x5bTBEZGdETw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:47:40 GMT"
   }
  ],
  "initialized": true,
