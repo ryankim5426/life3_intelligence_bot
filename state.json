@@ -784,10 +784,10 @@
   "news:9e8fac6191d05596": 1789616043,
   "news:b9cbdf739717e472": 1789618571,
   "news:6c4b01a357870d24": 1789618571,
-  "news:9330b058b81812fc": 1789619657
+  "news:9330b058b81812fc": 1789619657,
+  "news:94c7a54c3aca0486": 1789620698
  },
  "stories": {
-  "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070,
   "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169,
   "삼성생명, 종이없는 디지털 보험 서비스 선도...\"모바일에서도 보험계약 부활\"": 1789366916,
   "[오늘의 금융리뷰] 현대카드·우리카드·삼성생명": 1789368545,
@@ -930,7 +930,8 @@
   "생명보험주 동반 강세…한화생명 5%대·미래에셋생명 3%대 상승, 삼성생명도 오름세": 1789612613,
   "[초점] IBK 빠지고 한화생명 진입…강남 에이프로스퀘어 차환 '미스터리'": 1789612613,
   "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581,
-  "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축": 1789619657
+  "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축": 1789619657,
+  "[금융계 동향] 교보생명·KB국민은행·우리금융그룹": 1789620698
  },
  "news_queue": [
   {
@@ -1162,6 +1163,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OGpycTdqNXFNZktZd1gyRUkyQW5rRkdoMThXeFZTMjBPanZVRUtjMWZGalVyMDhYRW9ndGtKYWp4a2lYbENlalBMejN6UQ?oc=5",
    "sort_key": "Thu, 17 Sep 2026 04:26:38 GMT"
+  },
+  {
+   "id": "news:94c7a54c3aca0486",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 교보생명·KB국민은행·우리금융그룹",
+   "source": "민주신문",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbFd6QWpzY25oTzZndkpZbHpFRWlSUjJ0b25PcG9wRzNKZTVMRUdpeHRFd1NBelRfZXhTVGRmTmYtY1hQVU92TThUdkpzbjEtM3M0ODVmREZZdUYwR1lRMnY5LUJQM3PSAWtBVV95cUxON2xpSEJxTVZWNjZlbjVTRlVlbDFCeUt2TGc4NWR1al9FX0tzR3F5WnRCb1JCdmwtYVpZN1F4bk5aTEo3cGxqNzhqaTE4ekl5N0lPdThJcEk1VkhLMzJSczlfT0puVUFka1ZRQQ?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 04:27:05 GMT"
   }
  ],
  "initialized": true,
