@@ -765,7 +765,12 @@
   "news:b862217627865c5f": 1789607049,
   "news:fbbb5b24d682dd37": 1789607049,
   "news:354b4de23374fd7a": 1789608244,
-  "news:a535c3a1af7dbe7f": 1789608244
+  "news:a535c3a1af7dbe7f": 1789608244,
+  "news:9b08a113035c1725": 1789609364,
+  "news:4b02e8bf19f8fbed": 1789609365,
+  "news:e843277e01b674f2": 1789609365,
+  "news:49548e865faabb8c": 1789609365,
+  "news:96dde020ee3ff191": 1789609365
  },
  "stories": {
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
@@ -906,7 +911,11 @@
   "달러 안 거치고 엔화→원화로…교보생명·SBI, 디지털 자금이전 실증": 1789607049,
   "삼성생명, 소비자보호 히어로 9명 선정": 1789607049,
   "달러 안 거치고 엔화→원화로…교보생명, 보험업계 첫 스테이블코인 송금 실증": 1789608244,
-  "[카드] 삼성생명, 소비자보호 실천 성과 공유…금융소비자의 날 개최": 1789608244
+  "[카드] 삼성생명, 소비자보호 실천 성과 공유…금융소비자의 날 개최": 1789608244,
+  "[금융레이더]삼성생명/신한카드/NH농협카드": 1789609365,
+  "교보생명, 업계 최초 '디지털토큰' 검증…달러 없이 한일 자금이전": 1789609365,
+  "삼성생명, 보험업계 첫 '고객의 소리 백서' 공개…소비자보호 성과 담아": 1789609365,
+  "교보생명, 보험 넘어 금융·디지털로 외연 확장": 1789609365
  },
  "news_queue": [
   {
@@ -1028,6 +1037,46 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNVZDS0hMT1VZVUhNTXNTZ3VpdnpzdFpUZlNGWWEtOWtFZEpNM1A0QjA3WHhaaTRJb3g4ekxpVFEwbkM3MWVtUS1QQnRldnVhb0ZPVENjNXhGR1NXRHdtc1lSb19Wdw?oc=5",
    "sort_key": "Thu, 17 Sep 2026 01:13:32 GMT"
+  },
+  {
+   "id": "news:4b02e8bf19f8fbed",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융레이더]삼성생명/신한카드/NH농협카드",
+   "source": "대한경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mWHNiWGFqWERWbFN0Z283Y3BmU0tFbnRYdk1mOUs5MnZqZGNFaV92WlpwWW5sZ2JsWGs5QXZJRW5HaUl0bHpIcGYwbUlSZ2JJWXRqQVduMlFHU0ZlZUV3dVhTbmdaWEVIR01sV0pDR0V0di1I?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:07:30 GMT"
+  },
+  {
+   "id": "news:e843277e01b674f2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 업계 최초 '디지털토큰' 검증…달러 없이 한일 자금이전",
+   "source": "뉴스1",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TNjN0Vk15WnRYTlhqTDJ1QzdBdGpNRXI2SUxhelQyVFFlY1JhQ19ZYTl4MG1saXV3TzJlWE94cVg2Z3FxRzhBWHZGOGlhRnhMM3VUZDVEX3VRYjVFcGJFatIBZkFVX3lxTE1ZeXotSXgwSkFheVpkTTBkZlRyOXAtbTRKTGdFZ1NQWlFhZGh2NmR6eDh6ZkhNZ1oxSXpzeGZiNUZnc0JIUnY4Mjc0NlNKSU5qVVcyTHhjSWlfV2Z0R3VhV0pXNWNIZw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:13:41 GMT"
+  },
+  {
+   "id": "news:49548e865faabb8c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 보험업계 첫 '고객의 소리 백서' 공개…소비자보호 성과 담아",
+   "source": "뉴스1",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2SExPa0lPSkJDcnF3aGVYMlRiTnRXVk5OdUItR3dvUEFHeEZjQmo1TTJDSDMybXpONG90cUNYdE9abjUzdjBXVGtzMjQweEdEcGxPMjNlaHAxNlRaUEFPZNIBZkFVX3lxTFBHa2FTcW1URExpSkd5d3lvYTJfdFltSlU5dmJCMnkyQk1CSFl3bmJVZDdmdmtEVzJkenNKU2piMFNQa2h1WjVWS2NReEFuc21Mb2ZZdnJOMFRzYThLSTI5UjQtLUFmdw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:27:23 GMT"
+  },
+  {
+   "id": "news:96dde020ee3ff191",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보험 넘어 금융·디지털로 외연 확장",
+   "source": "한스경제",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CekNpMllEajJjbkhTVVlvcTlkS181R1Y4WThfSjhXT3l1RVNxV2RZUjQ3QnJKc056cXB5Nmh1WmFKcTdaRGJtSkF1NVd3TmRwQjk0cmNKYWFFa2hpMGdCQzdveHNIXzk5dXln0gFvQVVfeXFMT0pQWFFuM3RXRE56XzFzSnpFS0RkUjR6OXVRaGRLQ19XZ1FLRjRTSDVtREFBVkd1SHVZTFptMnRSRi1IZ2tCNm9YVmFtbHhnYTV2Rzg1aUFDczRfQkdOLVNDU2dISllnb1hWa1k1d2Q4?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 22:49:02 GMT"
   }
  ],
  "initialized": true,
