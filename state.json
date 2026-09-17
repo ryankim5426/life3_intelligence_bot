@@ -756,11 +756,12 @@
   "news:1965ce56681a914e": 1789603212,
   "news:d13bf03b581bbaa1": 1789604808,
   "news:7fc45b1c7b2b8744": 1789604808,
-  "news:aa0988f88f61a136": 1789604808
+  "news:aa0988f88f61a136": 1789604808,
+  "news:c26355e69996875f": 1789606186,
+  "news:911225cc73e1ee05": 1789606186,
+  "news:bc9ec363f34b763d": 1789606186
  },
  "stories": {
-  "삼성생명에 떨어진 2.5조 '배당잭팟'…돈 어디로 갈까": 1789346878,
-  "삼성생명, 연체로 해지된 보험 모바일로 부활…보험료 납입까지 한 번에": 1789346878,
   "삼성생명, 연체 해지된 보험 '비대면 부활' 가능해진다": 1789347704,
   "삼성생명, 해지 보험 스마트폰으로 되살린다": 1789347704,
   "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
@@ -894,7 +895,9 @@
   "삼성생명, '소비자보호 위크' 돌입…보이스피싱 예방 등 캠페인 전개": 1789602474,
   "삼성생명, 제2회 ‘금융소비자의 날’ 행사 개최": 1789604808,
   "암 진단 고객 끝까지 챙긴 삼성생명 ‘소비자보호 히어로’": 1789604808,
-  "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순": 1789604808
+  "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순": 1789604808,
+  "교보생명, SBI그룹과 디지털토큰 활용 韓日 기관 자금이전 검증": 1789606186,
+  "교보생명, SBI와 스테이블코인으로 한일 기관자금 이전 실증": 1789606186
  },
  "news_queue": [
   {
@@ -936,6 +939,26 @@
    "date": "Wed, 16 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZWhUX01DV1c2RlN3dDBwelVESldmLTRJQkp3Sk9RNGt2eHFUWGxHcG8yMFp0amFOTzlSSGhjenhwSWNtMTVJdUJXakNOelFOYTBlblEtcWloSmUydXoyQzNxZ0ZYV2hCRU00TFluUQ?oc=5",
    "sort_key": "Wed, 16 Sep 2026 23:59:58 GMT"
+  },
+  {
+   "id": "news:911225cc73e1ee05",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI그룹과 디지털토큰 활용 韓日 기관 자금이전 검증",
+   "source": "연합인포맥스",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54N2o5TEJBT09Ud19Xcm03ZjJpVGFxbG1ZNnpZT1lqLWtOdkNpSXVfckpDMjBJdEVfM25IRng0RnpqSENQWm5ueVNlaUpnTE1nS2c5cUhwM3puTkYxX3pWSUZtR1RBV0RPZWVPSEFmNHrSAXRBVV95cUxNSUtLRlM4SDNRdHcyazItOGdQWkVYbHpYZWFJVlNnbjliWjIyNE56aWdBVXVYSThNQmJGRjJRR19uRko1Ym1nVlA4UnRqNlh3V0liRHJ3WDEyT1FORWpMM0piRVRIcGc3dmUzSmZ1dFpPYW12dA?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:38:00 GMT"
+  },
+  {
+   "id": "news:bc9ec363f34b763d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI와 스테이블코인으로 한일 기관자금 이전 실증",
+   "source": "서울경제TV",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMTkoxM1hFYV9hTlBySGRUMW9PbmdidmUycUh3MHZ2RmpISzdYdkdqOGs2dElBWjBvSXRueF9QRFByaFltRllqb0JaUFpzUy1faFJmMGgwbURPSS1acnFQQUx2VVU?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:41:05 GMT"
   }
  ],
  "initialized": true,
