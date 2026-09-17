@@ -822,7 +822,9 @@
   "news:11d6fee57242e4c6": 1789651508,
   "news:95b8885f7086f84d": 1789651508,
   "news:e721e69d180987b7": 1789652624,
-  "news:6bec3f4174c0a4c6": 1789654922
+  "news:6bec3f4174c0a4c6": 1789654922,
+  "news:07a8d7df3bc21c4e": 1789657163,
+  "news:17af0d45ff3cd0a7": 1789657163
  },
  "stories": {
   "삼성생명, AI 협업형 컨택센터로 고객경험 혁신": 1789399708,
@@ -978,7 +980,8 @@
   "교보생명, 한·일 스테이블코인 실증 마무리…해외투자 연계 모색": 1789636825,
   "삼성생명의 '소비자 권익' 강조 : 대표 직속 소비자보호실 설치, 외부 전문가 올해 심의 안건 10건 중 9건 수용": 1789641390,
   "교보생명, 라이프플래닛 흡수…출범 13년 만에 독립법인 마침표 : 네이버 블로그": 1789652624,
-  "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다": 1789654922
+  "교보생명, 한·일 기관자금까지 디지털화…스테이블코인 실험 넓힌다": 1789654922,
+  "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도": 1789657163
  },
  "news_queue": [
   {
@@ -1410,6 +1413,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kOERMREhQcXBxRVN2M0p0Q3NtdmZTbFY5T2Rfb1h6NHNZVnVUaS1uWUVCbnhibXlSLUd1TzZjaEFwU0JacVl1a2J0UXZ1RkNiZWNHNDlIZ0xYbW9JS1ktZkV6Vkx2SFpm?oc=5",
    "sort_key": "Thu, 17 Sep 2026 08:13:00 GMT"
+  },
+  {
+   "id": "news:17af0d45ff3cd0a7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도",
+   "source": "한국M&A경제신문",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TN2FtNktYZ1JVNnlONGJEdXBrRm5VN19oQmg0NTVyMTBULW0xUzRDNTJfS2RSMVh1UW5ES0lQVU9RMDJZMzBuZnkyYXBRRzhUZXJRNTRDMkdaYlJKS2h2WUtyLUZaQXhpSHc?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 08:04:24 GMT"
   }
  ],
  "initialized": true,
