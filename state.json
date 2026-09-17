@@ -809,7 +809,12 @@
   "news:39e342c8dc5c36ad": 1789629948,
   "news:77ba05d7cde589db": 1789631897,
   "news:68e86f7214ba5f30": 1789631897,
-  "news:a7428c6c51c95450": 1789631897
+  "news:a7428c6c51c95450": 1789631897,
+  "news:7c79845f5916f04d": 1789633290,
+  "news:a3ea3df485858065": 1789633290,
+  "news:13696985ea865f4d": 1789633290,
+  "news:e9f8a901ae94328e": 1789633291,
+  "news:607c141921f6efb3": 1789633291
  },
  "stories": {
   "'애큐온 패키지 인수' 한화생명, '아픈손가락' 저축은행 골머리": 1789374177,
@@ -961,7 +966,9 @@
   "삼성생명 주가 3,000원 하락 후 장마감": 1789629948,
   "삼성생명, 소비자보호 ‘현장 경영’ 강화…고객 목소리 제도에 담는다": 1789629948,
   "'저PBR 낙인' 한 달 반 남았다…한화생명·손보, 밸류업 해법은": 1789631897,
-  "주요 GA 8월 실적, 전월比 1.9%↓…한화생명금융서비스 101억·인카금융서비스 설계사 증가폭 최대·사랑모아금융서비스 생산성 1위": 1789631897
+  "주요 GA 8월 실적, 전월比 1.9%↓…한화생명금융서비스 101억·인카금융서비스 설계사 증가폭 최대·사랑모아금융서비스 생산성 1위": 1789631897,
+  "교보생명, SBI그룹과 스테이블코인 실증 완료": 1789633291,
+  "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개": 1789633291
  },
  "news_queue": [
   {
@@ -1313,6 +1320,26 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YU0hrQVV6UFMtaVdETnpxejVBeEI2Rk9vREhuMnc5SWkydWVhaVVlODQ2MVBzamtyTlN4YW9kT2dEVDBFSXNzczdSc1ZvVm5vcUw1MWRvUTVCdDItWFNZeENQSjNhX2l2ZjZFaEZwVQ?oc=5",
    "sort_key": "Thu, 17 Sep 2026 07:26:12 GMT"
+  },
+  {
+   "id": "news:e9f8a901ae94328e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI그룹과 스테이블코인 실증 완료",
+   "source": "비즈월드",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDaGU1TE8wdDNxVXdtMFVmd1lUTXB5UjhwOHpWbEJ0bS1qZGRVZ0hGaGVFam1xRFNmMUd3bUtGLXRmYXpqWi1MZHItQmVLU09mYkYyWTREUUZnamx5N1BTeVItZVpOdU5GZFE?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 03:33:00 GMT"
+  },
+  {
+   "id": "news:607c141921f6efb3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개",
+   "source": "fnnews.com",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVXB4ZUlUWWh3dTBZUTM3eTBSbG9XNWNqenl1SlNRY1JTVTVDMU1DMzFEVlpoeDR6T3Y4Rm5vcmZwWlY5bjBhLVdyZlFYbVdvNHl4V0l6RkpQUQ?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 07:58:30 GMT"
   }
  ],
  "initialized": true,
