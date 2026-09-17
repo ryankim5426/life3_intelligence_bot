@@ -763,10 +763,11 @@
   "news:2fb5701d93e68eee": 1789607049,
   "news:c7befad7fe8fffb2": 1789607049,
   "news:b862217627865c5f": 1789607049,
-  "news:fbbb5b24d682dd37": 1789607049
+  "news:fbbb5b24d682dd37": 1789607049,
+  "news:354b4de23374fd7a": 1789608244,
+  "news:a535c3a1af7dbe7f": 1789608244
  },
  "stories": {
-  "삼성생명, 해지 보험계약 모바일 부활 서비스 도입": 1789349027,
   "삼성생명, 해지 보험계약 부활도 모바일로…대면 절차 없앤다": 1789351166,
   "삼성생명, 연금보험 상품라인업 강화...퇴직연금 선두 탈환에도 '가속페달'": 1789351166,
   "삼성생명, 연체 실효보험 스마트폰으로 되살린다…계약 유지율 제고": 1789352441,
@@ -903,7 +904,9 @@
   "특징주, 한화생명-생명보험 테마 상승세에 6.16% ↑": 1789607049,
   "교보생명, 일본 SBI와 스테이블코인 실증 성공…보험업계 최초": 1789607049,
   "달러 안 거치고 엔화→원화로…교보생명·SBI, 디지털 자금이전 실증": 1789607049,
-  "삼성생명, 소비자보호 히어로 9명 선정": 1789607049
+  "삼성생명, 소비자보호 히어로 9명 선정": 1789607049,
+  "달러 안 거치고 엔화→원화로…교보생명, 보험업계 첫 스테이블코인 송금 실증": 1789608244,
+  "[카드] 삼성생명, 소비자보호 실천 성과 공유…금융소비자의 날 개최": 1789608244
  },
  "news_queue": [
   {
@@ -1005,6 +1008,26 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5WjFCMjBvaThGbmhyNVAtdDB1OE9iaDF5VGZUaUx5ZVRjLTI5X2ZRNWZ5SDl3c1NjOWRYZ2lYWXZXTS1aMFE3OXZWQmZuYjlSVlBvQjdXUXY2Z9IBWEFVX3lxTE9hbG9EY1VxS0hYZnBnZnE0SEh0bjF0ZWk3V1BHeXdMUWxlT1BOYnRrQ2FuX1YxbjVHTHk0cUh1Wk1SNkt5NWlxNmotcDNieHZxX1FVTm45NFU?oc=5",
    "sort_key": "Thu, 17 Sep 2026 00:51:05 GMT"
+  },
+  {
+   "id": "news:354b4de23374fd7a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "달러 안 거치고 엔화→원화로…교보생명, 보험업계 첫 스테이블코인 송금 실증",
+   "source": "헤럴드경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qamJ3LV81NDZKeVE4VnYwZmJ0WDQzSjZHYlNzTU92dVZTeXd0eHVJX1lta3owS21wRlVGa0hjZzZCNjBIQ1o2RENiYnVHMm0zWjFqSFJn?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 00:57:54 GMT"
+  },
+  {
+   "id": "news:a535c3a1af7dbe7f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[카드] 삼성생명, 소비자보호 실천 성과 공유…금융소비자의 날 개최",
+   "source": "프라임경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNVZDS0hMT1VZVUhNTXNTZ3VpdnpzdFpUZlNGWWEtOWtFZEpNM1A0QjA3WHhaaTRJb3g4ekxpVFEwbkM3MWVtUS1QQnRldnVhb0ZPVENjNXhGR1NXRHdtc1lSb19Wdw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 01:13:32 GMT"
   }
  ],
  "initialized": true,
