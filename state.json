@@ -814,10 +814,10 @@
   "news:a3ea3df485858065": 1789633290,
   "news:13696985ea865f4d": 1789633290,
   "news:e9f8a901ae94328e": 1789633291,
-  "news:607c141921f6efb3": 1789633291
+  "news:607c141921f6efb3": 1789633291,
+  "news:b45fccbbcea5bc6e": 1789634582
  },
  "stories": {
-  "'애큐온 패키지 인수' 한화생명, '아픈손가락' 저축은행 골머리": 1789374177,
   "대전동부소방서, 한화생명볼파크 재난 대비 현지적응훈련 실시": 1789375496,
   "삼성생명, 해외서 성장동력 확보하나... M&A 보폭 넓힌다": 1789379194,
   "“보험금 밀려 끊겼는데…” 삼성생명, 앱 켜고 버튼 누르니 보험 ‘부활’": 1789384783,
@@ -968,7 +968,8 @@
   "'저PBR 낙인' 한 달 반 남았다…한화생명·손보, 밸류업 해법은": 1789631897,
   "주요 GA 8월 실적, 전월比 1.9%↓…한화생명금융서비스 101억·인카금융서비스 설계사 증가폭 최대·사랑모아금융서비스 생산성 1위": 1789631897,
   "교보생명, SBI그룹과 스테이블코인 실증 완료": 1789633291,
-  "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개": 1789633291
+  "\"고객 목소리가 제도 바꾼다\"···삼성생명, 업계 첫 '백서' 공개": 1789633291,
+  "[금융계 동향] 한화생명·신한라이프·삼성생명": 1789634582
  },
  "news_queue": [
   {
@@ -1340,6 +1341,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVXB4ZUlUWWh3dTBZUTM3eTBSbG9XNWNqenl1SlNRY1JTVTVDMU1DMzFEVlpoeDR6T3Y4Rm5vcmZwWlY5bjBhLVdyZlFYbVdvNHl4V0l6RkpQUQ?oc=5",
    "sort_key": "Thu, 17 Sep 2026 07:58:30 GMT"
+  },
+  {
+   "id": "news:b45fccbbcea5bc6e",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[금융계 동향] 한화생명·신한라이프·삼성생명",
+   "source": "민주신문",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tREE1djBEWjRwSGFvWWQ5ZDF6M083TW1QdzZCbjhfcUpmYXEtTlVJNU8wMG13Zy1HeVJUYlQwalpRb2RMRVM5YU1fOEJ1UnBXWEh5NDFyeGpxZUo3NWlXcnB5bFE1dE3SAWtBVV95cUxPSTIwOE9oM1NiS1gzOW0wYm1EQlNmQkJxa1paTUpfeV9aYW5xY2xsTXZ1ekowNVl6RmhfbjlzSGpmMWxQTzlFdDgxanpfYmp0Q09FNGVJTURZekNjMTl6WHJuMGE4bG1SRVhlYw?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 08:08:46 GMT"
   }
  ],
  "initialized": true,
