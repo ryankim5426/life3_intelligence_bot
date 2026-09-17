@@ -790,7 +790,13 @@
   "news:ec94c5ea0f4ba89d": 1789622094,
   "news:9e14c6bfe2594f38": 1789623153,
   "news:c8e90ffd3bf53eca": 1789623153,
-  "news:a226fa69cd6841e4": 1789623153
+  "news:a226fa69cd6841e4": 1789623153,
+  "news:964b95c5a6c7fe26": 1789626042,
+  "news:3b5ab512da5be4ee": 1789626042,
+  "news:9229c3873e7d9a8e": 1789626042,
+  "news:ad93a58582153179": 1789626042,
+  "news:5afa8e6c64347156": 1789626042,
+  "news:bb464540f502ef6e": 1789626042
  },
  "stories": {
   "삼성생명, 종이없는 디지털 보험 서비스 선도...\"모바일에서도 보험계약 부활\"": 1789366916,
@@ -936,7 +942,9 @@
   "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581,
   "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축": 1789619657,
   "[금융계 동향] 교보생명·KB국민은행·우리금융그룹": 1789620698,
-  "신창재 디지털 전략 새판…교보라플 23만 고객 교보생명과 묶는다": 1789622094
+  "신창재 디지털 전략 새판…교보라플 23만 고객 교보생명과 묶는다": 1789622094,
+  "삼성생명·화재 직원들, 법원 상대 강력한 '법리 투쟁'에 나선 까닭?": 1789626042,
+  "교보생명, 디지털 자회사 흡수합병…신용도 영향 '제한적'": 1789626042
  },
  "news_queue": [
   {
@@ -1188,6 +1196,26 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KV0FzcHlzdzdUaDhRQ0JyVXkwZndITGZPWWptVjZTRGZZT3hDNWo5eFhDR1ZRamFEOFV0bWJiV1RxS2gtMXBkTTIxUXhkM3VMdGdUVVNELVJMMlRXWmF0Q1FlYzJ1UTg0X2E0bEh5dGcwLTBu?oc=5",
    "sort_key": "Thu, 17 Sep 2026 04:58:26 GMT"
+  },
+  {
+   "id": "news:5afa8e6c64347156",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재 직원들, 법원 상대 강력한 '법리 투쟁'에 나선 까닭?",
+   "source": "논객닷컴",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fcWhic3dBdHRUenVBRE5pRG5aM1dEbWlkV3VUT3Fkc2R1RXk4STc2OWNTVFBkY0cxQlU4RW5ZQWRlUFJzLUV5bnplVHNyWUEzMGt5ZjhtNEVYSlVjdEFYMFZyc2o5SE5Cc3Fn0gFrQVVfeXFMTV9xaGJzd0F0dFR6dUFETmlEblozV0RtaWRXdVRPcWRzZHVFeThJNzY5Y1NUUGRjRzFCVThFbllBZGVQUnMtRXluemVUc3JZQTMwa3lmOG00RVhKVWN0QVgwVnJzajlITkJzcWc?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 02:21:24 GMT"
+  },
+  {
+   "id": "news:bb464540f502ef6e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 디지털 자회사 흡수합병…신용도 영향 '제한적'",
+   "source": "리드경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZXZSYmJFTjdtMFJqUHdJZnFTWWdnOUtJbW5OTVFPcVNTUFZ3Q2p2dk95cjNTb1p1VjdoYTlFTGdvZlFZSFdSS3hRZ3ctYUdySUsyODk0Q0VqeDBybFQyNzUycURNeXBSZFdrRWZrNA?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 05:35:00 GMT"
   }
  ],
  "initialized": true,
