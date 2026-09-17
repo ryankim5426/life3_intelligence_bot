@@ -783,10 +783,10 @@
   "news:3d1c4b4839e28173": 1789614937,
   "news:9e8fac6191d05596": 1789616043,
   "news:b9cbdf739717e472": 1789618571,
-  "news:6c4b01a357870d24": 1789618571
+  "news:6c4b01a357870d24": 1789618571,
+  "news:9330b058b81812fc": 1789619657
  },
  "stories": {
-  "[보험브리핑]삼성생명·한화손보·AIA생명·NH농협생명": 1789359678,
   "삼성생명, ‘모바일 보험 시스템’ 도입": 1789361070,
   "삼성생명, '보험계약 부활 모바일 서비스 도입'..간편서비스 확산": 1789363169,
   "삼성생명, 종이없는 디지털 보험 서비스 선도...\"모바일에서도 보험계약 부활\"": 1789366916,
@@ -929,7 +929,8 @@
   "[이슈] 교보생명, 왜 달러를 건너뛰었나...韓·日 '토큰 자금이전' 실증": 1789611590,
   "생명보험주 동반 강세…한화생명 5%대·미래에셋생명 3%대 상승, 삼성생명도 오름세": 1789612613,
   "[초점] IBK 빠지고 한화생명 진입…강남 에이프로스퀘어 차환 '미스터리'": 1789612613,
-  "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581
+  "교보생명, 달러 우회 없는 한·일 자금이전 구조 검증": 1789613581,
+  "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축": 1789619657
  },
  "news_queue": [
   {
@@ -1151,6 +1152,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95N1E5Vks2aTBtSFIzNVVGZHI0eG53VVFBcHVRMTZ5NjgzT3hiZnROaEJzamZIb2o4LVRKRkVXZlJRcm1uWXBMLUZHQ0pKYlNpRHZRdGY3NGU2YWJzMU9iOGtSRDJxdUVjS0NF?oc=5",
    "sort_key": "Thu, 17 Sep 2026 02:38:21 GMT"
+  },
+  {
+   "id": "news:9330b058b81812fc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "세포아소프트, 삼성생명 문서 업무 디지털화 지원…전자인장·계약관리 시스템 구축",
+   "source": "전자신문",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OGpycTdqNXFNZktZd1gyRUkyQW5rRkdoMThXeFZTMjBPanZVRUtjMWZGalVyMDhYRW9ndGtKYWp4a2lYbENlalBMejN6UQ?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 04:26:38 GMT"
   }
  ],
  "initialized": true,
