@@ -840,7 +840,8 @@
   "news:4e6da4dbab8e4091": 1789692386,
   "news:4c4f4fd4339a8693": 1789693198,
   "news:3b84b99321e3ce65": 1789693198,
-  "news:9641baf5890eac79": 1789696190
+  "news:9641baf5890eac79": 1789696190,
+  "news:6580383eba017353": 1789698322
  },
  "stories": {
   "삼성생명, 건강관리 리워드 더한 「삼성 팩 건강보험 Care+」 출시": 1789439192,
@@ -997,7 +998,8 @@
   "삼성생명 투자분석 2026. 09. 17": 1789676369,
   "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386,
   "자회사 장부가 1186억 낮춘 교보생명…라이프플래닛은 흡수": 1789693198,
-  "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198
+  "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198,
+  "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322
  },
  "news_queue": [
   {
@@ -1029,6 +1031,16 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mZkdkcTJ5VHg5aTZCZzlKWGxrSWIweFp3U0VKeXhEUlNfZ0hLS0JlWFFDMkZCLXFsRWwzQ1pnV2ZtR3g5ZWktY2VYeEpSemQxRzJGc2R1eTFkWHZtczlUX3RHQnd4ZlowSkhiZ2V2dlVMQQ?oc=5",
    "sort_key": "Fri, 18 Sep 2026 00:45:00 GMT"
+  },
+  {
+   "id": "news:6580383eba017353",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외",
+   "source": "서울파이낸스",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jWWhxc0U0SVBOOGhjcTRNN1d3eHZVWTl0NHJVZVJ6Qk80QVhpcVpKMzIwcXRXN1ZubHRDelBEZEY4RDFqWV9YX0M3OFoyZW5Ib1lvcWFWcmhWMDF0N2NYN1FlOTZTWXZoNUE?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 01:38:15 GMT"
   }
  ],
  "initialized": true,
