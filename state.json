@@ -844,7 +844,10 @@
   "news:6580383eba017353": 1789698322,
   "news:9842654f1880b000": 1789706547,
   "news:c1c36df60b98fcfc": 1789707472,
-  "news:94d5da8bc1b5a7fe": 1789709560
+  "news:94d5da8bc1b5a7fe": 1789709560,
+  "news:5df9c513d4805c1e": 1789710577,
+  "news:a53f156f0a35d0ae": 1789710577,
+  "news:d6ab8b301557defd": 1789710577
  },
  "stories": {
   "사진=삼성생명": 1789451955,
@@ -997,7 +1000,8 @@
   "자회사 장부가 1186억 낮춘 교보생명…라이프플래닛은 흡수": 1789693198,
   "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198,
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
-  "삼성화재에 체면 구긴 삼성생명…건강보험으로 '반격'": 1789707472
+  "삼성화재에 체면 구긴 삼성생명…건강보험으로 '반격'": 1789707472,
+  "9년째 안 판 한화생명 지분…예보, 올해는 매각 나서나": 1789710577
  },
  "news_queue": [
   {
@@ -1049,6 +1053,16 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUXzFkaXVfWUZ5YlMzVzNnNEJJdUhaVVlWbVhqdG5zSzA1VzdDbkVYeW4wXy0yeGZVSWM3MldETTRSclBEdWZNMjN5c3k2WWM?oc=5",
    "sort_key": "Fri, 18 Sep 2026 04:43:04 GMT"
+  },
+  {
+   "id": "news:d6ab8b301557defd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "9년째 안 판 한화생명 지분…예보, 올해는 매각 나서나",
+   "source": "딜사이트",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Oc3hKX19OQnlGTUxLNlBJWk9QV2p2X05GZXRtVkVmYVItRmdxNkFsaGpfaEotVTRMbmhqTlhGMHdiRWxEZHR3VWNrS0QwaXc?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 03:00:00 GMT"
   }
  ],
  "initialized": true,
