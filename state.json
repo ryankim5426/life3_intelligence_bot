@@ -847,7 +847,9 @@
   "news:94d5da8bc1b5a7fe": 1789709560,
   "news:5df9c513d4805c1e": 1789710577,
   "news:a53f156f0a35d0ae": 1789710577,
-  "news:d6ab8b301557defd": 1789710577
+  "news:d6ab8b301557defd": 1789710577,
+  "news:fd344a2c1652002d": 1789719565,
+  "news:129178b0ad8cccf0": 1789719565
  },
  "stories": {
   "삼성생명, ‘건강관리 리워드로 보험료 납부’ 혜택": 1789461449,
@@ -988,7 +990,9 @@
   "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198,
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
   "삼성화재에 체면 구긴 삼성생명…건강보험으로 '반격'": 1789707472,
-  "9년째 안 판 한화생명 지분…예보, 올해는 매각 나서나": 1789710577
+  "9년째 안 판 한화생명 지분…예보, 올해는 매각 나서나": 1789710577,
+  "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
+  "삼성생명·삼성화재, 9조원 규모의 해외 M&A 추진": 1789719565
  },
  "news_queue": [
   {
@@ -1050,6 +1054,26 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Oc3hKX19OQnlGTUxLNlBJWk9QV2p2X05GZXRtVkVmYVItRmdxNkFsaGpfaEotVTRMbmhqTlhGMHdiRWxEZHR3VWNrS0QwaXc?oc=5",
    "sort_key": "Fri, 18 Sep 2026 03:00:00 GMT"
+  },
+  {
+   "id": "news:fd344a2c1652002d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 4700억 자본증권 '환승' 완료",
+   "source": "프레스맨",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSnlJTHNyY3MyUTk2Ml94TDhQQTRzZjVwU19fQ0lteUVadU5yaENybUdWenBsSlVxTFN1UnZyV1A0THR4TTBfM1BJVVlTYkwyN3BDZ2RsUkUweTdEcGtoS3FtSzFZSDQzOXc?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 07:55:55 GMT"
+  },
+  {
+   "id": "news:129178b0ad8cccf0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·삼성화재, 9조원 규모의 해외 M&A 추진",
+   "source": "중기이코노미",
+   "date": "Wed, 16 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ERFhkUURIZHUwRmQzdWwyWkc4dXNPcm83SEsyT0VWcVg0WENWeWg4Nk9NZ0JzSlRqRW1HdmxnMzVLRU1sbEU1YTZaWU9vZ3dGSnpZSVlLVVRGRndsTFdLQnQzWEVHWjIxWEE?oc=5",
+   "sort_key": "Wed, 16 Sep 2026 08:49:35 GMT"
   }
  ],
  "initialized": true,
