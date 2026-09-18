@@ -837,7 +837,9 @@
   "news:d56261978c9dadc1": 1789687719,
   "news:2cba6242b5d0a2c5": 1789688517,
   "news:ea853920ca4f3ea8": 1789692386,
-  "news:4e6da4dbab8e4091": 1789692386
+  "news:4e6da4dbab8e4091": 1789692386,
+  "news:4c4f4fd4339a8693": 1789693198,
+  "news:3b84b99321e3ce65": 1789693198
  },
  "stories": {
   "교보생명 대산신용호기념사업회, '제21회 대산보험대상' 후보자 공모": 1789434256,
@@ -993,7 +995,9 @@
   "적자 자회사 품는 교보생명, 종합금융그룹 재편 속도": 1789657163,
   "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'": 1789672914,
   "삼성생명 투자분석 2026. 09. 17": 1789676369,
-  "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386
+  "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386,
+  "자회사 장부가 1186억 낮춘 교보생명…라이프플래닛은 흡수": 1789693198,
+  "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198
  },
  "news_queue": [
   {
@@ -1005,6 +1009,26 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNEs3QjJ5QVl5dXVoZ0s5eXJrU1pRWnlabmoxUUVOSmRkWW50VzdQV21zUXY4R0ZjdHBEMjdoajIyNEo3RjViWjlKTE1pWEs1Nm9kR0hVSzh5QUYyQ0puT2t3NW5LSVNZMjM5Q2kyMNIBb0FVX3lxTE9HNEs3QjJ5QVl5dXVoZ0s5eXJrU1pRWnlabmoxUUVOSmRkWW50VzdQV21zUXY4R0ZjdHBEMjdoajIyNEo3RjViWjlKTE1pWEs1Nm9kR0hVSzh5QUYyQ0puT2t3NW5LSVNZMjM5Q2kyMA?oc=5",
    "sort_key": "Thu, 17 Sep 2026 09:15:06 GMT"
+  },
+  {
+   "id": "news:4c4f4fd4339a8693",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "자회사 장부가 1186억 낮춘 교보생명…라이프플래닛은 흡수",
+   "source": "koreareport.co.kr",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBncjdhUGowYWFCcFlIWFVWbWtkMGQ5QlhQeXVmT014TnFzbnJFWDBPRndNOWttWVYzNExpX3Q3QUdoX2h3RHM5RzkxLWFlM2ZrNUwwckExMm5Cdk1BRTUxQU9hNklLUjRiY1BZYTluUFA?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 00:41:23 GMT"
+  },
+  {
+   "id": "news:3b84b99321e3ce65",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록",
+   "source": "약업신문",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mZkdkcTJ5VHg5aTZCZzlKWGxrSWIweFp3U0VKeXhEUlNfZ0hLS0JlWFFDMkZCLXFsRWwzQ1pnV2ZtR3g5ZWktY2VYeEpSemQxRzJGc2R1eTFkWHZtczlUX3RHQnd4ZlowSkhiZ2V2dlVMQQ?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 00:45:00 GMT"
   }
  ],
  "initialized": true,
