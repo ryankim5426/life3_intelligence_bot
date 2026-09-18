@@ -853,7 +853,8 @@
   "news:b3a4e1c6646c02d7": 1789725015,
   "news:97eac8e5e09adc7f": 1789725833,
   "news:51debb44d68581e5": 1789727040,
-  "news:4d84bf3cff82c589": 1789730262
+  "news:4d84bf3cff82c589": 1789730262,
+  "news:2d2534c16aa4b475": 1789731216
  },
  "stories": {
   "교보생명, 교보라플 흡수합병…\"디지털보험사 성장 어렵다 판단\" - 머니투데이": 1789472143,
@@ -984,7 +985,8 @@
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
   "삼성생명·삼성화재, 9조원 규모의 해외 M&A 추진": 1789719565,
   "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
-  "교보생명·SBI, ‘달러 없는 한일 송금’ 검증": 1789727040
+  "교보생명·SBI, ‘달러 없는 한일 송금’ 검증": 1789727040,
+  "교보라이프플래닛 역사속으로…디지털 전략 이끈 차남 신중현 상무 교보생명 글로벌 역할 커지나 [교보생명 3세 경영]": 1789731216
  },
  "news_queue": [
   {
@@ -1086,6 +1088,16 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UYmtvSk1oWkN4UWpxczdmSWcydXpsLXBYdUFNTlFpbXk3SzJoMHpVdjJXYlZTT2FFM1JFT3h3TzJNSFhKb3JYdk1yelFSUUVrQjhJeEFPLW1CYldob0o1NHdZRGpRaUg4bjFn0gFrQVVfeXFMTlRia29KTWhaQ3hRanFzN2ZJZzJ1emwtcFh1QU1OUWlteTdLMmgwelV2MldiVlNPYUUzUkVPeHdPMk1IWEpvclh2TXJ6UVJRRWtCOEl4QU8tbUJiV2hvSjU0d1lEalFpSDhuMWc?oc=5",
    "sort_key": "Fri, 18 Sep 2026 02:27:18 GMT"
+  },
+  {
+   "id": "news:2d2534c16aa4b475",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보라이프플래닛 역사속으로…디지털 전략 이끈 차남 신중현 상무 교보생명 글로벌 역할 커지나 [교보생명 3세 경영]",
+   "source": "한국금융신문",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVW1jd0F2bWNpbW1sX2pFNUhuNlBUQ0V3QlVvV2d4dG5IeHVxWEh4Ry1DazdudEh5eURFVng2N0JOQktYd3BLemEtN0dKdFdkazQxUEJ1VXNvQ0VWR2VMT2dwV3FYTVZJWV9nMkJReU1ucEwwbGhMUUs4dXc?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 11:15:54 GMT"
   }
  ],
  "initialized": true,
