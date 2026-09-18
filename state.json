@@ -856,10 +856,11 @@
   "news:4d84bf3cff82c589": 1789730262,
   "news:2d2534c16aa4b475": 1789731216,
   "news:49cec2379d0c6766": 1789732119,
-  "news:b0eb816ef363e6e6": 1789732119
+  "news:b0eb816ef363e6e6": 1789732119,
+  "news:aaef44ea0cf4139b": 1789748058,
+  "news:70f63447f99f6052": 1789748058
  },
  "stories": {
-  "[부고] 남승우(한화생명 홍보실 파트장)씨 본인상 By EBN": 1789487525,
   "(단독)삼성생명, 요양보호사 양성학교 ‘글로케어’ 지분 투자": 1789507050,
   "코스피 하락…삼성전기 삼성생명 약세, 삼성전자우는 강세": 1789507050,
   "삼성생명·화재에 내려진 빅딜 특명…사장 임기 연장 분수령 될까": 1789510995,
@@ -983,7 +984,9 @@
   "삼성생명·삼성화재, 9조원 규모의 해외 M&A 추진": 1789719565,
   "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
   "교보생명·SBI, ‘달러 없는 한일 송금’ 검증": 1789727040,
-  "교보라이프플래닛 역사속으로…디지털 전략 이끈 차남 신중현 상무 교보생명 글로벌 역할 커지나 [교보생명 3세 경영]": 1789731216
+  "교보라이프플래닛 역사속으로…디지털 전략 이끈 차남 신중현 상무 교보생명 글로벌 역할 커지나 [교보생명 3세 경영]": 1789731216,
+  "삼성전자·SK하이닉스 '뛰자', 코스피 '활짝'...삼성생명과 현대차는?": 1789748058,
+  "교보생명, 13년 만에 디지털 자회사 흡수": 1789748058
  },
  "news_queue": [
   {
@@ -1095,6 +1098,26 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVW1jd0F2bWNpbW1sX2pFNUhuNlBUQ0V3QlVvV2d4dG5IeHVxWEh4Ry1DazdudEh5eURFVng2N0JOQktYd3BLemEtN0dKdFdkazQxUEJ1VXNvQ0VWR2VMT2dwV3FYTVZJWV9nMkJReU1ucEwwbGhMUUs4dXc?oc=5",
    "sort_key": "Fri, 18 Sep 2026 11:15:54 GMT"
+  },
+  {
+   "id": "news:aaef44ea0cf4139b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성전자·SK하이닉스 '뛰자', 코스피 '활짝'...삼성생명과 현대차는?",
+   "source": "초이스경제",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtME9FQTk1VkZVWHc3YzcwbUZIOHJOZGl0THZOZDM3ZkdmZVdSTk5rbTRFaXlQRjhnQmxRa2RZRk1vQkllSnpnVVJMVmcwa3ZyWEk1WWE3WVItam9wemFfU0JOYW1MZmROUHVfNDdRcjbSAXNBVV95cUxNSXJFLVA4UVdEOTFuOWZZb0JiZnRGZzJEeW92Q1dGUTdtS185QjQwVC11MGk2ZldxeW10R2FGTVpMbnczNDhxQ1dnbVFIWWFBMkNQMmpIVmg2RmtiNEplZV9YQW9qb3VWZmlMeWx1cjhwcVlJ?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 07:06:11 GMT"
+  },
+  {
+   "id": "news:70f63447f99f6052",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 13년 만에 디지털 자회사 흡수",
+   "source": "소년한국일보",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4aUpuYmtKaGl5VWQ5aUNSaklLZTJqZERkX3dNZTdqR1F1Z2ZGWVhfeDg1SGR2X0k4Q2hjVEpZN2hNWnkwT3JUUk84MllwX1B6SnFkRzlNNktqTHczbXFQYlV6N2ZrRmthVnhaQWtWVjXSAXBBVV95cUxQOGlKbmJrSmhpeVVkOWlDUmpJS2UyamREZF93TWU3akdRdWdmRllYX3g4NUhkdl9JOENoY1RKWTdoTVp5ME9yVFJPODJZcF9QekpxZEc5TTZLakx3M21xUGJVejdma0ZrYVZ4WkFrVlY1?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 08:41:11 GMT"
   }
  ],
  "initialized": true,
