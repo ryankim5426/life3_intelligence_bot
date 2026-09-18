@@ -863,11 +863,10 @@
   "news:f31cf260b5cfa88a": 1789752062,
   "news:d9ae4aca2cdac20a": 1789752062,
   "news:fd2c2ca380851842": 1789763537,
-  "news:fb9dac5a70d6e145": 1789763537
+  "news:fb9dac5a70d6e145": 1789763537,
+  "news:43e2287d21716a63": 1789766543
  },
  "stories": {
-  "(단독)삼성생명, 요양보호사 양성학교 ‘글로케어’ 지분 투자": 1789507050,
-  "코스피 하락…삼성전기 삼성생명 약세, 삼성전자우는 강세": 1789507050,
   "삼성생명·화재에 내려진 빅딜 특명…사장 임기 연장 분수령 될까": 1789510995,
   "따로 키운 디지털, 이제 한몸으로…교보생명·라이프플래닛 13년 만에 통합": 1789512061,
   "\"저부터 먼저...모든 선수들이 내가 해야겠다는 마음 가져야 한다\" 삼성생명 NEW 캡틴 김아름이 강조한 부분은?": 1789516086,
@@ -995,7 +994,8 @@
   "[현장체크] 한화생명, 현대해상, ABL생명": 1789752062,
   "교보생명·SBI, 달러 없는 엔화·원화 토큰 결제 실증": 1789752062,
   "[8월 GA 생보사 실적 M/S] 지금융코리아 8월 생보 판도 급변…동양생명 22.6% 선두, 삼성생명 비중 확대": 1789763537,
-  "[8월 GA 생보사 실적 M/S] 지에이코리아 8월 생보 판도 재편…동양생명 24.3% 선두, 삼성생명 3계단 도약": 1789763537
+  "[8월 GA 생보사 실적 M/S] 지에이코리아 8월 생보 판도 재편…동양생명 24.3% 선두, 삼성생명 3계단 도약": 1789763537,
+  "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락": 1789766543
  },
  "news_queue": [
   {
@@ -1167,6 +1167,16 @@
    "date": "Fri, 18 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kb2dQZWxOam1pdnlqNjRodGVib3ZBcU1vTTJjZENtVWFQMnNTc0VQZWxJcHRtRUN2T0RudG1Nd2V0WnJJWnBvR3RQTFM4Y2pXVUhOMXVKaGl1ODZEWnEyZko5YTd1clE5VTFSdkVXcw?oc=5",
    "sort_key": "Fri, 18 Sep 2026 20:23:02 GMT"
+  },
+  {
+   "id": "news:43e2287d21716a63",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락",
+   "source": "보험저널",
+   "date": "Fri, 18 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNFUyNmU0WlRrTlFtaS1KOUVJYzJfekRXWXVydndycGk2cVNlNVB1dlFscmdfLUlIU1ZiOGVWaXRaam0tRndkOFFJa2F4OWZSbTktczR5QXFHcWtDQWw4UmtETS1UNHYwcFhFOUNWUQ?oc=5",
+   "sort_key": "Fri, 18 Sep 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
