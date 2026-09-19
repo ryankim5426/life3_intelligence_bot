@@ -865,12 +865,10 @@
   "news:fd2c2ca380851842": 1789763537,
   "news:fb9dac5a70d6e145": 1789763537,
   "news:43e2287d21716a63": 1789766543,
-  "news:10f4d2d6e20a40d8": 1789783384
+  "news:10f4d2d6e20a40d8": 1789783384,
+  "news:51d57d9fc50db706": 1789784586
  },
  "stories": {
-  "한화생명, 소비자보호 '현장 실행' 강화…CCO가 전국 29개 기관 찾는다": 1789525166,
-  "교보생명이 자회사 라이프플래닛을 흡수하는 이유는?": 1789525166,
-  "교보생명, 우수고객 350명 초청해 강연 콘서트": 1789525166,
   "[8월 생보사 GA M/S] 삼성생명...지에이코리아 5억3600만원·17.1% 선두, 상위 3사 32.4%...에이플러스 7계단": 1789526169,
   "'신창재의 꿈' 라이프플래닛 13년 만에 마침표…교보생명 품으로": 1789526169,
   "“보험 10년 뒤 미리 본다”… 삼성생명, 5개 대학과 ‘미래 빅테크’ 전격 공개": 1789527102,
@@ -976,7 +974,8 @@
   "[8월 GA 생보사 실적 M/S] 지금융코리아 8월 생보 판도 급변…동양생명 22.6% 선두, 삼성생명 비중 확대": 1789763537,
   "[8월 GA 생보사 실적 M/S] 지에이코리아 8월 생보 판도 재편…동양생명 24.3% 선두, 삼성생명 3계단 도약": 1789763537,
   "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락": 1789766543,
-  "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384
+  "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384,
+  "[금주의 금융 톡톡] 보험사가 보험만 파는 게 아니다… 삼성생명·삼성화재가 ‘삶과 위험’을 관리하는 법": 1789784586
  },
  "news_queue": [
   {
@@ -988,6 +987,16 @@
    "date": "Thu, 17 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTUR5azVPVXExMGwyUG02TUdhaDNQR2tWaERJdXJlNWthUExUYWxYMkFBX2NnNHR6U242N0JZTndpS183WTEtbzJjcWJtU2tXM1hUek1Kd2ZvNmhldVpubjR1TjJBT2p3N2dJN1ZUd3DSAXNBVV95cUxPY09QRXR0c3JmTEJ4VzNHVVdPd251NzRlMEs2cUlBOThUZHZzOFoyYzBmb1hnMDJXU2JEd1FZcHl4S1lFUm8ySTZfbTVGcy1hMl9xQnZaSktEeXBnME83bmIzdFlyaW42ZTRTRUxObnVYU253?oc=5",
    "sort_key": "Thu, 17 Sep 2026 02:46:35 GMT"
+  },
+  {
+   "id": "news:51d57d9fc50db706",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금주의 금융 톡톡] 보험사가 보험만 파는 게 아니다… 삼성생명·삼성화재가 ‘삶과 위험’을 관리하는 법",
+   "source": "미디어워치",
+   "date": "Sat, 19 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qTFdKV2RhVkNIcVdkTE9qaHlxTmxXNVpzRWZLNDhYRzFYakpDU21LdS01UkdJUUhWeFhsczVKVUdPOV9vWHZIN254cGY1dnFtemxKRDZJLWg2MGJWZk9IVlc1RQ?oc=5",
+   "sort_key": "Sat, 19 Sep 2026 01:08:01 GMT"
   }
  ],
  "initialized": true,
