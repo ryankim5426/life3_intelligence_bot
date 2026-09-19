@@ -864,11 +864,10 @@
   "news:d9ae4aca2cdac20a": 1789752062,
   "news:fd2c2ca380851842": 1789763537,
   "news:fb9dac5a70d6e145": 1789763537,
-  "news:43e2287d21716a63": 1789766543
+  "news:43e2287d21716a63": 1789766543,
+  "news:10f4d2d6e20a40d8": 1789783384
  },
  "stories": {
-  "삼성생명, IT분야 대학생 산학협력…데모데이 개최": 1789523901,
-  "한화생명, 전국 29개 영업현장 순회…소비자보호 강화": 1789523901,
   "한화생명, 소비자보호 '현장 실행' 강화…CCO가 전국 29개 기관 찾는다": 1789525166,
   "교보생명이 자회사 라이프플래닛을 흡수하는 이유는?": 1789525166,
   "교보생명, 우수고객 350명 초청해 강연 콘서트": 1789525166,
@@ -976,9 +975,21 @@
   "교보생명·SBI, 달러 없는 엔화·원화 토큰 결제 실증": 1789752062,
   "[8월 GA 생보사 실적 M/S] 지금융코리아 8월 생보 판도 급변…동양생명 22.6% 선두, 삼성생명 비중 확대": 1789763537,
   "[8월 GA 생보사 실적 M/S] 지에이코리아 8월 생보 판도 재편…동양생명 24.3% 선두, 삼성생명 3계단 도약": 1789763537,
-  "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락": 1789766543
+  "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락": 1789766543,
+  "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:10f4d2d6e20a40d8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?",
+   "source": "초이스경제",
+   "date": "Thu, 17 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTUR5azVPVXExMGwyUG02TUdhaDNQR2tWaERJdXJlNWthUExUYWxYMkFBX2NnNHR6U242N0JZTndpS183WTEtbzJjcWJtU2tXM1hUek1Kd2ZvNmhldVpubjR1TjJBT2p3N2dJN1ZUd3DSAXNBVV95cUxPY09QRXR0c3JmTEJ4VzNHVVdPd251NzRlMEs2cUlBOThUZHZzOFoyYzBmb1hnMDJXU2JEd1FZcHl4S1lFUm8ySTZfbTVGcy1hMl9xQnZaSktEeXBnME83bmIzdFlyaW42ZTRTRUxObnVYU253?oc=5",
+   "sort_key": "Thu, 17 Sep 2026 02:46:35 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-19"
 }
