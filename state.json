@@ -877,7 +877,9 @@
   "news:2b05c079328026af": 1789881451,
   "news:974eb0e785d3dda7": 1789890511,
   "news:9e05421d804c62e6": 1789917414,
-  "news:b20bcf9a5131ba07": 1789921397
+  "news:b20bcf9a5131ba07": 1789921397,
+  "news:36a10404f6864d47": 1789939122,
+  "news:2be957cbc56dd6ba": 1789939123
  },
  "stories": {
   "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386,
@@ -907,7 +909,8 @@
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
   "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
-  "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397
+  "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397,
+  "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여": 1789939123
  },
  "news_queue": [
   {
@@ -969,6 +972,16 @@
    "date": "Sun, 20 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nYTJnSWRfa3FsWTdYUGlXSHNlSmVUNHEzRmNadjBNby1WQW4tdS1YTXotZE5BdE9iOFhxaDNGRlJwQmFsZ3ZrVnRFSndmbFVxYUNDWlZwVjAweE9ocGJDc29MbjhfaF9Ncnc?oc=5",
    "sort_key": "Sun, 20 Sep 2026 16:03:58 GMT"
+  },
+  {
+   "id": "news:2be957cbc56dd6ba",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여",
+   "source": "소비자가 만드는 신문",
+   "date": "Sun, 20 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZEI5Vm5KYkVLNDlUM2l1YzNwV2NzcVRaeXhJVjVTV25JWTkzbFJFN09sMk5vQjQ4VVNtOTBTNzk2dkNwQkNSVndXZ1JaQTRrbUNxZ2h0RVUtQmNuUzE4LVkyaWQ0eVVQeGN3SVFsc2d4ZFk?oc=5",
+   "sort_key": "Sun, 20 Sep 2026 21:07:00 GMT"
   }
  ],
  "initialized": true,
