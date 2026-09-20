@@ -876,7 +876,8 @@
   "news:4194f61f90e54fc6": 1789875285,
   "news:2b05c079328026af": 1789881451,
   "news:974eb0e785d3dda7": 1789890511,
-  "news:9e05421d804c62e6": 1789917414
+  "news:9e05421d804c62e6": 1789917414,
+  "news:b20bcf9a5131ba07": 1789921397
  },
  "stories": {
   "外人 투매, 코스피 '약보합'..현대해상·한화생명·대한항공은 '활짝'": 1789672914,
@@ -907,7 +908,8 @@
   "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행": 1789865203,
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
-  "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414
+  "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
+  "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397
  },
  "news_queue": [
   {
@@ -959,6 +961,16 @@
    "date": "Sun, 20 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVXRYWHY0azZyOEZHX0laSHB2ekt4WXMtZ2Q0NUd3clNISGhxeXdtVUVDeEpOa2I3dHFuM1pQSmROWlZjVzlyYzBJVmpGdDFKQjBETUJvMm9COVFUS3E4ZUtrSFlpZE0tMkE4?oc=5",
    "sort_key": "Sun, 20 Sep 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:b20bcf9a5131ba07",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아",
+   "source": "이즈보험",
+   "date": "Sun, 20 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nYTJnSWRfa3FsWTdYUGlXSHNlSmVUNHEzRmNadjBNby1WQW4tdS1YTXotZE5BdE9iOFhxaDNGRlJwQmFsZ3ZrVnRFSndmbFVxYUNDWlZwVjAweE9ocGJDc29MbjhfaF9Ncnc?oc=5",
+   "sort_key": "Sun, 20 Sep 2026 16:03:58 GMT"
   }
  ],
  "initialized": true,
