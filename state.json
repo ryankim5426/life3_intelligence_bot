@@ -873,10 +873,10 @@
   "news:7cfeed642e083759": 1789861185,
   "news:1135ed9655f82a98": 1789863715,
   "news:d02cce2724a886dc": 1789865203,
-  "news:4194f61f90e54fc6": 1789875285
+  "news:4194f61f90e54fc6": 1789875285,
+  "news:2b05c079328026af": 1789881451
  },
  "stories": {
-  "신창재 디지털 전략 새판…교보라플 23만 고객 교보생명과 묶는다": 1789622094,
   "삼성생명·화재 직원들, 법원 상대 강력한 '법리 투쟁'에 나선 까닭?": 1789626042,
   "교보생명, 디지털 자회사 흡수합병…신용도 영향 '제한적'": 1789626042,
   "[보험브리핑]한화생명·흥국생명·교보생명·신한라이프": 1789627699,
@@ -921,7 +921,8 @@
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
   "[이달의 신상품] 삼성생명, ‘팩 건강보험 케어’ 출시…최대 67만원 보상": 1789861185,
   "[8월 GA 생보사 실적 M/S] 피플라이프...한화생명 홀로 74.8%, 2위 푸본현대 4.5%부터 한 자릿수": 1789863715,
-  "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행": 1789865203
+  "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행": 1789865203,
+  "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451
  },
  "news_queue": [
   {
@@ -943,6 +944,16 @@
    "date": "Sun, 20 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WaV9ELVFUNUVSc2lMMEJYWnZxMkVUSGp0MlpWbTZMZ24xM1FVUnlKOHEyVnVaeWJrMWRvY1VwV2RQS1F2UURmLUpmb280dw?oc=5",
    "sort_key": "Sun, 20 Sep 2026 00:32:36 GMT"
+  },
+  {
+   "id": "news:2b05c079328026af",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충",
+   "source": "보험저널",
+   "date": "Sun, 20 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1waVgwS0VUTFRpY05GUjJYMHN4VWRMeGFuT2xfSFNzWXp3cVUtX0xzS0ZWQjI1bG1abElad3hvUGh3Rzd3akh6S2x3YzNvV2xWaFdJbENDaHk3eXhySjE4cVA5ekZBdG5fUHFzTWxMcw?oc=5",
+   "sort_key": "Sun, 20 Sep 2026 03:05:00 GMT"
   }
  ],
  "initialized": true,
