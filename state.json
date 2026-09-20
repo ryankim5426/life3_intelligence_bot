@@ -871,12 +871,10 @@
   "news:498ae183d573c5e7": 1789804828,
   "news:f4b22dba76e8b1b2": 1789856326,
   "news:7cfeed642e083759": 1789861185,
-  "news:1135ed9655f82a98": 1789863715
+  "news:1135ed9655f82a98": 1789863715,
+  "news:d02cce2724a886dc": 1789865203
  },
  "stories": {
-  "삼성생명, 제2회 ‘금융소비자의 날’ 행사 개최": 1789604808,
-  "암 진단 고객 끝까지 챙긴 삼성생명 ‘소비자보호 히어로’": 1789604808,
-  "[8월 생보사 GA M/S] 한화생명...한화피플라이프 12.1% 선두, 지에이코리아·스카이블루·밸류마크 순": 1789604808,
   "교보생명, SBI그룹과 디지털토큰 활용 韓日 기관 자금이전 검증": 1789606186,
   "교보생명, SBI와 스테이블코인으로 한일 기관자금 이전 실증": 1789606186,
   "특징주, 한화생명-생명보험 테마 상승세에 6.16% ↑": 1789607049,
@@ -941,7 +939,8 @@
   "[금주의 금융 톡톡] 보험사가 보험만 파는 게 아니다… 삼성생명·삼성화재가 ‘삶과 위험’을 관리하는 법": 1789784586,
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
   "[이달의 신상품] 삼성생명, ‘팩 건강보험 케어’ 출시…최대 67만원 보상": 1789861185,
-  "[8월 GA 생보사 실적 M/S] 피플라이프...한화생명 홀로 74.8%, 2위 푸본현대 4.5%부터 한 자릿수": 1789863715
+  "[8월 GA 생보사 실적 M/S] 피플라이프...한화생명 홀로 74.8%, 2위 푸본현대 4.5%부터 한 자릿수": 1789863715,
+  "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행": 1789865203
  },
  "news_queue": [
   {
@@ -953,6 +952,16 @@
    "date": "Sat, 19 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0elJ2Q0YwRGtBenhnNWhWTWdMNWFQTGNOSG1xU0FGMHF0dTRCTWs0MlMtWmVkTXZHRkFzbndHU2RNX1B6Z1M3THF1VmJ3Qzl0ZU5zTVZ3WnlaZ3dIWENkYWtRTlNyTW5HbjVxWDM3Yw?oc=5",
    "sort_key": "Sat, 19 Sep 2026 23:58:00 GMT"
+  },
+  {
+   "id": "news:d02cce2724a886dc",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행",
+   "source": "전자신문",
+   "date": "Sun, 20 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WaV9ELVFUNUVSc2lMMEJYWnZxMkVUSGp0MlpWbTZMZ24xM1FVUnlKOHEyVnVaeWJrMWRvY1VwV2RQS1F2UURmLUpmb280dw?oc=5",
+   "sort_key": "Sun, 20 Sep 2026 00:32:36 GMT"
   }
  ],
  "initialized": true,
