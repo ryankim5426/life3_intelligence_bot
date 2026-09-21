@@ -898,10 +898,10 @@
   "news:eafafe4bfc0a390b": 1789955925,
   "news:e6978e09a42597d7": 1789955925,
   "news:445471eebe996a05": 1789957155,
-  "news:f0e096b65964e4bf": 1789957155
+  "news:f0e096b65964e4bf": 1789957155,
+  "news:bb24787e4b0fbb36": 1789958200
  },
  "stories": {
-  "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
   "삼성화재에 체면 구긴 삼성생명…건강보험으로 '반격'": 1789707472,
   "9년째 안 판 한화생명 지분…예보, 올해는 매각 나서나": 1789710577,
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
@@ -937,7 +937,8 @@
   "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777,
   "한화생명, 세브란스병원과 손잡고 설계사 대상 치매 특화 교육 신설": 1789954953,
   "한화생명 치매 대응, 보장에서 예방·신탁까지…설계사 교육으로 확장": 1789955925,
-  "이미지=한화생명": 1789957155
+  "이미지=한화생명": 1789957155,
+  "미래에셋자산운용·교보생명 ‘TIGER 현대차LG전자고정피지컬AI밸류체인 ETF’ 웹세미나 개최·금융서비스 전반 ISMS-P 인증 획득": 1789958200
  },
  "news_queue": [
   {
@@ -1049,6 +1050,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQOGNhelBVajhBZWxldURNY2tMcnFFejFGMDFfNlNpeVY0eUpIUi1mVVl4ay1kdVl6MUozRndrc09jQlVYc2toX1NqVm9nYU5Gc2h1akNzbmd2bnlEdTl0bFo3VjM5WnZBR01FMElzUVR6SW5YcU5MMzdlbW4yeWhNTUctWGlKVGxTeWVudHBSbTJydVAzU2VRVE4xR085U0hKbW5qYlBpbERNcHRjRVhtbWZOR3BORG1Vc3prQjBTcGh2bDdnVkJwbXFCR2xxdnhYenRqV3NMT016VW0zcktYUk9OQzE2X0lTdHg3RVNkZDFfZmNVaHJPekMtSFlYNWtYNjBmZ2xPbTVjc3Z2WWt3TzJEUFBzcGtad05USXNCQTV3cHRhejdIZEtLbVNGUndZQXlyQy1IcnppQnVTTGl2X2hlb01kY3VFcTRRWFZTdnd6aTIydzc2aHFRdW80aVp4TDI4X2o1M1N4bHRVNWRmREI4U0FPTmI2LXFRb0RQU2hIYUdfWVlNbDVRQ1VRTVFWbDRQNHZ0T0hQZEplOWxJR1JNQUtuTmhGYm1EWjVmQ1NyeWNyOWQzQjB3dUlZY2tfQnpMeDNNdGFraFpKM0pQclNJa0otNXF3Z3VjOXVGdEItLWEwQTNhVWp2TEx0Wlc5OGtKVjM5azh6YkQ3RWtHR0xuWjVVTEVvUWx4QmxzRU1IQlN0UjcybTAySUFfMGIzMVk4aQ?oc=5",
    "sort_key": "Mon, 21 Sep 2026 00:53:10 GMT"
+  },
+  {
+   "id": "news:bb24787e4b0fbb36",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "미래에셋자산운용·교보생명 ‘TIGER 현대차LG전자고정피지컬AI밸류체인 ETF’ 웹세미나 개최·금융서비스 전반 ISMS-P 인증 획득",
+   "source": "여성소비자신문",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yeXBVUWs2TWVOaXhmUUtvQ2MwcnV2U1BYejZwd0FQck05UE9SMzY0bEpNSWxtSUFOb2k1UUlqM0M5c292Xy0tYUIyLVlrLTBJWGZXZzFDdXNLWTFhRW4xMVMyaFJDdw?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 02:28:17 GMT"
   }
  ],
  "initialized": true,
