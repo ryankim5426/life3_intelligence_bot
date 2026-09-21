@@ -926,7 +926,8 @@
   "news:e83559c0d6c60cf5": 1789981123,
   "news:ce081c517180b7a3": 1789981123,
   "news:cca923b43fbc46b9": 1789981123,
-  "news:9ee882268069e87b": 1789981123
+  "news:9ee882268069e87b": 1789981123,
+  "news:13d155fc2dd30305": 1789982467
  },
  "stories": {
   "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
@@ -980,7 +981,8 @@
   "삼성생명보험, 삼성에스알에이자산운용 수익증권 1조4950억원 규모 투자 결정": 1789981123,
   "삼성생명보험, 특수관계인 SVIC81호 신기술사업투자조합에 300억원 출자 결정": 1789981123,
   "[업앤다운]보험주 상승…삼성생명↑·한화생명↓": 1789981123,
-  "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련": 1789981123
+  "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련": 1789981123,
+  "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정": 1789982467
  },
  "news_queue": [
   {
@@ -1292,6 +1294,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5dktvejJ2bGV6WXFzcUVET204eGxwb3p4RUJZZmpBUWp3S1hOdWNGY1d4d1RFdUl5eFI5UGZYVXpPV3QtRXh6OXZWLWxOYlMtcG14Vi1Ic1FRMDhEWWUwMnZudW9HMjdi?oc=5",
    "sort_key": "Mon, 21 Sep 2026 08:52:11 GMT"
+  },
+  {
+   "id": "news:13d155fc2dd30305",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정",
+   "source": "디지털투데이",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kOGVvYmZoZHNTR253YXp6ZVBONzRRMHhBdXBqT00zQTFadllKby12T2ZGcHFjZ2wzSUNyQ19HejN1UW1hUlFjSUFWWTZIOFBSRDM2cVNXZENCOS05TmoyNGpQVWFjc2g1LVVRRDhldW0tbWtFYThQYTM4TQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 09:02:05 GMT"
   }
  ],
  "initialized": true,
