@@ -932,11 +932,10 @@
   "news:bdfe863b6be6ac7e": 1789990980,
   "news:8e67f75cfdba3279": 1789991869,
   "news:33d812f637416833": 1789996791,
-  "news:8622ed7432de0d98": 1789997765
+  "news:8622ed7432de0d98": 1789997765,
+  "news:4bcdb4a0d9dc769a": 1790011851
  },
  "stories": {
-  "[현장체크] 한화생명, 현대해상, ABL생명": 1789752062,
-  "교보생명·SBI, 달러 없는 엔화·원화 토큰 결제 실증": 1789752062,
   "[8월 GA 생보사 실적 M/S] 지금융코리아 8월 생보 판도 급변…동양생명 22.6% 선두, 삼성생명 비중 확대": 1789763537,
   "[8월 GA 생보사 실적 M/S] 지에이코리아 8월 생보 판도 재편…동양생명 24.3% 선두, 삼성생명 3계단 도약": 1789763537,
   "[8월 GA 생보사 실적 M/S] 한화생명금융서비스 8월 생보 판도…KB라이프 21.2% 수성, KDB 6계단 급락": 1789766543,
@@ -985,7 +984,8 @@
   "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정": 1789982467,
   "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'": 1789985962,
   "초고령화 시대 치매 리스크 대비… 한화생명·세브란스, 설계사 전문 교육 도입": 1789991869,
-  "한화생명, 세브란스병원과 맞손…설계사 치매 전문성·신뢰도 강화": 1789996791
+  "한화생명, 세브란스병원과 맞손…설계사 치매 전문성·신뢰도 강화": 1789996791,
+  "교보생명, 임직원 새둥지에 박새 가": 1790011851
  },
  "news_queue": [
   {
@@ -1337,6 +1337,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6SG5WOUYzWUVSc0RXcVp1eUxmOV9IWHU4TUtoM3EyRk1LeHFmZjBSd3JVbzBmd1pLLWFWMWlqVjltUVZVaHVzeWZSV0NoQXdaejIxbU5Qel9MVEg2eEc4cVU4SXFhSWxRTl80?oc=5",
    "sort_key": "Mon, 21 Sep 2026 07:06:32 GMT"
+  },
+  {
+   "id": "news:4bcdb4a0d9dc769a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 임직원 새둥지에 박새 가",
+   "source": "etoday.co.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OS0wb1l1Ql96bG9tZDNrdnN0TWpNbzVmajN0SDJBT0lGVDN2c25zakxCc0JVX0lTODg0VEk2M2NjVEs1M3lPZk84bGNIUDVadlNXbHE5aXV2WG5KUzZnajJrWUEtX1d5?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 09:53:03 GMT"
   }
  ],
  "initialized": true,
