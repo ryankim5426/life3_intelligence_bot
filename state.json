@@ -927,10 +927,10 @@
   "news:ce081c517180b7a3": 1789981123,
   "news:cca923b43fbc46b9": 1789981123,
   "news:9ee882268069e87b": 1789981123,
-  "news:13d155fc2dd30305": 1789982467
+  "news:13d155fc2dd30305": 1789982467,
+  "news:06569aa43438858a": 1789985962
  },
  "stories": {
-  "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
   "교보생명·SBI, ‘달러 없는 한일 송금’ 검증": 1789727040,
   "교보라이프플래닛 역사속으로…디지털 전략 이끈 차남 신중현 상무 교보생명 글로벌 역할 커지나 [교보생명 3세 경영]": 1789731216,
   "삼성전자·SK하이닉스 '뛰자', 코스피 '활짝'...삼성생명과 현대차는?": 1789748058,
@@ -982,7 +982,8 @@
   "삼성생명보험, 특수관계인 SVIC81호 신기술사업투자조합에 300억원 출자 결정": 1789981123,
   "[업앤다운]보험주 상승…삼성생명↑·한화생명↓": 1789981123,
   "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련": 1789981123,
-  "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정": 1789982467
+  "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정": 1789982467,
+  "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'": 1789985962
  },
  "news_queue": [
   {
@@ -1304,6 +1305,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kOGVvYmZoZHNTR253YXp6ZVBONzRRMHhBdXBqT00zQTFadllKby12T2ZGcHFjZ2wzSUNyQ19HejN1UW1hUlFjSUFWWTZIOFBSRDM2cVNXZENCOS05TmoyNGpQVWFjc2g1LVVRRDhldW0tbWtFYThQYTM4TQ?oc=5",
    "sort_key": "Mon, 21 Sep 2026 09:02:05 GMT"
+  },
+  {
+   "id": "news:06569aa43438858a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'",
+   "source": "초이스경제",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEZGd5WHJyVEZBRjg2TzQ3dzIwRVdFMEt1U3k4cmMzSnJsUjlHNTlIZEZEWGpscVpJQmwyZ2RJUmd4QkV0SkhpSkdOZVpjQTdtUGU4V0NxbkJ4bmhlY3BNbEJEOS1tV1VBNEtYaHhlbzl5Y3fSAXNBVV95cUxQRGRneVhyclRGQUY4Nk80N3cyMEVXRTBLdVN5OHJjM0pybFI5RzU5SGRGRFhqbHFaSUJsMmdkSVJneEJFdEpIaUpHTmVaY0E3bVBlOFdDcW5CeG5oZWNwTWxCRDktbVdVQTRLWGh4ZW85eWN3?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 09:05:51 GMT"
   }
  ],
  "initialized": true,
