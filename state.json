@@ -887,7 +887,12 @@
   "news:3714bf983679373e": 1789951611,
   "news:875fb45f92280493": 1789951611,
   "news:1edc712a330b98a6": 1789951611,
-  "news:b1ca78b6ae0fc2a9": 1789952434
+  "news:b1ca78b6ae0fc2a9": 1789952434,
+  "news:364edce24b06e2bf": 1789953776,
+  "news:7283fbb52c6d0fc1": 1789953776,
+  "news:6b89b4ec2681081e": 1789953777,
+  "news:f6f1aa6b152f24a7": 1789953777,
+  "news:53775553cf7d5f1d": 1789953777
  },
  "stories": {
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
@@ -920,7 +925,10 @@
   "한화생명·세브란스병원, 설계사 전문성 높이는 치매 케어 과정 신설": 1789950103,
   "한화생명, 제휴 설계사에 '치매 컨설턴트' 양성 과정 도입 · 달라지는 점은?": 1789951611,
   "교보생명, 국내 최고 수준 정보보호 역량 입증...ISMS-P 인증 획득": 1789951611,
-  "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축": 1789951611
+  "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축": 1789951611,
+  "교보생명, 퇴직연금∙신탁∙펀드∙여신 정보보호 강화": 1789953777,
+  "교보생명, 퇴직연금·신탁 등으로 ISMS-P 인증 범위 확대": 1789953777,
+  "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777
  },
  "news_queue": [
   {
@@ -972,6 +980,36 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xWU9aamM2UmJtQ1BWakUyTThHQmVJcndtVzBKYUstcHd3LV9fNkI4Vk5uTDR2Rl9rSWdpMVY0ekV6cUdBVGVRTjd3UmswNFNqRTVNdlZqcUxzZmRzNzZORUVuWjZQamfSAWtBVV95cUxPMWM0a1NOY0JxWnJ5Q3o1TVdZOWhHU2JNckJGcnd2U2VVV1VTbmJPVEdVX1MtRUkybW5Wb0VvaUlQUnNnbHoxa2ZZWUdvc3FnNkpqbnlhVkMtcWhhRExZN1JpdUFfWFBjRkVWNA?oc=5",
    "sort_key": "Mon, 21 Sep 2026 00:42:07 GMT"
+  },
+  {
+   "id": "news:6b89b4ec2681081e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 퇴직연금∙신탁∙펀드∙여신 정보보호 강화",
+   "source": "아주경제",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zLXNhR2I1WFA5dXlDd2pfb1hUTnJORjVfaFhHeTJRdVdwUDh6cVJLSnhqbHBiMDhnclU3Qk1VTk9ScnlMMlBhQ0M3dEVxXy13WVJxNVI3R3R0QdIBWEFVX3lxTE02UmlNQXB2TkZEelBoSUFLU1FvU2ZYWGQ3RzR1UHA0UlIwNTdWWGdycHJoV3pRUGtFNHRieFk2RWpQRzNJU3hmc1IwTmNrQWZ1RGZYQTVnMTM?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 01:03:07 GMT"
+  },
+  {
+   "id": "news:f6f1aa6b152f24a7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 퇴직연금·신탁 등으로 ISMS-P 인증 범위 확대",
+   "source": "브릿지경제",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcVFiM1gyMU1Oc2ZjMVRoWFpqSzNDejNPM1pHWk5Fek9MVDVTV3MtWVlMeEgwa2FWNXpxLXZHdWxyTGxKV2wydERsWm5uNmswZ2ZHS09yb2dCUQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 01:07:00 GMT"
+  },
+  {
+   "id": "news:53775553cf7d5f1d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초",
+   "source": "뉴스1",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2MTlRUlM0VEV3YW5MaW13ZXFSYW83MFJzMWd2WWhIcG5pOG42aUxXWG5OQnNORWo5eGFBU0FCNW9OcDFPUVdKQXotTVJOaDA4dW1TR1NzVHdsRXBNU2N4RtIBZkFVX3lxTE9ZVDd3eWtsZkxVd0hRR1BnWnNnaHdJZ1FNSUpSZHZxSWRJSTFNUVRMZzdHQm9jZ0h2bXBKeXN0OFV3dHBzajNIeE5McWZPcm9EREtYMG1fUGJhbHVOVFhDX3hBWTVzZw?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 01:16:08 GMT"
   }
  ],
  "initialized": true,
