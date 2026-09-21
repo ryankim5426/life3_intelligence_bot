@@ -896,7 +896,9 @@
   "news:0520703950dfe96f": 1789954953,
   "news:639b73f294b31852": 1789955925,
   "news:eafafe4bfc0a390b": 1789955925,
-  "news:e6978e09a42597d7": 1789955925
+  "news:e6978e09a42597d7": 1789955925,
+  "news:445471eebe996a05": 1789957155,
+  "news:f0e096b65964e4bf": 1789957155
  },
  "stories": {
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
@@ -934,7 +936,8 @@
   "교보생명, 퇴직연금·신탁 등으로 ISMS-P 인증 범위 확대": 1789953777,
   "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777,
   "한화생명, 세브란스병원과 손잡고 설계사 대상 치매 특화 교육 신설": 1789954953,
-  "한화생명 치매 대응, 보장에서 예방·신탁까지…설계사 교육으로 확장": 1789955925
+  "한화생명 치매 대응, 보장에서 예방·신탁까지…설계사 교육으로 확장": 1789955925,
+  "이미지=한화생명": 1789957155
  },
  "news_queue": [
   {
@@ -1036,6 +1039,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xZzU5Ty1qZ0JPT3hxS3RzRWtoX3dIU3BmTWJ5TGRESnBueTFOSVAwNGNtemhScW1pSmVucEJIS3lvd2RaUXBzVkdxbVNsNExIdzR6NHRHR3hvVUxxaEE?oc=5",
    "sort_key": "Mon, 21 Sep 2026 01:57:00 GMT"
+  },
+  {
+   "id": "news:f0e096b65964e4bf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "이미지=한화생명",
+   "source": "etnews.com",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxQOGNhelBVajhBZWxldURNY2tMcnFFejFGMDFfNlNpeVY0eUpIUi1mVVl4ay1kdVl6MUozRndrc09jQlVYc2toX1NqVm9nYU5Gc2h1akNzbmd2bnlEdTl0bFo3VjM5WnZBR01FMElzUVR6SW5YcU5MMzdlbW4yeWhNTUctWGlKVGxTeWVudHBSbTJydVAzU2VRVE4xR085U0hKbW5qYlBpbERNcHRjRVhtbWZOR3BORG1Vc3prQjBTcGh2bDdnVkJwbXFCR2xxdnhYenRqV3NMT016VW0zcktYUk9OQzE2X0lTdHg3RVNkZDFfZmNVaHJPekMtSFlYNWtYNjBmZ2xPbTVjc3Z2WWt3TzJEUFBzcGtad05USXNCQTV3cHRhejdIZEtLbVNGUndZQXlyQy1IcnppQnVTTGl2X2hlb01kY3VFcTRRWFZTdnd6aTIydzc2aHFRdW80aVp4TDI4X2o1M1N4bHRVNWRmREI4U0FPTmI2LXFRb0RQU2hIYUdfWVlNbDVRQ1VRTVFWbDRQNHZ0T0hQZEplOWxJR1JNQUtuTmhGYm1EWjVmQ1NyeWNyOWQzQjB3dUlZY2tfQnpMeDNNdGFraFpKM0pQclNJa0otNXF3Z3VjOXVGdEItLWEwQTNhVWp2TEx0Wlc5OGtKVjM5azh6YkQ3RWtHR0xuWjVVTEVvUWx4QmxzRU1IQlN0UjcybTAySUFfMGIzMVk4aQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:53:10 GMT"
   }
  ],
  "initialized": true,
