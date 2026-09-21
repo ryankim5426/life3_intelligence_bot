@@ -892,7 +892,8 @@
   "news:7283fbb52c6d0fc1": 1789953776,
   "news:6b89b4ec2681081e": 1789953777,
   "news:f6f1aa6b152f24a7": 1789953777,
-  "news:53775553cf7d5f1d": 1789953777
+  "news:53775553cf7d5f1d": 1789953777,
+  "news:0520703950dfe96f": 1789954953
  },
  "stories": {
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
@@ -928,7 +929,8 @@
   "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축": 1789951611,
   "교보생명, 퇴직연금∙신탁∙펀드∙여신 정보보호 강화": 1789953777,
   "교보생명, 퇴직연금·신탁 등으로 ISMS-P 인증 범위 확대": 1789953777,
-  "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777
+  "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777,
+  "한화생명, 세브란스병원과 손잡고 설계사 대상 치매 특화 교육 신설": 1789954953
  },
  "news_queue": [
   {
@@ -1010,6 +1012,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2MTlRUlM0VEV3YW5MaW13ZXFSYW83MFJzMWd2WWhIcG5pOG42aUxXWG5OQnNORWo5eGFBU0FCNW9OcDFPUVdKQXotTVJOaDA4dW1TR1NzVHdsRXBNU2N4RtIBZkFVX3lxTE9ZVDd3eWtsZkxVd0hRR1BnWnNnaHdJZ1FNSUpSZHZxSWRJSTFNUVRMZzdHQm9jZ0h2bXBKeXN0OFV3dHBzajNIeE5McWZPcm9EREtYMG1fUGJhbHVOVFhDX3hBWTVzZw?oc=5",
    "sort_key": "Mon, 21 Sep 2026 01:16:08 GMT"
+  },
+  {
+   "id": "news:0520703950dfe96f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 세브란스병원과 손잡고 설계사 대상 치매 특화 교육 신설",
+   "source": "newslock.co.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1M0dtSHhSeVB2WWFrd05rMkYtb09ubVZGaWRfZXJEZ3NZXzlQV29JVERTSGpRRElYTEpoVldsY3RjRG16bHNBT29xWEs3U19nU1V0QUoyeTZ0MVpvWTlfaEh6N25LOVJFUE1CVg?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 01:10:26 GMT"
   }
  ],
  "initialized": true,
