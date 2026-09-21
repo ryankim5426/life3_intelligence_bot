@@ -882,10 +882,13 @@
   "news:2be957cbc56dd6ba": 1789939123,
   "news:8425dd7482442411": 1789948370,
   "news:6bbd7363f9ab7810": 1789950103,
-  "news:2bdb3a6fb3515799": 1789950103
+  "news:2bdb3a6fb3515799": 1789950103,
+  "news:c54fb11b4fbf361d": 1789951610,
+  "news:3714bf983679373e": 1789951611,
+  "news:875fb45f92280493": 1789951611,
+  "news:1edc712a330b98a6": 1789951611
  },
  "stories": {
-  "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386,
   "자회사 장부가 1186억 낮춘 교보생명…라이프플래닛은 흡수": 1789693198,
   "이엔셀, 삼성생명공익재단과 줄기세포 배양기술 미국 특허 등록": 1789693198,
   "[보험브리핑] 한화생명, 아부다비와 디지털금융·자본시장 협력 외": 1789698322,
@@ -915,7 +918,10 @@
   "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397,
   "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여": 1789939123,
   "한화생명-세브란스병원, ‘치매 케어 컨설턴트’ 양성 과정 개설": 1789950103,
-  "한화생명·세브란스병원, 설계사 전문성 높이는 치매 케어 과정 신설": 1789950103
+  "한화생명·세브란스병원, 설계사 전문성 높이는 치매 케어 과정 신설": 1789950103,
+  "한화생명, 제휴 설계사에 '치매 컨설턴트' 양성 과정 도입 · 달라지는 점은?": 1789951611,
+  "교보생명, 국내 최고 수준 정보보호 역량 입증...ISMS-P 인증 획득": 1789951611,
+  "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축": 1789951611
  },
  "news_queue": [
   {
@@ -937,6 +943,36 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pUGlEcFBGT0RHS3R3bzFoRWduV0JQbVExUFpZM2d4c3loQUVkU19ZS0tnS2QyalROZGFOQ3k2cDIyb21CLU94azNZa2xiWU5fU0VjOHE4WjJyOFY5Q1g3R29jYUQxQXEtOFE?oc=5",
    "sort_key": "Mon, 21 Sep 2026 00:16:55 GMT"
+  },
+  {
+   "id": "news:3714bf983679373e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 제휴 설계사에 '치매 컨설턴트' 양성 과정 도입 · 달라지는 점은?",
+   "source": "supple.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93blc2eHRfemJ3OFltYm5PT1ZmOFdWMFFVbjhKMXA2NGlhRGJFeENUTW00dXkwZkMtY1VSMG9fWDh2Q0ZvYmJKZ0NNZUs1dWwtTkpRajIyclBib2xt?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:22:28 GMT"
+  },
+  {
+   "id": "news:875fb45f92280493",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 국내 최고 수준 정보보호 역량 입증...ISMS-P 인증 획득",
+   "source": "전자신문",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OWERid1labXVhWFdFQ2RKQTBvVDZSN3YtdTBVVnpObzBrYlROdkN0VzBOTWU2eGdjbWloaF9jVkJ4WmVjaGh3anJ0cUdWUQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:25:13 GMT"
+  },
+  {
+   "id": "news:1edc712a330b98a6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축",
+   "source": "SR타임스",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xWU9aamM2UmJtQ1BWakUyTThHQmVJcndtVzBKYUstcHd3LV9fNkI4Vk5uTDR2Rl9rSWdpMVY0ekV6cUdBVGVRTjd3UmswNFNqRTVNdlZqcUxzZmRzNzZORUVuWjZQamfSAWtBVV95cUxPMWM0a1NOY0JxWnJ5Q3o1TVdZOWhHU2JNckJGcnd2U2VVV1VTbmJPVEdVX1MtRUkybW5Wb0VvaUlQUnNnbHoxa2ZZWUdvc3FnNkpqbnlhVkMtcWhhRExZN1JpdUFfWFBjRkVWNA?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:42:07 GMT"
   }
  ],
  "initialized": true,
