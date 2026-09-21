@@ -921,7 +921,12 @@
   "news:9c109548896e0597": 1789977545,
   "news:6dc0fc4c29eb1fdf": 1789978914,
   "news:a6723e0f0055c540": 1789980202,
-  "news:9ec9003d6a62a509": 1789980202
+  "news:9ec9003d6a62a509": 1789980202,
+  "news:7a5b12d7d60898b9": 1789981122,
+  "news:e83559c0d6c60cf5": 1789981123,
+  "news:ce081c517180b7a3": 1789981123,
+  "news:cca923b43fbc46b9": 1789981123,
+  "news:9ee882268069e87b": 1789981123
  },
  "stories": {
   "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
@@ -971,7 +976,11 @@
   "한화생명, ‘치매 케어' 상담 가능한 설계사 육성한다": 1789977545,
   "삼성생명 주가, 9월 21일 장중 290,500원 2.47% 상승": 1789978914,
   "\"AI 보안 가이드까지 구축\"…교보생명, 금융 전 분야 ISMS-P '통합 인증'": 1789980202,
-  "[보험 NOW] 흥국화재·KB손보·교보생명·한화생명·동양생명": 1789980202
+  "[보험 NOW] 흥국화재·KB손보·교보생명·한화생명·동양생명": 1789980202,
+  "삼성생명보험, 삼성에스알에이자산운용 수익증권 1조4950억원 규모 투자 결정": 1789981123,
+  "삼성생명보험, 특수관계인 SVIC81호 신기술사업투자조합에 300억원 출자 결정": 1789981123,
+  "[업앤다운]보험주 상승…삼성생명↑·한화생명↓": 1789981123,
+  "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련": 1789981123
  },
  "news_queue": [
   {
@@ -1243,6 +1252,46 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSE5NMVZLa0pSbkZUSGtJellfVXpSSDRIdVlJRzNmZ1l5dkhSajRoZ3lnN0JhSlRGZVQ5VUNQMWVIZ25uQkNNZTluVXY5MlFiRUItNms3dUdXUzg3aVdYWTJBQVNOX0lnaVBSajE2cVc?oc=5",
    "sort_key": "Mon, 21 Sep 2026 08:28:46 GMT"
+  },
+  {
+   "id": "news:e83559c0d6c60cf5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명보험, 삼성에스알에이자산운용 수익증권 1조4950억원 규모 투자 결정",
+   "source": "digitaltoday.co.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4RXVCNTNQd2drMk1IQjMwTThlR3N5bTJfQWxrNjV1X281R0FsekQwZGIxajRFeE5NSmg0VXZ6dFUwLXh2eXpfMlBvZlVWbVVsaFlQWkstZEpvOWJ1X196TGpYQlFvc0lUTHNldVhLN0NIc3c2QnF1SXlDaw?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 08:44:08 GMT"
+  },
+  {
+   "id": "news:ce081c517180b7a3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명보험, 특수관계인 SVIC81호 신기술사업투자조합에 300억원 출자 결정",
+   "source": "digitaltoday.co.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAybTNibHpsYUxlUVVFakYxZDJuNU1TallZZVVPa3ZyN2JTdjYzUDlITWl2T09Yb1V2S19LckY0QlN2RElRX2NRNUMtM050ZXhjTFhsU3V3Mm1PMzk1blRqVjV4eFRPMGFOd3JmcGw2dGpfRWt2SWJJYUpFdw?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 08:44:09 GMT"
+  },
+  {
+   "id": "news:cca923b43fbc46b9",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[업앤다운]보험주 상승…삼성생명↑·한화생명↓",
+   "source": "NSP통신",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ET1VDYzRERGxPcTd0SFJTcTgxZ1YzWi00SXByMEhQamJ0YmI3OVhRclZKZGxhMDJsQTROWm9mSVFCQ04zdDZBVWFScTVDeS1CMHkxOXdBM0dwamNWNUppVg?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 08:44:54 GMT"
+  },
+  {
+   "id": "news:9ee882268069e87b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련",
+   "source": "시사캐스트",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5dktvejJ2bGV6WXFzcUVET204eGxwb3p4RUJZZmpBUWp3S1hOdWNGY1d4d1RFdUl5eFI5UGZYVXpPV3QtRXh6OXZWLWxOYlMtcG14Vi1Ic1FRMDhEWWUwMnZudW9HMjdi?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 08:52:11 GMT"
   }
  ],
  "initialized": true,
