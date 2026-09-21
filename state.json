@@ -911,7 +911,8 @@
   "news:9ce4de98a50e2427": 1789969848,
   "news:8a04d4f86ea609d2": 1789969848,
   "news:9b8ca61d6692e630": 1789971694,
-  "news:a33715688a0ab685": 1789971694
+  "news:a33715688a0ab685": 1789971694,
+  "news:dfe8086faee8a981": 1789973337
  },
  "stories": {
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
@@ -955,7 +956,8 @@
   "금감원 보험분쟁 현장점검, 이달 말 생보사로 확대…삼성생명 첫 대상": 1789969848,
   "한화생명, 세브란스와 손잡고 치매 설계사 양성…예방부터 보험까지 교육": 1789969848,
   "건강보험에 힘 싣는 삼성생명…보장 확대에 건강관리까지 영역 확장": 1789971694,
-  "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)": 1789971694
+  "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)": 1789971694,
+  "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\"": 1789973337
  },
  "news_queue": [
   {
@@ -1147,6 +1149,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iY0d4QnRMN3JVa2tENFRkOUJFY1M4dENPR0pUREZIX09ob2xWZW0zSVF5SUw3ZGY5bXlwendjV29oakVJX0ZXU0VfNmFvUHBkUFROMUFOOTZFaGlnMjJSQzdpM0F4MUhNNEM5MEJB?oc=5",
    "sort_key": "Mon, 21 Sep 2026 05:56:48 GMT"
+  },
+  {
+   "id": "news:dfe8086faee8a981",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\"",
+   "source": "greened.kr",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84Ymt0UUpreFRBcHU2Zm5ralp5dWhzVHNhTjhGcEZRY0ZYZEttcW41NEk4Q1hObUxaMDA1T2hPRXpSWm9maTBTNWtWYkhpLXZxMHY3MWNHdjl6RkY0dG9jeDJkOUZMTlJH?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 06:25:00 GMT"
   }
  ],
  "initialized": true,
