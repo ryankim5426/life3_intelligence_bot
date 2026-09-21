@@ -912,7 +912,9 @@
   "news:8a04d4f86ea609d2": 1789969848,
   "news:9b8ca61d6692e630": 1789971694,
   "news:a33715688a0ab685": 1789971694,
-  "news:dfe8086faee8a981": 1789973337
+  "news:dfe8086faee8a981": 1789973337,
+  "news:d1cbe2698bf260d1": 1789975559,
+  "news:23ce0210214541b4": 1789975559
  },
  "stories": {
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
@@ -957,7 +959,9 @@
   "한화생명, 세브란스와 손잡고 치매 설계사 양성…예방부터 보험까지 교육": 1789969848,
   "건강보험에 힘 싣는 삼성생명…보장 확대에 건강관리까지 영역 확장": 1789971694,
   "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)": 1789971694,
-  "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\"": 1789973337
+  "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\"": 1789973337,
+  "한화생명, 세브란스와 ‘치매 전문 설계사’ 육성": 1789975559,
+  "삼성생명 주가 7,500원 상승 후 장마감": 1789975559
  },
  "news_queue": [
   {
@@ -1159,6 +1163,26 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84Ymt0UUpreFRBcHU2Zm5ralp5dWhzVHNhTjhGcEZRY0ZYZEttcW41NEk4Q1hObUxaMDA1T2hPRXpSWm9maTBTNWtWYkhpLXZxMHY3MWNHdjl6RkY0dG9jeDJkOUZMTlJH?oc=5",
    "sort_key": "Mon, 21 Sep 2026 06:25:00 GMT"
+  },
+  {
+   "id": "news:d1cbe2698bf260d1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 세브란스와 ‘치매 전문 설계사’ 육성",
+   "source": "라이센스뉴스",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzb3FQNFlCSE5nb2JkUm9KODQ0UW5XQWlsWU9KT1NaQ1BxSHh5UzkyRHl0bmZSZDF3NUQwMUU2LU1SOVMxYnJlNTBoZ3RpQ0EtYmNRM0lWNm1ROEdWOFpRX1lfa2VfX1k2dWFR?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "id": "news:23ce0210214541b4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 주가 7,500원 상승 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81VFJTU3lOeTRydGJoeEpNdkhSNDNKa2xUaEt1MEFDYnNVeEVBbTNKQUJSWmdCSVlsOFFjcWVCSGhFa3Bjek11b3k2bWtON2xtdjJpUE1qSkQya3NTUVBjVEl3?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 07:12:14 GMT"
   }
  ],
  "initialized": true,
