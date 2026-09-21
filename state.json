@@ -914,7 +914,9 @@
   "news:a33715688a0ab685": 1789971694,
   "news:dfe8086faee8a981": 1789973337,
   "news:d1cbe2698bf260d1": 1789975559,
-  "news:23ce0210214541b4": 1789975559
+  "news:23ce0210214541b4": 1789975559,
+  "news:a070c702e0966916": 1789976715,
+  "news:bae71bb160d4a3df": 1789976715
  },
  "stories": {
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
@@ -961,7 +963,8 @@
   "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)": 1789971694,
   "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\"": 1789973337,
   "한화생명, 세브란스와 ‘치매 전문 설계사’ 육성": 1789975559,
-  "삼성생명 주가 7,500원 상승 후 장마감": 1789975559
+  "삼성생명 주가 7,500원 상승 후 장마감": 1789975559,
+  "치매 걸리면 간병비는 얼마나?…한화생명, 설계사 상담 전문성 높인다": 1789976715
  },
  "news_queue": [
   {
@@ -1183,6 +1186,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81VFJTU3lOeTRydGJoeEpNdkhSNDNKa2xUaEt1MEFDYnNVeEVBbTNKQUJSWmdCSVlsOFFjcWVCSGhFa3Bjek11b3k2bWtON2xtdjJpUE1qSkQya3NTUVBjVEl3?oc=5",
    "sort_key": "Mon, 21 Sep 2026 07:12:14 GMT"
+  },
+  {
+   "id": "news:bae71bb160d4a3df",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "치매 걸리면 간병비는 얼마나?…한화생명, 설계사 상담 전문성 높인다",
+   "source": "파이낸셜포스트",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93dVVRUkF4QnNEX0FadzRnRmpKSkRjNXo5Z1A0ald0WElRcEFSdXZmSHc5elNBOUFWZjNRMzlmcXFCc1NUTWdrUGFMOTFlN1FLTjZaZ1h4WDFUZnJjVm1yenM5MkNYQWxENHNNbnJOUXk0aFBP?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 07:23:15 GMT"
   }
  ],
  "initialized": true,
