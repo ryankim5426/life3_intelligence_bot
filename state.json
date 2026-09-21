@@ -880,7 +880,9 @@
   "news:b20bcf9a5131ba07": 1789921397,
   "news:36a10404f6864d47": 1789939122,
   "news:2be957cbc56dd6ba": 1789939123,
-  "news:8425dd7482442411": 1789948370
+  "news:8425dd7482442411": 1789948370,
+  "news:6bbd7363f9ab7810": 1789950103,
+  "news:2bdb3a6fb3515799": 1789950103
  },
  "stories": {
   "삼성생명, 소비자보호 실천 임직원·컨설턴트 9명 ‘히어로’ 선정": 1789692386,
@@ -911,9 +913,32 @@
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
   "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
   "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397,
-  "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여": 1789939123
+  "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여": 1789939123,
+  "한화생명-세브란스병원, ‘치매 케어 컨설턴트’ 양성 과정 개설": 1789950103,
+  "한화생명·세브란스병원, 설계사 전문성 높이는 치매 케어 과정 신설": 1789950103
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:6bbd7363f9ab7810",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명-세브란스병원, ‘치매 케어 컨설턴트’ 양성 과정 개설",
+   "source": "한국경제",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LcHo5Ulh0VF9xdUM0enozMDBYejM4dGhzaHQwcHo2a3owd3kxQlgxbTM0QXVOeUhzYUFzbHcydVVySVptRlB5V3dOLTN0aE1vdWFHYzhlanFFUQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:04:30 GMT"
+  },
+  {
+   "id": "news:2bdb3a6fb3515799",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·세브란스병원, 설계사 전문성 높이는 치매 케어 과정 신설",
+   "source": "포인트경제",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pUGlEcFBGT0RHS3R3bzFoRWduV0JQbVExUFpZM2d4c3loQUVkU19ZS0tnS2QyalROZGFOQ3k2cDIyb21CLU94azNZa2xiWU5fU0VjOHE4WjJyOFY5Q1g3R29jYUQxQXEtOFE?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 00:16:55 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-21"
 }
