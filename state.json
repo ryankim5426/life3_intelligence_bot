@@ -899,7 +899,9 @@
   "news:e6978e09a42597d7": 1789955925,
   "news:445471eebe996a05": 1789957155,
   "news:f0e096b65964e4bf": 1789957155,
-  "news:bb24787e4b0fbb36": 1789958200
+  "news:bb24787e4b0fbb36": 1789958200,
+  "news:2f675b7c68556eda": 1789964135,
+  "news:099ddf9d2a136a4f": 1789964136
  },
  "stories": {
   "삼성화재에 체면 구긴 삼성생명…건강보험으로 '반격'": 1789707472,
@@ -938,7 +940,8 @@
   "한화생명, 세브란스병원과 손잡고 설계사 대상 치매 특화 교육 신설": 1789954953,
   "한화생명 치매 대응, 보장에서 예방·신탁까지…설계사 교육으로 확장": 1789955925,
   "이미지=한화생명": 1789957155,
-  "미래에셋자산운용·교보생명 ‘TIGER 현대차LG전자고정피지컬AI밸류체인 ETF’ 웹세미나 개최·금융서비스 전반 ISMS-P 인증 획득": 1789958200
+  "미래에셋자산운용·교보생명 ‘TIGER 현대차LG전자고정피지컬AI밸류체인 ETF’ 웹세미나 개최·금융서비스 전반 ISMS-P 인증 획득": 1789958200,
+  "한국도로교통공단, 오비맥주와 함께 한화생명볼파크서 '음주운전 근절 캠페인' 전개": 1789964136
  },
  "news_queue": [
   {
@@ -1060,6 +1063,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yeXBVUWs2TWVOaXhmUUtvQ2MwcnV2U1BYejZwd0FQck05UE9SMzY0bEpNSWxtSUFOb2k1UUlqM0M5c292Xy0tYUIyLVlrLTBJWGZXZzFDdXNLWTFhRW4xMVMyaFJDdw?oc=5",
    "sort_key": "Mon, 21 Sep 2026 02:28:17 GMT"
+  },
+  {
+   "id": "news:099ddf9d2a136a4f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한국도로교통공단, 오비맥주와 함께 한화생명볼파크서 '음주운전 근절 캠페인' 전개",
+   "source": "비즈월드",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HYzRma3EycVo1M2VkV1BQSTVOdTdUaXJqWXAtbXhEYjVoQjJUbEkyMXduZFV2c2l1YlIxbkZZMlhCMVJRMm5sdjd5bmx3TDFYYXJDYXBWR1pzbVVkUmhLWHJDWktOVm1hNmc?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 04:05:00 GMT"
   }
  ],
  "initialized": true,
