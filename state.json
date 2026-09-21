@@ -934,7 +934,8 @@
   "news:33d812f637416833": 1789996791,
   "news:8622ed7432de0d98": 1789997765,
   "news:4bcdb4a0d9dc769a": 1790011851,
-  "news:cb8adf62317a27b3": 1790028012
+  "news:cb8adf62317a27b3": 1790028012,
+  "news:d3602a1d89275405": 1790029184
  },
  "stories": {
   "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384,
@@ -983,7 +984,8 @@
   "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'": 1789985962,
   "초고령화 시대 치매 리스크 대비… 한화생명·세브란스, 설계사 전문 교육 도입": 1789991869,
   "한화생명, 세브란스병원과 맞손…설계사 치매 전문성·신뢰도 강화": 1789996791,
-  "교보생명, 임직원 새둥지에 박새 가": 1790011851
+  "교보생명, 임직원 새둥지에 박새 가": 1790011851,
+  "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184
  },
  "news_queue": [
   {
@@ -1345,6 +1347,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OS0wb1l1Ql96bG9tZDNrdnN0TWpNbzVmajN0SDJBT0lGVDN2c25zakxCc0JVX0lTODg0VEk2M2NjVEs1M3lPZk84bGNIUDVadlNXbHE5aXV2WG5KUzZnajJrWUEtX1d5?oc=5",
    "sort_key": "Mon, 21 Sep 2026 09:53:03 GMT"
+  },
+  {
+   "id": "news:d3602a1d89275405",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐",
+   "source": "네이버 프리미엄콘텐츠",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIR2hzQ3FvT3JMa3cwQkt5WHFmTU1TV0hTNUhuWFhNcUhsZ01DT3ZjVGYwdEx6Z0dHZDFMRE9RMVlPNXU2WEp5Si1WUWtfN29PVHhYSDdzMXNvR25MTjhGbEhxa0d0cUpJOGZhVHBRVDZmYk14MXk5dTRfclgzeVU?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 21:50:00 GMT"
   }
  ],
  "initialized": true,
