@@ -909,7 +909,9 @@
   "news:21b1ae12e06cc253": 1789967704,
   "news:d08fe6352dbb047c": 1789969848,
   "news:9ce4de98a50e2427": 1789969848,
-  "news:8a04d4f86ea609d2": 1789969848
+  "news:8a04d4f86ea609d2": 1789969848,
+  "news:9b8ca61d6692e630": 1789971694,
+  "news:a33715688a0ab685": 1789971694
  },
  "stories": {
   "교보생명, 4700억 자본증권 '환승' 완료": 1789719565,
@@ -951,7 +953,9 @@
   "한화생명 설계사, “치매 꼼짝마!”": 1789967704,
   "삼성생명, 다이렉트 전용 상품 최적화...연금·보장성 상품 중심 재편 '가속화'": 1789969848,
   "금감원 보험분쟁 현장점검, 이달 말 생보사로 확대…삼성생명 첫 대상": 1789969848,
-  "한화생명, 세브란스와 손잡고 치매 설계사 양성…예방부터 보험까지 교육": 1789969848
+  "한화생명, 세브란스와 손잡고 치매 설계사 양성…예방부터 보험까지 교육": 1789969848,
+  "건강보험에 힘 싣는 삼성생명…보장 확대에 건강관리까지 영역 확장": 1789971694,
+  "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)": 1789971694
  },
  "news_queue": [
   {
@@ -1123,6 +1127,26 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzeEc2Si1JeDRoaWY5b3pqaGJydXlqcWJPNzhNbmJRUTJCYm1kSHFUemJaelNXTGM3UFVTQjhRTDBCSm42dVJULUItdVhkc0s1bW91cXNZeDdESjNzOG5mWGhEYkpmY1U?oc=5",
    "sort_key": "Mon, 21 Sep 2026 05:42:50 GMT"
+  },
+  {
+   "id": "news:9b8ca61d6692e630",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "건강보험에 힘 싣는 삼성생명…보장 확대에 건강관리까지 영역 확장",
+   "source": "오피니언뉴스",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zVWJSOUp0VnhnOVp6bmRaSTJRc3JPZkd6QVVUM2tQRGM5cElLYzhsNFlnOVRHcHhJUTUwMkxGeXY3bnlTbTk3enZfVEh0a25fQk5iSmJfU0p6eTZzdksyNTZzeWxjbk1haXFna1RUclI?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 05:50:02 GMT"
+  },
+  {
+   "id": "news:a33715688a0ab685",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[보험업계 동향] 한화생명ㆍKB손해보험ㆍ흥국화재 (9.21)",
+   "source": "위클리오늘",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iY0d4QnRMN3JVa2tENFRkOUJFY1M4dENPR0pUREZIX09ob2xWZW0zSVF5SUw3ZGY5bXlwendjV29oakVJX0ZXU0VfNmFvUHBkUFROMUFOOTZFaGlnMjJSQzdpM0F4MUhNNEM5MEJB?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 05:56:48 GMT"
   }
  ],
  "initialized": true,
