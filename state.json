@@ -929,7 +929,8 @@
   "news:9ee882268069e87b": 1789981123,
   "news:13d155fc2dd30305": 1789982467,
   "news:06569aa43438858a": 1789985962,
-  "news:bdfe863b6be6ac7e": 1789990980
+  "news:bdfe863b6be6ac7e": 1789990980,
+  "news:8e67f75cfdba3279": 1789991869
  },
  "stories": {
   "삼성전자·SK하이닉스 '뛰자', 코스피 '활짝'...삼성생명과 현대차는?": 1789748058,
@@ -982,7 +983,8 @@
   "[업앤다운]보험주 상승…삼성생명↑·한화생명↓": 1789981123,
   "교보생명, 업무 전반 정보보호 인증 확대…AI 보안 기준도 마련": 1789981123,
   "삼성벤처투자, 삼성생명보험에 수익증권 300억원 매각 예정…4분기 내 최종 약정": 1789982467,
-  "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'": 1789985962
+  "수출 훈풍, 코스피 '점프'...삼성생명·LG전자·NH투자증권 '활짝'": 1789985962,
+  "초고령화 시대 치매 리스크 대비… 한화생명·세브란스, 설계사 전문 교육 도입": 1789991869
  },
  "news_queue": [
   {
@@ -1314,6 +1316,16 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEZGd5WHJyVEZBRjg2TzQ3dzIwRVdFMEt1U3k4cmMzSnJsUjlHNTlIZEZEWGpscVpJQmwyZ2RJUmd4QkV0SkhpSkdOZVpjQTdtUGU4V0NxbkJ4bmhlY3BNbEJEOS1tV1VBNEtYaHhlbzl5Y3fSAXNBVV95cUxQRGRneVhyclRGQUY4Nk80N3cyMEVXRTBLdVN5OHJjM0pybFI5RzU5SGRGRFhqbHFaSUJsMmdkSVJneEJFdEpIaUpHTmVaY0E3bVBlOFdDcW5CeG5oZWNwTWxCRDktbVdVQTRLWGh4ZW85eWN3?oc=5",
    "sort_key": "Mon, 21 Sep 2026 09:05:51 GMT"
+  },
+  {
+   "id": "news:8e67f75cfdba3279",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "초고령화 시대 치매 리스크 대비… 한화생명·세브란스, 설계사 전문 교육 도입",
+   "source": "열린뉴스통신",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdTZIeF9tRC1ibnMxVWlBV2lteUxUNkN0aUpzbHI2SE5QODVzLVRydkstMlNteTZOaW5qekhwaW1jOUNzRGxrXzdaUmhyRnFmVTFKSG1YTUpuM2lRTEtCSXhPM3dUUQ?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 07:14:28 GMT"
   }
  ],
  "initialized": true,
