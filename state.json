@@ -919,7 +919,9 @@
   "news:bae71bb160d4a3df": 1789976715,
   "news:3e0d0e8ad3c210e6": 1789977545,
   "news:9c109548896e0597": 1789977545,
-  "news:6dc0fc4c29eb1fdf": 1789978914
+  "news:6dc0fc4c29eb1fdf": 1789978914,
+  "news:a6723e0f0055c540": 1789980202,
+  "news:9ec9003d6a62a509": 1789980202
  },
  "stories": {
   "교보생명이 지난 5일 시민과 함께하는 ‘환경교육 북콘서트’를 열었다. 이날 야외무대에서 열린 행사에서 한화진 환경부장관(왼쪽)과 편정범 교보생명 대표이사 사장이 환경교육과 환경보호 실천에 대한 진솔한 이야기를 나누고 있다.": 1789725833,
@@ -967,7 +969,9 @@
   "삼성생명 주가 7,500원 상승 후 장마감": 1789975559,
   "치매 걸리면 간병비는 얼마나?…한화생명, 설계사 상담 전문성 높인다": 1789976715,
   "한화생명, ‘치매 케어' 상담 가능한 설계사 육성한다": 1789977545,
-  "삼성생명 주가, 9월 21일 장중 290,500원 2.47% 상승": 1789978914
+  "삼성생명 주가, 9월 21일 장중 290,500원 2.47% 상승": 1789978914,
+  "\"AI 보안 가이드까지 구축\"…교보생명, 금융 전 분야 ISMS-P '통합 인증'": 1789980202,
+  "[보험 NOW] 흥국화재·KB손보·교보생명·한화생명·동양생명": 1789980202
  },
  "news_queue": [
   {
@@ -1219,6 +1223,26 @@
    "date": "Mon, 21 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1USjYwSjl5M0U5LUNFV3BiT3JTdWlKalQ2dWE2TzlPSEVpV2MyMFpMOWJSTEJ3ZmdFV0d2eVBvNlBkcjF2UUFDVFA3WVQzbnpPT3VLTXpzY0ZPQzJnN2xKcDVadFotWVc3RUx0d0t6TXVsUQ?oc=5",
    "sort_key": "Mon, 21 Sep 2026 05:18:07 GMT"
+  },
+  {
+   "id": "news:a6723e0f0055c540",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"AI 보안 가이드까지 구축\"…교보생명, 금융 전 분야 ISMS-P '통합 인증'",
+   "source": "글로벌에픽",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oMkFHdnJ2SmsyTGpORmpLWGJRdG5kcUZBbjhSbEo3WkxEN1FGNVFIdWNBTHRVQ29XblJkZXBLY1pRdkJCUU9hLTlZV2pFV25JMzJySjZtSjl0bXpDZVUyTEVFMVBMX2ozbDgzT2YyazJ4VjdyZHByeWsxdXc?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 01:50:51 GMT"
+  },
+  {
+   "id": "news:9ec9003d6a62a509",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "[보험 NOW] 흥국화재·KB손보·교보생명·한화생명·동양생명",
+   "source": "위키리크스한국",
+   "date": "Mon, 21 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSE5NMVZLa0pSbkZUSGtJellfVXpSSDRIdVlJRzNmZ1l5dkhSajRoZ3lnN0JhSlRGZVQ5VUNQMWVIZ25uQkNNZTluVXY5MlFiRUItNms3dUdXUzg3aVdYWTJBQVNOX0lnaVBSajE2cVc?oc=5",
+   "sort_key": "Mon, 21 Sep 2026 08:28:46 GMT"
   }
  ],
  "initialized": true,
