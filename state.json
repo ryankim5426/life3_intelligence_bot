@@ -959,7 +959,8 @@
   "news:1c6184e07b296c27": 1790074678,
   "news:aa21786d76c9ccb2": 1790075907,
   "news:b62e7ec35ea47536": 1790087926,
-  "news:dd17f55d20ffd194": 1790090106
+  "news:dd17f55d20ffd194": 1790090106,
+  "news:e3804e07c6daa6bf": 1790107323
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1028,7 +1029,8 @@
   "기후변화 대응은 건강한 삶부터…교보생명, 시민 1만명과 '지구하다'": 1790074678,
   "\"광화문 들썩인 기후행동 물결\"…교보생명, 환경교육 축제 성료": 1790075907,
   "[한화생명 성장 공식②]신성장동력 글로벌 금융···\"보험의 경계 넘다\" |": 1790087926,
-  "한화생명볼파크 마운드 오른 백성현 논산시장 ‘논산 알리기’ 나서": 1790090106
+  "한화생명볼파크 마운드 오른 백성현 논산시장 ‘논산 알리기’ 나서": 1790090106,
+  "논산시, 한화생명볼파크서 논산의 맛과 매력 알려": 1790107323
  },
  "news_queue": [
   {
@@ -1230,6 +1232,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kRC1wLS1udklxZ1NDTGlQWk9NOUxRMTM0RTNmbW1BQ05GbjZ0cG9OUlFJdDNLdFRpT25SMlJuR1MzR1dJRlZDaDU4SUFCMnVVdG1sQkhYdWx4Smd5MzdfU1pzZnBCWlF6bzBFVlRPbEk?oc=5",
    "sort_key": "Tue, 22 Sep 2026 15:03:52 GMT"
+  },
+  {
+   "id": "news:e3804e07c6daa6bf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "논산시, 한화생명볼파크서 논산의 맛과 매력 알려",
+   "source": "글로벌뉴스통신GNA",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SN2Z6QnM5dVg3ajJZejN1OHRRbnV1VzFXS01qUndDbk82WDVKRDZWb2NpdlJjMmEtSFB1dlJ6VmZwM3dVbWVBRkszTU55WlBKR2ZDWkR2QjRRRHh4OXkzalVNTHBsU3FMelY4LTJjcms3VW01?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 19:39:39 GMT"
   }
  ],
  "initialized": true,
