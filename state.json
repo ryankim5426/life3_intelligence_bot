@@ -952,7 +952,8 @@
   "news:e26ed1e4ef1ee234": 1790063900,
   "news:03f3cf8508f9bef3": 1790066305,
   "news:5ba9d928b1a47b71": 1790067230,
-  "news:e213bdf0f6fd012c": 1790067230
+  "news:e213bdf0f6fd012c": 1790067230,
+  "news:1551fd5126cec642": 1790070618
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1014,7 +1015,8 @@
   "'700종신' 막혔다…성장축 제동 걸린 한화생명, 실적 악재되나": 1790063900,
   "[포토] 기후부·교보생명 \"깨끗한 하늘 만들어요\"": 1790066305,
   "진출 13년 한화생명 인도네시아 법인, 현지 점유율 0.16%": 1790067230,
-  "[보험 NOW] 신한라이프·농협생명·농협손보·교보생명·KB라이프": 1790067230
+  "[보험 NOW] 신한라이프·농협생명·농협손보·교보생명·KB라이프": 1790067230,
+  "[마감분석] 삼성생명, 특수관계인 공시에도 보합 마감 : 기업주식정보": 1790070618
  },
  "news_queue": [
   {
@@ -1146,6 +1148,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xb0puWkhkOGFtakNVWjBCN3kwOVFVLUxFZncwNjVsWGozMjVRbEJBMVZOMjhGUjFCN0RGcUdJdmgxRk9VbDZ5aEVkN0MzS1pRSFlMTUtvcFgwVXdYWDhuRVBNeEJOT2ptV3pubGpIcnc?oc=5",
    "sort_key": "Tue, 22 Sep 2026 08:38:33 GMT"
+  },
+  {
+   "id": "news:1551fd5126cec642",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[마감분석] 삼성생명, 특수관계인 공시에도 보합 마감 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UQjZORlpyNkx3TGlVb19ZSnRuQ0prSGk5OVZJMHIyVWxNczN4b1JQcUNieF80Z2FXWFNxU1lWdGwybnpXUVN6LXBB?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 06:50:00 GMT"
   }
  ],
  "initialized": true,
