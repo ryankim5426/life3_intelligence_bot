@@ -941,7 +941,8 @@
   "news:7927bebf5e5dd6af": 1790039880,
   "news:be7204e449231182": 1790041751,
   "news:67d0710b5fba0dd2": 1790043841,
-  "news:1e6c0bffd40f795c": 1790043841
+  "news:1e6c0bffd40f795c": 1790043841,
+  "news:80a424925b97af18": 1790044947
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -994,7 +995,8 @@
   "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대": 1790039880,
   "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험": 1790039880,
   "교보생명, 기후부와 함께 ‘제4회 지구하다 페스티벌’ 개최...기후행동 실천 확산": 1790041751,
-  "교보생명, 광화문서 ‘지구하다 페스티벌’…1만 명 기후행동 체험": 1790043841
+  "교보생명, 광화문서 ‘지구하다 페스티벌’…1만 명 기후행동 체험": 1790043841,
+  "한양대 학생들, 삼성생명 '라이프놀로지 랩'서 기술 기반 미래 혁신 솔루션 선보여": 1790044947
  },
  "news_queue": [
   {
@@ -1036,6 +1038,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYS00YllDOVlSc0hCSDUyd3IweUNzS3ZCdElzZDZtZUNwdjJjVkgyR0NzNkN1ZGlzZzdxU3k1UFhqZzJBTVR5MTYwSDhaYnA1Uldyc1JGaUY1dFhlLUc0UjZDcWNla040VXU2cTV3bzB2TkhyMkw3a2xCb2dvdHM5aU5zSGRUSmNLNTNr?oc=5",
    "sort_key": "Tue, 22 Sep 2026 02:04:00 GMT"
+  },
+  {
+   "id": "news:80a424925b97af18",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "한양대 학생들, 삼성생명 '라이프놀로지 랩'서 기술 기반 미래 혁신 솔루션 선보여",
+   "source": "newshyu.com",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wLWhnVE55N2NTU3oyVjdxYXlXVlVvZzFmWWpBQm9XSkdpWjF6SHdCRXR4WmRFb1pJT24wVmxid3NXNmhramQ1NDROMmJhLWtDeVlsYmpxNFNEOHI1R3VaMkRYOFIyaHNoTFdB?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 02:29:36 GMT"
   }
  ],
  "initialized": true,
