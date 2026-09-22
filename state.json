@@ -955,7 +955,8 @@
   "news:e213bdf0f6fd012c": 1790067230,
   "news:1551fd5126cec642": 1790070618,
   "news:21ff15d16bae6079": 1790071547,
-  "news:e6e39724a9560a17": 1790071547
+  "news:e6e39724a9560a17": 1790071547,
+  "news:1c6184e07b296c27": 1790074678
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1020,7 +1021,8 @@
   "[보험 NOW] 신한라이프·농협생명·농협손보·교보생명·KB라이프": 1790067230,
   "[마감분석] 삼성생명, 특수관계인 공시에도 보합 마감 : 기업주식정보": 1790070618,
   "아카마이 '격리 보안' 삼성생명 뚫었다": 1790071547,
-  "교보생명, 환경교육으로 '기후시민' 키운다": 1790071547
+  "교보생명, 환경교육으로 '기후시민' 키운다": 1790071547,
+  "기후변화 대응은 건강한 삶부터…교보생명, 시민 1만명과 '지구하다'": 1790074678
  },
  "news_queue": [
   {
@@ -1182,6 +1184,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FUDV4ZW5neGgyRHFVZUJyX0xNRXhUeEJEZHdxZUVTV0tTSXBibzd0c3VJVmVZOGl4MEpTWWx3NWhjcDVHWklTX1pCeTdYamh2WlNRaFFzWml6UQ?oc=5",
    "sort_key": "Tue, 22 Sep 2026 10:01:17 GMT"
+  },
+  {
+   "id": "news:1c6184e07b296c27",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "기후변화 대응은 건강한 삶부터…교보생명, 시민 1만명과 '지구하다'",
+   "source": "매경헬스",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZDViTzZpeHd0ZGVyMFVqZ1RsRkx1VlFJMFVUcGp5UXZERXdmUGhNM3d3X1pwZjM5dnlQQUtvM09Ga2tuY1FFbVl1elBQUXdSQ3NnOWZOeThNSndSbWZLY2hrMWJDMG5FQjZERQ?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 09:48:37 GMT"
   }
  ],
  "initialized": true,
