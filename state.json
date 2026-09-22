@@ -936,7 +936,9 @@
   "news:4bcdb4a0d9dc769a": 1790011851,
   "news:cb8adf62317a27b3": 1790028012,
   "news:d3602a1d89275405": 1790029184,
-  "news:6645770f6ba51b0b": 1790032941
+  "news:6645770f6ba51b0b": 1790032941,
+  "news:fe5d8aaa4deabe93": 1790039880,
+  "news:7927bebf5e5dd6af": 1790039880
  },
  "stories": {
   "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384,
@@ -987,9 +989,32 @@
   "한화생명, 세브란스병원과 맞손…설계사 치매 전문성·신뢰도 강화": 1789996791,
   "교보생명, 임직원 새둥지에 박새 가": 1790011851,
   "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184,
-  "계약서비스마진(CSM) 6.9조 교보생명···금리 1%p가 변수": 1790032941
+  "계약서비스마진(CSM) 6.9조 교보생명···금리 1%p가 변수": 1790032941,
+  "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대": 1790039880,
+  "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험": 1790039880
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:fe5d8aaa4deabe93",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대",
+   "source": "핀포인트뉴스",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WV3N6d1NtTXE5NUpobGRhNU84TGZQSkxWUFdfRG96SUstcXo2eG1HNzBCeXhITWlkcF9XQU1XN2w1OXJhMXpVY09pRE41M1EyZ201UjF1WS1DUGpvclNHLTBTTzNEejBQX1hicG5sZEFkazBkekVN0gF3QVVfeXFMT1ZXc3p3U21NcTk1SmhsZGE1TzhMZlBKTFZQV19Eb3pJSy1xejZ4bUc3MEJ5eEhNaWRwX1dBTVc3bDU5cmExelVjT2lETjUzUTJnbTVSMXVZLUNQam9yU0ctMFNPM0R6MFBfWGJwbmxkQWRrMGR6RU0?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 00:16:11 GMT"
+  },
+  {
+   "id": "news:7927bebf5e5dd6af",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험",
+   "source": "fetv.co.kr",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKZnBOSTdZYkVYQ0M3eWozNjc4cTJuWTJWbDZXZU4xdGszSU1HbkZrMVNHYjZJaUFKdWN5WUF3RzhnT1JISjg2QXl4NkhSVDJLaWNpT1BHVE4zVkc5UFFUbk0xQzUzRW9h?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 01:07:12 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-22"
 }
