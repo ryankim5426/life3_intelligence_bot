@@ -946,7 +946,8 @@
   "news:c95729f9711d8a19": 1790045876,
   "news:30a31cc4c24e4ebf": 1790050530,
   "news:61a1945887dc8776": 1790054608,
-  "news:c7473c7184b6b58b": 1790056672
+  "news:c7473c7184b6b58b": 1790056672,
+  "news:a18d3912b36b3c07": 1790059640
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1002,7 +1003,8 @@
   "교보생명, 광화문서 ‘지구하다 페스티벌’…1만 명 기후행동 체험": 1790043841,
   "한양대 학생들, 삼성생명 '라이프놀로지 랩'서 기술 기반 미래 혁신 솔루션 선보여": 1790044947,
   "교보생명, 기후행동 실천 확장…“지속가능한 기후행동 생태계 구축 앞장”": 1790054608,
-  "이엔셀, ‘EN001’ 제조기술 국가신기술 지정 2년 연장…삼성생명공익재단공동 美 특허 이어 기술경쟁력 재확인:약품신문": 1790056672
+  "이엔셀, ‘EN001’ 제조기술 국가신기술 지정 2년 연장…삼성생명공익재단공동 美 특허 이어 기술경쟁력 재확인:약품신문": 1790056672,
+  "교보생명, 광화문서 ‘지구하다’ 4년…\"기후행동 실천\"": 1790059640
  },
  "news_queue": [
   {
@@ -1074,6 +1076,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUeUpzdTNSVlJfeFdCUi00QmJLZzh1ckMwSFRGUWk5dU9aTGt1dUFLWEhJcFdVcEhvX1ZvcnZJVkJkTGdjRGJscmZ1NjZzYUph0gFgQVVfeXFMTVhLMUN0VlJoRTBEMnBEcFFNYmwxTHNVaVl6TmRGbGZHek4wWmJRdG9KOWx2S3publM1NFZCU2xaOVE1VExGSGJ4Y2M2R2VjRXE1U1d5R25QOGdVeGlNWkpo?oc=5",
    "sort_key": "Tue, 22 Sep 2026 00:10:00 GMT"
+  },
+  {
+   "id": "news:a18d3912b36b3c07",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 광화문서 ‘지구하다’ 4년…\"기후행동 실천\"",
+   "source": "경제타임스",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLSTUzdWxwRUV5RmlwZWRaZFEyVnFxcEJvVjJxdmZOUVZweHNDTUZram5BZTM0MVlyT2x6alB2Zy04eWM3c3BZQzVlZGxFcUt3UmxZ?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 06:26:41 GMT"
   }
  ],
  "initialized": true,
