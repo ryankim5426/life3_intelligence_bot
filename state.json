@@ -957,7 +957,8 @@
   "news:21ff15d16bae6079": 1790071547,
   "news:e6e39724a9560a17": 1790071547,
   "news:1c6184e07b296c27": 1790074678,
-  "news:aa21786d76c9ccb2": 1790075907
+  "news:aa21786d76c9ccb2": 1790075907,
+  "news:b62e7ec35ea47536": 1790087926
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1024,7 +1025,8 @@
   "아카마이 '격리 보안' 삼성생명 뚫었다": 1790071547,
   "교보생명, 환경교육으로 '기후시민' 키운다": 1790071547,
   "기후변화 대응은 건강한 삶부터…교보생명, 시민 1만명과 '지구하다'": 1790074678,
-  "\"광화문 들썩인 기후행동 물결\"…교보생명, 환경교육 축제 성료": 1790075907
+  "\"광화문 들썩인 기후행동 물결\"…교보생명, 환경교육 축제 성료": 1790075907,
+  "[한화생명 성장 공식②]신성장동력 글로벌 금융···\"보험의 경계 넘다\" |": 1790087926
  },
  "news_queue": [
   {
@@ -1206,6 +1208,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wY0NsT0Z2YVVtQUNJMWJqRWR4V2pBckQ2OWRmUzN2SFgxc0xKRFpCVDc2cGs5MTFhOW1LQ1ZZTnhlUWplTm95NnFHajBHbXlOSEE5S1QtOTF3WnZmRnl2a2JXRVlqR1llUFdPN3pDN3A?oc=5",
    "sort_key": "Tue, 22 Sep 2026 01:11:22 GMT"
+  },
+  {
+   "id": "news:b62e7ec35ea47536",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[한화생명 성장 공식②]신성장동력 글로벌 금융···\"보험의 경계 넘다\" |",
+   "source": "현대경제신문",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBS1FKdnJuZ3Y1NWFwc2pEZV9qV0dkc2pQVG1vM0Z6Tzk4RVVFWVFJQXphV1ZqZkQ0TjFQczBaaWdienV0Y0hscUk2ZjJySjBGdFctZ3FOaHQ5U2dzNHdldG9VZ1ZidkFrYXpF?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 13:09:01 GMT"
   }
  ],
  "initialized": true,
