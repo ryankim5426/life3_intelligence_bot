@@ -964,7 +964,8 @@
   "news:d072dd0892164c60": 1790111788,
   "news:e2259682944c8b65": 1790111788,
   "news:5e49ed914b84e35f": 1790111788,
-  "news:7b03eaed1320b279": 1790115745
+  "news:7b03eaed1320b279": 1790115745,
+  "news:26a6a589d5c7a703": 1790117848
  },
  "stories": {
   "[이달의 신상품] 삼성생명, ‘팩 건강보험 케어’ 출시…최대 67만원 보상": 1789861185,
@@ -1034,7 +1035,8 @@
   "[한화생명 성장 공식②]신성장동력 글로벌 금융···\"보험의 경계 넘다\" |": 1790087926,
   "한화생명볼파크 마운드 오른 백성현 논산시장 ‘논산 알리기’ 나서": 1790090106,
   "논산시, 한화생명볼파크서 논산의 맛과 매력 알려": 1790107323,
-  "한화생명, 더피플라이프 직접 투자한다…PEF 출자 대신 SI로": 1790115745
+  "한화생명, 더피플라이프 직접 투자한다…PEF 출자 대신 SI로": 1790115745,
+  "[8월 GA 생보사 실적 M/S] 엠금융서비스...ABL 11.3% 선두, 삼성생명 6계단 올라 2위": 1790117848
  },
  "news_queue": [
   {
@@ -1256,6 +1258,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVRZUmZMUG03Nk9UdlhQTUNnMDBvSVlGUUp6U3diY1N4QkNQSFRnOE5IOGJSd3hFQ3k3bkVDRm85cExZUGRFNjNPN0ZHanJWVWhUemJFNFpHaFQyQkQ0cW9kOXdLeUh5YVNXV0xuT0hmTVI4V25na0dSWWRzekFueWloZw?oc=5",
    "sort_key": "Tue, 22 Sep 2026 04:28:00 GMT"
+  },
+  {
+   "id": "news:26a6a589d5c7a703",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[8월 GA 생보사 실적 M/S] 엠금융서비스...ABL 11.3% 선두, 삼성생명 6계단 올라 2위",
+   "source": "보험저널",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Jb3RPbnJVTUNsZGpyVXFScURTTTg4T1JCUTNaNS1zXzBfd3ZKck1LcHV0Q0xrMlFxOE05OWg0V3VSeUIxZUNXZlpKSHFKcDBueG1DdmVBbmhqQjdVMVJGNmxITTNWTG13UzJRWWxWaw?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 22:30:00 GMT"
   }
  ],
  "initialized": true,
