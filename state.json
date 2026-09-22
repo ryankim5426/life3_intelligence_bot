@@ -949,7 +949,8 @@
   "news:c7473c7184b6b58b": 1790056672,
   "news:a18d3912b36b3c07": 1790059640,
   "news:59d77ab128a73fac": 1790061847,
-  "news:e26ed1e4ef1ee234": 1790063900
+  "news:e26ed1e4ef1ee234": 1790063900,
+  "news:03f3cf8508f9bef3": 1790066305
  },
  "stories": {
   "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓": 1789856326,
@@ -1008,7 +1009,8 @@
   "이엔셀, ‘EN001’ 제조기술 국가신기술 지정 2년 연장…삼성생명공익재단공동 美 특허 이어 기술경쟁력 재확인:약품신문": 1790056672,
   "교보생명, 광화문서 ‘지구하다’ 4년…\"기후행동 실천\"": 1790059640,
   "한화생명 주가160 원 하락 후 장마감": 1790061847,
-  "'700종신' 막혔다…성장축 제동 걸린 한화생명, 실적 악재되나": 1790063900
+  "'700종신' 막혔다…성장축 제동 걸린 한화생명, 실적 악재되나": 1790063900,
+  "[포토] 기후부·교보생명 \"깨끗한 하늘 만들어요\"": 1790066305
  },
  "news_queue": [
   {
@@ -1110,6 +1112,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcFdFYlQxOWFIWVlWSThMZ3ctUGlCc1hybi1DMmZMQUZDSGlVQ1U4XzVQOTBkNTBRYkFGY1NBWHREeXMtS05HTkZ6WV93M2JVcnhxcHU5ZjByc0hzV2hfS1VSYkM2Xy1RUGZRdTVwZUM?oc=5",
    "sort_key": "Tue, 22 Sep 2026 07:50:30 GMT"
+  },
+  {
+   "id": "news:03f3cf8508f9bef3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[포토] 기후부·교보생명 \"깨끗한 하늘 만들어요\"",
+   "source": "매일경제",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1icXU1UGxQdWp3NHVFZWZPWmRNOHVpMHlVbTNQeFdRV2o1Q1lreTFndFhLVkVXc0lsbFF3QWw0cFphdHJVb1d0UEVBaUlZR3JXOFp0Uw?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 08:23:25 GMT"
   }
  ],
  "initialized": true,
