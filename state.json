@@ -938,7 +938,8 @@
   "news:d3602a1d89275405": 1790029184,
   "news:6645770f6ba51b0b": 1790032941,
   "news:fe5d8aaa4deabe93": 1790039880,
-  "news:7927bebf5e5dd6af": 1790039880
+  "news:7927bebf5e5dd6af": 1790039880,
+  "news:be7204e449231182": 1790041751
  },
  "stories": {
   "교보생명·日SBI, 한·일 스테이블코인 기술검증 완료..향후 과제는?": 1789783384,
@@ -991,7 +992,8 @@
   "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184,
   "계약서비스마진(CSM) 6.9조 교보생명···금리 1%p가 변수": 1790032941,
   "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대": 1790039880,
-  "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험": 1790039880
+  "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험": 1790039880,
+  "교보생명, 기후부와 함께 ‘제4회 지구하다 페스티벌’ 개최...기후행동 실천 확산": 1790041751
  },
  "news_queue": [
   {
@@ -1013,6 +1015,16 @@
    "date": "Tue, 22 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKZnBOSTdZYkVYQ0M3eWozNjc4cTJuWTJWbDZXZU4xdGszSU1HbkZrMVNHYjZJaUFKdWN5WUF3RzhnT1JISjg2QXl4NkhSVDJLaWNpT1BHVE4zVkc5UFFUbk0xQzUzRW9h?oc=5",
    "sort_key": "Tue, 22 Sep 2026 01:07:12 GMT"
+  },
+  {
+   "id": "news:be7204e449231182",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 기후부와 함께 ‘제4회 지구하다 페스티벌’ 개최...기후행동 실천 확산",
+   "source": "더트래커",
+   "date": "Tue, 22 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KRTlBbTB0eFRySFJHRTVXQnRXQUhMZ0ZFNGJqbGtKX19ZUTgtRk94cUJSdGhkeE12bVJyZWo0OGpZaDZyaXVrOXZxaDBZLXMyWVo5eWtNb0w?oc=5",
+   "sort_key": "Tue, 22 Sep 2026 01:35:24 GMT"
   }
  ],
  "initialized": true,
