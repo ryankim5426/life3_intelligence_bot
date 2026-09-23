@@ -1002,7 +1002,8 @@
   "news:9a93ad70c7e10960": 1790169934,
   "news:74fc0a38cd622ce8": 1790169934,
   "news:fb970a58caa39622": 1790171073,
-  "news:3c84c59fb7f179d4": 1790171869
+  "news:3c84c59fb7f179d4": 1790171869,
+  "news:d409ab053459777e": 1790198300
  },
  "stories": {
   "[금융소비자보호 우수콘텐츠 대상] 교보생명, 분쟁민원 실무협의회·비대면 고객센터 운영 돋보여": 1789939123,
@@ -1087,7 +1088,8 @@
   "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527,
   "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
   "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759,
-  "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934
+  "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
+  "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300
  },
  "news_queue": [
   {
@@ -1299,6 +1301,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRWmhzODN1eVpLMjVlMXZxUFNtVWhfd0NBc0ZkNlpET2gwY0VSa2p3YWRRTkdWRV9CWVVvVzJCN1ZnOFkxalpRc2ZKU1RJdWxvc1ZpdGtTVWR3VXdnVDlXMXdWeTBtLXBIM0hXUThhejFQQ3c?oc=5",
    "sort_key": "Wed, 23 Sep 2026 07:12:49 GMT"
+  },
+  {
+   "id": "news:d409ab053459777e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가",
+   "source": "fetv.co.kr",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zR2tuRzlnYlNOSzF4dkJCeDJGRFJ5T25ZdXdWR0xhamYyVFZDQk93MWZvOWZkR3I3cDNIZU5ndlBmSDNDUndURXUwalFaODZpYWJSQ2pFUHVHYnJmRjJwN21pbVdSYlpq?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
