@@ -991,7 +991,10 @@
   "news:189f0e02cb09d096": 1790141542,
   "news:20082c24af92001e": 1790141542,
   "news:06c29a234c999169": 1790143527,
-  "news:9750ec3c31743a4c": 1790144993
+  "news:9750ec3c31743a4c": 1790144993,
+  "news:443442f55fcba328": 1790147759,
+  "news:ff86590d0ba0f9d3": 1790147759,
+  "news:f5abfab26b75bcdd": 1790147759
  },
  "stories": {
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
@@ -1077,7 +1080,8 @@
   "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436,
   "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약": 1790141542,
   "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527,
-  "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993
+  "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
+  "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759
  },
  "news_queue": [
   {
@@ -1269,6 +1273,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wdDd5ZmEzRE9vQXVqaW0zOU9EdGVHbGpkbkNfaGRIQklQRlE4MnVxTnk0NmZBSmVkVHd5a1B3aFhXbVlaN3g5TEVpQUtHazRybFRyM3FtQi1NMEw0OFFlcXJFTTd2ZTZR0gFrQVVfeXFMTk5BYWlOeDhHMlUySk5SUG9XNXhINllDQkljMzQ0SmhDaVlxLXJxY2I1R0xtdC1uR0xpMjdUSU9BbXRVTWhKTExlLXFDcjY3RHlnMFlsbjBtWkJUV2VOa0xRdE1rZDdWdUZGSG8?oc=5",
    "sort_key": "Wed, 23 Sep 2026 04:50:24 GMT"
+  },
+  {
+   "id": "news:f5abfab26b75bcdd",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법",
+   "source": "블로터",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zUzJXZXE0TVR2blVTeTFfM2IzM0VXUlNtRFBqNkpsNEc0SGstWV9Xc2FQRTVKMVluaE9oenJFaXJwbGZhTndJbFd3b3JqLUhvcUtKVTItSFhJZ2I3QU5BN3Y0Zk5hZnB40gFsQVVfeXFMUEk4Qjg5UnJQQk9YQmJOdk02cVgtbnY5cmhxSkU5YlJqd3RXMG4wRWFwc0laTVRLMmZ3TXg4NFllLTFQd1g5REE4NElpMmMwcmw4amkyZVRfRnNIWVNIazdGNWRnSzN4UXl3V0hs?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 06:34:00 GMT"
   }
  ],
  "initialized": true,
