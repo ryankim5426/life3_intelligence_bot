@@ -990,7 +990,8 @@
   "news:0b0c71c60403d6d6": 1790140436,
   "news:189f0e02cb09d096": 1790141542,
   "news:20082c24af92001e": 1790141542,
-  "news:06c29a234c999169": 1790143527
+  "news:06c29a234c999169": 1790143527,
+  "news:9750ec3c31743a4c": 1790144993
  },
  "stories": {
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
@@ -1075,7 +1076,8 @@
   "한국수자원공사·상미당홀딩스·hy·교보생명 外 친환경·취약계층 상생 행보 확산...추석 앞두고 한마음": 1790140436,
   "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436,
   "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약": 1790141542,
-  "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527
+  "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527,
+  "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993
  },
  "news_queue": [
   {
@@ -1257,6 +1259,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lb0wwZGUxWkIwRV9DcE1pb1RXa24zZUY0UkZlUEJTNE5WWkN3cXBMUklVZTVqTE9ZTG1UcVUzeGlzZTVFRXlvRkR6NktWWG5fYWppZE94WFJjQUVUNUw2X2hNbzEwYXFXaHY4YlhHUjjSAXRBVV95cUxPbElqNXAxZTROeEpXZ3d2YUNJY1Njd05GS19NcktXaC02U2ZVejdESGN0YzdVMEFNYk9mOVowRWFfZjhtckpqUlg2N1dMdFlHOUNUczB3NFVBdjJIOHZzRFVBaXJEcHFwWFJqOGl0aVV2dFZvNg?oc=5",
    "sort_key": "Wed, 23 Sep 2026 05:46:44 GMT"
+  },
+  {
+   "id": "news:9750ec3c31743a4c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'",
+   "source": "현대경제신문",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wdDd5ZmEzRE9vQXVqaW0zOU9EdGVHbGpkbkNfaGRIQklQRlE4MnVxTnk0NmZBSmVkVHd5a1B3aFhXbVlaN3g5TEVpQUtHazRybFRyM3FtQi1NMEw0OFFlcXJFTTd2ZTZR0gFrQVVfeXFMTk5BYWlOeDhHMlUySk5SUG9XNXhINllDQkljMzQ0SmhDaVlxLXJxY2I1R0xtdC1uR0xpMjdUSU9BbXRVTWhKTExlLXFDcjY3RHlnMFlsbjBtWkJUV2VOa0xRdE1rZDdWdUZGSG8?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 04:50:24 GMT"
   }
  ],
  "initialized": true,
