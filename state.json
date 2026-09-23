@@ -969,7 +969,8 @@
   "news:715b6d8e56d72cdb": 1790124513,
   "news:43c50fd024d244e2": 1790124514,
   "news:530248ee5aef1815": 1790124514,
-  "news:d58b8fbea6c6c85d": 1790124514
+  "news:d58b8fbea6c6c85d": 1790124514,
+  "news:2030ab3815e70951": 1790125295
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1040,7 +1041,8 @@
   "[8월 GA 생보사 실적 M/S] 엠금융서비스...ABL 11.3% 선두, 삼성생명 6계단 올라 2위": 1790117848,
   "카카오, 원화 스테이블코인 ‘전방위 동맹’…그랩·교보생명 등과 맞손": 1790124514,
   "한화생명금융서비스, 장애인 직원과 문화소통 '원팀 데이' 개최": 1790124514,
-  "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이": 1790124514
+  "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이": 1790124514,
+  "교보자산운용 새출발…18년 합작 마치고 교보생명 품으로": 1790125295
  },
  "news_queue": [
   {
@@ -1072,6 +1074,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3T1pIaU53RUszWW4tdVZTQXRDMGJXd0JqUnJ0TmliM0cwWERfc05zSW95X1BiVDNrdTdlbV9VY2VXX0NVbFZpVFRjeDVfVV9sVzRaN01fMXl0TUViRFU5Yngza0dBRDNuZmc40gFwQVVfeXFMTmdkV0hlaWY1ZVFxODZ0VUpuY1AxVVdNQmpJQnNiMFhqcHM2OEdtMVdPTEo3TU9kdjJkUnBPQzdGQjJkQjZER1hIZXE3ZUlOTGM5R3Y2djg4LURtV2NpX3ZtYnpmQVVXRVhvLU1LZjZXZA?oc=5",
    "sort_key": "Wed, 23 Sep 2026 00:40:13 GMT"
+  },
+  {
+   "id": "news:2030ab3815e70951",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보자산운용 새출발…18년 합작 마치고 교보생명 품으로",
+   "source": "아주경제",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPa3hNb2Z1cGJYR1EwMmk2YldMTnEyTVFvdmNwankzTGhWMHllaWZLT3NpZGloY0d5WVhabmpVUGN0b1ExY0EtZkpBMTBrbXlVdm5tbk5xMHV6Z9IBWEFVX3lxTE9jeGZUaG9iNlg1bFpNeU9xeGRhRFdFZ0NyRUVPYkFiVkNfX094dThWQTc2NHNoNnhPb0JLUGI2Mmg0SjNybkJYdFNuSS1FZ3I0NVU0S3NmeU8?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 00:50:46 GMT"
   }
  ],
  "initialized": true,
