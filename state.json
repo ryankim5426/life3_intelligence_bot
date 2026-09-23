@@ -977,7 +977,8 @@
   "news:2fc584e4131dfe2d": 1790130899,
   "news:0683cc7eaef6d112": 1790130899,
   "news:d1ed98ed57950cf5": 1790131830,
-  "news:3e4729896758b371": 1790131830
+  "news:3e4729896758b371": 1790131830,
+  "news:0aa4e4fd0335eb2f": 1790133310
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1055,7 +1056,8 @@
   "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도": 1790130899,
   "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화": 1790130899,
   "교보證 2500억 증자 추진…교보생명 '금융지주 밑그림' 속 역할론": 1790131830,
-  "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프": 1790131830
+  "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프": 1790131830,
+  "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%": 1790133310
  },
  "news_queue": [
   {
@@ -1157,6 +1159,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVktlZUtpcG9aaGxPODNiSXpKYlEydTZmWU9ySmpqYng2blg5TE5FVG5DWFp4VXBMT1FKV0ZqWlB3bk42WlNtYUhaYmlUcUJDT3Zz?oc=5",
    "sort_key": "Wed, 23 Sep 2026 02:40:44 GMT"
+  },
+  {
+   "id": "news:0aa4e4fd0335eb2f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%",
+   "source": "포쓰저널",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUxvQnlRbHJfdW1VR051LWRTVHllUF9nWWxnU0xkdlZPbUR3SGJEVXl1aTZwc2pkSVM5eUx0ZDQ1SDlQMlJLNWJ2c1Joa2JIT213ekh0aWdvbW00UENMQXBKWTI?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:49:12 GMT"
   }
  ],
  "initialized": true,
