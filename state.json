@@ -980,7 +980,11 @@
   "news:3e4729896758b371": 1790131830,
   "news:0aa4e4fd0335eb2f": 1790133310,
   "news:2bcc30b1e8672b82": 1790134411,
-  "news:47398e409c9d9ab3": 1790138027
+  "news:47398e409c9d9ab3": 1790138027,
+  "news:7a7a7cd4f0f75194": 1790139035,
+  "news:5c0c4f6a221671a4": 1790139035,
+  "news:8c9f8236150f53dd": 1790139035,
+  "news:96d843db37e26baf": 1790139035
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1061,7 +1065,8 @@
   "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프": 1790131830,
   "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%": 1790133310,
   "카카오, 그랩·SCBX·교보생명과 ‘디지털 자산 동맹’…원화 스테이블코인 실사용 준비": 1790134411,
-  "[금융계 동향] 한화생명금융서비스·우리금융미래재단·KB증권": 1790138027
+  "[금융계 동향] 한화생명금융서비스·우리금융미래재단·KB증권": 1790138027,
+  "한화생명금융서비스, 장애인 고용률 3.54%…법정 의무고용률 웃돌아": 1790139035
  },
  "news_queue": [
   {
@@ -1193,6 +1198,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxY1U0bklNclpfRTlOYTd1SDdSaGpfVHhOOVROeWV1eHN2MXRnMlAxNWd1QW9KdExLVXVlRmhxY3pTX3I5aEg2bXdIWXpZajByUEJNSmZwWWxZR3Jhb3ViTmdHdkZFenozc1VN0gFrQVVfeXFMUHFjVTRuSU1yWl9FOU5hN3VIN1Joal9UeE45VE55ZXV4c3YxdGcyUDE1Z3VBb0p0TEtVdWVGaHFjelNfcjloSDZtd0hZellqMHJQQk1KZnBZbFlHcmFvdWJOZ0d2RkV6ejNzVU0?oc=5",
    "sort_key": "Wed, 23 Sep 2026 02:37:27 GMT"
+  },
+  {
+   "id": "news:96d843db37e26baf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 장애인 고용률 3.54%…법정 의무고용률 웃돌아",
+   "source": "토요경제",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZTVLQlNRSndnQVByY2ZXbjJCMENudHFBckdjT2Q1S053Y21UWWZDRXNKM0U1a2ZUaDQ4T01oSWUteXp3N3NyZWxDLW5FMk5IdlEwUnlBZHV4b1pqNkxHVVhmV2Q1bFJjbmk3OERCSdIBb0FVX3lxTE5hZTVLQlNRSndnQVByY2ZXbjJCMENudHFBckdjT2Q1S053Y21UWWZDRXNKM0U1a2ZUaDQ4T01oSWUteXp3N3NyZWxDLW5FMk5IdlEwUnlBZHV4b1pqNkxHVVhmV2Q1bFJjbmk3OERCSQ?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 01:35:20 GMT"
   }
  ],
  "initialized": true,
