@@ -978,7 +978,8 @@
   "news:0683cc7eaef6d112": 1790130899,
   "news:d1ed98ed57950cf5": 1790131830,
   "news:3e4729896758b371": 1790131830,
-  "news:0aa4e4fd0335eb2f": 1790133310
+  "news:0aa4e4fd0335eb2f": 1790133310,
+  "news:2bcc30b1e8672b82": 1790134411
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1057,7 +1058,8 @@
   "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화": 1790130899,
   "교보證 2500억 증자 추진…교보생명 '금융지주 밑그림' 속 역할론": 1790131830,
   "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프": 1790131830,
-  "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%": 1790133310
+  "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%": 1790133310,
+  "카카오, 그랩·SCBX·교보생명과 ‘디지털 자산 동맹’…원화 스테이블코인 실사용 준비": 1790134411
  },
  "news_queue": [
   {
@@ -1169,6 +1171,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUxvQnlRbHJfdW1VR051LWRTVHllUF9nWWxnU0xkdlZPbUR3SGJEVXl1aTZwc2pkSVM5eUx0ZDQ1SDlQMlJLNWJ2c1Joa2JIT213ekh0aWdvbW00UENMQXBKWTI?oc=5",
    "sort_key": "Wed, 23 Sep 2026 02:49:12 GMT"
+  },
+  {
+   "id": "news:2bcc30b1e8672b82",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오, 그랩·SCBX·교보생명과 ‘디지털 자산 동맹’…원화 스테이블코인 실사용 준비",
+   "source": "asiatoday.co.kr",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pS0RnaThBN1RVOGZIYm16XzEyZDdEZldPb0VvanZpaTNILTlqZlpDeV9hcVZJSnlXMzdOOXVZZGVDVTRUcHUza2lmejEybjliaG9CdUx6blV0d2d0cUtfZEg5SWZveFB4UENQVw?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 01:52:20 GMT"
   }
  ],
  "initialized": true,
