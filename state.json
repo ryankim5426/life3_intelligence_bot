@@ -973,7 +973,9 @@
   "news:2030ab3815e70951": 1790125295,
   "news:7ffd3b55696a1041": 1790129928,
   "news:a29b6c14c0cffc8e": 1790129929,
-  "news:b10a9cc1b1036c1c": 1790129929
+  "news:b10a9cc1b1036c1c": 1790129929,
+  "news:2fc584e4131dfe2d": 1790130899,
+  "news:0683cc7eaef6d112": 1790130899
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1047,7 +1049,9 @@
   "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이": 1790124514,
   "교보자산운용 새출발…18년 합작 마치고 교보생명 품으로": 1790125295,
   "한화생명금융서비스, 장애인 네일관리사 23명 초청 문화 행사": 1790129929,
-  "카카오뱅크·페이, 그랩·SCBX·교보생명과 맞손…디지털 자산 사업 가속화": 1790129929
+  "카카오뱅크·페이, 그랩·SCBX·교보생명과 맞손…디지털 자산 사업 가속화": 1790129929,
+  "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도": 1790130899,
+  "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화": 1790130899
  },
  "news_queue": [
   {
@@ -1109,6 +1113,26 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sU0t5SHVpOEZ0NnhXR0tRcHc3Y3Z2M2t4eVJaNmR5ZF96NjRUVVYxWnRsUVpydnhGc0d6bDJFd2ZfMHBidTdDd3JBMnQtbUp5czVLWUxPdWE4Nm5k?oc=5",
    "sort_key": "Wed, 23 Sep 2026 02:14:00 GMT"
+  },
+  {
+   "id": "news:2fc584e4131dfe2d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도",
+   "source": "연합인포맥스",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMzFOa2s0UHhWeUZ2SDg2aG9RcE96b0hwaFpmeGZzR3Y2M21ZWUVaTHJ5Ukc2eTBFaUtMSWhGVkFXbTRxQ05ZV0VmcGZBSnZheU8zYnZXeUxyRUpnSUcySDZfZ2ZRdFlZRmxmMW81ZDPSAXRBVV95cUxObWd6U08wcXV5RHF5QVNXU2VzNEVMMmRKSGloNEQ0OFlHeHRhUHpTckxKMWo5UDVLcUVfeGVzb0UtdnliYjlLZlhDN1FHRkd2djVoZFVhNVlGdWFyVVpQdmQyX0p6Q053ejB4NkQ0WVRHa2o1Vg?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:19:06 GMT"
+  },
+  {
+   "id": "news:0683cc7eaef6d112",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화",
+   "source": "파이낸셜포스트",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VckRCMHowdUwwcGdUUHhSaks1R0RkUFRnM29nM0QxWm5jUGxCM2Q1Q2V4aGlMSElaeWwtaUx5TW0waTQ5SjgxTUxmYU01S21yVFlHYWZ3ZENESFhNZFRYNW43VEJXVENqSm5CQW5DUDZUTUxM?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:25:56 GMT"
   }
  ],
  "initialized": true,
