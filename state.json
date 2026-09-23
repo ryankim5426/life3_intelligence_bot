@@ -998,7 +998,9 @@
   "news:7973c33136e35739": 1790149864,
   "news:0e3f44c8503e2e37": 1790149864,
   "news:bab25e24ed25926a": 1790154916,
-  "news:f4a4bee0740fcf7d": 1790154916
+  "news:f4a4bee0740fcf7d": 1790154916,
+  "news:9a93ad70c7e10960": 1790169934,
+  "news:74fc0a38cd622ce8": 1790169934
  },
  "stories": {
   "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
@@ -1084,7 +1086,8 @@
   "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약": 1790141542,
   "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527,
   "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
-  "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759
+  "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759,
+  "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934
  },
  "news_queue": [
   {
@@ -1286,6 +1289,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zUzJXZXE0TVR2blVTeTFfM2IzM0VXUlNtRFBqNkpsNEc0SGstWV9Xc2FQRTVKMVluaE9oenJFaXJwbGZhTndJbFd3b3JqLUhvcUtKVTItSFhJZ2I3QU5BN3Y0Zk5hZnB40gFsQVVfeXFMUEk4Qjg5UnJQQk9YQmJOdk02cVgtbnY5cmhxSkU5YlJqd3RXMG4wRWFwc0laTVRLMmZ3TXg4NFllLTFQd1g5REE4NElpMmMwcmw4amkyZVRfRnNIWVNIazdGNWRnSzN4UXl3V0hs?oc=5",
    "sort_key": "Wed, 23 Sep 2026 06:34:00 GMT"
+  },
+  {
+   "id": "news:74fc0a38cd622ce8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경",
+   "source": "데이터투자",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRWmhzODN1eVpLMjVlMXZxUFNtVWhfd0NBc0ZkNlpET2gwY0VSa2p3YWRRTkdWRV9CWVVvVzJCN1ZnOFkxalpRc2ZKU1RJdWxvc1ZpdGtTVWR3VXdnVDlXMXdWeTBtLXBIM0hXUThhejFQQ3c?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 07:12:49 GMT"
   }
  ],
  "initialized": true,
