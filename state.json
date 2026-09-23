@@ -975,7 +975,9 @@
   "news:a29b6c14c0cffc8e": 1790129929,
   "news:b10a9cc1b1036c1c": 1790129929,
   "news:2fc584e4131dfe2d": 1790130899,
-  "news:0683cc7eaef6d112": 1790130899
+  "news:0683cc7eaef6d112": 1790130899,
+  "news:d1ed98ed57950cf5": 1790131830,
+  "news:3e4729896758b371": 1790131830
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1051,7 +1053,9 @@
   "한화생명금융서비스, 장애인 네일관리사 23명 초청 문화 행사": 1790129929,
   "카카오뱅크·페이, 그랩·SCBX·교보생명과 맞손…디지털 자산 사업 가속화": 1790129929,
   "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도": 1790130899,
-  "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화": 1790130899
+  "교보생명, 자회사 교보악사자산운용 사명 변경…그룹 자산운용 사업 강화": 1790130899,
+  "교보證 2500억 증자 추진…교보생명 '금융지주 밑그림' 속 역할론": 1790131830,
+  "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프": 1790131830
  },
  "news_queue": [
   {
@@ -1133,6 +1137,26 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VckRCMHowdUwwcGdUUHhSaks1R0RkUFRnM29nM0QxWm5jUGxCM2Q1Q2V4aGlMSElaeWwtaUx5TW0waTQ5SjgxTUxmYU01S21yVFlHYWZ3ZENESFhNZFRYNW43VEJXVENqSm5CQW5DUDZUTUxM?oc=5",
    "sort_key": "Wed, 23 Sep 2026 02:25:56 GMT"
+  },
+  {
+   "id": "news:d1ed98ed57950cf5",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보證 2500억 증자 추진…교보생명 '금융지주 밑그림' 속 역할론",
+   "source": "인베스트조선",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ta1ozSnJEWmYwTl9zZ2xkQXU0M3ZWeUVwNll3TlktemdabWh2dTNwTlQ3algzNmJ6TXh0QXRKNE0wUlc5RVZNb2xWR0xxRUYwMGhGSElkbjh5bnJ1V2dwMm1oNjBFNE1kUTRoc0NUY1Eydw?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:40:00 GMT"
+  },
+  {
+   "id": "news:3e4729896758b371",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…한화생명금융서비스·KB라이프",
+   "source": "thevaluenews.co.kr",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVktlZUtpcG9aaGxPODNiSXpKYlEydTZmWU9ySmpqYng2blg5TE5FVG5DWFp4VXBMT1FKV0ZqWlB3bk42WlNtYUhaYmlUcUJDT3Zz?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:40:44 GMT"
   }
  ],
  "initialized": true,
