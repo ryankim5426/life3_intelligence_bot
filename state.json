@@ -984,7 +984,10 @@
   "news:7a7a7cd4f0f75194": 1790139035,
   "news:5c0c4f6a221671a4": 1790139035,
   "news:8c9f8236150f53dd": 1790139035,
-  "news:96d843db37e26baf": 1790139035
+  "news:96d843db37e26baf": 1790139035,
+  "news:fa447b77e741142e": 1790140436,
+  "news:43f1d68288ea10b3": 1790140436,
+  "news:0b0c71c60403d6d6": 1790140436
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1066,7 +1069,9 @@
   "'교보악사자산운용→교보자산운용' 새출발..교보생명 지분율 100%": 1790133310,
   "카카오, 그랩·SCBX·교보생명과 ‘디지털 자산 동맹’…원화 스테이블코인 실사용 준비": 1790134411,
   "[금융계 동향] 한화생명금융서비스·우리금융미래재단·KB증권": 1790138027,
-  "한화생명금융서비스, 장애인 고용률 3.54%…법정 의무고용률 웃돌아": 1790139035
+  "한화생명금융서비스, 장애인 고용률 3.54%…법정 의무고용률 웃돌아": 1790139035,
+  "한국수자원공사·상미당홀딩스·hy·교보생명 外 친환경·취약계층 상생 행보 확산...추석 앞두고 한마음": 1790140436,
+  "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436
  },
  "news_queue": [
   {
@@ -1208,6 +1213,26 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZTVLQlNRSndnQVByY2ZXbjJCMENudHFBckdjT2Q1S053Y21UWWZDRXNKM0U1a2ZUaDQ4T01oSWUteXp3N3NyZWxDLW5FMk5IdlEwUnlBZHV4b1pqNkxHVVhmV2Q1bFJjbmk3OERCSdIBb0FVX3lxTE5hZTVLQlNRSndnQVByY2ZXbjJCMENudHFBckdjT2Q1S053Y21UWWZDRXNKM0U1a2ZUaDQ4T01oSWUteXp3N3NyZWxDLW5FMk5IdlEwUnlBZHV4b1pqNkxHVVhmV2Q1bFJjbmk3OERCSQ?oc=5",
    "sort_key": "Wed, 23 Sep 2026 01:35:20 GMT"
+  },
+  {
+   "id": "news:43f1d68288ea10b3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "한국수자원공사·상미당홀딩스·hy·교보생명 外 친환경·취약계층 상생 행보 확산...추석 앞두고 한마음",
+   "source": "데일리팝",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kVEJQd3p0aUZDSlZqRkRxR2tFRnlSV200bkJNaEpaUndtbnN2eWlyVHhlUDNYa3BiVmJpMW14TDlQNlp3Nk9hRmxqNldwWm1XVk9sVE1pQXJ5R1EyZDhkZ3hyMGJlSlNF?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 04:49:00 GMT"
+  },
+  {
+   "id": "news:0b0c71c60403d6d6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력",
+   "source": "v.daum.net",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVGNacVF0NjJic1Nnei1nYjBjMFNpUXgtTTNJWU5URi1UVkR5d01mSUJlM20xUHlWMTBJZExtdFh2Y3BrcDdqYkdETlVXTDg?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 05:06:00 GMT"
   }
  ],
  "initialized": true,
