@@ -965,10 +965,13 @@
   "news:e2259682944c8b65": 1790111788,
   "news:5e49ed914b84e35f": 1790111788,
   "news:7b03eaed1320b279": 1790115745,
-  "news:26a6a589d5c7a703": 1790117848
+  "news:26a6a589d5c7a703": 1790117848,
+  "news:715b6d8e56d72cdb": 1790124513,
+  "news:43c50fd024d244e2": 1790124514,
+  "news:530248ee5aef1815": 1790124514,
+  "news:d58b8fbea6c6c85d": 1790124514
  },
  "stories": {
-  "오비맥주, 대전 한화생명볼파크서 '건전음주 응원 캠페인' 진행": 1789865203,
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
   "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
@@ -1034,9 +1037,43 @@
   "한화생명볼파크 마운드 오른 백성현 논산시장 ‘논산 알리기’ 나서": 1790090106,
   "논산시, 한화생명볼파크서 논산의 맛과 매력 알려": 1790107323,
   "한화생명, 더피플라이프 직접 투자한다…PEF 출자 대신 SI로": 1790115745,
-  "[8월 GA 생보사 실적 M/S] 엠금융서비스...ABL 11.3% 선두, 삼성생명 6계단 올라 2위": 1790117848
+  "[8월 GA 생보사 실적 M/S] 엠금융서비스...ABL 11.3% 선두, 삼성생명 6계단 올라 2위": 1790117848,
+  "카카오, 원화 스테이블코인 ‘전방위 동맹’…그랩·교보생명 등과 맞손": 1790124514,
+  "한화생명금융서비스, 장애인 직원과 문화소통 '원팀 데이' 개최": 1790124514,
+  "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이": 1790124514
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:43c50fd024d244e2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오, 원화 스테이블코인 ‘전방위 동맹’…그랩·교보생명 등과 맞손",
+   "source": "v.daum.net",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wdHRvekZfSGhaNE1RdHhsZm1ITXI2RjdmWmxuTWY2Q05qTFpBVGlZY3ctZ1dTUGFTWVVyN3IxYTZYSlBaOHcyZzFKOFIzaWc?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 00:35:00 GMT"
+  },
+  {
+   "id": "news:530248ee5aef1815",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 장애인 직원과 문화소통 '원팀 데이' 개최",
+   "source": "뉴스1",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zZE5sYTlGelJwdXQyMkxtV2Rsb05Obm1aVGo2RkU5TnRHWHE3am13dGNrSG1tSWtJazRwUEd5bEgxdHh6TWtZUU40aDg1TXY3WF9XbUdGM3V4N051YU5Sc9IBZkFVX3lxTFAyR19SYVlTaTZBZjkybVA1cmRKTHFCWGE1VlRxSjhTUEtmdENjeHJMTEFvWEdEb2E5NWQ0NjZVYWpVT2FIR29Sb2pRc1JlcE44RC1PY1Y5ejJfU0ZXTVAtRnlpNzdaUQ?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 00:38:28 GMT"
+  },
+  {
+   "id": "news:d58b8fbea6c6c85d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이",
+   "source": "mt.co.kr",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3T1pIaU53RUszWW4tdVZTQXRDMGJXd0JqUnJ0TmliM0cwWERfc05zSW95X1BiVDNrdTdlbV9VY2VXX0NVbFZpVFRjeDVfVV9sVzRaN01fMXl0TUViRFU5Yngza0dBRDNuZmc40gFwQVVfeXFMTmdkV0hlaWY1ZVFxODZ0VUpuY1AxVVdNQmpJQnNiMFhqcHM2OEdtMVdPTEo3TU9kdjJkUnBPQzdGQjJkQjZER1hIZXE3ZUlOTGM5R3Y2djg4LURtV2NpX3ZtYnpmQVVXRVhvLU1LZjZXZA?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 00:40:13 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-23"
 }
