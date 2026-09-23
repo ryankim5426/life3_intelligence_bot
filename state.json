@@ -987,10 +987,11 @@
   "news:96d843db37e26baf": 1790139035,
   "news:fa447b77e741142e": 1790140436,
   "news:43f1d68288ea10b3": 1790140436,
-  "news:0b0c71c60403d6d6": 1790140436
+  "news:0b0c71c60403d6d6": 1790140436,
+  "news:189f0e02cb09d096": 1790141542,
+  "news:20082c24af92001e": 1790141542
  },
  "stories": {
-  "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
   "교보생명, 라플 흡수합병에…신용도 영향 제한적": 1789890511,
   "삼성생명, 건강보험 라인업 생애주기별로 완료": 1789917414,
   "교보라이프플래닛생명, 13년 만에 교보생명에 흡수합병… 독립 디지털보험사 카카오페이손보만 남아": 1789921397,
@@ -1071,7 +1072,8 @@
   "[금융계 동향] 한화생명금융서비스·우리금융미래재단·KB증권": 1790138027,
   "한화생명금융서비스, 장애인 고용률 3.54%…법정 의무고용률 웃돌아": 1790139035,
   "한국수자원공사·상미당홀딩스·hy·교보생명 外 친환경·취약계층 상생 행보 확산...추석 앞두고 한마음": 1790140436,
-  "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436
+  "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436,
+  "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약": 1790141542
  },
  "news_queue": [
   {
@@ -1233,6 +1235,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVGNacVF0NjJic1Nnei1nYjBjMFNpUXgtTTNJWU5URi1UVkR5d01mSUJlM20xUHlWMTBJZExtdFh2Y3BrcDdqYkdETlVXTDg?oc=5",
    "sort_key": "Wed, 23 Sep 2026 05:06:00 GMT"
+  },
+  {
+   "id": "news:20082c24af92001e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약",
+   "source": "보험저널",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HOVF5TENRVXlodXpKamVJTGdlLXFHTjh4dDVMZ005TFJ4WXlWalNlSXI0NzR0X0xUbXNXTkNJeUlqOG1fZFF2bmQyeFZjMkdtZFBjSkxvVUgyNkI3X1JuclFGRXd3RjJjSTJKMzJ4UQ?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 03:55:00 GMT"
   }
  ],
  "initialized": true,
