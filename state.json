@@ -970,7 +970,10 @@
   "news:43c50fd024d244e2": 1790124514,
   "news:530248ee5aef1815": 1790124514,
   "news:d58b8fbea6c6c85d": 1790124514,
-  "news:2030ab3815e70951": 1790125295
+  "news:2030ab3815e70951": 1790125295,
+  "news:7ffd3b55696a1041": 1790129928,
+  "news:a29b6c14c0cffc8e": 1790129929,
+  "news:b10a9cc1b1036c1c": 1790129929
  },
  "stories": {
   "[8월 GA 생보사 실적 M/S] 메가...한화 11.8% 1위·동양 11.5% 2위, 교보생명 8계단 껑충": 1789881451,
@@ -1042,7 +1045,9 @@
   "카카오, 원화 스테이블코인 ‘전방위 동맹’…그랩·교보생명 등과 맞손": 1790124514,
   "한화생명금융서비스, 장애인 직원과 문화소통 '원팀 데이' 개최": 1790124514,
   "교보자산운용, 사명 변경 완료…교보생명 100% 자회사로 새출발 - 머니투데이": 1790124514,
-  "교보자산운용 새출발…18년 합작 마치고 교보생명 품으로": 1790125295
+  "교보자산운용 새출발…18년 합작 마치고 교보생명 품으로": 1790125295,
+  "한화생명금융서비스, 장애인 네일관리사 23명 초청 문화 행사": 1790129929,
+  "카카오뱅크·페이, 그랩·SCBX·교보생명과 맞손…디지털 자산 사업 가속화": 1790129929
  },
  "news_queue": [
   {
@@ -1084,6 +1089,26 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPa3hNb2Z1cGJYR1EwMmk2YldMTnEyTVFvdmNwankzTGhWMHllaWZLT3NpZGloY0d5WVhabmpVUGN0b1ExY0EtZkpBMTBrbXlVdm5tbk5xMHV6Z9IBWEFVX3lxTE9jeGZUaG9iNlg1bFpNeU9xeGRhRFdFZ0NyRUVPYkFiVkNfX094dThWQTc2NHNoNnhPb0JLUGI2Mmg0SjNybkJYdFNuSS1FZ3I0NVU0S3NmeU8?oc=5",
    "sort_key": "Wed, 23 Sep 2026 00:50:46 GMT"
+  },
+  {
+   "id": "news:a29b6c14c0cffc8e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 장애인 네일관리사 23명 초청 문화 행사",
+   "source": "파이낸셜투데이",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16aDBNWG1VWC1Ja0RXV0NWOXA5YXNrUVR6TVBIeHR2RU9UM1ZoTy1zT2c1S1R2Ylh5WHZZTGhfRXNFWXpLenhVckE2WnRGek1xOGk1UkpzTVRaeF9kbWRfTUlSS2xQTEo2Y2Fj0gFuQVVfeXFMTllJZ1dySFVLeFB5blhwd0NVTXJWLW5WSXR4czFGM3huQkF3V2tSc2I1cUs1a2pBYldNYjRoTjRsS0h5TXRKeFRmR2RWcUFhd1FtbWM1U2tidnZEVTZxS3p6ZUpTdldJSkhRS1JLRkE?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 00:27:10 GMT"
+  },
+  {
+   "id": "news:b10a9cc1b1036c1c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오뱅크·페이, 그랩·SCBX·교보생명과 맞손…디지털 자산 사업 가속화",
+   "source": "뉴스핌",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sU0t5SHVpOEZ0NnhXR0tRcHc3Y3Z2M2t4eVJaNmR5ZF96NjRUVVYxWnRsUVpydnhGc0d6bDJFd2ZfMHBidTdDd3JBMnQtbUp5czVLWUxPdWE4Nm5k?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:14:00 GMT"
   }
  ],
  "initialized": true,
