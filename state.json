@@ -1007,7 +1007,8 @@
   "news:e4708b419c95c711": 1790210829,
   "news:131aae086c355874": 1790226864,
   "news:e910e6f117385254": 1790230781,
-  "news:aff92544864c33d7": 1790238066
+  "news:aff92544864c33d7": 1790238066,
+  "news:7d2a61a5d8161527": 1790284481
  },
  "stories": {
   "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184,
@@ -1058,7 +1059,8 @@
   "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
   "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300,
   "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829,
-  "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리": 1790238066
+  "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리": 1790238066,
+  "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481
  },
  "news_queue": [
   {
@@ -1080,6 +1082,16 @@
    "date": "Thu, 24 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWnlGRGtxYlUwYUtTeWFvZVRjQThfODVxeGZxYmRhWHhVNWNGV0ViZmkxa0RlckZMMUdrSzdudDkxbTZ3Y2p2SklsVXpqUi1BdnVsaXBDVncxN3F1eUNGZ0RwaGhwSTM0b3c?oc=5",
    "sort_key": "Thu, 24 Sep 2026 08:09:55 GMT"
+  },
+  {
+   "id": "news:7d2a61a5d8161527",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비",
+   "source": "fetv.co.kr",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnRjJkaDZqZEJ0bXBMOWZ4b1h5QUNBTnUwUlg3QXZjelBQUnhNa2VtcURnbFN4YkVfQV85N1ZpbmhCMG94dFF4UnZQOURGSVN0ajE0eDVYNzRqbVZ6amV1elAxdUk5OVJq?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
