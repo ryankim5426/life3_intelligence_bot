@@ -1006,10 +1006,10 @@
   "news:d409ab053459777e": 1790198300,
   "news:e4708b419c95c711": 1790210829,
   "news:131aae086c355874": 1790226864,
-  "news:e910e6f117385254": 1790230781
+  "news:e910e6f117385254": 1790230781,
+  "news:aff92544864c33d7": 1790238066
  },
  "stories": {
-  "한화생명, ‘치매 케어' 상담 가능한 설계사 육성한다": 1789977545,
   "삼성생명 주가, 9월 21일 장중 290,500원 2.47% 상승": 1789978914,
   "\"AI 보안 가이드까지 구축\"…교보생명, 금융 전 분야 ISMS-P '통합 인증'": 1789980202,
   "[보험 NOW] 흥국화재·KB손보·교보생명·한화생명·동양생명": 1789980202,
@@ -1069,7 +1069,8 @@
   "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759,
   "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
   "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300,
-  "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829
+  "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829,
+  "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리": 1790238066
  },
  "news_queue": [
   {
@@ -1081,6 +1082,16 @@
    "date": "Thu, 24 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WS3NFUjlkb2VPSENpSzZpQUl6ZC12M0cxZ2Njdk5ZMWYxQWRoRVBzS0Fqam1MMlBfTFRyb3JnVFFQdU1UbUtZTFlMWk5oZ2lOQ0gwa181RVhnZlpWSUMxYTF1a3pEWnN5OFM3anp6WTDSAXRBVV95cUxQOTdTajhSdzBHTEtQZG5VejItTjZtUHhJUW1kOTFmNFB3ekh1aE1PTllKaU5YRnBoNmk1U0xtQ3lPWlV5YTI4dDVfLUFHZWJ0UWpKdUg2MFp0TklwaGVpeGZJSVQ3ZDUtWU9YejBTS1N2X1VESw?oc=5",
    "sort_key": "Thu, 24 Sep 2026 00:40:15 GMT"
+  },
+  {
+   "id": "news:aff92544864c33d7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리",
+   "source": "rookie.co.kr",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWnlGRGtxYlUwYUtTeWFvZVRjQThfODVxeGZxYmRhWHhVNWNGV0ViZmkxa0RlckZMMUdrSzdudDkxbTZ3Y2p2SklsVXpqUi1BdnVsaXBDVncxN3F1eUNGZ0RwaGhwSTM0b3c?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 08:09:55 GMT"
   }
  ],
  "initialized": true,
