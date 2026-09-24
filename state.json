@@ -1008,7 +1008,8 @@
   "news:131aae086c355874": 1790226864,
   "news:e910e6f117385254": 1790230781,
   "news:aff92544864c33d7": 1790238066,
-  "news:7d2a61a5d8161527": 1790284481
+  "news:7d2a61a5d8161527": 1790284481,
+  "news:d7e6ffcc02349728": 1790285475
  },
  "stories": {
   "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184,
@@ -1060,7 +1061,8 @@
   "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300,
   "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829,
   "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리": 1790238066,
-  "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481
+  "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481,
+  "\"저 건강합니다!\" 삼성생명 향한 냉정한 평가? 더 독기 품은 이주연 \"보여주는 건 저희의 몫입니다\"": 1790285475
  },
  "news_queue": [
   {
@@ -1092,6 +1094,16 @@
    "date": "Thu, 24 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnRjJkaDZqZEJ0bXBMOWZ4b1h5QUNBTnUwUlg3QXZjelBQUnhNa2VtcURnbFN4YkVfQV85N1ZpbmhCMG94dFF4UnZQOURGSVN0ajE0eDVYNzRqbVZ6amV1elAxdUk5OVJq?oc=5",
    "sort_key": "Thu, 24 Sep 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:d7e6ffcc02349728",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"저 건강합니다!\" 삼성생명 향한 냉정한 평가? 더 독기 품은 이주연 \"보여주는 건 저희의 몫입니다\"",
+   "source": "rookie.co.kr",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQkZQQUFqNTdfajZFc09SV1JMUFFENncwcEpPcjcyNElFOEdvbkstSGxSMEEtR3BYX2ZjZldwQnZId25KNjlTcmtoTW5tTnlSWk9pcy1tWjF6NzdqWkx5MjlNdWU2RENrZXc?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 21:20:00 GMT"
   }
  ],
  "initialized": true,
