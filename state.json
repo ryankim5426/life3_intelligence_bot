@@ -1009,10 +1009,11 @@
   "news:e910e6f117385254": 1790230781,
   "news:aff92544864c33d7": 1790238066,
   "news:7d2a61a5d8161527": 1790284481,
-  "news:d7e6ffcc02349728": 1790285475
+  "news:d7e6ffcc02349728": 1790285475,
+  "news:04eb811d56650e81": 1790288625,
+  "news:f822e0d60bbabd4d": 1790288625
  },
  "stories": {
-  "댓글 : 생보사 자본의 질에 삼성생명 착시…1년 새 지표 상승 6곳뿐": 1790029184,
   "계약서비스마진(CSM) 6.9조 교보생명···금리 1%p가 변수": 1790032941,
   "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대": 1790039880,
   "[포토] 조대규 교보생명 사장, 친환경 자전거 발전기 체험": 1790039880,
@@ -1062,7 +1063,9 @@
   "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829,
   "이주연-이채은 자매 맞대결 치열했다... KB, 연습경기서 삼성생명에 팽팽한 접전 끝 승리": 1790238066,
   "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481,
-  "\"저 건강합니다!\" 삼성생명 향한 냉정한 평가? 더 독기 품은 이주연 \"보여주는 건 저희의 몫입니다\"": 1790285475
+  "\"저 건강합니다!\" 삼성생명 향한 냉정한 평가? 더 독기 품은 이주연 \"보여주는 건 저희의 몫입니다\"": 1790285475,
+  "한화생명 투자분석 2026. 09. 24": 1790288625,
+  "‘강한 압박 + 적극적인 외곽 슈팅’ 확실했던 팀 컬러, 아쉬웠던 결과를 마주한 삼성생명": 1790288625
  },
  "news_queue": [
   {
@@ -1104,6 +1107,26 @@
    "date": "Thu, 24 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQkZQQUFqNTdfajZFc09SV1JMUFFENncwcEpPcjcyNElFOEdvbkstSGxSMEEtR3BYX2ZjZldwQnZId25KNjlTcmtoTW5tTnlSWk9pcy1tWjF6NzdqWkx5MjlNdWU2RENrZXc?oc=5",
    "sort_key": "Thu, 24 Sep 2026 21:20:00 GMT"
+  },
+  {
+   "id": "news:04eb811d56650e81",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 투자분석 2026. 09. 24",
+   "source": "주달",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qUFIzbnNYb0g0bXFpRmhmRmg2UlRrT2xiNllUVDVqcU1wLWM4ZlRBb09Ibmh3QTlYVWNqcnp2cHYza3pzcUhyeWYwZHB2dmctTzNqSHRCM1NXR19WaGE3Umg4d0NZNHFNYlBkelNHd1MweDQ?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 11:42:49 GMT"
+  },
+  {
+   "id": "news:f822e0d60bbabd4d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘강한 압박 + 적극적인 외곽 슈팅’ 확실했던 팀 컬러, 아쉬웠던 결과를 마주한 삼성생명",
+   "source": "바스켓코리아",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81c3BnOXVUMFQ4YzBOT1JvbXB5eWRUMU5FT25EVW92cFBtSkkwX3FlUW1WVDVCUllueWhMbHdXc0tuS0d4TjdubW1KTWxRbkpWTDVydFdRYzVQTnpkeGsyc25FRldFeHB6YWRMb3pVN1MxLU1hYjdn?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 22:05:42 GMT"
   }
  ],
  "initialized": true,
