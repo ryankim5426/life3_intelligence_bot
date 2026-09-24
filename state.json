@@ -1003,12 +1003,10 @@
   "news:74fc0a38cd622ce8": 1790169934,
   "news:fb970a58caa39622": 1790171073,
   "news:3c84c59fb7f179d4": 1790171869,
-  "news:d409ab053459777e": 1790198300
+  "news:d409ab053459777e": 1790198300,
+  "news:e4708b419c95c711": 1790210829
  },
  "stories": {
-  "한화생명, 제휴 설계사에 '치매 컨설턴트' 양성 과정 도입 · 달라지는 점은?": 1789951611,
-  "교보생명, 국내 최고 수준 정보보호 역량 입증...ISMS-P 인증 획득": 1789951611,
-  "교보생명, 금융업무 전반 ISMS-P 인증 획득…AI 보안 체계 구축": 1789951611,
   "교보생명, 퇴직연금∙신탁∙펀드∙여신 정보보호 강화": 1789953777,
   "교보생명, 퇴직연금·신탁 등으로 ISMS-P 인증 범위 확대": 1789953777,
   "교보생명, 보험·연금·신탁·여신까지 '정보보호 인증'…국내 금융사 최초": 1789953777,
@@ -1086,9 +1084,21 @@
   "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
   "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759,
   "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
-  "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300
+  "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300,
+  "[보험사 이모저모] 특허권에 진심인 삼성생명·화재": 1790210829
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:e4708b419c95c711",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험사 이모저모] 특허권에 진심인 삼성생명·화재",
+   "source": "연합인포맥스",
+   "date": "Thu, 24 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WS3NFUjlkb2VPSENpSzZpQUl6ZC12M0cxZ2Njdk5ZMWYxQWRoRVBzS0Fqam1MMlBfTFRyb3JnVFFQdU1UbUtZTFlMWk5oZ2lOQ0gwa181RVhnZlpWSUMxYTF1a3pEWnN5OFM3anp6WTDSAXRBVV95cUxQOTdTajhSdzBHTEtQZG5VejItTjZtUHhJUW1kOTFmNFB3ekh1aE1PTllKaU5YRnBoNmk1U0xtQ3lPWlV5YTI4dDVfLUFHZWJ0UWpKdUg2MFp0TklwaGVpeGZJSVQ3ZDUtWU9YejBTS1N2X1VESw?oc=5",
+   "sort_key": "Thu, 24 Sep 2026 00:40:15 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-24"
 }
