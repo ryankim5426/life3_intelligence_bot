@@ -1013,10 +1013,12 @@
   "news:04eb811d56650e81": 1790288625,
   "news:f822e0d60bbabd4d": 1790288625,
   "news:6b5a0b891b42d766": 1790294413,
-  "news:cff26cebc6d43ec6": 1790296125
+  "news:cff26cebc6d43ec6": 1790296125,
+  "news:ea4d8ce0a21c8b5f": 1790301463,
+  "news:b744ff36db392a63": 1790301463,
+  "news:a8c1581aa75d5909": 1790301463
  },
  "stories": {
-  "교보생명, 기후부와 함께 ‘제4회 지구하다 페스티벌’ 개최...기후행동 실천 확산": 1790041751,
   "교보생명, 광화문서 ‘지구하다 페스티벌’…1만 명 기후행동 체험": 1790043841,
   "한양대 학생들, 삼성생명 '라이프놀로지 랩'서 기술 기반 미래 혁신 솔루션 선보여": 1790044947,
   "교보생명, 기후행동 실천 확장…“지속가능한 기후행동 생태계 구축 앞장”": 1790054608,
@@ -1066,7 +1068,9 @@
   "한화생명 투자분석 2026. 09. 24": 1790288625,
   "‘강한 압박 + 적극적인 외곽 슈팅’ 확실했던 팀 컬러, 아쉬웠던 결과를 마주한 삼성생명": 1790288625,
   "142조원 된 삼성생명 삼성전자 지분…매각이익에 ‘유배당 가입자 몫’도": 1790294413,
-  "삼성전자 오르자 삼성그룹주 들썩…삼성전기·삼성생명도 상승": 1790296125
+  "삼성전자 오르자 삼성그룹주 들썩…삼성전기·삼성생명도 상승": 1790296125,
+  "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
+  "교보자산운용 새 출발…교보생명 단독 체제로 재편": 1790301463
  },
  "news_queue": [
   {
@@ -1088,6 +1092,26 @@
    "date": "Fri, 25 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52dkw5eHltUW03QXRhS3NTWDduZmxtT3BrbkZKLS1zUnhBU1c2LV9QNjRiTC1FcE13cjlGdjAwM0wtYllIbVhsamQ4THFnUTdVYkhLS3lua1RWcU5jZGZEejZBWjA1U2d3d0g4NkxXMmwxVlXSAXdBVV95cUxOdnZPZERKSzlpa0xaWmZKNmkyMlA0Z1VMUkF6QVhUbDVfOXVIclIySnpvZkN0QUdzLWNITEc4Q2hvTzVoZ3pCVjR6VERjemU4UmE3OEQyNEY5RjNsZEs5N25uZmI1RDJhS1V6dTIyMFR2V2FoUzVTcw?oc=5",
    "sort_key": "Fri, 25 Sep 2026 00:11:57 GMT"
+  },
+  {
+   "id": "news:b744ff36db392a63",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ramQ5MHBKVVFEMTJkZGRmNFNBNTdyVHlOMi1IMGsyenBJdE5YZmQzLXhOclgyUmNoMUJxMUVMcE1SQmxoNHBacTR3?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 02:15:00 GMT"
+  },
+  {
+   "id": "news:a8c1581aa75d5909",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보자산운용 새 출발…교보생명 단독 체제로 재편",
+   "source": "srtimes.kr",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYnFrdkV6dWM2VzFHN1hfUGUtSkZ4R3BJSkM0MmNsWHFzMzRTUksxNXNoM2l2Tzd2cWs3WE1oOGxTUFNobVYyUWZyVWhXSDBIYjNsSHlibl9rRDI5UHVRYlp5RnF6YWPSAWtBVV95cUxNQWVZYnZvVXJ2ajlvTkZ3REhhYkdrdENmZ1A4Z1hxT1dDZWVRaUpPNWduakR0THdLcEU4cldzQy1jMWVzY180Tk9tRjFvVVZEQUtEZm1fTGhxNnJjOU9PQ3lwRWZsMndIX2tKOA?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 05:49:06 GMT"
   }
  ],
  "initialized": true,
