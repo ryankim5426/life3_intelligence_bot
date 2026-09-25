@@ -1011,7 +1011,8 @@
   "news:7d2a61a5d8161527": 1790284481,
   "news:d7e6ffcc02349728": 1790285475,
   "news:04eb811d56650e81": 1790288625,
-  "news:f822e0d60bbabd4d": 1790288625
+  "news:f822e0d60bbabd4d": 1790288625,
+  "news:6b5a0b891b42d766": 1790294413
  },
  "stories": {
   "[단독] 삼성생명, PF펀드 약정 1조5000억원대로 확대…삼성SRA 이관 후 최대": 1790039880,
@@ -1064,9 +1065,21 @@
   "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481,
   "\"저 건강합니다!\" 삼성생명 향한 냉정한 평가? 더 독기 품은 이주연 \"보여주는 건 저희의 몫입니다\"": 1790285475,
   "한화생명 투자분석 2026. 09. 24": 1790288625,
-  "‘강한 압박 + 적극적인 외곽 슈팅’ 확실했던 팀 컬러, 아쉬웠던 결과를 마주한 삼성생명": 1790288625
+  "‘강한 압박 + 적극적인 외곽 슈팅’ 확실했던 팀 컬러, 아쉬웠던 결과를 마주한 삼성생명": 1790288625,
+  "142조원 된 삼성생명 삼성전자 지분…매각이익에 ‘유배당 가입자 몫’도": 1790294413
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:6b5a0b891b42d766",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "142조원 된 삼성생명 삼성전자 지분…매각이익에 ‘유배당 가입자 몫’도",
+   "source": "서드앵글",
+   "date": "Wed, 23 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IelcxYjVYVk1kMzJMaGhzNDJIdGpYUThHWk55UWtwVmhfUlZoWW5kVG9fSFJ0SV9RLUcwVGJPT3owSzVvYy04VGNLS19nT0M2S0s1ZkEtcHh3YnUtTkgzSUUyU3JNT3NNS2IxVkl6dFY?oc=5",
+   "sort_key": "Wed, 23 Sep 2026 13:15:20 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-25"
 }
