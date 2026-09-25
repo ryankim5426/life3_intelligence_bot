@@ -1024,7 +1024,8 @@
   "news:e861ffe9fe56bf39": 1790308250,
   "news:65f99e713e3de856": 1790310838,
   "news:9574c4bfaa3abfe3": 1790311918,
-  "news:10748bb830e2a8f7": 1790314347
+  "news:10748bb830e2a8f7": 1790314347,
+  "news:e1827e0e0d128c97": 1790318516
  },
  "stories": {
   "교보생명, 광화문서 ‘지구하다’ 4년…\"기후행동 실천\"": 1790059640,
@@ -1076,7 +1077,8 @@
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
   "교보자산운용 새 출발…교보생명 단독 체제로 재편": 1790301463,
   "카카오그룹(카카오, 카카오뱅크, 카카오페이)과 교보생명이 디지털 자산 분야 업무협약을 체결했다. 왼쪽부터 윤호영 카카오뱅크 대표, 조대규 교보생명 대표, 신원근 카카오페이 대표.": 1790307192,
-  "교보자산운용, 18년 만에 ‘악사’ 뗀다…교보생명 100% 자회사 전환": 1790310838
+  "교보자산운용, 18년 만에 ‘악사’ 뗀다…교보생명 100% 자회사 전환": 1790310838,
+  "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지": 1790318516
  },
  "news_queue": [
   {
@@ -1138,6 +1140,16 @@
    "date": "Wed, 23 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUzBHS3pYTWJJUnVmOWtLYmhabllRWnBqNnhGOGdqOTN0Qk5qOEVCMllTVERoQl95SzlGUllkQXV2cUVtYm13OEk1bkw3dU5zOE1SdUFPcW5HdkMxWjNNX2d3Z1Y4UDdKMTVqakI4b2vSAXBBVV95cUxOVVMwR0t6WE1iSVJ1ZjlrS2JoWm5ZUVpwajZ4RjhnajkzdEJOajhFQjJZU1REaEJfeUs5RlJZZEF1dnFFbWJtdzhJNW5MN3VOczhNUnVBT3FuR3ZDMVozTV9nd2dWOFA3SjE1ampCOG9r?oc=5",
    "sort_key": "Wed, 23 Sep 2026 05:23:31 GMT"
+  },
+  {
+   "id": "news:e1827e0e0d128c97",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지",
+   "source": "lawleader.co.kr",
+   "date": "Fri, 25 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1dl90bmRMejFYVHdwSXFxTXRmbWJSdEN4UFJvQ3lqUVhoRmF5dy1xX3FQU1ZFZ3NVQkZhRmhDS29Yd2hWVG9hV2Y5X1NCaWN0S3VIeHMxUkdJNmp5Q3BfREhLc21nRkQ2VjlqZ2xneWhWUdIBckFVX3lxTFB1dl90bmRMejFYVHdwSXFxTXRmbWJSdEN4UFJvQ3lqUVhoRmF5dy1xX3FQU1ZFZ3NVQkZhRmhDS29Yd2hWVG9hV2Y5X1NCaWN0S3VIeHMxUkdJNmp5Q3BfREhLc21nRkQ2VjlqZ2xneWhWUQ?oc=5",
+   "sort_key": "Fri, 25 Sep 2026 05:35:32 GMT"
   }
  ],
  "initialized": true,
