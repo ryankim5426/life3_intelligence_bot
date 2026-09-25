@@ -1027,7 +1027,8 @@
   "news:10748bb830e2a8f7": 1790314347,
   "news:e1827e0e0d128c97": 1790318516,
   "news:16e4f7ebc1cba4e5": 1790319645,
-  "news:5d8fedabcf5a6e14": 1790355324
+  "news:5d8fedabcf5a6e14": 1790355324,
+  "news:f4a76aaed5dcdfd3": 1790371106
  },
  "stories": {
   "한화생명, 더피플라이프 직접 투자한다…PEF 출자 대신 SI로": 1790115745,
@@ -1067,7 +1068,8 @@
   "카카오그룹(카카오, 카카오뱅크, 카카오페이)과 교보생명이 디지털 자산 분야 업무협약을 체결했다. 왼쪽부터 윤호영 카카오뱅크 대표, 조대규 교보생명 대표, 신원근 카카오페이 대표.": 1790307192,
   "교보자산운용, 18년 만에 ‘악사’ 뗀다…교보생명 100% 자회사 전환": 1790310838,
   "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지": 1790318516,
-  "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324
+  "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
+  "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106
  },
  "news_queue": [
   {
@@ -1149,6 +1151,16 @@
    "date": "Fri, 25 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1c09UcGJ6NEthclo0QjNHX1BZWkpwUmVvOUVoMnVnZzFmN2d0U2I5MDhmWlJhRWRUbVhrUE12d1J0R3hlTnh6Q0dfZ0FuMkFhUG1aN2djS004bk85RlgwbjhVaVg4eGlp?oc=5",
    "sort_key": "Fri, 25 Sep 2026 10:59:12 GMT"
+  },
+  {
+   "id": "news:f4a76aaed5dcdfd3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장",
+   "source": "fetv.co.kr",
+   "date": "Fri, 25 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43US1KVFk1VTZVSVlKZjQwVWg2S1hGNm1YQ0RrREF6ZG9ZbXVkS0t1YXZqdmY0WmFzUWxieWs4eVpsal9rNnluZVVjMlBBZXNVdTRaNFB0ZjlZdFVLSW5pdXBfakpkTjds?oc=5",
+   "sort_key": "Fri, 25 Sep 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
