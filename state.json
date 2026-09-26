@@ -1031,10 +1031,10 @@
   "news:f4a76aaed5dcdfd3": 1790371106,
   "news:b9518012d4083465": 1790394584,
   "news:6d8980eba734d516": 1790394584,
-  "news:0223a6303fed1045": 1790399840
+  "news:0223a6303fed1045": 1790399840,
+  "news:deecb761e2d59ef6": 1790405317
  },
  "stories": {
-  "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
   "교보생명, 보험정보에서 금융정보로…달라진 정보보호 셈법": 1790147759,
   "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
   "[추석맞이 효도보험] 삼성생명, 치매 보장에 뇌·관절질환 보장 추가": 1790198300,
@@ -1055,7 +1055,8 @@
   "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106,
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
   "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584,
-  "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840
+  "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840,
+  "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317
  },
  "news_queue": [
   {
@@ -1087,6 +1088,16 @@
    "date": "Sat, 26 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZlpGYTlERWVmVmF5OV9HczBfNGFwV25LNUxlQV96YTV3WHZwWVhwWi1hcUdZSHdWMXNOc1B4Z01sT2hqLVF5SlpPWlhGWDl2MnpNZWtyVWs5aXNVd3M0NXN2azhjbEZKblE?oc=5",
    "sort_key": "Sat, 26 Sep 2026 04:35:51 GMT"
+  },
+  {
+   "id": "news:deecb761e2d59ef6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대",
+   "source": "비즈월드",
+   "date": "Sat, 26 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUR2oxMGtod2FEdGQ4TWJPOWVRcGY5c21jTHRVYjRSSGxDWEhwQ212TlJEWUE4M29hZVpENWZrQUVaRU0yd2hiWk9pUmVZWDQ0Yl9iZVdLalR5M3RXMHlGc1pkZXYxa1M5NWc?oc=5",
+   "sort_key": "Sat, 26 Sep 2026 06:42:00 GMT"
   }
  ],
  "initialized": true,
