@@ -1032,7 +1032,8 @@
   "news:b9518012d4083465": 1790394584,
   "news:6d8980eba734d516": 1790394584,
   "news:0223a6303fed1045": 1790399840,
-  "news:deecb761e2d59ef6": 1790405317
+  "news:deecb761e2d59ef6": 1790405317,
+  "news:2fc93214f1ba2044": 1790418158
  },
  "stories": {
   "㈜한화, 한화생명 지분 담보 800억원 대출계약 변경": 1790169934,
@@ -1055,7 +1056,8 @@
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
   "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584,
   "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840,
-  "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317
+  "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317,
+  "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158
  },
  "news_queue": [
   {
@@ -1097,6 +1099,16 @@
    "date": "Sat, 26 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUR2oxMGtod2FEdGQ4TWJPOWVRcGY5c21jTHRVYjRSSGxDWEhwQ212TlJEWUE4M29hZVpENWZrQUVaRU0yd2hiWk9pUmVZWDQ0Yl9iZVdLalR5M3RXMHlGc1pkZXYxa1M5NWc?oc=5",
    "sort_key": "Sat, 26 Sep 2026 06:42:00 GMT"
+  },
+  {
+   "id": "news:2fc93214f1ba2044",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환",
+   "source": "뉴스브라이트",
+   "date": "Sat, 26 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycUpYT0N2ODIxRDh4MVhjdUt6T3FiT2NpX2hsTGV5MVlyYTZoQ3V5NHM1WEZiRkgtSC1WMVJrU2hlX2ZsTGsxUmJyV1BTWDNnWnF2YlVZVHlyMEF5b01nSW5zTmY0YmE3eC1oSg?oc=5",
+   "sort_key": "Sat, 26 Sep 2026 08:37:11 GMT"
   }
  ],
  "initialized": true,
