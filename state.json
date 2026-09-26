@@ -1030,11 +1030,10 @@
   "news:5d8fedabcf5a6e14": 1790355324,
   "news:f4a76aaed5dcdfd3": 1790371106,
   "news:b9518012d4083465": 1790394584,
-  "news:6d8980eba734d516": 1790394584
+  "news:6d8980eba734d516": 1790394584,
+  "news:0223a6303fed1045": 1790399840
  },
  "stories": {
-  "한국수자원공사·상미당홀딩스·hy·교보생명 外 친환경·취약계층 상생 행보 확산...추석 앞두고 한마음": 1790140436,
-  "카카오그룹, 그랩·SCBX·교보생명·보난자팩토리와 디지털자산 협력": 1790140436,
   "[8월 GA 생보사 실적 M/S] 에이비에이금융서비스...ABL 36.6% 선두 유지, 삼성생명 7.2% 5계단 도약": 1790141542,
   "‘악사’ 뗀 교보자산운용… 교보생명, 계열사 지배력 강화": 1790143527,
   "[한화생명 성장 공식③]보험 다음의 '금융'···한화생명이 그리는 종합금융 '청사진'": 1790144993,
@@ -1057,7 +1056,8 @@
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
   "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106,
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
-  "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584
+  "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584,
+  "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840
  },
  "news_queue": [
   {
@@ -1079,6 +1079,16 @@
    "date": "Fri, 25 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNm1abi1IM2lyM19aTEJKSUNDbHZfemp0dTgyU0dfSUdOOFI0QmFsZHpLOGo0ek5DeGxMeWJuRXlNa3NVUGRZYzdYYW8yZHd1V1BaRDBfRWtBckR0dC1DTUR3SW12czFaeWQwNk1mU0pKc0VhYmhPRzRfYmtNMXA0eDZUOWJmelhRTzJSZ0VRX2R2RXpuMXhr?oc=5",
    "sort_key": "Fri, 25 Sep 2026 23:23:21 GMT"
+  },
+  {
+   "id": "news:0223a6303fed1045",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?",
+   "source": "rookie.co.kr",
+   "date": "Sat, 26 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZlpGYTlERWVmVmF5OV9HczBfNGFwV25LNUxlQV96YTV3WHZwWVhwWi1hcUdZSHdWMXNOc1B4Z01sT2hqLVF5SlpPWlhGWDl2MnpNZWtyVWs5aXNVd3M0NXN2azhjbEZKblE?oc=5",
+   "sort_key": "Sat, 26 Sep 2026 04:35:51 GMT"
   }
  ],
  "initialized": true,
