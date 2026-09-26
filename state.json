@@ -1028,7 +1028,9 @@
   "news:e1827e0e0d128c97": 1790318516,
   "news:16e4f7ebc1cba4e5": 1790319645,
   "news:5d8fedabcf5a6e14": 1790355324,
-  "news:f4a76aaed5dcdfd3": 1790371106
+  "news:f4a76aaed5dcdfd3": 1790371106,
+  "news:b9518012d4083465": 1790394584,
+  "news:6d8980eba734d516": 1790394584
  },
  "stories": {
   "[금융계 동향] 한화생명금융서비스·우리금융미래재단·KB증권": 1790138027,
@@ -1055,9 +1057,32 @@
   "교보자산운용, 18년 만에 ‘악사’ 뗀다…교보생명 100% 자회사 전환": 1790310838,
   "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지": 1790318516,
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
-  "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106
+  "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106,
+  "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
+  "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:b9518012d4083465",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망",
+   "source": "쿠키뉴스",
+   "date": "Fri, 25 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4dmhjZVF2MjRZTE5EdTBKMDJKRzJwWjFucmd1SnRzeWxxQVJCQXNjbFhzek92MTdnZ0VpNkdDeUZMWG85ZjdoMGVya0NLN1VZeFNXcFNlQ0Zmb3BLcFpVSVRIZw?oc=5",
+   "sort_key": "Fri, 25 Sep 2026 11:38:13 GMT"
+  },
+  {
+   "id": "news:6d8980eba734d516",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스",
+   "source": "yaguwang.com",
+   "date": "Fri, 25 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNm1abi1IM2lyM19aTEJKSUNDbHZfemp0dTgyU0dfSUdOOFI0QmFsZHpLOGo0ek5DeGxMeWJuRXlNa3NVUGRZYzdYYW8yZHd1V1BaRDBfRWtBckR0dC1DTUR3SW12czFaeWQwNk1mU0pKc0VhYmhPRzRfYmtNMXA0eDZUOWJmelhRTzJSZ0VRX2R2RXpuMXhr?oc=5",
+   "sort_key": "Fri, 25 Sep 2026 23:23:21 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-26"
 }
