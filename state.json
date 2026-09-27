@@ -1035,7 +1035,8 @@
   "news:deecb761e2d59ef6": 1790405317,
   "news:2fc93214f1ba2044": 1790418158,
   "news:9f772da1348f2552": 1790519614,
-  "news:22cb0c1aeb0c5ffe": 1790520548
+  "news:22cb0c1aeb0c5ffe": 1790520548,
+  "news:a86de5c31186ddc2": 1790521375
  },
  "stories": {
   "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481,
@@ -1057,7 +1058,8 @@
   "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317,
   "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158,
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
-  "[기록] 이 악물고 뛴 삼성생명, 740일 만에 KB스타즈 전 승리": 1790520548
+  "[기록] 이 악물고 뛴 삼성생명, 740일 만에 KB스타즈 전 승리": 1790520548,
+  "신창재 교보생명 회장, 해외 보험 대신 자산운용…미·일 투자망 구축 [보험사 글로벌 전략]": 1790521375
  },
  "news_queue": [
   {
@@ -1079,6 +1081,16 @@
    "date": "Sun, 27 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KRFFQb1A5eW1vU21xVE5pTWE0UV83dncydjVKTVV3bHFxUkJJTW0yTXVxUjBOcmtVN3FyVDFzTnVqeXdFeGJfUXRsMDk3bWdCYVI5LTN5ZWs1NlZmMnZvb1BuX2dIRTZCUmhiMXE3d2xmeHJyem5j?oc=5",
    "sort_key": "Sun, 27 Sep 2026 07:07:35 GMT"
+  },
+  {
+   "id": "news:a86de5c31186ddc2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "신창재 교보생명 회장, 해외 보험 대신 자산운용…미·일 투자망 구축 [보험사 글로벌 전략]",
+   "source": "한국금융신문",
+   "date": "Sun, 27 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DOVJxQ2FaV25udEVmaUlzNFBHN2VHZjZSQ3dsNmZGeGxIZTJKaEw2dGxYZnpueEFZZFMxV1JYci1ybDRPSnBqTERjOHBSZ0V1THFIY1JTVnhVak8tbzUyVlRianJ0VGJQZWtEdnd4Tm53WE1qVUZWMDM3bHE?oc=5",
+   "sort_key": "Sun, 27 Sep 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
