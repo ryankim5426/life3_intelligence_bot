@@ -1040,7 +1040,8 @@
   "news:fdb70c9b68cf3f5c": 1790543059,
   "news:859e18433391c136": 1790545308,
   "news:1e3e6fed9a8b3fc4": 1790545308,
-  "news:33f5fdd8d273c8bf": 1790546256
+  "news:33f5fdd8d273c8bf": 1790546256,
+  "news:468b988aecf75fc7": 1790550835
  },
  "stories": {
   "142조원 된 삼성생명 삼성전자 지분…매각이익에 ‘유배당 가입자 몫’도": 1790294413,
@@ -1063,7 +1064,8 @@
   "상위사 도약 주역 경영스타일은…'전략 직접 주도' 교보생명 신창재 vs 'CEO 위임' 현대해상 정몽윤 [AI가 본 금융권 맞수 열전 - 보험]": 1790543059,
   "[장애인 고용⑭] 삼성생명 홍원학, 임기 끝까지 외면": 1790545308,
   "메리츠화재 운용자산이익률 4.75% '톱'…삼성생명 나홀로 하락": 1790545308,
-  "교보생명, 디지털생보사 실험 종료…합병 인가·결손금 흡수 과제": 1790546256
+  "교보생명, 디지털생보사 실험 종료…합병 인가·결손금 흡수 과제": 1790546256,
+  "일본계 대부업 끌어들인 교보생명 신창재의 ‘SBI 독배’ [조수연의 그래픽저널]": 1790550835
  },
  "news_queue": [
   {
@@ -1135,6 +1137,16 @@
    "date": "Sun, 27 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Q1VTcnVqeE9Zdm0wS1NHVmRKMEdFWFI2ZFlrRjBXVHhhamtuRmMxb3hPYkRTTVZxcm14MU5CNzh6V2tjY1dTS2VHZVo5ODAwXzIwRWhza3I1bTAtdXc?oc=5",
    "sort_key": "Sun, 27 Sep 2026 21:52:00 GMT"
+  },
+  {
+   "id": "news:468b988aecf75fc7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "일본계 대부업 끌어들인 교보생명 신창재의 ‘SBI 독배’ [조수연의 그래픽저널]",
+   "source": "뉴스웰",
+   "date": "Sun, 27 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fYzZhODFVdW01ZDJwMkVCRGMwWExuR2FzQmwxWDN0b19HLVRVdThsT0JQdmxfUDdSbnNQYkxoZ08tN2l1cVpKWmZxSk9jRmR0ZTdXZW42UV8ydXBmcS0xdmhJZzJRam42eDdtag?oc=5",
+   "sort_key": "Sun, 27 Sep 2026 22:55:02 GMT"
   }
  ],
  "initialized": true,
