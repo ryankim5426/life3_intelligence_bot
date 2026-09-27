@@ -1033,7 +1033,8 @@
   "news:6d8980eba734d516": 1790394584,
   "news:0223a6303fed1045": 1790399840,
   "news:deecb761e2d59ef6": 1790405317,
-  "news:2fc93214f1ba2044": 1790418158
+  "news:2fc93214f1ba2044": 1790418158,
+  "news:9f772da1348f2552": 1790519614
  },
  "stories": {
   "[추석맞이 효도보험] 한화생명, 치매·간병 대비에 노후자금까지 준비": 1790284481,
@@ -1053,9 +1054,21 @@
   "한화생명 임직원, 보건용 마스크 자발적 기부, 백혈병 소아암 환아와 보호자에게 기증 > 뉴스": 1790394584,
   "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840,
   "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317,
-  "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158
+  "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158,
+  "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:9f772da1348f2552",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여",
+   "source": "웹이코노미",
+   "date": "Sun, 27 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KMHE2LXBuN0FHN191T1BWZzVvSDJ5V2dpNzhwcVNLUVJvV1JSdFNpa0R5UXBISFRpLWctMjFlR3pLak9CTE1xRlBJYVFxU3R1ZzhkbjNFQnJ4MmtIem55Sk1EY3ZBOFBGeF95OVpiZU12UQ?oc=5",
+   "sort_key": "Sun, 27 Sep 2026 14:14:23 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-27"
 }
