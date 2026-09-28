@@ -1058,7 +1058,8 @@
   "news:1fe14037c9ce2e5c": 1790558108,
   "news:65e3bb1251109807": 1790559193,
   "news:ff47306ced59a8a4": 1790559194,
-  "news:c3fcb36d5dc25385": 1790559194
+  "news:c3fcb36d5dc25385": 1790559194,
+  "news:6b1af5b5c21e0e33": 1790560246
  },
  "stories": {
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
@@ -1092,7 +1093,8 @@
   "교보생명, AI로 '돌봄 공백' 해소…스타트업 11곳 공개": 1790558108,
   "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’": 1790558108,
   "삼성생명, 345조 장기자본 성장엔진으로…PF펀드 1조4950억 ‘역대 최대’": 1790559194,
-  "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·교보생명 등": 1790559194
+  "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·교보생명 등": 1790559194,
+  "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명": 1790560246
  },
  "news_queue": [
   {
@@ -1214,6 +1216,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dlJ3bnRKWUVYVUtUR0x0N09pOG1aY3Buek5ROHVyVmRTRFpZc2QyZkQtX2pZTjdaUkVNTGxGZWMxckpXMVFJQjNZbVBNYUE?oc=5",
    "sort_key": "Mon, 28 Sep 2026 01:19:10 GMT"
+  },
+  {
+   "id": "news:6b1af5b5c21e0e33",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명",
+   "source": "데일리브리프",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGOFRNbWRGbXBWWWFCUTFSM2lKTFRja0lseWk0NlhTTHJYOU1UMnpRbFJVeWJCTFZlYlhYcDJNY2NTNnBoR003LXA2dEUtOG5KX2FvcEFLVGNldF9HWmtycHVsUmFPa25SNWg5djd3?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:25:27 GMT"
   }
  ],
  "initialized": true,
