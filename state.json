@@ -1086,7 +1086,8 @@
   "news:56b4c8d44b98c2c4": 1790605278,
   "news:143d2fed9e456299": 1790606878,
   "news:9c6029fc742814e0": 1790621299,
-  "news:d48877ac84ffb973": 1790630185
+  "news:d48877ac84ffb973": 1790630185,
+  "news:457bbe55c7558ff6": 1790633708
  },
  "stories": {
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
@@ -1133,7 +1134,8 @@
   "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804,
   "교보생명 보험금·이자 과소지급 499건 최다": 1790605278,
   "카카오그룹, 그랩·SCBX·교보생명과 손잡고 디지털자산 생태계 확장": 1790621299,
-  "교보라이프플래닛 교보생명에 M&A…온라인 채널 시너지는 [디지털 보험사 현주소]": 1790630185
+  "교보라이프플래닛 교보생명에 M&A…온라인 채널 시너지는 [디지털 보험사 현주소]": 1790630185,
+  "교보생명, IPO 밸류 눈높이만 ‘금융지주급’…에쿼티 스토리는 숙제": 1790633708
  },
  "news_queue": [
   {
@@ -1455,6 +1457,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJOWhQUU9icEVWZm5acC1CQ3l4OHFlTDJSaXVGNlc4cTZaQS1yaTdNeHk2UnpMUVFBcmJZd1JmQWR3ZlF2TFhuWkltUEVxNFNnVHV0a0kzVDhkQmVYRTFuMVVySzdXM0RzcXRqWS1FejgyVjY0Y3cwM1lzM3E?oc=5",
    "sort_key": "Mon, 28 Sep 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:457bbe55c7558ff6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, IPO 밸류 눈높이만 ‘금융지주급’…에쿼티 스토리는 숙제",
+   "source": "인베스트조선",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlp1eUVuSFJ2Q0x1dS1RWUliaDhuQlBKZXZoZ205RGJwbDNHSTE0clBPVEpLRnIxSlFtMm5TMVgyUjIyWGFUbzc2NUhxb3NHNHZaM0gyQUowbUc0ZldGZHpGNk9YdFF5ZGFvdnlfSF8wSVhXWHYzVGNaTnBPSFctTWVRcw?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 22:00:15 GMT"
   }
  ],
  "initialized": true,
