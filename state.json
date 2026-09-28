@@ -1068,7 +1068,9 @@
   "news:85b9d83238372a95": 1790569011,
   "news:b07740ac0122b4a2": 1790570240,
   "news:89c02ac4279077c5": 1790572548,
-  "news:1dfb682e6f47aadb": 1790572548
+  "news:1dfb682e6f47aadb": 1790572548,
+  "news:5b20a04fbfecb1fc": 1790574733,
+  "news:84144b93514be275": 1790574733
  },
  "stories": {
   "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지": 1790318516,
@@ -1106,7 +1108,8 @@
   "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011,
   "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240,
   "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태···인카금융 턱밑 추격": 1790572548,
-  "‘SBI 협력 확대’ 교보생명, 지분구조 변화에 쏠리는 눈 [조수연의 그래픽저널]": 1790572548
+  "‘SBI 협력 확대’ 교보생명, 지분구조 변화에 쏠리는 눈 [조수연의 그래픽저널]": 1790572548,
+  "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733
  },
  "news_queue": [
   {
@@ -1308,6 +1311,16 @@
    "date": "Sun, 27 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fYzZhODFVdW01ZDJwMkVCRGMwWExuR2FzQmwxWDN0b19HLVRVdThsT0JQdmxfUDdSbnNQYkxoZ08tN2l1cVpKWmZxSk9jRmR0ZTdXZW42UV8ydXBmcS0xdmhJZzJRam42eDdtag?oc=5",
    "sort_key": "Sun, 27 Sep 2026 22:55:02 GMT"
+  },
+  {
+   "id": "news:84144b93514be275",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 자산운용 확대하며 지주사 전환 가속",
+   "source": "뉴스토마토",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NWS0tMDRqdEMwUUNjTS1NUjVBZnJxZGxuOWdWTDJZYk53S3RrNkFOb0w0bDhrbzRIMzBQV3dWSm5JQUlWZ0VMVmNwMklXbWlQVEI2bXFkdThrZUg5ZDdyeA?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 05:43:01 GMT"
   }
  ],
  "initialized": true,
