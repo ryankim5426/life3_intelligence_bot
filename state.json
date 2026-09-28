@@ -1084,7 +1084,8 @@
   "news:19311cbbed37a27a": 1790601424,
   "news:236e831f9d714943": 1790603804,
   "news:56b4c8d44b98c2c4": 1790605278,
-  "news:143d2fed9e456299": 1790606878
+  "news:143d2fed9e456299": 1790606878,
+  "news:9c6029fc742814e0": 1790621299
  },
  "stories": {
   "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106,
@@ -1130,7 +1131,8 @@
   "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778,
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
   "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804,
-  "교보생명 보험금·이자 과소지급 499건 최다": 1790605278
+  "교보생명 보험금·이자 과소지급 499건 최다": 1790605278,
+  "카카오그룹, 그랩·SCBX·교보생명과 손잡고 디지털자산 생태계 확장": 1790621299
  },
  "news_queue": [
   {
@@ -1432,6 +1434,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HeVJZV3NFd3k0ZTRKMVhLWkhMbGR0dFJJTDAzUVJTaHZ0c2RGRjlDbWpwTTBFUTV4NHNzZHRBOWYyOHpGbDVtUjRlM1cyUWVnak1DU0dldU43ZVlsYXNPTHdGakFhalpidm5xVzJtUdIBc0FVX3lxTE03Skk2ZTZTT2wySlVPY0ZQcFh3U09GQkZBbVAzUzlfYjBBaW45Vm5naThaUGo4WmtFZktKLUtYdjZDZHQ1b2V6dHd5LWJRdlYzYjlSREJWN3ZxY2tld09mNlM1MFREOUNYemc5bDBDS3lZTXM?oc=5",
    "sort_key": "Mon, 28 Sep 2026 11:07:27 GMT"
+  },
+  {
+   "id": "news:9c6029fc742814e0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "카카오그룹, 그랩·SCBX·교보생명과 손잡고 디지털자산 생태계 확장",
+   "source": "금융계",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ZDFuV21sVVk2d1lZQTdJbUJHMUw3VGs4TlZ6SkZQR3B1Rld1b0Y5b3dFLW80cDJtUFJPd0NmTnpUNUtjTVdfOThlRG9UNU1hTnNsMGVQcVM5N0ctQjlOTmg3d2pzakXSAWtBVV95cUxPU2NFbExUQmc3SS16OExrU05abHM1WTlMLUloWUx0VjRJWWw1MHRsSm5obWFhODQtTkJ5N2dHT1BTQnd0RjVzSnQ0TDFNRXFNY2N1NXU2aXJUMUVmREM5YUJpUGZpcXlLVlowUQ?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 15:22:39 GMT"
   }
  ],
  "initialized": true,
