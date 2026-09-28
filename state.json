@@ -1065,10 +1065,10 @@
   "news:24c36f99b20030a2": 1790565397,
   "news:9c8bf054d054c4a8": 1790565397,
   "news:ad9c08747be63913": 1790567658,
-  "news:85b9d83238372a95": 1790569011
+  "news:85b9d83238372a95": 1790569011,
+  "news:b07740ac0122b4a2": 1790570240
  },
  "stories": {
-  "교보자산운용, 18년 만에 ‘악사’ 뗀다…교보생명 100% 자회사 전환": 1790310838,
   "삼성노조연대 오상훈, 이재용 회장에 ‘삼성생명 홍원학 불통’ 고지": 1790318516,
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
   "[추석맞이 효도보험] 교보생명, 치매 조기 발견부터 간병까지 보장": 1790371106,
@@ -1101,7 +1101,8 @@
   "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
   "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'": 1790565397,
   "10일 서울 종로구 교보생명 광화문 본사에서 '임팩트업 12기 데모데이'에 참가한 11개 기업의 대표들이 관계자들과 함께 기념 촬영을 하고 있다.(사진=교보생명)": 1790567658,
-  "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011
+  "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011,
+  "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240
  },
  "news_queue": [
   {
@@ -1273,6 +1274,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZTUtGdy1QVThJU3RKTlU0N2N0VXJqSGp4QzA4elotcHY0RzNxWi1GcmFGVVdITnpzS05ieUFNZ05UWVVrYTV3QnU2bEN2d1JQTk1DSWJ4YXpoRnptd3laZ2hnNkJMTDNfQ0FqbG5ZQUxmSUww?oc=5",
    "sort_key": "Mon, 28 Sep 2026 04:08:30 GMT"
+  },
+  {
+   "id": "news:b07740ac0122b4a2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험브리핑]KB손보·교보생명·현대해상·라이나생명",
+   "source": "메트로신문",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbXJndzE3cVlUdzJETlYtZmpHQ1FMWXJxM1R5M1ZjU3V4VEtaTWdQOWJFamNmVUVvM3lSTU1UaU1BaTQwcWF1QWh2cC1mRDJ0Vmw1ckhOUFh4ODlDZ0RFZQ?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 03:55:20 GMT"
   }
  ],
  "initialized": true,
