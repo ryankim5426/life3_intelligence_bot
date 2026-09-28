@@ -1071,7 +1071,8 @@
   "news:1dfb682e6f47aadb": 1790572548,
   "news:5b20a04fbfecb1fc": 1790574733,
   "news:84144b93514be275": 1790574733,
-  "news:1304c7d0eeafa2ba": 1790578247
+  "news:1304c7d0eeafa2ba": 1790578247,
+  "news:595a6953071db5fd": 1790579856
  },
  "stories": {
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
@@ -1109,7 +1110,8 @@
   "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240,
   "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태···인카금융 턱밑 추격": 1790572548,
   "‘SBI 협력 확대’ 교보생명, 지분구조 변화에 쏠리는 눈 [조수연의 그래픽저널]": 1790572548,
-  "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733
+  "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733,
+  "삼성생명 주가 1,500원 상승 후 장마감": 1790579856
  },
  "news_queue": [
   {
@@ -1321,6 +1323,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NWS0tMDRqdEMwUUNjTS1NUjVBZnJxZGxuOWdWTDJZYk53S3RrNkFOb0w0bDhrbzRIMzBQV3dWSm5JQUlWZ0VMVmNwMklXbWlQVEI2bXFkdThrZUg5ZDdyeA?oc=5",
    "sort_key": "Mon, 28 Sep 2026 05:43:01 GMT"
+  },
+  {
+   "id": "news:595a6953071db5fd",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 주가 1,500원 상승 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vMjVXTUNKakRkR2NhWWVfWEl2a0M1UTlQT2h4d0wzYkxMdUtuQjVMQmZWbEdVVHYwVmltQzRiakd4UE5xUEM2LUU0eVJQbVFvSGgyZWVtbTExUWot?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 06:54:17 GMT"
   }
  ],
  "initialized": true,
