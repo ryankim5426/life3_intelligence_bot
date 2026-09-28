@@ -1045,7 +1045,11 @@
   "news:fd849f643cbcf499": 1790553726,
   "news:7590f755fe28f697": 1790555594,
   "news:560acba84cf56855": 1790555594,
-  "news:6d3cd5382abf39dd": 1790555594
+  "news:6d3cd5382abf39dd": 1790555594,
+  "news:114526d9e07745e9": 1790556911,
+  "news:52215f9e4f50df5e": 1790556911,
+  "news:3113e330729ad603": 1790556911,
+  "news:666c2899de7a4f55": 1790556911
  },
  "stories": {
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
@@ -1071,7 +1075,11 @@
   "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726,
   "보험금 부지급·과소지급 5년간 961건, 5억4840만원 적발...교보생명 499건 최다": 1790555594,
   "교보생명, AI로 돌봄∙환경 등 사회문제 해결하는 스타트업 육성": 1790555594,
-  "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡": 1790555594
+  "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡": 1790555594,
+  "교보생명, ‘임팩트업 12기’ 스타트업 성과 공유": 1790556911,
+  "교보생명, AI로 사회문제 푸는 스타트업 키운다": 1790556911,
+  "교보생명, 취약계층 고용 해결 스타트업 지원": 1790556911,
+  "“AI로 돌봄하고 일자리 잇고”…교보생명, 임팩트업 12기 데모데이 개최": 1790556911
  },
  "news_queue": [
   {
@@ -1113,6 +1121,46 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0FxdndMc1Z6eWU0OGdqcnE3Q2E4M2NjR3ViS1g4b25ydnNYNmxxUEYxNWh4TDFseG41WlY3RUZtVkZrUmZqSk5NOTgyOWliUXlaQWQ4UWJaWEVINlFtVlBjX085ejhDeUtSZHc1aWc?oc=5",
    "sort_key": "Mon, 28 Sep 2026 00:24:55 GMT"
+  },
+  {
+   "id": "news:114526d9e07745e9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘임팩트업 12기’ 스타트업 성과 공유",
+   "source": "핀포인트뉴스",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vUmNFbTJUOUc1eTRZWWp5SEJCTVpkdGcxVkU5eUlCV09QZjhrT2F1MUxJT0hQZ0VhSldSN01QTGVtbXRHYzE1aDFLRG1LRUMyVkJlT0hWZ1dobGpmSkZ5TjNxMDFtUU9hZzA3a0JlVWNsRm8?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:22:08 GMT"
+  },
+  {
+   "id": "news:52215f9e4f50df5e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, AI로 사회문제 푸는 스타트업 키운다",
+   "source": "SR타임스",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQ0dIdURGX05nZTZfNndiUjNid2VXZFhrbEhPRU1QNlg1dzBUeHA5WnYxMjM0SURxRy1GMThpUU51emhOWUNOaHFqQTlBMWdXbWsxcndvLUlyN1l6bFZJTWFUbl9FUHkw0gFrQVVfeXFMUGhqeDBaYjdEUHgzeTdob0hyRlFDUVVsdjNrTTNjaTdxd0habVUtTV9jc3VsZzR0NVFaS3hrbXgxcEdXT09RMlFpMUxrZ2VGSUZOTnFLZ0k4Q1A4NGE3UG9nUTNwWHZjdm1ocHM?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:35:05 GMT"
+  },
+  {
+   "id": "news:3113e330729ad603",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 취약계층 고용 해결 스타트업 지원",
+   "source": "아주경제",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XV08xTXRFaFRVbmFZcEE2UWg0V096enFaMWFRRm1LU2R2ZzFPeV9oZGE4LTFHcUJ3YjR0QjlIVmpvS0t5UEVqS2RJNUFvVDBnOXBSZU0ta1NiZ9IBWEFVX3lxTE5XMTAzektWLUJHUFF0dEU4SW9Ua21ueTVGQmQ0cHZ0TEZyLXdlUUMwY0xkc1BzOWE2SERobmV5RnFzQ285VTN1eTNFN0tIUzVoM2VxREh0S3M?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:46:37 GMT"
+  },
+  {
+   "id": "news:666c2899de7a4f55",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "“AI로 돌봄하고 일자리 잇고”…교보생명, 임팩트업 12기 데모데이 개최",
+   "source": "라이센스뉴스",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iVG1pX3hsemhSNno0emFCekI3SGtBTnFEOE9jeU1IdlFnS1RVM1Rnem1CLWt1QkRJQlJoRUNKMWk3TnItcm1NcENueFo3anFjZmVrMUxzRmR6b0F6azFxNmNZUEtqOXAtTmFF?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:51:34 GMT"
   }
  ],
  "initialized": true,
