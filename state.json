@@ -1075,7 +1075,10 @@
   "news:595a6953071db5fd": 1790579856,
   "news:c6a8b3d79c32414e": 1790582087,
   "news:563869b9c56594af": 1790583535,
-  "news:25acc9dab35d1541": 1790584729
+  "news:25acc9dab35d1541": 1790584729,
+  "news:e0ccb98b12fcbb8c": 1790585760,
+  "news:f164aff54ea10c21": 1790585760,
+  "news:46bc6e213bce23df": 1790585760
  },
  "stories": {
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
@@ -1116,7 +1119,9 @@
   "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733,
   "삼성생명 주가 1,500원 상승 후 장마감": 1790579856,
   "교보생명, 대출채권 27% 늘었다…자산별 운용 전략 '관통'": 1790582087,
-  "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래": 1790583535
+  "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래": 1790583535,
+  "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정": 1790585760,
+  "삼성물산, 삼성생명 특별계정 장내매매로 최대주주등 주식 2053주 증가": 1790585760
  },
  "news_queue": [
   {
@@ -1358,6 +1363,26 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIeEYwOFZucUhuVG1tMm1kdXFqMkRzUUxONENTdkJUYVpZcU52LVY1anV1Y1BZN2MzdjN5bng3eWJBUDZRdG40eFZrSW9mM01TZUpoRTgtWVE4SFQ1aHQtU3NwV3JTQTJnVklPRlpGd0ZENjh3MG5KWF9QOA?oc=5",
    "sort_key": "Mon, 28 Sep 2026 07:53:02 GMT"
+  },
+  {
+   "id": "news:f164aff54ea10c21",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정",
+   "source": "catchnews.kr",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSFdXMDNEY1VJdzh1Qzl2dThsVWVwZ3ZxZThPMFlrb0lqMkQ5YkdoaHVkSm5FMkRkYTBTbm5FNVZ4aGJVQnBLakFNOHZjWXJXVVlQeU5mMnRfMnl1dkM5SVBRTHpmZ2Ffbmtz?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 05:19:00 GMT"
+  },
+  {
+   "id": "news:46bc6e213bce23df",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성물산, 삼성생명 특별계정 장내매매로 최대주주등 주식 2053주 증가",
+   "source": "데이터투자",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YZGxVZ2thN0pZOUQ3bUVfOXNOX0lRRVpjYWtacGtVTER1enFpdXRHRVNTYlZiTUFmRTdCTm9RcG0zMXFYczM1QmRwUlhISUprcDhucHhsQUxOYWtRQnBOYk8tU1dqbVhoV0xRSWVOUHV0WkE?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 08:46:54 GMT"
   }
  ],
  "initialized": true,
