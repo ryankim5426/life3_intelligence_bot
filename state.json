@@ -1060,7 +1060,10 @@
   "news:ff47306ced59a8a4": 1790559194,
   "news:c3fcb36d5dc25385": 1790559194,
   "news:6b1af5b5c21e0e33": 1790560246,
-  "news:b369c41c871b914e": 1790561728
+  "news:b369c41c871b914e": 1790561728,
+  "news:28719f3c32a5b246": 1790565397,
+  "news:24c36f99b20030a2": 1790565397,
+  "news:9c8bf054d054c4a8": 1790565397
  },
  "stories": {
   "카카오그룹(카카오, 카카오뱅크, 카카오페이)과 교보생명이 디지털 자산 분야 업무협약을 체결했다. 왼쪽부터 윤호영 카카오뱅크 대표, 조대규 교보생명 대표, 신원근 카카오페이 대표.": 1790307192,
@@ -1093,7 +1096,9 @@
   "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’": 1790558108,
   "삼성생명, 345조 장기자본 성장엔진으로…PF펀드 1조4950억 ‘역대 최대’": 1790559194,
   "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·교보생명 등": 1790559194,
-  "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명": 1790560246
+  "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명": 1790560246,
+  "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
+  "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'": 1790565397
  },
  "news_queue": [
   {
@@ -1225,6 +1230,26 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGOFRNbWRGbXBWWWFCUTFSM2lKTFRja0lseWk0NlhTTHJYOU1UMnpRbFJVeWJCTFZlYlhYcDJNY2NTNnBoR003LXA2dEUtOG5KX2FvcEFLVGNldF9HWmtycHVsUmFPa25SNWg5djd3?oc=5",
    "sort_key": "Mon, 28 Sep 2026 01:25:27 GMT"
+  },
+  {
+   "id": "news:24c36f99b20030a2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상",
+   "source": "중소기업투데이",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdnpxaGtvZlJLZ1ZzQUttV2xjZ2V5ZnhJYVl2TnBVWE1jWUNYYlg3TGIzRldlZFMybTlzTEQ1eXo4TTdWYTY5QmRBYXBzNy1weWh3XzlobDNBSjVOUGVlNjdwd2pjVVFvTFM0c9IBbEFVX3lxTFBXdnpxaGtvZlJLZ1ZzQUttV2xjZ2V5ZnhJYVl2TnBVWE1jWUNYYlg3TGIzRldlZFMybTlzTEQ1eXo4TTdWYTY5QmRBYXBzNy1weWh3XzlobDNBSjVOUGVlNjdwd2pjVVFvTFM0cw?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:19:17 GMT"
+  },
+  {
+   "id": "news:9c8bf054d054c4a8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'",
+   "source": "뉴시안",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UjB3TDBRbHcwZ3dKaUZBZXNxUElfRUpKT0xTbFpUby03TnYyeXZTNUpvT1g0Z054aWVXZUhVMGlhZWdwTjFpbk9wQ0MxOXlSdERkSEZESE8tTzAyc0lyWjBHTWo0SnRfaEHSAW5BVV95cUxPTkJ1aWF0Qm9YcnRKT2RNaEdUQ1B1YXFRQjNpQnRDSnVUU3p0Yng1eWdETThESUNKYUFfcVlzRVFTdldfVTJnc1VrcThUZVFNRHROTDRKenRvZC1NNEl6MkxJNmota093NW5VUnZ2QQ?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:39:41 GMT"
   }
  ],
  "initialized": true,
