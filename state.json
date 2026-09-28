@@ -1055,7 +1055,10 @@
   "news:6aa6ac22ee65be29": 1790558107,
   "news:8032348bf355d458": 1790558107,
   "news:b67493508cd30184": 1790558108,
-  "news:1fe14037c9ce2e5c": 1790558108
+  "news:1fe14037c9ce2e5c": 1790558108,
+  "news:65e3bb1251109807": 1790559193,
+  "news:ff47306ced59a8a4": 1790559194,
+  "news:c3fcb36d5dc25385": 1790559194
  },
  "stories": {
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
@@ -1087,7 +1090,9 @@
   "교보생명, 취약계층 고용 해결 스타트업 지원": 1790556911,
   "“AI로 돌봄하고 일자리 잇고”…교보생명, 임팩트업 12기 데모데이 개최": 1790556911,
   "교보생명, AI로 '돌봄 공백' 해소…스타트업 11곳 공개": 1790558108,
-  "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’": 1790558108
+  "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’": 1790558108,
+  "삼성생명, 345조 장기자본 성장엔진으로…PF펀드 1조4950억 ‘역대 최대’": 1790559194,
+  "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·교보생명 등": 1790559194
  },
  "news_queue": [
   {
@@ -1189,6 +1194,26 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54NHFuWWlfeGYySDJUZHZua3l2alpxX2FwNXd0aWpYRmlPSU91XzJCbWxONmEwell6RUdFMFU3a0JZYWZtNzFGYkVoLUhZbTY3MUl5c1NEUTg2d190MkJBV3liZ0o5S2NzbElxVw?oc=5",
    "sort_key": "Mon, 28 Sep 2026 01:10:52 GMT"
+  },
+  {
+   "id": "news:ff47306ced59a8a4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 345조 장기자본 성장엔진으로…PF펀드 1조4950억 ‘역대 최대’",
+   "source": "업코리아",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3OXVXbVR2eWpmTnhBMzRhMWJ4OGNVOFhFcjlVbFpMYmFQQTg4dkd1VkgwWm5iU01HR21WckdhVnA4TklaeWRnOE9qTTJjallDb3JIWUtYOXBjTEdiT2Fudk5PT3dIODVOV2dXNkxB?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:49:19 GMT"
+  },
+  {
+   "id": "news:c3fcb36d5dc25385",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·교보생명 등",
+   "source": "v.daum.net",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dlJ3bnRKWUVYVUtUR0x0N09pOG1aY3Buek5ROHVyVmRTRFpZc2QyZkQtX2pZTjdaUkVNTGxGZWMxckpXMVFJQjNZbVBNYUE?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:19:10 GMT"
   }
  ],
  "initialized": true,
