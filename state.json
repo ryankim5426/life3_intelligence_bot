@@ -1049,7 +1049,13 @@
   "news:114526d9e07745e9": 1790556911,
   "news:52215f9e4f50df5e": 1790556911,
   "news:3113e330729ad603": 1790556911,
-  "news:666c2899de7a4f55": 1790556911
+  "news:666c2899de7a4f55": 1790556911,
+  "news:a63775351021cc16": 1790558107,
+  "news:266cf3a471801566": 1790558107,
+  "news:6aa6ac22ee65be29": 1790558107,
+  "news:8032348bf355d458": 1790558107,
+  "news:b67493508cd30184": 1790558108,
+  "news:1fe14037c9ce2e5c": 1790558108
  },
  "stories": {
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
@@ -1079,7 +1085,9 @@
   "교보생명, ‘임팩트업 12기’ 스타트업 성과 공유": 1790556911,
   "교보생명, AI로 사회문제 푸는 스타트업 키운다": 1790556911,
   "교보생명, 취약계층 고용 해결 스타트업 지원": 1790556911,
-  "“AI로 돌봄하고 일자리 잇고”…교보생명, 임팩트업 12기 데모데이 개최": 1790556911
+  "“AI로 돌봄하고 일자리 잇고”…교보생명, 임팩트업 12기 데모데이 개최": 1790556911,
+  "교보생명, AI로 '돌봄 공백' 해소…스타트업 11곳 공개": 1790558108,
+  "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’": 1790558108
  },
  "news_queue": [
   {
@@ -1161,6 +1169,26 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iVG1pX3hsemhSNno0emFCekI3SGtBTnFEOE9jeU1IdlFnS1RVM1Rnem1CLWt1QkRJQlJoRUNKMWk3TnItcm1NcENueFo3anFjZmVrMUxzRmR6b0F6azFxNmNZUEtqOXAtTmFF?oc=5",
    "sort_key": "Mon, 28 Sep 2026 00:51:34 GMT"
+  },
+  {
+   "id": "news:b67493508cd30184",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, AI로 '돌봄 공백' 해소…스타트업 11곳 공개",
+   "source": "경제타임스",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BQzQtQnhaeFNISnByVlpaTlFNdDY0ak9helhfNGdTeW1xNnFEbDRZY2ZFbXZDeThuZE5ZX3RuN080RVJ2Rk53WEZPNjFoNE5BWExN?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:10:06 GMT"
+  },
+  {
+   "id": "news:1fe14037c9ce2e5c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "‘교보생명·DB손보·메리츠화재·KB손보’ 보험사들의 낮 두꺼운 ‘표리부동’",
+   "source": "세정일보",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54NHFuWWlfeGYySDJUZHZua3l2alpxX2FwNXd0aWpYRmlPSU91XzJCbWxONmEwell6RUdFMFU3a0JZYWZtNzFGYkVoLUhZbTY3MUl5c1NEUTg2d190MkJBV3liZ0o5S2NzbElxVw?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 01:10:52 GMT"
   }
  ],
  "initialized": true,
