@@ -1082,7 +1082,8 @@
   "news:14772418ea96cfe0": 1790588778,
   "news:200b0ce323969f5b": 1790599932,
   "news:19311cbbed37a27a": 1790601424,
-  "news:236e831f9d714943": 1790603804
+  "news:236e831f9d714943": 1790603804,
+  "news:56b4c8d44b98c2c4": 1790605278
  },
  "stories": {
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
@@ -1128,7 +1129,8 @@
   "삼성물산, 삼성생명 특별계정 장내매매로 최대주주등 주식 2053주 증가": 1790585760,
   "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778,
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
-  "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804
+  "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804,
+  "교보생명 보험금·이자 과소지급 499건 최다": 1790605278
  },
  "news_queue": [
   {
@@ -1420,6 +1422,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMRmRsRE5BaHNyOHpha0h2aXg3VzJYX0ZUZXllX2dUMDlIQ0hPUjZLRUt1TFluNHdMUEFpckFuMGpWem9xc2NJY1Rhc0tTaFlDT3paQW5hVFB2al9NUXVPNjQwaUMwcERUYjVv0gFrQVVfeXFMUExGZGxETkFoc3I4emFrSHZpeDdXMlhfRlRleWVfZ1QwOUhDSE9SNktFS3VMWW40d0xQQWlyQW4walZ6b3FzY0ljVGFzS1NoWUNPelpBbmFUUHZqX01RdU82NDBpQzBwRFRiNW8?oc=5",
    "sort_key": "Mon, 28 Sep 2026 08:46:54 GMT"
+  },
+  {
+   "id": "news:56b4c8d44b98c2c4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 보험금·이자 과소지급 499건 최다",
+   "source": "세이프타임즈",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HeVJZV3NFd3k0ZTRKMVhLWkhMbGR0dFJJTDAzUVJTaHZ0c2RGRjlDbWpwTTBFUTV4NHNzZHRBOWYyOHpGbDVtUjRlM1cyUWVnak1DU0dldU43ZVlsYXNPTHdGakFhalpidm5xVzJtUdIBc0FVX3lxTE03Skk2ZTZTT2wySlVPY0ZQcFh3U09GQkZBbVAzUzlfYjBBaW45Vm5naThaUGo4WmtFZktKLUtYdjZDZHQ1b2V6dHd5LWJRdlYzYjlSREJWN3ZxY2tld09mNlM1MFREOUNYemc5bDBDS3lZTXM?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 11:07:27 GMT"
   }
  ],
  "initialized": true,
