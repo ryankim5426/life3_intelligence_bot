@@ -1080,7 +1080,8 @@
   "news:f164aff54ea10c21": 1790585760,
   "news:46bc6e213bce23df": 1790585760,
   "news:14772418ea96cfe0": 1790588778,
-  "news:200b0ce323969f5b": 1790599932
+  "news:200b0ce323969f5b": 1790599932,
+  "news:19311cbbed37a27a": 1790601424
  },
  "stories": {
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
@@ -1124,7 +1125,8 @@
   "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래": 1790583535,
   "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정": 1790585760,
   "삼성물산, 삼성생명 특별계정 장내매매로 최대주주등 주식 2053주 증가": 1790585760,
-  "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778
+  "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778,
+  "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424
  },
  "news_queue": [
   {
@@ -1396,6 +1398,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91bVJvMXdERjZqMDA3Mi1oblRVTTlBa0R2LXlVaEJNVmRmMjJ2endYMUptM25yQ3NDZkN5WU55aHFyOTBYU0NhMkZNeVVLZU51cUNaTy1EYnkxYVlDY19IeUtJaEl5T3Zm?oc=5",
    "sort_key": "Mon, 28 Sep 2026 09:29:16 GMT"
+  },
+  {
+   "id": "news:19311cbbed37a27a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성",
+   "source": "fetimes.co.kr",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSTR5eVpaTHFjWUI3UFZrZTE4cGlTYXpDUkZSdTRXOWk2UEt3bjJsQWo0aF91dW15MjhfdUZKdG1kaGZ3emNudDg1T2FmYWJhRmZZMWxlcnNlbjZkeG5tb1pRSFRmODdqNTd5MdIBb0FVX3lxTE1qeDJfMWcxb2dJS0dhU1NJYUEzYXI5TjFrVl9HUjc2QjNFS3dMQTBUQndrdjI2dERuV2FqN25SYVlCNVdDQUVlM2FJeWVZVjUwd1RiMmE1MjQ5OHR4SnFlSTdHRTRfUUJ5djR3Vzg3UQ?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 03:50:00 GMT"
   }
  ],
  "initialized": true,
