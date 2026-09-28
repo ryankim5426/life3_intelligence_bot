@@ -1042,10 +1042,12 @@
   "news:1e3e6fed9a8b3fc4": 1790545308,
   "news:33f5fdd8d273c8bf": 1790546256,
   "news:468b988aecf75fc7": 1790550835,
-  "news:fd849f643cbcf499": 1790553726
+  "news:fd849f643cbcf499": 1790553726,
+  "news:7590f755fe28f697": 1790555594,
+  "news:560acba84cf56855": 1790555594,
+  "news:6d3cd5382abf39dd": 1790555594
  },
  "stories": {
-  "삼성전자 오르자 삼성그룹주 들썩…삼성전기·삼성생명도 상승": 1790296125,
   "한화생명, 장중 약보합세... 특정 모멘텀 부재 속 관망 심리 : 기업주식정보": 1790301463,
   "교보자산운용 새 출발…교보생명 단독 체제로 재편": 1790301463,
   "카카오그룹(카카오, 카카오뱅크, 카카오페이)과 교보생명이 디지털 자산 분야 업무협약을 체결했다. 왼쪽부터 윤호영 카카오뱅크 대표, 조대규 교보생명 대표, 신원근 카카오페이 대표.": 1790307192,
@@ -1066,7 +1068,10 @@
   "메리츠화재 운용자산이익률 4.75% '톱'…삼성생명 나홀로 하락": 1790545308,
   "교보생명, 디지털생보사 실험 종료…합병 인가·결손금 흡수 과제": 1790546256,
   "일본계 대부업 끌어들인 교보생명 신창재의 ‘SBI 독배’ [조수연의 그래픽저널]": 1790550835,
-  "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726
+  "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726,
+  "보험금 부지급·과소지급 5년간 961건, 5억4840만원 적발...교보생명 499건 최다": 1790555594,
+  "교보생명, AI로 돌봄∙환경 등 사회문제 해결하는 스타트업 육성": 1790555594,
+  "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡": 1790555594
  },
  "news_queue": [
   {
@@ -1078,6 +1083,36 @@
    "date": "Sun, 27 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTS1SX3BiVV9ydUhObXIyREsyZjh6X1Rwd0UwMHFSaWI2N3NMSWRyR1gzUkVsTXpraFZSbmo1ZTFRSDVrMEdSYlptMFU5c3J1Q0FpRzlFTy02UWlYZHRV?oc=5",
    "sort_key": "Sun, 27 Sep 2026 23:47:21 GMT"
+  },
+  {
+   "id": "news:7590f755fe28f697",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "보험금 부지급·과소지급 5년간 961건, 5억4840만원 적발...교보생명 499건 최다",
+   "source": "보험저널",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVnNQRmM0R0ZCMUk4QVQwY1dSNHRodlBrbXhiZmg3Yk1zUWZlYlozbGw2emNkcUU4UFp6bzN2Z3lhMUVJYmNGb2hQWGd1UnpwWWFzSXlhdnNRRDhrNTRqZHc2SGhONmp4allUTmVudw?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:08:11 GMT"
+  },
+  {
+   "id": "news:560acba84cf56855",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, AI로 돌봄∙환경 등 사회문제 해결하는 스타트업 육성",
+   "source": "데일리한국",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtcWRGN2FIWHo0WkU1NXVnU1JDVERrVVlBcFJmX0l1MWxKWW0yVWFPZkRfNmNiRHJkNFo4aThtWVFnaWo2UVd4MXhNM01aMGhhMk9JTVBVajJaMzEtRXg4NDVpcmlMc3ZJNlZNNmREVdIBc0FVX3lxTE5uQTJPdmRjdHIyRUZNX2pjRzRZcGJWTVpnWEJJQkc1NjJ0RVprOXhRMGhvYjNqMTBCLVFjX2NTRmlicmdHOHcyYXBNQzRldHVSOEVmeFlzREV6aFJMRGE4WW02TkpOaG5jRWpnTTVQdnB2b2c?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:20:01 GMT"
+  },
+  {
+   "id": "news:6d3cd5382abf39dd",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡",
+   "source": "thefairnews.co.kr",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0FxdndMc1Z6eWU0OGdqcnE3Q2E4M2NjR3ViS1g4b25ydnNYNmxxUEYxNWh4TDFseG41WlY3RUZtVkZrUmZqSk5NOTgyOWliUXlaQWQ4UWJaWEVINlFtVlBjX085ejhDeUtSZHc1aWc?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 00:24:55 GMT"
   }
  ],
  "initialized": true,
