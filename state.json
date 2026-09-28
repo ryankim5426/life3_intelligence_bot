@@ -1073,7 +1073,8 @@
   "news:84144b93514be275": 1790574733,
   "news:1304c7d0eeafa2ba": 1790578247,
   "news:595a6953071db5fd": 1790579856,
-  "news:c6a8b3d79c32414e": 1790582087
+  "news:c6a8b3d79c32414e": 1790582087,
+  "news:563869b9c56594af": 1790583535
  },
  "stories": {
   "삼성생명ㆍ화재, 1분기 나란히 호실": 1790355324,
@@ -1113,7 +1114,8 @@
   "‘SBI 협력 확대’ 교보생명, 지분구조 변화에 쏠리는 눈 [조수연의 그래픽저널]": 1790572548,
   "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733,
   "삼성생명 주가 1,500원 상승 후 장마감": 1790579856,
-  "교보생명, 대출채권 27% 늘었다…자산별 운용 전략 '관통'": 1790582087
+  "교보생명, 대출채권 27% 늘었다…자산별 운용 전략 '관통'": 1790582087,
+  "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래": 1790583535
  },
  "news_queue": [
   {
@@ -1345,6 +1347,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaSUMxSHhCUEJjdUg2NjZNNnFDem9tdVotUmNIOTBldmZydW5yZlRCVmMzM0hGeGNYNHBCV2NzX2lGSzMtQ1BSUmQxcmFqVnFxWXItR19HNkVoQ0FrdkliQ3puMEdaeFcx0gFsQVVfeXFMUFVabWlXSHh2QnEzM1RDRUdBQ3VrQXFwUjZWYnpkd1d2bzBfLWpuWnhqb2ZyOUdyNlpPN25nNFVpdExwclVkQ2VJMXRZdi1lZlZfWExudlByZHBReHVkRDdfLVo1Q0duRzZHaFF3?oc=5",
    "sort_key": "Mon, 28 Sep 2026 07:37:37 GMT"
+  },
+  {
+   "id": "news:563869b9c56594af",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래",
+   "source": "디지털투데이",
+   "date": "Mon, 28 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIeEYwOFZucUhuVG1tMm1kdXFqMkRzUUxONENTdkJUYVpZcU52LVY1anV1Y1BZN2MzdjN5bng3eWJBUDZRdG40eFZrSW9mM01TZUpoRTgtWVE4SFQ1aHQtU3NwV3JTQTJnVklPRlpGd0ZENjh3MG5KWF9QOA?oc=5",
+   "sort_key": "Mon, 28 Sep 2026 07:53:02 GMT"
   }
  ],
  "initialized": true,
