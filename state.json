@@ -1098,7 +1098,8 @@
   "news:554515536119edf2": 1790656518,
   "news:c3cc428eb5ed195c": 1790656518,
   "news:a0d3f8b49bb2be76": 1790665378,
-  "news:fc77d7cb0536f585": 1790665378
+  "news:fc77d7cb0536f585": 1790665378,
+  "news:fd39cd396ee6fabb": 1790668967
  },
  "stories": {
   "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158,
@@ -1149,7 +1150,8 @@
   "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
   "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
-  "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378
+  "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
+  "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967
  },
  "news_queue": [
   {
@@ -1221,6 +1223,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4MGRCR09wSkpKdkZBV0tIX2I4MDZHWjFMZzVObHpueGk5TFpxVGg1ZzRKNk1DX0MtS1lpSlpjb1BRZkZMSVNhV2tERDJ5TVhYZUo1TkcyeUZDOUhfczhzLXZCbFVYNTFh0gFsQVVfeXFMTjBLTElYb3NzeGxwZmYyVjA5NW1QTG1TVldDZHZkZlZ2YmpxQVdDM0xfZGNlUWhQRFotaExqcGZ4Qy1YSUV0ai05Q08tX2JrU3BPTXpTWVVId0RhV0JOMUpiTlFQN1FPZ2xrUlp1?oc=5",
    "sort_key": "Tue, 29 Sep 2026 06:44:56 GMT"
+  },
+  {
+   "id": "news:fd39cd396ee6fabb",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식",
+   "source": "블로터",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FNDBqWkRzeFAzZE5oQk16amNkX1M2Y1JqdkZCSHVqT2VUeHZJWWs3ei1sd3ZFNGdQRnBwTjg4bFBXNmJ1NWQ4OUdINmZyblZrZHNmS3B2dVo4NFY0c0tQXzJ0WUFzVWFu0gFsQVVfeXFMT3hQY0cySTRjeTNlMG53YXVma0R5VFlVSnhFWUxlQWRLTXdKWWh3bXNZUXhFNTZNRHY2aDdMN251NVdiMWxXWkF6UFNVQXJxZ1diLXROYmZQVkNwUG9kbURoNHVDVDdXbE9LMHBT?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 07:45:14 GMT"
   }
  ],
  "initialized": true,
