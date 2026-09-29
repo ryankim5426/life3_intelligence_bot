@@ -1091,7 +1091,8 @@
   "news:6f24ab3ba2689d31": 1790641301,
   "news:26f6d24b91de559e": 1790642964,
   "news:273a35bd0688b939": 1790645043,
-  "news:ff49d547a7b145e1": 1790648349
+  "news:ff49d547a7b145e1": 1790648349,
+  "news:671b151b39c6596b": 1790649355
  },
  "stories": {
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
@@ -1142,7 +1143,8 @@
   "교보생명, IPO 밸류 눈높이만 ‘금융지주급’…에쿼티 스토리는 숙제": 1790633708,
   "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301,
   "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
-  "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349
+  "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
+  "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355
  },
  "news_queue": [
   {
@@ -1174,6 +1176,16 @@
    "date": "Mon, 28 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SUGx2Qkh5MWNaSndWMVY0aW5tZHIzWTFpVld4Nm5UNU9Xb00wQnBIeTBobm5ZOXZfSV94LUo4eFJtaE5sdDFwNjRZNVZ0QlJZaEs5ZXJNMlBmNTU3U3R1NFhpUGljNWl2Vm95TA?oc=5",
    "sort_key": "Mon, 28 Sep 2026 23:41:18 GMT"
+  },
+  {
+   "id": "news:671b151b39c6596b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’",
+   "source": "한국경제",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWWk4U2Z5RDFMR1ZMbV9oRkozcklZaFQ2d09MVG15NzFOc1hYemZmYi1scTRLWUk2SmdOa2lGMm1HU25vS09LSThYWWppeDYyZEZCeEpSUURhUQ?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 02:29:54 GMT"
   }
  ],
  "initialized": true,
