@@ -1093,7 +1093,10 @@
   "news:273a35bd0688b939": 1790645043,
   "news:ff49d547a7b145e1": 1790648349,
   "news:671b151b39c6596b": 1790649355,
-  "news:9c5db63bdd9cc2e7": 1790650349
+  "news:9c5db63bdd9cc2e7": 1790650349,
+  "news:a04a3e0096291619": 1790656518,
+  "news:554515536119edf2": 1790656518,
+  "news:c3cc428eb5ed195c": 1790656518
  },
  "stories": {
   "\"던져!\" 3점슛 많이 쏘기, 그리고 리바운드... 달라진 삼성생명 지휘하는 하상윤 감독의 중점 사항은?": 1790399840,
@@ -1144,7 +1147,8 @@
   "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
   "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
   "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
-  "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349
+  "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
+  "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518
  },
  "news_queue": [
   {
@@ -1196,6 +1200,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ME9LaEVNSThmVzAtcmd5WGxiZUQtUk5VME1LX2t1aTJRQVZyREtEZFozdkVKOG1IWVd5RmdmVVFQbndFLUQzd2VKVlFUaV9kNmxWUXhZbDh1bzRfamtjQk9vYzRpWmcw?oc=5",
    "sort_key": "Tue, 29 Sep 2026 02:47:00 GMT"
+  },
+  {
+   "id": "news:c3cc428eb5ed195c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수",
+   "source": "하이뉴스",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11dHZLLVAzS0JZd0JhUUlmVVNaa0ZyV3plbmpFWlU0eVpLOWhLLVVQelZ4ZnRscHhkejRWMFpKd256X3NweElfdVRobkdNeWJIVHBreF9MZ3hVQm03QjV4MkFRM281Rmw3Y2ZUaWJEd0pGS01tYXZr?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 04:08:49 GMT"
   }
  ],
  "initialized": true,
