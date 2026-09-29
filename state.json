@@ -1102,7 +1102,8 @@
   "news:fd39cd396ee6fabb": 1790668967,
   "news:8224f949eef42ded": 1790670500,
   "news:93e1923c218fc7f1": 1790676224,
-  "news:9e94e205e3890ab8": 1790695804
+  "news:9e94e205e3890ab8": 1790695804,
+  "news:1eb41d0fc4c12e44": 1790707257
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1155,7 +1156,8 @@
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
   "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
-  "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804
+  "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
+  "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보": 1790707257
  },
  "news_queue": [
   {
@@ -1257,6 +1259,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbUxmUUZDbWo2b28ydVFPMTllZklZZG51RDNLMktENDBvVERzamdJa01Ud29wN29TUlpWMS1LanNldWE2Q0JrLWVnQ01xYjNvVzFQbV9qODh4NDJNNjNj?oc=5",
    "sort_key": "Tue, 29 Sep 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:1eb41d0fc4c12e44",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40akpPZUMxcnY2My1TazJvMW5UM043VjA0TnBEeVdrSDdyYlpxLTQwT005bkItVXpEYWdxTnltV0pOYVpBNGJJckVVRQ?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 01:24:00 GMT"
   }
  ],
  "initialized": true,
