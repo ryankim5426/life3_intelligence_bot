@@ -1096,10 +1096,11 @@
   "news:9c5db63bdd9cc2e7": 1790650349,
   "news:a04a3e0096291619": 1790656518,
   "news:554515536119edf2": 1790656518,
-  "news:c3cc428eb5ed195c": 1790656518
+  "news:c3cc428eb5ed195c": 1790656518,
+  "news:a0d3f8b49bb2be76": 1790665378,
+  "news:fc77d7cb0536f585": 1790665378
  },
  "stories": {
-  "[금융 HOT 뉴스] 카카오그룹, 그랩·SCBX부터 교보생명까지…스테이블코인 동맹 확대": 1790405317,
   "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158,
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
   "[기록] 이 악물고 뛴 삼성생명, 740일 만에 KB스타즈 전 승리": 1790520548,
@@ -1147,7 +1148,8 @@
   "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
   "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
   "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
-  "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518
+  "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
+  "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378
  },
  "news_queue": [
   {
@@ -1209,6 +1211,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11dHZLLVAzS0JZd0JhUUlmVVNaa0ZyV3plbmpFWlU0eVpLOWhLLVVQelZ4ZnRscHhkejRWMFpKd256X3NweElfdVRobkdNeWJIVHBreF9MZ3hVQm03QjV4MkFRM281Rmw3Y2ZUaWJEd0pGS01tYXZr?oc=5",
    "sort_key": "Tue, 29 Sep 2026 04:08:49 GMT"
+  },
+  {
+   "id": "news:fc77d7cb0536f585",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'",
+   "source": "블로터",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4MGRCR09wSkpKdkZBV0tIX2I4MDZHWjFMZzVObHpueGk5TFpxVGg1ZzRKNk1DX0MtS1lpSlpjb1BRZkZMSVNhV2tERDJ5TVhYZUo1TkcyeUZDOUhfczhzLXZCbFVYNTFh0gFsQVVfeXFMTjBLTElYb3NzeGxwZmYyVjA5NW1QTG1TVldDZHZkZlZ2YmpxQVdDM0xfZGNlUWhQRFotaExqcGZ4Qy1YSUV0ai05Q08tX2JrU3BPTXpTWVVId0RhV0JOMUpiTlFQN1FPZ2xrUlp1?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 06:44:56 GMT"
   }
  ],
  "initialized": true,
