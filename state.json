@@ -1100,7 +1100,8 @@
   "news:a0d3f8b49bb2be76": 1790665378,
   "news:fc77d7cb0536f585": 1790665378,
   "news:fd39cd396ee6fabb": 1790668967,
-  "news:8224f949eef42ded": 1790670500
+  "news:8224f949eef42ded": 1790670500,
+  "news:93e1923c218fc7f1": 1790676224
  },
  "stories": {
   "교보악사 '교보자산운용'으로 사명 변경... 교보생명 자회사 전환": 1790418158,
@@ -1152,7 +1153,8 @@
   "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
-  "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967
+  "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
+  "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224
  },
  "news_queue": [
   {
@@ -1234,6 +1236,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FNDBqWkRzeFAzZE5oQk16amNkX1M2Y1JqdkZCSHVqT2VUeHZJWWs3ei1sd3ZFNGdQRnBwTjg4bFBXNmJ1NWQ4OUdINmZyblZrZHNmS3B2dVo4NFY0c0tQXzJ0WUFzVWFu0gFsQVVfeXFMT3hQY0cySTRjeTNlMG53YXVma0R5VFlVSnhFWUxlQWRLTXdKWWh3bXNZUXhFNTZNRHY2aDdMN251NVdiMWxXWkF6UFNVQXJxZ1diLXROYmZQVkNwUG9kbURoNHVDVDdXbE9LMHBT?oc=5",
    "sort_key": "Tue, 29 Sep 2026 07:45:14 GMT"
+  },
+  {
+   "id": "news:93e1923c218fc7f1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9icjlIdTN4Tnl3aWhRcVQ1eGJfMzE0ZDBYal9ENGNMdnFRSHZxQ3pSSnpJLW8tVkhSZnRiRkhOREVxR0JpekltZXdrWQ?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 07:31:00 GMT"
   }
  ],
  "initialized": true,
