@@ -1101,7 +1101,8 @@
   "news:fc77d7cb0536f585": 1790665378,
   "news:fd39cd396ee6fabb": 1790668967,
   "news:8224f949eef42ded": 1790670500,
-  "news:93e1923c218fc7f1": 1790676224
+  "news:93e1923c218fc7f1": 1790676224,
+  "news:9e94e205e3890ab8": 1790695804
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1153,7 +1154,8 @@
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
-  "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224
+  "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
+  "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804
  },
  "news_queue": [
   {
@@ -1245,6 +1247,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9icjlIdTN4Tnl3aWhRcVQ1eGJfMzE0ZDBYal9ENGNMdnFRSHZxQ3pSSnpJLW8tVkhSZnRiRkhOREVxR0JpekltZXdrWQ?oc=5",
    "sort_key": "Tue, 29 Sep 2026 07:31:00 GMT"
+  },
+  {
+   "id": "news:9e94e205e3890ab8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수",
+   "source": "매일경제",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbUxmUUZDbWo2b28ydVFPMTllZklZZG51RDNLMktENDBvVERzamdJa01Ud29wN29TUlpWMS1LanNldWE2Q0JrLWVnQ01xYjNvVzFQbV9qODh4NDJNNjNj?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
