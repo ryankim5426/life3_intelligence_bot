@@ -1089,7 +1089,8 @@
   "news:d48877ac84ffb973": 1790630185,
   "news:457bbe55c7558ff6": 1790633708,
   "news:6f24ab3ba2689d31": 1790641301,
-  "news:26f6d24b91de559e": 1790642964
+  "news:26f6d24b91de559e": 1790642964,
+  "news:273a35bd0688b939": 1790645043
  },
  "stories": {
   "보험사 2분기 실적은…한화생명 날고, 미래에셋 주춤 전망": 1790394584,
@@ -1138,7 +1139,8 @@
   "카카오그룹, 그랩·SCBX·교보생명과 손잡고 디지털자산 생태계 확장": 1790621299,
   "교보라이프플래닛 교보생명에 M&A…온라인 채널 시너지는 [디지털 보험사 현주소]": 1790630185,
   "교보생명, IPO 밸류 눈높이만 ‘금융지주급’…에쿼티 스토리는 숙제": 1790633708,
-  "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301
+  "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301,
+  "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043
  },
  "news_queue": [
   {
@@ -1150,6 +1152,16 @@
    "date": "Tue, 29 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tOXRwRktRSUxNNnh1THB6WG5ZU2c0Vk5Takd3czdGN3BSME5HZUprejlFU2dGX1QwV3FkZ3dSUkFmS1M1YmxaTERzR1c5SUtudjRmakJnVXVrd1E4STdYUnpOSQ?oc=5",
    "sort_key": "Tue, 29 Sep 2026 00:07:35 GMT"
+  },
+  {
+   "id": "news:273a35bd0688b939",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손",
+   "source": "더구루",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1laWdVT3BXTml0SnFPR3BQUVpQcWdsRThqRHU2SXlXdEU0MDd6Z2hKajdwTGV1Sm9EMjZSNmp0NnlldmVROWFJbFAzSzNIT1ZvdG84a3pGZjM4LVA0MWc?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 01:16:50 GMT"
   }
  ],
  "initialized": true,
