@@ -1164,7 +1164,10 @@
   "news:689f45d311674c08": 1790763711,
   "news:774f8f4a54a38730": 1790763711,
   "news:89dbac5c1c5bde85": 1790763711,
-  "news:1baba8e6c9f9ec14": 1790763711
+  "news:1baba8e6c9f9ec14": 1790763711,
+  "news:f896e68b007666d1": 1790765185,
+  "news:21e056ceb1f36f74": 1790765186,
+  "news:a69f772c45e987b4": 1790765186
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1255,7 +1258,9 @@
   "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988,
   "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"": 1790762303,
   "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303,
-  "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711
+  "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711,
+  "한화생명, 캐피탈 인수·증권 5000억 증자…종합금융 시너지(종합)": 1790765186,
+  "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186
  },
  "news_queue": [
   {
@@ -1627,6 +1632,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib2lxMUo1Ujk3SlFkVjRxejN4c1hPRkVTa1FlRnNvSVFBXzFzQS1GaEs2a2NwaEgyd1JCekMtVkFSWjl2UERsbVdkSFgtcFRiZFFYeUhwVkFkbk5MNE9sNHdnaENsdlk?oc=5",
    "sort_key": "Wed, 30 Sep 2026 03:55:10 GMT"
+  },
+  {
+   "id": "news:21e056ceb1f36f74",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 캐피탈 인수·증권 5000억 증자…종합금융 시너지(종합)",
+   "source": "뉴시스",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mR2RDNng3TU53SFRBZm1YX205elVRc210TzhSaVNOY3pqNXU4MkNNYUcyZjBtbUMycmVoTnU1ZWtnN0w3TDVKdmUzZFJnUEZHV1JERnRCNTBmVVNlOWg4LdIBeEFVX3lxTFB0aUpxd1NCUEpDMXVWT1Z1R0tIWFV0QmhKbWJaMmJCVU1DNXZsOWxHX09uQWkzMHdIS0JmdnY4ZlZkOGJsUHh5SExPZVdnbkVoZG1saFBnejNPbVQ4ekFWUU9ENnljY29nelF0eWxPM1Z6a0FmWWRUNA?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 10:15:45 GMT"
+  },
+  {
+   "id": "news:a69f772c45e987b4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축",
+   "source": "에너지경제신문",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91WHhYWVZ5WnMwenhOUk5rQmNBd3plQXEzb1k3akNvb25RMFZHSUg0MUswbnVGcGNXVzFicGZ3SWUzZEZPb2xJR2Zfbk5aQUFJOXhoU0tZQlVTNWhTOV80WGw0MA?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 10:36:44 GMT"
   }
  ],
  "initialized": true,
