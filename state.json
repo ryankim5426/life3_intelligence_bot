@@ -1156,7 +1156,11 @@
   "news:9e9feb119b52485b": 1790759988,
   "news:ae7822185b2b2eb4": 1790759988,
   "news:153e8d85e29a4f90": 1790759988,
-  "news:1fd3700b7e60a115": 1790759988
+  "news:1fd3700b7e60a115": 1790759988,
+  "news:1f4b428f09299a1f": 1790762303,
+  "news:91591e5e2f3a5ca1": 1790762303,
+  "news:53ce3bca7fde85c4": 1790762303,
+  "news:7efaa50a50826470": 1790762303
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1244,7 +1248,9 @@
   "김동원 금융영토 또 넓혔다 … 한화생명, 애큐온캐피탈 인수 본계약": 1790759988,
   "한화생명, 애큐온 4400억 인수…종합금융 속도": 1790759988,
   "애큐온 품는 한화생명…'종합금융그룹' 도약 본격화": 1790759988,
-  "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988
+  "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988,
+  "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"": 1790762303,
+  "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303
  },
  "news_queue": [
   {
@@ -1586,6 +1592,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVlOVjJkTDc0VDNuZ0hGSFdpOUc1dTJjT1VPTnNGb2k4OXlpUkhuNGNxcFlHbW1FeHM2QlhmU1dvVVl6cTR4RFVoaVhYV1Q3YWUxeGx2bzlDQ3U3QVZYYlhIbzE5eDdVeDJIQktfcEFFaFZxNDNhN0FZUFFJSVFFcw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 09:16:02 GMT"
+  },
+  {
+   "id": "news:53ce3bca7fde85c4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"",
+   "source": "아시아경제",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMjgtVDVRRHM1UEFUcTZvMXJCRFJIYVMxTEU1VFdGS3p0ODRjdHI5YTBiR0p4YjZta1lKNTBOSmFQV2o4a1RnZlBjYkVhZmQyODlNd1NlcUI0bVpzSGE4Tw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:13:24 GMT"
+  },
+  {
+   "id": "news:7efaa50a50826470",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다",
+   "source": "데일리안",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWNWTmF1MEI1UmJZd3lWVDZRUjdGZE05Mjl3MmFlMEg5MjB3eXBsWmUxQXhnTTY0Z3g4TFJHVzZEUHBNZHExY09MTHBxNUNkMGgxNzROaWtfeEU2LXNoYVNrOVVvS0QwbXFKUUJHek9iMEM1bENyMEVnOUVyMFhYRDd6RkVwSVlXdE5mNVFJMnJGRmc3TzVzZjR4YkJCU3VKNHNzYjZoNkZqRjJQZ0JuTGJra3daUjc4b1ppWlNTV2FCaTVQZFN4Q1I3bHJtZHpMVC1ndFpZRmVaZWF2MjYwWHljU1RUVlBCNThQTFhaTWE3MU5Zcy13?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:14:00 GMT"
   }
  ],
  "initialized": true,
