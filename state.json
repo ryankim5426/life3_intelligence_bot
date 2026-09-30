@@ -1160,7 +1160,11 @@
   "news:1f4b428f09299a1f": 1790762303,
   "news:91591e5e2f3a5ca1": 1790762303,
   "news:53ce3bca7fde85c4": 1790762303,
-  "news:7efaa50a50826470": 1790762303
+  "news:7efaa50a50826470": 1790762303,
+  "news:689f45d311674c08": 1790763711,
+  "news:774f8f4a54a38730": 1790763711,
+  "news:89dbac5c1c5bde85": 1790763711,
+  "news:1baba8e6c9f9ec14": 1790763711
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1250,7 +1254,8 @@
   "애큐온 품는 한화생명…'종합금융그룹' 도약 본격화": 1790759988,
   "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988,
   "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"": 1790762303,
-  "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303
+  "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303,
+  "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711
  },
  "news_queue": [
   {
@@ -1612,6 +1617,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWNWTmF1MEI1UmJZd3lWVDZRUjdGZE05Mjl3MmFlMEg5MjB3eXBsWmUxQXhnTTY0Z3g4TFJHVzZEUHBNZHExY09MTHBxNUNkMGgxNzROaWtfeEU2LXNoYVNrOVVvS0QwbXFKUUJHek9iMEM1bENyMEVnOUVyMFhYRDd6RkVwSVlXdE5mNVFJMnJGRmc3TzVzZjR4YkJCU3VKNHNzYjZoNkZqRjJQZ0JuTGJra3daUjc4b1ppWlNTV2FCaTVQZFN4Q1I3bHJtZHpMVC1ndFpZRmVaZWF2MjYwWHljU1RUVlBCNThQTFhaTWE3MU5Zcy13?oc=5",
    "sort_key": "Wed, 30 Sep 2026 09:14:00 GMT"
+  },
+  {
+   "id": "news:1baba8e6c9f9ec14",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 새마을금고·KB금융그룹·교보생명",
+   "source": "민주신문",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib2lxMUo1Ujk3SlFkVjRxejN4c1hPRkVTa1FlRnNvSVFBXzFzQS1GaEs2a2NwaEgyd1JCekMtVkFSWjl2UERsbVdkSFgtcFRiZFFYeUhwVkFkbk5MNE9sNHdnaENsdlk?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 03:55:10 GMT"
   }
  ],
  "initialized": true,
