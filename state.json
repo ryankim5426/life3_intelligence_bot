@@ -1137,7 +1137,20 @@
   "news:7290654ed83c4ced": 1790757569,
   "news:2538af82c2d93e7c": 1790757569,
   "news:3d15ec0ed174ac3d": 1790757569,
-  "news:0dbabc619b7dd7ac": 1790757569
+  "news:0dbabc619b7dd7ac": 1790757569,
+  "news:4b37b9d43a70f152": 1790758612,
+  "news:a82b279baf9da236": 1790758612,
+  "news:70b0d94e065e3435": 1790758612,
+  "news:ece8910866d483f0": 1790758612,
+  "news:a252dca068f701e9": 1790758612,
+  "news:4e7965318b94210e": 1790758612,
+  "news:2c9025c7e07d6ba2": 1790758613,
+  "news:c7e32e50d32fadb5": 1790758613,
+  "news:c2efc3564e7b7401": 1790758613,
+  "news:05d65d7f310c39d7": 1790758613,
+  "news:1cac70c68622f43a": 1790758613,
+  "news:bc65eceabe07c0b6": 1790758613,
+  "news:6720aaa01ecfff1b": 1790758613
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1213,7 +1226,14 @@
   "EQT가 키운 애큐온, 한화생명·센트로이드 품으로…7년 투자 회수 [fn마켓워치]": 1790757569,
   "한화생명, 애큐온캐피탈 인수…종합금융그룹 도약 속도": 1790757569,
   "EQT, 애큐온그룹 한화생명·센트로이드에 매각": 1790757569,
-  "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대": 1790757569
+  "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대": 1790757569,
+  "한화생명이 여신금융 역량 확보와 계열 증권사의 자본력 강화를 동시에 추진하며, 종합금융그룹 경쟁력 제고에 박차를 가한다.": 1790758613,
+  "한화생명, 애큐온캐피탈 인수…자산운용과 한화증권 5천억 유상증자(종합)": 1790758613,
+  "한화생명, 애큐온캐피탈 품는다…지분 51% 인수": 1790758613,
+  "한화생명, 애큐온캐피탈 인수·한화증권 증자에 6천900억 투입…'비보험 포트폴리오' 강화": 1790758613,
+  "[업앤다운]보험주 하락…한화생명·한화손보↓": 1790758613,
+  "한화생명, 4400억에 애큐온캐피탈 인수···종합금융그룹 '큰 그림'": 1790758613,
+  "[보험 NOW] 삼성화재·삼성생명·KB손보·현대해상·푸본현대생명": 1790758613
  },
  "news_queue": [
   {
@@ -1435,6 +1455,76 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3V3JkcXNHUGloVE9zbmd1d1JfRlc4RjI3TW1STW5xbGJjeVhZZndjMWhXeXVhb0hzaTY3Rm1VZXhVU2ZmT3ZmQ0xxdHg3Zw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 08:34:54 GMT"
+  },
+  {
+   "id": "news:2c9025c7e07d6ba2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명이 여신금융 역량 확보와 계열 증권사의 자본력 강화를 동시에 추진하며, 종합금융그룹 경쟁력 제고에 박차를 가한다.",
+   "source": "한국경제",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTmxRODlVc0FsdEh2RnJEbTFPN1R6dVduX2xPQUw2RnBXRE91bF8tZzgxU2FXUE5JRHVhdmdreS1wd1VCUW9mVllxR01JQXplOEV3YTN0R1p6UQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:32:13 GMT"
+  },
+  {
+   "id": "news:c7e32e50d32fadb5",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수…자산운용과 한화증권 5천억 유상증자(종합)",
+   "source": "연합인포맥스",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdjNZOS1sYmdUbFV5eHNRUjRnZGxWRFh6Yl8xRFJqTUF1Yks0aE1DSU90dThydWd2c0tuTFhoRXpnYlBubTNOTE4tamU4bjhpVkV6SXZqS2dFYWJIbjVaSWhJOFFwYXdKamV0MEFWcGc?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:41:38 GMT"
+  },
+  {
+   "id": "news:c2efc3564e7b7401",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 품는다…지분 51% 인수",
+   "source": "dt.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wTWlYVGIwdTFzRFk3b3QzN1NJVXlzRkZFZU9zZUJsT1dLUzg2aXhPNlJJVXFTVWxHNFBaSXNCaHdVd0x0WHB1RmVIblk1dw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:43:09 GMT"
+  },
+  {
+   "id": "news:05d65d7f310c39d7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수·한화증권 증자에 6천900억 투입…'비보험 포트폴리오' 강화",
+   "source": "청년일보",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FLWdNZVFKd3V0Smh2Z3VTQ21jNkxZOUxIbDlKVE11c1NCQTJfSnpJemU0RkltZ0d2MzFaSnNoeVFlVkRwbU0ydnBpUVZkREJhTjgzMjFKOVZmN013WVZwSFZ2R1VlbkU?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:43:21 GMT"
+  },
+  {
+   "id": "news:1cac70c68622f43a",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[업앤다운]보험주 하락…한화생명·한화손보↓",
+   "source": "NSP통신",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4LUVOLU1Lb3J4LTVTRlVxaVVtbnM0S3gtMmF1Ym81MDM1TlpTUENUZlhoMEdKemNkUVpiYk5oOTVrVWU5T3VVQTh6ZjVwRkJBc3UzQzdsZmlMbkx0dGJVbQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:44:00 GMT"
+  },
+  {
+   "id": "news:bc65eceabe07c0b6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 4400억에 애큐온캐피탈 인수···종합금융그룹 '큰 그림'",
+   "source": "뉴스웨이",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Nk1nNmswVTc2V0JyVVpmUmd1VTB5cHpLZUw2N1NweWhmUTFYS0g0SXRSWmd3ODNjenV4Z1QyeGNZV19OTklSeVZtcWFLaU1VUk1aVkZRYkJYTWk2V25XT1FYZmtVaEoxNnc?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:46:41 GMT"
+  },
+  {
+   "id": "news:6720aaa01ecfff1b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험 NOW] 삼성화재·삼성생명·KB손보·현대해상·푸본현대생명",
+   "source": "위키리크스한국",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9neWU2bTR2YV85Z251UDdUYUJUelE5a3BtdzlfeFUwZnRGZ1FpMzRHTkE3cUxoN25ZTGtOWl9jZDNmV2pST3BoVzJpSFNxWndqTjJwNjFQcHZVOFN1WER3Nk5pbkFSeU02cmptZGhnZw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:54:24 GMT"
   }
  ],
  "initialized": true,
