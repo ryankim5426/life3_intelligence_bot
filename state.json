@@ -1131,7 +1131,13 @@
   "news:b700d0a71fbd004f": 1790756298,
   "news:58310693af5fd2d1": 1790756298,
   "news:bd8c19f7a9454c1b": 1790756298,
-  "news:54450b517fd681d7": 1790756298
+  "news:54450b517fd681d7": 1790756298,
+  "news:93a0ce80e1b4423e": 1790757569,
+  "news:601808df0dd5404f": 1790757569,
+  "news:7290654ed83c4ced": 1790757569,
+  "news:2538af82c2d93e7c": 1790757569,
+  "news:3d15ec0ed174ac3d": 1790757569,
+  "news:0dbabc619b7dd7ac": 1790757569
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1201,7 +1207,13 @@
   "한화생명, 애큐온캐피탈 지분 50.54% 취득 결정": 1790756298,
   "한화생명 \"애큐온캐피탈 주식 4천400억원에 취득…지분율 50.5%\"": 1790756298,
   "“한화생명, 4400억에 애큐온 품었다”…캐피탈 진출·저축은행까지 확보": 1790756298,
-  "한화생명·센트로이드, 애큐온캐피탈 품는다…EQT, 7년 만에 엑시트": 1790756298
+  "한화생명·센트로이드, 애큐온캐피탈 품는다…EQT, 7년 만에 엑시트": 1790756298,
+  "김동원의 한화생명, 외연 확장 속도 낸다…애큐온캐피탈 인수 임박": 1790757569,
+  "한국투자금융·교보생명, 보험사 인수로 종합금융그룹 ‘퍼즐’ 맞춘다": 1790757569,
+  "EQT가 키운 애큐온, 한화생명·센트로이드 품으로…7년 투자 회수 [fn마켓워치]": 1790757569,
+  "한화생명, 애큐온캐피탈 인수…종합금융그룹 도약 속도": 1790757569,
+  "EQT, 애큐온그룹 한화생명·센트로이드에 매각": 1790757569,
+  "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대": 1790757569
  },
  "news_queue": [
   {
@@ -1363,6 +1375,66 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTjlrZ25OLUU4eUFXT2pDZUdNREt3bWtXY0swMlZSeTFFZURhOURiaUdvZ1hqMGMyeWk2cTM3TW9YemlJNGpOX3lOcVU4cEI5R3djWk54NXNHVzljWnQ2enhVN1BfU2FNYjNocg?oc=5",
    "sort_key": "Wed, 30 Sep 2026 08:13:00 GMT"
+  },
+  {
+   "id": "news:93a0ce80e1b4423e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "김동원의 한화생명, 외연 확장 속도 낸다…애큐온캐피탈 인수 임박",
+   "source": "인사이트코리아",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82R3BaSWhZWm1FNGVFUDFNRDd5RkJtZnRSWl9DTmcwOV9zTUJUWHNlempaU2tETmwtQUFfckhTaXYzX3I4WjJkeTJqbGlRZnFjN1QxY3U4aGs4MC1CR2p5SDhmTTU1ZWk4aXlrRmczb1dSZE3SAXdBVV95cUxNNlJVdzNzTXdaOGNfZlA4cF9rR194djJoaVVNTm8xeldfWkRfS3B1LVV1a0NVRzVZZjFoT0dpcFZ5cWJNNXk5U0ZtSlZKZEdhbUwwdUtFdHpxeURBUnJGM0k5YlpibnJJWlVnSXlCUE1rVUxWLUZwRQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 06:30:15 GMT"
+  },
+  {
+   "id": "news:601808df0dd5404f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "한국투자금융·교보생명, 보험사 인수로 종합금융그룹 ‘퍼즐’ 맞춘다",
+   "source": "dailyenews.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0bUFtVzhlcExLOXlGSkl6WW9ma3lPUlZ3UUNqYlc5Z1l2Qk9EOG1obVNaNmFCOVphYjMyQTdwTnhBYjVCNW9oZTEzTGpfbU5GTlhVU2pqeGR0LWdwMUFtcU5VeExlc0p3ejZ6MktSTQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:22:37 GMT"
+  },
+  {
+   "id": "news:7290654ed83c4ced",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "EQT가 키운 애큐온, 한화생명·센트로이드 품으로…7년 투자 회수 [fn마켓워치]",
+   "source": "v.daum.net",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUDQzc3hscWdERVptaFhUQ19QdldLbFVqcDR4MGVMQWt5Y1Eyenl6Qjloa09qTkNmYjVyang0VE1PcDhRNjI4N1pDMHl6SEk?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:24:00 GMT"
+  },
+  {
+   "id": "news:2538af82c2d93e7c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수…종합금융그룹 도약 속도",
+   "source": "파이낸셜뉴스",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CcWVQZnptaWVrTWI1eE1BazNROXl5Wjlsa1lhb1gybnpmNkFKM1VvYWJLNU5fQ1pKVWRhaE00bTVPcHh1b2QzQi1DTVE3R0tUcjJxS2U1TEhVZw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:24:30 GMT"
+  },
+  {
+   "id": "news:3d15ec0ed174ac3d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "EQT, 애큐온그룹 한화생명·센트로이드에 매각",
+   "source": "뉴스톱",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hdWFGME12Um9ucndldkFvc05LNEFoTGd4SWVPV29TR0Jra1lMNURadHB1WFlPRnRJUFJRTWlhQkZnTGFLUkZ1RndrOHdrVzZSS1hqU2diTTNGZ1ZZc0ZmaU45X2ZlYkFGcXFzRmVSYw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:28:49 GMT"
+  },
+  {
+   "id": "news:0dbabc619b7dd7ac",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대",
+   "source": "전자신문",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3V3JkcXNHUGloVE9zbmd1d1JfRlc4RjI3TW1STW5xbGJjeVhZZndjMWhXeXVhb0hzaTY3Rm1VZXhVU2ZmT3ZmQ0xxdHg3Zw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:34:54 GMT"
   }
  ],
  "initialized": true,
