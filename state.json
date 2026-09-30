@@ -1103,7 +1103,8 @@
   "news:8224f949eef42ded": 1790670500,
   "news:93e1923c218fc7f1": 1790676224,
   "news:9e94e205e3890ab8": 1790695804,
-  "news:1eb41d0fc4c12e44": 1790707257
+  "news:1eb41d0fc4c12e44": 1790707257,
+  "news:14cd357658f79098": 1790728534
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1157,9 +1158,21 @@
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
   "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
-  "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보": 1790707257
+  "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보": 1790707257,
+  "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원": 1790728534
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:14cd357658f79098",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원",
+   "source": "팍스경제TV",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcXJXTnpmbnB6NWZ6d1FfZ3g0N0hENFE0bldJQnRIaTNSa0J3dW1PQlNlTHlJZWFxd2hiWUpQdFlVYW5BbWpPVzRfWFJFSWQ5dnhQVUFnQ1Y3VnFKOUlzdmNJOFpWYXM?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 00:26:39 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-09-30"
 }
