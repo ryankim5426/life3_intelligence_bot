@@ -1113,7 +1113,8 @@
   "news:4a5aa553c3b31f00": 1790734506,
   "news:eb38ef341c1b79b3": 1790738206,
   "news:53276911fe283a7f": 1790738206,
-  "news:eeb3d8271a4829f6": 1790741834
+  "news:eeb3d8271a4829f6": 1790741834,
+  "news:1550c17909cff816": 1790743010
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1175,7 +1176,8 @@
   "[데스크칼럼] 김동원식 한화생명의 앞날① '700종신'이 멈춘 날": 1790733308,
   "한화생명은 고객의 건강 관리와 재정적 안정 확보를 위해 적극적으로 지원합니다.": 1790733308,
   "삼성생명, 내년 순이익 8조원 돌파 전망": 1790734506,
-  "[단독] 한화생명, 센트로이드 손잡고 애큐온캐피탈 인수…SPA 체결": 1790741834
+  "[단독] 한화생명, 센트로이드 손잡고 애큐온캐피탈 인수…SPA 체결": 1790741834,
+  "한화생명, 오늘 애큐온캐피탈 인수계약 체결": 1790743010
  },
  "news_queue": [
   {
@@ -1257,6 +1259,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTDNMNzcxckxOSGh5YWJYS1lrTHZGVnZHZUdwTTlmUHI2ekJJMHJhOUJvRFZ2cWtYYTdzclBHQ0dMUF9WLVRETHlib0RZaEFNa2ZjSEpxakZsZw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 04:00:04 GMT"
+  },
+  {
+   "id": "news:1550c17909cff816",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 오늘 애큐온캐피탈 인수계약 체결",
+   "source": "인베스트조선",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNktJYmF1LTZkQTlKNVVYQjk1Qk9IRzh4N0p3OFJ5VXRTYkQ0OHg0SmxJT3UyNDlUMVBSa21naVRTWUpfbTFfQmJPd0tVVl9HdTA3a3JXWW44Y2lLMWUxaFk4NDJDQWJaM3FMUjdCQTFIaFF2S0lCMjhkRm1GTlVXdmtoTQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 04:29:00 GMT"
   }
  ],
  "initialized": true,
