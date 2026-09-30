@@ -1169,7 +1169,9 @@
   "news:21e056ceb1f36f74": 1790765186,
   "news:a69f772c45e987b4": 1790765186,
   "news:538c8a4662a552ea": 1790766064,
-  "news:f910e45a6ebf8bab": 1790766064
+  "news:f910e45a6ebf8bab": 1790766064,
+  "news:1b71dc5d891af9d9": 1790767482,
+  "news:c8a24415cfc6f504": 1790767483
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1262,7 +1264,8 @@
   "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303,
   "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711,
   "한화생명, 캐피탈 인수·증권 5000억 증자…종합금융 시너지(종합)": 1790765186,
-  "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186
+  "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186,
+  "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자": 1790767483
  },
  "news_queue": [
   {
@@ -1654,6 +1657,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91WHhYWVZ5WnMwenhOUk5rQmNBd3plQXEzb1k3akNvb25RMFZHSUg0MUswbnVGcGNXVzFicGZ3SWUzZEZPb2xJR2Zfbk5aQUFJOXhoU0tZQlVTNWhTOV80WGw0MA?oc=5",
    "sort_key": "Wed, 30 Sep 2026 10:36:44 GMT"
+  },
+  {
+   "id": "news:c8a24415cfc6f504",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자",
+   "source": "뉴스핌",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40QUhvbnlZQjlzTG5oOTc3R0l0SUpnVmhoUjdjTDdVc21vb0tvM2JwcmdZWVAtbTRZaGZVWmxxbGREZTdjWlpwNElqbXRnaXFzYjNubktjQ05YR1Vy?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 11:06:00 GMT"
   }
  ],
  "initialized": true,
