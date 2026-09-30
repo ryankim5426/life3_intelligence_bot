@@ -1126,7 +1126,12 @@
   "news:1a4553aa079fde90": 1790752031,
   "news:720233925a81dcf4": 1790753439,
   "news:e29e2198f729c35c": 1790753439,
-  "news:1babfefaed47b84b": 1790754855
+  "news:1babfefaed47b84b": 1790754855,
+  "news:9ba292996cadd07c": 1790756297,
+  "news:b700d0a71fbd004f": 1790756298,
+  "news:58310693af5fd2d1": 1790756298,
+  "news:bd8c19f7a9454c1b": 1790756298,
+  "news:54450b517fd681d7": 1790756298
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1192,7 +1197,11 @@
   "한화생명, 오늘 애큐온캐피탈 인수계약 체결": 1790743010,
   "삼성생명, 삼성전자發 수조원 들어온다…늘어난 자본 어디로": 1790744109,
   "한화생명, 애큐온캐피탈·저축은행 품는다…종합금융 포트폴리오 확장": 1790752031,
-  "삼성생명 기본자본 키운 삼성전자 주가…재무건전성에 미친 영향 보니": 1790753439
+  "삼성생명 기본자본 키운 삼성전자 주가…재무건전성에 미친 영향 보니": 1790753439,
+  "한화생명, 애큐온캐피탈 지분 50.54% 취득 결정": 1790756298,
+  "한화생명 \"애큐온캐피탈 주식 4천400억원에 취득…지분율 50.5%\"": 1790756298,
+  "“한화생명, 4400억에 애큐온 품었다”…캐피탈 진출·저축은행까지 확보": 1790756298,
+  "한화생명·센트로이드, 애큐온캐피탈 품는다…EQT, 7년 만에 엑시트": 1790756298
  },
  "news_queue": [
   {
@@ -1314,6 +1323,46 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90MUpsNndXRHFhSk01SVplSWIzMDFFZUhaai1VYkVwTUVPNEdZQ2VkWUE3QkduTGIzcTNuZlBPYkFna1FKNXg4eFNycWRMTVNEc3JqUVNlYUFUUHBqbW5oSk8wbzZaN0Y00gFsQVVfeXFMT3cwLS1hLUlUYk9DYmJtbHZ3UTFEQ1RRZENjMUFKb3ZXYlZfUk1YVzBLR2pZaTM5SkI3UVlBQXZzMnFKXzlPQkZMa2plZ3NOc2FXc0FESXhKTEpEbHpwYmJyMUZXYVNJdm10cktU?oc=5",
    "sort_key": "Wed, 30 Sep 2026 07:16:52 GMT"
+  },
+  {
+   "id": "news:b700d0a71fbd004f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 지분 50.54% 취득 결정",
+   "source": "데이터투자",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ib2RPRzYxSVlmalF2akNCSk9qaUlWb2Y3bl90dzNlQ3plOWR2TnBwVk9DQ2lKdmtwemU5b184VUhaLXNfX0hGM1QtdkNDazQ3VlE0TmNoelhNRjNud1ItREdqaW9SbGlMQTc0cjJTVkM3akU?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 07:53:52 GMT"
+  },
+  {
+   "id": "news:58310693af5fd2d1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 \"애큐온캐피탈 주식 4천400억원에 취득…지분율 50.5%\"",
+   "source": "연합뉴스",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KRmFJWk1EdGVCSVllaS1CaFZOZnplRlhhMDZZRWMyalFhZU4yRXE4QVlMUGVRMkE1c3RtYktXSWZOZmY3Y1AxX0h5LWphREFLRFVLRlg2Y0ROVjTSAWBBVV95cUxOSTlKbUZmUXZqTWl5RzBmbXI3LWhIcnZLVVVneEN3ZGRtcjdocHFXS1hXdVVGM0xPYThselNSd19SSWZkUzhzOEUwQVRrZ1lyWUlOcmdaX1NRVjM3bzdnbnE?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 07:54:26 GMT"
+  },
+  {
+   "id": "news:bd8c19f7a9454c1b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“한화생명, 4400억에 애큐온 품었다”…캐피탈 진출·저축은행까지 확보",
+   "source": "디지털데일리",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qdmtueXNDcU1LR0ZTaXhCTjVLeFRCZXp1Tzh0SnFrTDdSeEFlVjdXR3NtRDJlMWpWb25rTTcxT3Z1VC1BcjFxdUo2djM1ZGN2NnBYaDNmeFM3WUN5Vzk4UjlKMW8?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:08:46 GMT"
+  },
+  {
+   "id": "news:54450b517fd681d7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·센트로이드, 애큐온캐피탈 품는다…EQT, 7년 만에 엑시트",
+   "source": "이투데이",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTjlrZ25OLUU4eUFXT2pDZUdNREt3bWtXY0swMlZSeTFFZURhOURiaUdvZ1hqMGMyeWk2cTM3TW9YemlJNGpOX3lOcVU4cEI5R3djWk54NXNHVzljWnQ2enhVN1BfU2FNYjNocg?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:13:00 GMT"
   }
  ],
  "initialized": true,
