@@ -1192,7 +1192,9 @@
   "news:348345be843a9581": 1790804144,
   "news:04f57772c5e209b0": 1790805264,
   "news:ef89ac1c169a0d8b": 1790805264,
-  "news:7f95a392c92f6623": 1790811157
+  "news:7f95a392c92f6623": 1790811157,
+  "news:3187baef17e5c7ae": 1790812251,
+  "news:b27870d149e4b453": 1790812251
  },
  "stories": {
   "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726,
@@ -1289,9 +1291,32 @@
   "한화생명, ‘애큐온’ 품는다… 캐피탈로 비은행 영토 확장": 1790801504,
   "한화생명, 애큐온캐피탈·애큐온저축은행 인수": 1790805264,
   "금융지주 전환 속도 내는 교보생명…무거워지는 교보증권 어깨": 1790805264,
-  "한화생명, 애큐온캐피탈 인수로 여신금융 진출…'한화금융' 재편": 1790811157
+  "한화생명, 애큐온캐피탈 인수로 여신금융 진출…'한화금융' 재편": 1790811157,
+  "EQT, 한화생명-센트로이드PE에 애큐온 매각…본계약 체결": 1790812251,
+  "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등": 1790812251
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:3187baef17e5c7ae",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "EQT, 한화생명-센트로이드PE에 애큐온 매각…본계약 체결",
+   "source": "biz.heraldcorp.com",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56aGNDNjdFZk80LVBWNWswUWtsYTBXaDlfam83Vk9TbU1LZ1V5bGEtZWpQaUszTGE1WXB3dmVhSndCQ3d4cWFVNGRVdE9fYngySk9uREVB?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 23:38:22 GMT"
+  },
+  {
+   "id": "news:b27870d149e4b453",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등",
+   "source": "글로벌이코노믹",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbk9UWWJrMzJfbUhKR0lyaXd0cU1YNElHa3pIYjF0WEloNWkwUjJOem5qOWVYM1YydkZxY053VVlGN2djQVd2SWtacGlSNkkzVlVyTUF6Z3psTjltNjVsYzB3RDZOdWtIR0pmY0RrWGF1V09RLU9KQy0zN0REczRmXzJvcktmQ0NL?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 23:39:55 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-01"
 }
