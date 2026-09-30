@@ -1123,7 +1123,9 @@
   "news:a88b0bf47ba3fb2f": 1790751001,
   "news:ab9df58da1dd608c": 1790751001,
   "news:70ca0ad59f839caf": 1790751001,
-  "news:1a4553aa079fde90": 1790752031
+  "news:1a4553aa079fde90": 1790752031,
+  "news:720233925a81dcf4": 1790753439,
+  "news:e29e2198f729c35c": 1790753439
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1188,7 +1190,8 @@
   "[단독] 한화생명, 센트로이드 손잡고 애큐온캐피탈 인수…SPA 체결": 1790741834,
   "한화생명, 오늘 애큐온캐피탈 인수계약 체결": 1790743010,
   "삼성생명, 삼성전자發 수조원 들어온다…늘어난 자본 어디로": 1790744109,
-  "한화생명, 애큐온캐피탈·저축은행 품는다…종합금융 포트폴리오 확장": 1790752031
+  "한화생명, 애큐온캐피탈·저축은행 품는다…종합금융 포트폴리오 확장": 1790752031,
+  "삼성생명 기본자본 키운 삼성전자 주가…재무건전성에 미친 영향 보니": 1790753439
  },
  "news_queue": [
   {
@@ -1300,6 +1303,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwRW1mZzZvbFZJM05VRklZTlRCOGp6OWY3a3hxLWZSMkM3Z2Z2NUxQMkRyTnZxRk03X0ZWVkR2by1Cay1yUjZXckJGN01HUC1adFV1bV9uWHVzMm5hbEV4akNwQXY?oc=5",
    "sort_key": "Wed, 30 Sep 2026 06:54:28 GMT"
+  },
+  {
+   "id": "news:e29e2198f729c35c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 기본자본 키운 삼성전자 주가…재무건전성에 미친 영향 보니",
+   "source": "bloter.net",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90MUpsNndXRHFhSk01SVplSWIzMDFFZUhaai1VYkVwTUVPNEdZQ2VkWUE3QkduTGIzcTNuZlBPYkFna1FKNXg4eFNycWRMTVNEc3JqUVNlYUFUUHBqbW5oSk8wbzZaN0Y00gFsQVVfeXFMT3cwLS1hLUlUYk9DYmJtbHZ3UTFEQ1RRZENjMUFKb3ZXYlZfUk1YVzBLR2pZaTM5SkI3UVlBQXZzMnFKXzlPQkZMa2plZ3NOc2FXc0FESXhKTEpEbHpwYmJyMUZXYVNJdm10cktU?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 07:16:52 GMT"
   }
  ],
  "initialized": true,
