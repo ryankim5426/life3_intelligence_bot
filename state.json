@@ -1182,7 +1182,10 @@
   "news:401a26d2b0839777": 1790778608,
   "news:a5a45a1bfdf29aa5": 1790778608,
   "news:bd952daa5f770b71": 1790778608,
-  "news:7f955e57c6d08925": 1790781603
+  "news:7f955e57c6d08925": 1790781603,
+  "news:eed078c1c2cc61c4": 1790795813,
+  "news:c448751e9cc10d57": 1790795813,
+  "news:cdd0376f070b7eab": 1790795813
  },
  "stories": {
   "상위사 도약 주역 경영스타일은…'전략 직접 주도' 교보생명 신창재 vs 'CEO 위임' 현대해상 정몽윤 [AI가 본 금융권 맞수 열전 - 보험]": 1790543059,
@@ -1278,7 +1281,9 @@
   "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락": 1790771723,
   "[단독] 한화생명 자회사 GA 3곳 대표이사 전격 교체… 1년여 만의 ‘초강수’ 인사 단행": 1790775946,
   "‘체급 키우고 판 흔든다’… 한화생명, 조 단위 승부수로 띄운 종합금융의 꿈": 1790778608,
-  "한화생명볼파크 3000석 증설 ‘2만 관중 시대’ 연다": 1790781603
+  "한화생명볼파크 3000석 증설 ‘2만 관중 시대’ 연다": 1790781603,
+  "한화생명, 애큐온캐피탈 품는다…보험 넘어 '종합금융' 속도": 1790795813,
+  "애큐온캐피탈·저축銀 품는다… 한화생명, 종합금융그룹 도약 - 머니투데이": 1790795813
  },
  "news_queue": [
   {
@@ -1730,6 +1735,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVTm1TS2doZzQ1QmdwMTBSemlYOFJQSDdORk9XTzIyNWVKcWlLcGtjdUlEdGIxTkpzNGcyaTJpRVBZalhQWUo0QV9GdHN0U0I5MWdzLXJxeFdWYWJlZF96aVM1NmtCRm5YOTJxeg?oc=5",
    "sort_key": "Wed, 30 Sep 2026 13:23:58 GMT"
+  },
+  {
+   "id": "news:c448751e9cc10d57",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 품는다…보험 넘어 '종합금융' 속도",
+   "source": "ER 이코노믹리뷰",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PTDkxeXdMOW1aWUlKcUJGRWZZUHFBR013S09CTTI1TkRZTjlTalVaZ0tGTjFSNTZxNHJqbmpsZWhmY1RqTTdaTXpVNnhqaDFyZUJfM1JIbng3UExGRkdJX1Z4ZFBoU2V4a2VnUQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 11:05:20 GMT"
+  },
+  {
+   "id": "news:cdd0376f070b7eab",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온캐피탈·저축銀 품는다… 한화생명, 종합금융그룹 도약 - 머니투데이",
+   "source": "머니투데이",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RZ3ZMVnA5c1MtRFdjUE9pQ0xLOHFSaV9wR0Vhei1HYVdsdUlQSVRHRzByTFgyRDZKUDhmZHhoakRjSFRleWZHQ2Z3bnZzRjR2WDFfR1E0UGtxU3ROX2hwQ1ZxMU1aaHRhNU5F0gFwQVVfeXFMUFBmRTdjaXRwQURXNWxtVHAzczFqWWhBT0JVVGV1UjhCcTZiUEktN1lXU2JIMVk4OUVaOHpwazhmMS00c3p6ZjZha044R0VNQTNFaWV2eWJTeVZHUXc3MkJMTDYwS183bk9ZWWd4ZDBXaA?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 18:54:00 GMT"
   }
  ],
  "initialized": true,
