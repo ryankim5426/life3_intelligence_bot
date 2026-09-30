@@ -1174,7 +1174,8 @@
   "news:c8a24415cfc6f504": 1790767483,
   "news:bc645dafbea29ae6": 1790771723,
   "news:0c9b6fe3eac60428": 1790771723,
-  "news:225bb61f0f3ad0cb": 1790771723
+  "news:225bb61f0f3ad0cb": 1790771723,
+  "news:f4d06ac027e6383b": 1790775946
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1270,7 +1271,8 @@
   "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186,
   "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자": 1790767483,
   "[창립 19주년] 한화생명, 글로벌 조합금융그룹 도약": 1790771723,
-  "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락": 1790771723
+  "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락": 1790771723,
+  "[단독] 한화생명 자회사 GA 3곳 대표이사 전격 교체… 1년여 만의 ‘초강수’ 인사 단행": 1790775946
  },
  "news_queue": [
   {
@@ -1692,6 +1694,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aVmQtcHBIZm5EcWZHTnBBR2ktNThKc2lsLXBaM0ZNaUEyZ21aSjRDRGlGeE9nS185ZXczSUdsNkxrU3ZmcnZMa1BVWDk2aXU2MWZnd2ZTUDFxVkNpcXJmWDFqSGlYZDU0OW5SN1Fpbw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 12:30:00 GMT"
+  },
+  {
+   "id": "news:f4d06ac027e6383b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[단독] 한화생명 자회사 GA 3곳 대표이사 전격 교체… 1년여 만의 ‘초강수’ 인사 단행",
+   "source": "insjournal.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83SmxfZ1JrZ1JYT1ZqRUdETmwtbTF1YlF4aXFQdjlqQmhPRkxkZlpJeTVXekhSZGd2ck1zOVE5OS1Od2R4b3dMQTkwM205V2RiUFpTdGNwdnRKT2lSdTAta2xuRG95MV83UGVKOS0xSQ?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:36:17 GMT"
   }
  ],
  "initialized": true,
