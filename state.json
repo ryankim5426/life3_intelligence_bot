@@ -1105,7 +1105,9 @@
   "news:9e94e205e3890ab8": 1790695804,
   "news:1eb41d0fc4c12e44": 1790707257,
   "news:14cd357658f79098": 1790728534,
-  "news:5b12a59270eb1599": 1790729888
+  "news:5b12a59270eb1599": 1790729888,
+  "news:d5251c7e7d0ee4d3": 1790732322,
+  "news:6142dd53ed91af0d": 1790732322
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1161,7 +1163,9 @@
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
   "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보": 1790707257,
   "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원": 1790728534,
-  "삼성생명 사내 스타트업 '글로케어', 외국인 유학생 요양인력 양성": 1790729888
+  "삼성생명 사내 스타트업 '글로케어', 외국인 유학생 요양인력 양성": 1790729888,
+  "‘탈 교보생명’ 성패…핵심 계열사 키우기 과제": 1790732322,
+  "교보생명 품에 들어온 SBI저축은행…7개월 만에 ‘교보SBI’ 출범": 1790732322
  },
  "news_queue": [
   {
@@ -1183,6 +1187,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fMGViT0N3RkdqN2ViSExoRG9jVTRBVmZ1Z2ZHcG10dTNBRHZ0M2dRVjYzWkl1VF9oUGQtT0lGdHhwa2NfcmIxVkNIdko3RzA4bDdWdUNfVnlkMkVLakpWYtIBZkFVX3lxTE1tT3hlSVdGTXQtdWdtMWlJRnhWUnNYU1BCVF9BTHFsQTQ1RXk0QUtVS2FuWHl5MGZRc3hrVURSdDYxdVRTd3Atd1lvVTZ0MDlSUzhWU2dWZkNBeUlBQ29lVVZpNkxyZw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 00:40:23 GMT"
+  },
+  {
+   "id": "news:d5251c7e7d0ee4d3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "‘탈 교보생명’ 성패…핵심 계열사 키우기 과제",
+   "source": "톱데일리",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OYW4zU0s5cXNac3NGTlNDclJiNW1QeHYxWnkyVzhqNlBiMG8zai16aVFuREpHQUNCR0t6UHZuWmtmal90NS1QSklraDVmVWR2?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 01:23:00 GMT"
+  },
+  {
+   "id": "news:6142dd53ed91af0d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 품에 들어온 SBI저축은행…7개월 만에 ‘교보SBI’ 출범",
+   "source": "SR타임스",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aGtEcUNob1VBZnBlZkU5R2Qyb2pKb0RUb2RaM1QyZXlWMGt3U3pXLW5XS1BMUkhqVy10Mnl3TDZmdDFGZVV3NXZJLVJkQzIyTVpvWTZxSmZ1UFU0M1dILVZLNElZOEXSAWtBVV95cUxOOGhDUmZKOVg4YlpweTktemtxUWczNkM0UVRjRGRCTTFQTzhMREhGVVVYejFuZVFaTGJVQkpOUm80VE9LUloyUGFMcHQxbERENTlaWjJDTGg5OU1ITkdVdGZPLVZrYUo2RzVGZw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 01:24:02 GMT"
   }
  ],
  "initialized": true,
