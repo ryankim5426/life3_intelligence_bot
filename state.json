@@ -1171,7 +1171,10 @@
   "news:538c8a4662a552ea": 1790766064,
   "news:f910e45a6ebf8bab": 1790766064,
   "news:1b71dc5d891af9d9": 1790767482,
-  "news:c8a24415cfc6f504": 1790767483
+  "news:c8a24415cfc6f504": 1790767483,
+  "news:bc645dafbea29ae6": 1790771723,
+  "news:0c9b6fe3eac60428": 1790771723,
+  "news:225bb61f0f3ad0cb": 1790771723
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1265,7 +1268,9 @@
   "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711,
   "한화생명, 캐피탈 인수·증권 5000억 증자…종합금융 시너지(종합)": 1790765186,
   "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186,
-  "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자": 1790767483
+  "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자": 1790767483,
+  "[창립 19주년] 한화생명, 글로벌 조합금융그룹 도약": 1790771723,
+  "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락": 1790771723
  },
  "news_queue": [
   {
@@ -1667,6 +1672,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40QUhvbnlZQjlzTG5oOTc3R0l0SUpnVmhoUjdjTDdVc21vb0tvM2JwcmdZWVAtbTRZaGZVWmxxbGREZTdjWlpwNElqbXRnaXFzYjNubktjQ05YR1Vy?oc=5",
    "sort_key": "Wed, 30 Sep 2026 11:06:00 GMT"
+  },
+  {
+   "id": "news:0c9b6fe3eac60428",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[창립 19주년] 한화생명, 글로벌 조합금융그룹 도약",
+   "source": "소년한국일보",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZkRfWVV4YmU3Yk5ndVdscmRuYlR0S3dLMHFNRUFucmY4SkxnMUxESnVqbC1PRDVqeS13czliTE5kWUFxdTRVa2RsZ2ItVWR0akRaVEFQbURrUXZXZU5fSzA2UFBfaDBGRWNTVNIBcEFVX3lxTE9felpqU0RITzhrWHlPdWdGakVWeUN6QnNFWnR1R0VDV3dpSnZrTnJDV2NFeTdUZ3U5MHJobkM5dnBPcmhKRTdIQWVEbFpkc3RzQi1yUXlhRGY3bXVjY2l6eU13YlBOU1l2MWFmYUgwYVc?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 10:09:13 GMT"
+  },
+  {
+   "id": "news:225bb61f0f3ad0cb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락",
+   "source": "econonews.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aVmQtcHBIZm5EcWZHTnBBR2ktNThKc2lsLXBaM0ZNaUEyZ21aSjRDRGlGeE9nS185ZXczSUdsNkxrU3ZmcnZMa1BVWDk2aXU2MWZnd2ZTUDFxVkNpcXJmWDFqSGlYZDU0OW5SN1Fpbw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 12:30:00 GMT"
   }
  ],
  "initialized": true,
