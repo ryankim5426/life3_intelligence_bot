@@ -1107,7 +1107,9 @@
   "news:14cd357658f79098": 1790728534,
   "news:5b12a59270eb1599": 1790729888,
   "news:d5251c7e7d0ee4d3": 1790732322,
-  "news:6142dd53ed91af0d": 1790732322
+  "news:6142dd53ed91af0d": 1790732322,
+  "news:5a9059bc5c638a63": 1790733308,
+  "news:dc98c3193d90495c": 1790733308
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1165,7 +1167,9 @@
   "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원": 1790728534,
   "삼성생명 사내 스타트업 '글로케어', 외국인 유학생 요양인력 양성": 1790729888,
   "‘탈 교보생명’ 성패…핵심 계열사 키우기 과제": 1790732322,
-  "교보생명 품에 들어온 SBI저축은행…7개월 만에 ‘교보SBI’ 출범": 1790732322
+  "교보생명 품에 들어온 SBI저축은행…7개월 만에 ‘교보SBI’ 출범": 1790732322,
+  "[데스크칼럼] 김동원식 한화생명의 앞날① '700종신'이 멈춘 날": 1790733308,
+  "한화생명은 고객의 건강 관리와 재정적 안정 확보를 위해 적극적으로 지원합니다.": 1790733308
  },
  "news_queue": [
   {
@@ -1207,6 +1211,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aGtEcUNob1VBZnBlZkU5R2Qyb2pKb0RUb2RaM1QyZXlWMGt3U3pXLW5XS1BMUkhqVy10Mnl3TDZmdDFGZVV3NXZJLVJkQzIyTVpvWTZxSmZ1UFU0M1dILVZLNElZOEXSAWtBVV95cUxOOGhDUmZKOVg4YlpweTktemtxUWczNkM0UVRjRGRCTTFQTzhMREhGVVVYejFuZVFaTGJVQkpOUm80VE9LUloyUGFMcHQxbERENTlaWjJDTGg5OU1ITkdVdGZPLVZrYUo2RzVGZw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 01:24:02 GMT"
+  },
+  {
+   "id": "news:5a9059bc5c638a63",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[데스크칼럼] 김동원식 한화생명의 앞날① '700종신'이 멈춘 날",
+   "source": "글로벌E",
+   "date": "Tue, 29 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTM3BUakcydHV0OWRWaXNvRmtNUjBYUDdENFc3RE54enZpb2VSbHRLRWxXRHhIYUNwTGNuNW5TV3FqWmxkaENEbW9taE5oVUN3elFYdWRReGozYWs1ZWFYUFprWE5vLWpWTXdV0gFvQVVfeXFMTVI3b0tOWHF1U2VOTEc3YjhMUkY2N1NXd2NEcG12NmQ4S2tCak1QZEZlZGpEMDRjbTRUejM2QmwzcGNmS0NoakFRVVFkMXNFcVBHWW03VmNzVE1zSHhJejRPNDRBSmhlRDZnWkNKbVJR?oc=5",
+   "sort_key": "Tue, 29 Sep 2026 23:00:00 GMT"
+  },
+  {
+   "id": "news:dc98c3193d90495c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명은 고객의 건강 관리와 재정적 안정 확보를 위해 적극적으로 지원합니다.",
+   "source": "Vietnam.vn",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazFHSjJuM1JmbEdJOWFfYVM1Ym1ROE1sWjRHRG1qdjJDcTdXTnd6UGZNQy1hbGVzVkMxREUtMldNYno2NEV4TUtlbXpkVTlwU1kwOWZxektsbTR3OEg3THZhSUZGelVFYVJTTks3ZVFpMDZpZUVjZ3lSRDRhcjdIbU1OMG5tZm9ZZFJ5ekRaWVdhalluVi16MGY0RW44OWNQenVmMlJLYnBmS1puYUpj?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 01:35:05 GMT"
   }
  ],
  "initialized": true,
