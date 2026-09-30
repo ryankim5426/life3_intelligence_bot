@@ -1189,11 +1189,11 @@
   "news:20e7a8d33b6b6fa5": 1790801504,
   "news:c7c0fea98e2dc792": 1790802922,
   "news:678fc2ae7d5d87ed": 1790804144,
-  "news:348345be843a9581": 1790804144
+  "news:348345be843a9581": 1790804144,
+  "news:04f57772c5e209b0": 1790805264,
+  "news:ef89ac1c169a0d8b": 1790805264
  },
  "stories": {
-  "[장애인 고용⑭] 삼성생명 홍원학, 임기 끝까지 외면": 1790545308,
-  "메리츠화재 운용자산이익률 4.75% '톱'…삼성생명 나홀로 하락": 1790545308,
   "교보생명, 디지털생보사 실험 종료…합병 인가·결손금 흡수 과제": 1790546256,
   "일본계 대부업 끌어들인 교보생명 신창재의 ‘SBI 독배’ [조수연의 그래픽저널]": 1790550835,
   "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726,
@@ -1287,7 +1287,9 @@
   "한화생명볼파크 3000석 증설 ‘2만 관중 시대’ 연다": 1790781603,
   "한화생명, 애큐온캐피탈 품는다…보험 넘어 '종합금융' 속도": 1790795813,
   "애큐온캐피탈·저축銀 품는다… 한화생명, 종합금융그룹 도약 - 머니투데이": 1790795813,
-  "한화생명, ‘애큐온’ 품는다… 캐피탈로 비은행 영토 확장": 1790801504
+  "한화생명, ‘애큐온’ 품는다… 캐피탈로 비은행 영토 확장": 1790801504,
+  "한화생명, 애큐온캐피탈·애큐온저축은행 인수": 1790805264,
+  "금융지주 전환 속도 내는 교보생명…무거워지는 교보증권 어깨": 1790805264
  },
  "news_queue": [
   {
@@ -1769,6 +1771,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4RFdjajdIaUF6U3RTdkdxS0d2TDVlMWJickxXQUdnZ2NOZF80cmZzSVEwZzJGaHdObDNfMkVUc1VKcFVBcjRnanlTNA?oc=5",
    "sort_key": "Wed, 30 Sep 2026 08:45:00 GMT"
+  },
+  {
+   "id": "news:04f57772c5e209b0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈·애큐온저축은행 인수",
+   "source": "supple.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hQXF2eGdvSndFVzA1b0RXZF9NX3Z1TkI3Q182NHJlYnpkcnVvZjVndEFPcTVEVU1yWnJKVDVleDdiUTVsNHlEZ0VPVVhoZFdMb1FxTFJUWkZTMUJW?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 21:24:30 GMT"
+  },
+  {
+   "id": "news:ef89ac1c169a0d8b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "금융지주 전환 속도 내는 교보생명…무거워지는 교보증권 어깨",
+   "source": "뉴스저널리즘",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcDlpaTBlWHFJU3lrNVJfYThkSF9RTUxzekpIUUtnUW1aS1gwRVBCSjBQWEUybUxSV0xXVDZ3WC1lNi1GN3llYWc5anNDTVZKUTE1YklTTVRNdHY3T1dJSVpBRmIzT2FzNWNR?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 21:40:00 GMT"
   }
  ],
  "initialized": true,
