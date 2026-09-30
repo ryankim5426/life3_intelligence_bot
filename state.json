@@ -1150,7 +1150,13 @@
   "news:05d65d7f310c39d7": 1790758613,
   "news:1cac70c68622f43a": 1790758613,
   "news:bc65eceabe07c0b6": 1790758613,
-  "news:6720aaa01ecfff1b": 1790758613
+  "news:6720aaa01ecfff1b": 1790758613,
+  "news:35f0dffb5800af41": 1790759987,
+  "news:7e621754b231975a": 1790759988,
+  "news:9e9feb119b52485b": 1790759988,
+  "news:ae7822185b2b2eb4": 1790759988,
+  "news:153e8d85e29a4f90": 1790759988,
+  "news:1fd3700b7e60a115": 1790759988
  },
  "stories": {
   "교보생명, 환경·문화로 사회적 접점 넓힌다…'지구하다' 1만명 참여": 1790519614,
@@ -1233,7 +1239,12 @@
   "한화생명, 애큐온캐피탈 인수·한화증권 증자에 6천900억 투입…'비보험 포트폴리오' 강화": 1790758613,
   "[업앤다운]보험주 하락…한화생명·한화손보↓": 1790758613,
   "한화생명, 4400억에 애큐온캐피탈 인수···종합금융그룹 '큰 그림'": 1790758613,
-  "[보험 NOW] 삼성화재·삼성생명·KB손보·현대해상·푸본현대생명": 1790758613
+  "[보험 NOW] 삼성화재·삼성생명·KB손보·현대해상·푸본현대생명": 1790758613,
+  "한화생명, 애큐온캐피탈 인수…저축銀도 손자회사 편입": 1790759988,
+  "김동원 금융영토 또 넓혔다 … 한화생명, 애큐온캐피탈 인수 본계약": 1790759988,
+  "한화생명, 애큐온 4400억 인수…종합금융 속도": 1790759988,
+  "애큐온 품는 한화생명…'종합금융그룹' 도약 본격화": 1790759988,
+  "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988
  },
  "news_queue": [
   {
@@ -1525,6 +1536,56 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9neWU2bTR2YV85Z251UDdUYUJUelE5a3BtdzlfeFUwZnRGZ1FpMzRHTkE3cUxoN25ZTGtOWl9jZDNmV2pST3BoVzJpSFNxWndqTjJwNjFQcHZVOFN1WER3Nk5pbkFSeU02cmptZGhnZw?oc=5",
    "sort_key": "Wed, 30 Sep 2026 08:54:24 GMT"
+  },
+  {
+   "id": "news:7e621754b231975a",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수…저축銀도 손자회사 편입",
+   "source": "fetv.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOT3lBdjJtSVo2RWE1cjlQQng0SzdtVktPaWo4WU9rcS1BNlZtMUN0WFpEV2VDdVFvQUNOeVBObTFtRlRhMGRGc0NtT0UwUk1BbkRod1BMVkR2WkJXX3BFVE5kQ3FtM0tW?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 08:22:54 GMT"
+  },
+  {
+   "id": "news:9e9feb119b52485b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "김동원 금융영토 또 넓혔다 … 한화생명, 애큐온캐피탈 인수 본계약",
+   "source": "뉴데일리",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSjhuSDdFTkthT0hIYmVKcnJrRHpjRmU5LTQzSlhJTV9xd2xSalowWE5BLWRFa0dxOHNFTlJSSHNGVmthdmM1bHhCMFJSUWprN29OQU9hMzlzODJueGgzSmpkaXM1SlRpamFxWUoxb2tDR0t6Qm5KaUY4Y9IBgAFBVV95cUxQdUpDcGV3RWhEQzh2SE1jMW16V2NpUlFrdElTQ0NSVUFLOWcwaXF3RjRsSWRuZlo5ZGdNT3ZyLVBRWUxvQzhGd0VnTWxHRkN3Q1J5V3Yybk44RmFmbjdrRnlYVlBiREkxTFNPWExPMFM1YlpwNzBUaU9wdTNEcVFEXw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:03:09 GMT"
+  },
+  {
+   "id": "news:ae7822185b2b2eb4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 4400억 인수…종합금융 속도",
+   "source": "sidae.com",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tWkVjSHEwVGw3TWdJWUdib1RzSmdPbldRM2VzRWxuQ1dnUFZXTk1NQ1VwaUZkMTdfNUxxblBZSW42bWxTcE5YREVoVEUxV2VyTzdlSWxPSEgwZE1UT1E?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:05:50 GMT"
+  },
+  {
+   "id": "news:153e8d85e29a4f90",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온 품는 한화생명…'종합금융그룹' 도약 본격화",
+   "source": "v.daum.net",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WNmlMSDg4RzJzSTJGQ1p5ZzMtR2dkcEJGbU5PQVhMVnh5U0c3M0N0TG0zNVZMT2RoRTJ6NmRUWHVRX0pPUm9vVFhVWGpSMFE?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:11:00 GMT"
+  },
+  {
+   "id": "news:1fd3700b7e60a115",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결",
+   "source": "edaily.co.kr",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVlOVjJkTDc0VDNuZ0hGSFdpOUc1dTJjT1VPTnNGb2k4OXlpUkhuNGNxcFlHbW1FeHM2QlhmU1dvVVl6cTR4RFVoaVhYV1Q3YWUxeGx2bzlDQ3U3QVZYYlhIbzE5eDdVeDJIQktfcEFFaFZxNDNhN0FZUFFJSVFFcw?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 09:16:02 GMT"
   }
  ],
  "initialized": true,
