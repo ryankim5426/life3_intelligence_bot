@@ -1214,7 +1214,11 @@
   "news:d8f03c27aec27858": 1790820961,
   "news:8188321ba66f8d67": 1790820961,
   "news:97224679afd4d87d": 1790820962,
-  "news:7c7d279e4d55130d": 1790820962
+  "news:7c7d279e4d55130d": 1790820962,
+  "news:f462abfa821deed7": 1790823237,
+  "news:e6eb008513d7e61e": 1790823237,
+  "news:cb15b2dc8f6eeab7": 1790823237,
+  "news:2d6ebdfa015d2cd0": 1790823237
  },
  "stories": {
   "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
@@ -1307,7 +1311,9 @@
   "한화생명, 4400억 투자 승부수…보험·증권·운용·여신 아우르는 금융그룹 청사진": 1790819569,
   "[금융家] 교보생명 ㅣ SBI 품고 금융그룹 재편 속도…저축은행·디지털 ‘두 날개’": 1790819569,
   "“보험 넘어 종합금융그룹으로 대도약”… 한화생명, 애큐온캐피탈 인수·한화투자증권 증자 전격 의결": 1790820962,
-  "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화": 1790820962
+  "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화": 1790820962,
+  "한화생명, 종합금융그룹 도약한다…‘금융 밸류체인’ 확보": 1790823237,
+  "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지": 1790823237
  },
  "news_queue": [
   {
@@ -1399,6 +1405,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5jWXJpT3FKT0hqOFBhS01zbkw2ZDh2VFNUMXpvN0NsVzJVSjhvVE4wQW5VSGtsUEpjRlcxZ0NwblhzbUE?oc=5",
    "sort_key": "Thu, 01 Oct 2026 01:50:00 GMT"
+  },
+  {
+   "id": "news:cb15b2dc8f6eeab7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 종합금융그룹 도약한다…‘금융 밸류체인’ 확보",
+   "source": "중앙뉴스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRGpTdC10a2JOVElhR1dvTjlldHdxNkFENEVEZk9PUU90cDdNOWs2VmQ5czZZTWlWOHV5MW5rR1JJTV93YUg2N2dPRmdTTDFsY1Y5eFQzRzg1blQycFh3OG5JeE5xWEswdVlMcVRNWdIBb0FVX3lxTE5uRGpTdC10a2JOVElhR1dvTjlldHdxNkFENEVEZk9PUU90cDdNOWs2VmQ5czZZTWlWOHV5MW5rR1JJTV93YUg2N2dPRmdTTDFsY1Y5eFQzRzg1blQycFh3OG5JeE5xWEswdVlMcVRNWQ?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 01:23:12 GMT"
+  },
+  {
+   "id": "news:2d6ebdfa015d2cd0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지",
+   "source": "데일리팝",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4YVJTcno1X0hXVVNyUjdUWG9DdzI3b2VaR0lUSnMtai1QM3pZMERSNHoxeWItYWtZQ2h2elkzcldzd2ltZUs4ZGlhUXZCR1oxVGZxdHRzcWxaaXc5WjlKUUFLdzg5U1Fm?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 02:44:00 GMT"
   }
  ],
  "initialized": true,
