@@ -1254,7 +1254,9 @@
   "news:1ba2ed829305283e": 1790846269,
   "news:cd84e61cc53e8c08": 1790846269,
   "news:ea252cc8beb0bf1a": 1790847477,
-  "news:ffc5c109008b6a17": 1790848629
+  "news:ffc5c109008b6a17": 1790848629,
+  "news:8ce81e77c5c18a5e": 1790850064,
+  "news:d2b3add1f8ecbf87": 1790850064
  },
  "stories": {
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
@@ -1358,7 +1360,9 @@
   "[인사] 한화생명·한화손보": 1790846269,
   "[인사] 한화생명·한화생명금융서비스·한화손보·한화자산운용": 1790846269,
   "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"": 1790846269,
-  "캐피탈까지 채운 한화생명···4400억 들여 애큐온 지분 50.54% 확보": 1790848629
+  "캐피탈까지 채운 한화생명···4400억 들여 애큐온 지분 50.54% 확보": 1790848629,
+  "한화생명, 애큐온캐피탈 인수 본계약 체결…신용등급 '긍정적 검토' 상향": 1790850064,
+  "교보생명 “온체인 금융, 2060년에도 작동해야”": 1790850064
  },
  "news_queue": [
   {
@@ -1700,6 +1704,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ULVVpNW1kQTJtVjVkODlrc1B6T0p1ajg1UUFzQmo3SF9wSWhMY0xEZzUwc3pIdkhFV3hCTWRVSEtoS0JEV2NYcDlzaF9HUmV1V0prRmw2RVhzSnJzeHRRNGdGQ2Q0N1ZpX0hzYlBnb0tmN0HSAXdBVV95cUxQcVRPYmdFek9kLWp6UTFkRzBsMjl2bkI2Wmt3ZENwUlk5dTJ0SjNSM29Za1kyZ3l5TzI2b1J2YU5tdGxKTmE5YTYyYnF3QWkzN1FIWmxvZG4tRkFrV3pvbk5OMkg1UXdBQU50RVI1Z1N3NFIwY2Rqcw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 07:08:37 GMT"
+  },
+  {
+   "id": "news:8ce81e77c5c18a5e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수 본계약 체결…신용등급 '긍정적 검토' 상향",
+   "source": "뉴스웍스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ea3FFbVRoNzhxTDdWSnhPYjExWFNwNXQ2M1k3NWM1MVBlT2phT29LQnIyWlo5QnlDSXJXS1FXYV8zbElIcS1OZHVULTdsUjFvV0dvdi1QdUFfSXdMbjM0dmVfdnMtQ2VNOVF5anZVaVRCU03SAXNBVV95cUxNRGtxRW1UaDc4cUw3Vkp4T2IxMVhTcDV0NjNZNzVjNTFQZU9qYU9vS0JyMlpaOUJ5Q0lyV0tRV2FfM2xJSHEtTmR1VC03bFIxb1dHb3YtUHVBX0l3TG4zNHZlX3ZzLUNlTTlReWp2VWlUQlNN?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:10:39 GMT"
+  },
+  {
+   "id": "news:d2b3add1f8ecbf87",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 “온체인 금융, 2060년에도 작동해야”",
+   "source": "스트레이트뉴스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqR2VNdDNjYURZYkNqNTFET3NMQm1HTWVISVlnUjRnWi1rSk0tdDFrWXBXNW5ncjZtYmt3ektFRDd0YzA0blVPZmVMWEo5ZTlsNnNXSWlUckxxXzJ1M093bjJrMlM1QW1NX29hYWxOclhaWmvSAXdBVV95cUxNVWItZkRnMFJ4ZFF4N2xXWnFscUZoU2UzTG9Rc3dONUlOdWR1QzV2NzBpN2l0MFVfa3B1VkVCVHdYUUR2cV9CbkFNRzBLcFVtT0lYTFEtZUpsRFc3NTJpYnBOYlhCZWt5SHNGd3RzbE5tVnFsZUFldw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:53:58 GMT"
   }
  ],
  "initialized": true,
