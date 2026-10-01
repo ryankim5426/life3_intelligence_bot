@@ -1209,7 +1209,12 @@
   "news:8f36cf62515a2c52": 1790819569,
   "news:3db63c3bf9af5e46": 1790819569,
   "news:6da0390ed27db924": 1790819569,
-  "news:04cf472cae7f61be": 1790819569
+  "news:04cf472cae7f61be": 1790819569,
+  "news:f29d7e5362915b89": 1790820961,
+  "news:d8f03c27aec27858": 1790820961,
+  "news:8188321ba66f8d67": 1790820961,
+  "news:97224679afd4d87d": 1790820962,
+  "news:7c7d279e4d55130d": 1790820962
  },
  "stories": {
   "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
@@ -1300,7 +1305,9 @@
   "한화생명, 애큐온캐피탈 인수·증권 증자 동시 추진": 1790815903,
   "한화생명, 애큐온캐피탈 경영권 확보…4400억 투입해 캐피탈업 진출": 1790815903,
   "한화생명, 4400억 투자 승부수…보험·증권·운용·여신 아우르는 금융그룹 청사진": 1790819569,
-  "[금융家] 교보생명 ㅣ SBI 품고 금융그룹 재편 속도…저축은행·디지털 ‘두 날개’": 1790819569
+  "[금융家] 교보생명 ㅣ SBI 품고 금융그룹 재편 속도…저축은행·디지털 ‘두 날개’": 1790819569,
+  "“보험 넘어 종합금융그룹으로 대도약”… 한화생명, 애큐온캐피탈 인수·한화투자증권 증자 전격 의결": 1790820962,
+  "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화": 1790820962
  },
  "news_queue": [
   {
@@ -1372,6 +1379,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zcjIyajdJb2syVWdLbTFzV2tZNGMxUWFIR3R4dkRrOXNGek8wNzFPeThsN1FnSEFseWJNelZyT1NzUDU0OWpEUFJpc3A3VkFzeWJSX0k1TnJ5aGVfZTVDbjh5QWgzWVJW?oc=5",
    "sort_key": "Thu, 01 Oct 2026 01:37:07 GMT"
+  },
+  {
+   "id": "news:97224679afd4d87d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“보험 넘어 종합금융그룹으로 대도약”… 한화생명, 애큐온캐피탈 인수·한화투자증권 증자 전격 의결",
+   "source": "스마트경제",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUlh6SWFuTnE4c2tYenZuMUg0VWtsR0tEODFEZTRVSklfNWxCSmNZLVFtNHkzcU9YRW1iTFk4WElvN2ZlVUh2eEtGZDl6ejVYeGNoQ1JIYUpQNFJ5NVJzakhvSFBERXY2Q19LbW5nMUM?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 01:26:04 GMT"
+  },
+  {
+   "id": "news:7c7d279e4d55130d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화",
+   "source": "주간현대",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5jWXJpT3FKT0hqOFBhS01zbkw2ZDh2VFNUMXpvN0NsVzJVSjhvVE4wQW5VSGtsUEpjRlcxZ0NwblhzbUE?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 01:50:00 GMT"
   }
  ],
  "initialized": true,
