@@ -1259,7 +1259,8 @@
   "news:d2b3add1f8ecbf87": 1790850064,
   "news:c27545b37ba93627": 1790852485,
   "news:63e6fce751070bc3": 1790852485,
-  "news:8c593fb9d8f11976": 1790852485
+  "news:8c593fb9d8f11976": 1790852485,
+  "news:a7c39b766ae25a3f": 1790853996
  },
  "stories": {
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
@@ -1367,7 +1368,8 @@
   "한화생명, 애큐온캐피탈 인수 본계약 체결…신용등급 '긍정적 검토' 상향": 1790850064,
   "교보생명 “온체인 금융, 2060년에도 작동해야”": 1790850064,
   "박진호 교보생명 부사장 \"온체인 금융, 도입보다 신뢰가 경쟁력\"": 1790852485,
-  "[한화생명 人事] 김상재 外": 1790852485
+  "[한화생명 人事] 김상재 外": 1790852485,
+  "교보생명, 보험료 납입부터 보험금 지급까지 ‘온체인’ 실증": 1790853996
  },
  "news_queue": [
   {
@@ -1749,6 +1751,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWTRBQWhJTXBNZC1lVV9kY0dmM3owc1V2ZEtiZXYtR1NtejdncmxyLXRVM29KLVBMWGh4dVZGLW9wb3RPQXRuaVhpUXduanplcTBrSC1GSkhGWEg0ZDFFYkROMlFFTElOMHFFTjFVZU5GOC1MOFFzUl9Ga9IBgAFBVV95cUxPX29aWC1EZVptNW5YeEw4UmJwUXN2M0t2aVFjZDg4NjFpSExENGl4OXRIcjFXUklmTzBEZVlwcms3RVFRby1nQ3Ewb0p5SFZkM1lWdzhHSy1MRGgyRWNZSjQzRWYzN08yRVF3R3N1VXZjVTI0UW5oSV9zeS01VXJDQw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 10:20:22 GMT"
+  },
+  {
+   "id": "news:a7c39b766ae25a3f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보험료 납입부터 보험금 지급까지 ‘온체인’ 실증",
+   "source": "보험매일",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZElhdkQ4dWFTelRCTjA0YlpvcDA5dTVEX0pDSEFyQkRlZHItTml2RU50OGdyOUV6eVREMmFJdm9HcFhmV01nWHBBTUI4SGZsT193YlhFMTl4TGZHRjNkeUlMVl84UXJm?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 11:10:56 GMT"
   }
  ],
  "initialized": true,
