@@ -1244,7 +1244,12 @@
   "news:289dab18100ede1f": 1790840770,
   "news:765a266213fd69f6": 1790841694,
   "news:bafbb06aeb604ed4": 1790841694,
-  "news:55213416c631828a": 1790843393
+  "news:55213416c631828a": 1790843393,
+  "news:f84a15dbd0114f2e": 1790844660,
+  "news:3b2f5954ec9ea3d9": 1790844661,
+  "news:7b9a3e278f81f4bb": 1790844661,
+  "news:777c6f58a966b753": 1790844661,
+  "news:e5da3836cbb0e68c": 1790844661
  },
  "stories": {
   "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정": 1790585760,
@@ -1343,7 +1348,11 @@
   "[인사] 한화생명": 1790839374,
   "한화생명금융서비스 대표 교체…김국진 전무 선임": 1790839374,
   "[인사] 한화생명·한화생명금융서비스": 1790839374,
-  "[인사] 한화생명·한화생명금융서비스 임원 승진": 1790840770
+  "[인사] 한화생명·한화생명금융서비스 임원 승진": 1790840770,
+  "‘3조’ 달성 바쁜 한화투자증권에 한화생명은 30년간 6% ‘배당 족쇄’?": 1790844661,
+  "교보생명, 종합금융그룹 퍼즐 맞춘다": 1790844661,
+  "[퇴근길머니] 삼전·닉스 자사주 매입 막바지…캐피탈 품은 한화생명": 1790844661,
+  "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화": 1790844661
  },
  "news_queue": [
   {
@@ -1605,6 +1614,46 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Tm9qQlp1b1BtYUl2VnBqTmxwdW1oSExHVTlDTjJBVXFYdWxrVzBRNFV6YjdRS3Y4N1FJVTZ3bUNYeXJ4ZWgzRHJRNzJBalZzN0oyTENYak1CUEg5UEYw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 07:29:00 GMT"
+  },
+  {
+   "id": "news:3b2f5954ec9ea3d9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘3조’ 달성 바쁜 한화투자증권에 한화생명은 30년간 6% ‘배당 족쇄’?",
+   "source": "시사저널e",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KUVRLRXh3LThIampjVURyX0hIeHgtYVdzbC1VQzgzRnU1OEZsM0ZOTHVuUEEyX2xiNmFweGZqc1BUaXFHV2ZMNlU5dkEyZVNLLWQyWVktTFZLcmUtQkNJeEtDaHlldTV6ZGFlaWxtUzFjb1dCMnfSAXZBVV95cUxPSlFUS0V4dy04SGpqY1VEcl9ISHh4LWFXc2wtVUM4M0Z1NThGbDNGTkx1blBBMl9sYjZhcHhmanNQVGlxR1dmTDZVOXZBMmVTSy1kMllZLUxWS3JlLUJDSXhLQ2h5ZXU1emRhZWlsbVMxY29XQjJ3?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:06:17 GMT"
+  },
+  {
+   "id": "news:7b9a3e278f81f4bb",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 종합금융그룹 퍼즐 맞춘다",
+   "source": "비즈월드",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVTEdOMmhtdWs2LXpXLVVFWFYzV01sM2VIMGItNGIwaHRHQ251VE5QNnRrWnZReG9Sb3hELTVJRi1ZZXFFaHB0djhkZloxVUtBTTRhT3diUEw4djZYT0puVVpKQVlRNmtTTHc?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:27:00 GMT"
+  },
+  {
+   "id": "news:777c6f58a966b753",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[퇴근길머니] 삼전·닉스 자사주 매입 막바지…캐피탈 품은 한화생명",
+   "source": "v.daum.net",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VMklBWXhQR3E1OXBHNngxMUVuSkpneHpyZ3N5a3pySWVTV3lGajZpaUNTSzlDNnFHeU9vOGQ1THBGSGQzSUxMR2pBTmx1Rmc?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:31:48 GMT"
+  },
+  {
+   "id": "news:e5da3836cbb0e68c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화",
+   "source": "매일경제",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jcExpT1pZcEVYUFVuaTNma3FlWUpWNjlkVC1QQUFXX3BlNW5NREhoaXhYYXRxY0hyVDlEU2ZqR185c2Q5R2gwUUN1RHAxaFE1NHNGZw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:37:15 GMT"
   }
  ],
  "initialized": true,
