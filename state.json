@@ -1265,7 +1265,8 @@
   "news:7e25560332eb86cd": 1790866295,
   "news:41ec74cf5a911163": 1790874980,
   "news:4d9c4d6ef13d17bc": 1790891196,
-  "news:cdbff75235e1b310": 1790894308
+  "news:cdbff75235e1b310": 1790894308,
+  "news:0bfa965d12a25901": 1790895265
  },
  "stories": {
   "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301,
@@ -1370,7 +1371,8 @@
   "[한화생명 人事] 김상재 外": 1790852485,
   "교보생명, 보험료 납입부터 보험금 지급까지 ‘온체인’ 실증": 1790853996,
   "한화생명, 인도네시아서 미국·중동까지 해외사업 확대…신성장동력 확보": 1790874980,
-  "[빅데이터로본다] 변액보험 2026년 10월 브랜드평판 랭킹... 1위 미래에셋생명 변액보험, 2위 삼성생명 변액보험, 3위 한화생명 변액보험": 1790891196
+  "[빅데이터로본다] 변액보험 2026년 10월 브랜드평판 랭킹... 1위 미래에셋생명 변액보험, 2위 삼성생명 변액보험, 3위 한화생명 변액보험": 1790891196,
+  "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁": 1790895265
  },
  "news_queue": [
   {
@@ -1782,6 +1784,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Q2pqaFVsNnlyUVRFSmtqaXdDb2JuTzNWREp4clRYZUJUS2VBS2pxUmlRVjdranJRdnNyNS1PRVFUOGgxamFrM2xSNXJfdDRJRmlaUHU3UTlzSzJrcG1abG92SHRYejlIMXY0?oc=5",
    "sort_key": "Thu, 01 Oct 2026 21:31:00 GMT"
+  },
+  {
+   "id": "news:0bfa965d12a25901",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁",
+   "source": "데일리한국",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FZFM1Tk9uUmdYVElfVm1FY0RYeUV3Z0QzSExldXcySzRmYlEtWmxqSUdkWWo5c1ptdXVmZS00S2xYeWk0MTRJZjNPTlFaZGdiMnVuUEE5Q1UzXzlzSEUyWFVvYnI0MzVidGFGRUR0SdIBc0FVX3lxTE9NZWZIUlhpcEpIdVFtcnZ3ZE8xcnZxOU1XdDM5NmU3ZVBQb0YwRld2ZE5YZUNIalVGQWRuTHRfUE92RGFMMlBSVjZoWlVzVU5FWW8tNXlzT0tweGdFY3ZfMU9tWi1KYVc1V0RUOUhxR0l3WXc?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
