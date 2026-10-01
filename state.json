@@ -1267,7 +1267,9 @@
   "news:4d9c4d6ef13d17bc": 1790891196,
   "news:cdbff75235e1b310": 1790894308,
   "news:0bfa965d12a25901": 1790895265,
-  "news:63c4e0f2ab038fee": 1790896394
+  "news:63c4e0f2ab038fee": 1790896394,
+  "news:e93e9dff2286e6b2": 1790898690,
+  "news:045365db3f81b742": 1790898690
  },
  "stories": {
   "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301,
@@ -1374,9 +1376,32 @@
   "한화생명, 인도네시아서 미국·중동까지 해외사업 확대…신성장동력 확보": 1790874980,
   "[빅데이터로본다] 변액보험 2026년 10월 브랜드평판 랭킹... 1위 미래에셋생명 변액보험, 2위 삼성생명 변액보험, 3위 한화생명 변액보험": 1790891196,
   "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁": 1790895265,
-  "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394
+  "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394,
+  "한화생명, 김동원 표 금융 영토 본격화…“종투사 까지 목표”": 1790898690,
+  "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략": 1790898690
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:e93e9dff2286e6b2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 김동원 표 금융 영토 본격화…“종투사 까지 목표”",
+   "source": "dnews.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2dObko5TGx3UW5nYnRaTWdSbnM2Wl9uRnhrTmhWQ2tXMHVkQjZma2tKSGZXQUt2OGh0MWtFSWNkVDBYcUs4dGdPaVluTG9mbFo2cE96eE96VjZLWktqR0lTMG1VVnlHeVE5RmNpX3ZDdVpxeHhSckQxSU45RzlOTFk0MVJ4Zw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 21:00:22 GMT"
+  },
+  {
+   "id": "news:045365db3f81b742",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략",
+   "source": "한스경제",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVmRQR2hFRUhxY2Q4a2lqcmpHcTNnbXJzUW85bzZ1ZDNVUnRzamlnVWNaeG1uNDB6MUN4UW95YWVBN19rT01zTExrbWhGdV85LUZELXJaWXh6eUFZeGk4X3hiSGVtMkl1VFdB0gFvQVVfeXFMUDE4YXZ4dFdoeWhBRjBDeWJ0bEttc0pMYXJlNm1jSWlyc0tTajVKS2pBTEFzZzJZbkJmenNZWXZpdTg2d1lZODNqdFpJc0s1RDZpT0phdWp1Z2EzVXQ0dW43S0k3dHZyWlpHX0lVYXVF?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 23:43:08 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-02"
 }
