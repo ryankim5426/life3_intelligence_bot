@@ -1218,11 +1218,11 @@
   "news:f462abfa821deed7": 1790823237,
   "news:e6eb008513d7e61e": 1790823237,
   "news:cb15b2dc8f6eeab7": 1790823237,
-  "news:2d6ebdfa015d2cd0": 1790823237
+  "news:2d6ebdfa015d2cd0": 1790823237,
+  "news:9720a90de294f2c4": 1790824630,
+  "news:a8e657761adf1a3f": 1790824630
  },
  "stories": {
-  "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
-  "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'": 1790565397,
   "10일 서울 종로구 교보생명 광화문 본사에서 '임팩트업 12기 데모데이'에 참가한 11개 기업의 대표들이 관계자들과 함께 기념 촬영을 하고 있다.(사진=교보생명)": 1790567658,
   "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011,
   "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240,
@@ -1313,7 +1313,8 @@
   "“보험 넘어 종합금융그룹으로 대도약”… 한화생명, 애큐온캐피탈 인수·한화투자증권 증자 전격 의결": 1790820962,
   "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화": 1790820962,
   "한화생명, 종합금융그룹 도약한다…‘금융 밸류체인’ 확보": 1790823237,
-  "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지": 1790823237
+  "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지": 1790823237,
+  "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리": 1790824630
  },
  "news_queue": [
   {
@@ -1425,6 +1426,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4YVJTcno1X0hXVVNyUjdUWG9DdzI3b2VaR0lUSnMtai1QM3pZMERSNHoxeWItYWtZQ2h2elkzcldzd2ltZUs4ZGlhUXZCR1oxVGZxdHRzcWxaaXc5WjlKUUFLdzg5U1Fm?oc=5",
    "sort_key": "Thu, 01 Oct 2026 02:44:00 GMT"
+  },
+  {
+   "id": "news:a8e657761adf1a3f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리",
+   "source": "블로터",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yNjBodkpoVDJjRWhZcDlBN25nNDZxbElKdTFrcWlaMi1Ua05nWTRVVDJzNnZPOXgzSlFxdmREdWxJQXpVRUxiR2duLVJSMnVDTmF4dzRvN3ExYkpaeTliZTR1eEQ3dGlY0gFsQVVfeXFMTXE5ZFU5Tml0ellaaGpWc3o1QlpSb3JXU1BmbGZLZlNhNW9mWDdHU3Vwd0dfUjk1YmRrTE5sczc5WjZweElhZ2dBbkNVNXpJMkJ3T0Y5Q0xtdWtTWjhtNHB4VF92TThVQTRGM1NG?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 02:59:17 GMT"
   }
  ],
  "initialized": true,
