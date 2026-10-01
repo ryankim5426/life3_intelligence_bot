@@ -1220,7 +1220,9 @@
   "news:cb15b2dc8f6eeab7": 1790823237,
   "news:2d6ebdfa015d2cd0": 1790823237,
   "news:9720a90de294f2c4": 1790824630,
-  "news:a8e657761adf1a3f": 1790824630
+  "news:a8e657761adf1a3f": 1790824630,
+  "news:6e4aeab64b7b2c77": 1790825865,
+  "news:a4628fab3630243d": 1790825865
  },
  "stories": {
   "10일 서울 종로구 교보생명 광화문 본사에서 '임팩트업 12기 데모데이'에 참가한 11개 기업의 대표들이 관계자들과 함께 기념 촬영을 하고 있다.(사진=교보생명)": 1790567658,
@@ -1314,7 +1316,9 @@
   "한화생명, 애큐온캐피탈 경영권 인수 및 한화투자증권 유상증자 참여로 종합금융그룹 경쟁력 강화": 1790820962,
   "한화생명, 종합금융그룹 도약한다…‘금융 밸류체인’ 확보": 1790823237,
   "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지": 1790823237,
-  "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리": 1790824630
+  "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리": 1790824630,
+  "[특징주] 삼성생명, 장중 1%대 하락세…수급 불안정 속 관망 분위기 : 기업주식정보": 1790825865,
+  "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?": 1790825865
  },
  "news_queue": [
   {
@@ -1436,6 +1440,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yNjBodkpoVDJjRWhZcDlBN25nNDZxbElKdTFrcWlaMi1Ua05nWTRVVDJzNnZPOXgzSlFxdmREdWxJQXpVRUxiR2duLVJSMnVDTmF4dzRvN3ExYkpaeTliZTR1eEQ3dGlY0gFsQVVfeXFMTXE5ZFU5Tml0ellaaGpWc3o1QlpSb3JXU1BmbGZLZlNhNW9mWDdHU3Vwd0dfUjk1YmRrTE5sczc5WjZweElhZ2dBbkNVNXpJMkJ3T0Y5Q0xtdWtTWjhtNHB4VF92TThVQTRGM1NG?oc=5",
    "sort_key": "Thu, 01 Oct 2026 02:59:17 GMT"
+  },
+  {
+   "id": "news:6e4aeab64b7b2c77",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[특징주] 삼성생명, 장중 1%대 하락세…수급 불안정 속 관망 분위기 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93LXRpWjdhVWo0UjFmWi1UbUF2WlhBUmJxZ29KbWF1MWRpQUtQUXg4VWZjQm1VWjVEQWZkMExTR0tGdWRxUnFXb1FzNA?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 01:24:00 GMT"
+  },
+  {
+   "id": "news:a4628fab3630243d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?",
+   "source": "비즈한국",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xNDdRWGRoUW0yU0M1RklqT0xBNWR0dFpFNjBBV3R2OXNRYjZiWTVEcHo1SEVYT3J4c1Zpamw5aHZWSWtHUEd0OGt4ZWRfNzVFemNZU0hCbUJtTmhxMlc3N19GeWxUWFNoQzZKR3hRdU91NFdCSVhBcGtrS0VBdw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 02:11:56 GMT"
   }
  ],
  "initialized": true,
