@@ -1253,10 +1253,10 @@
   "news:bf76b6209a7f5481": 1790846269,
   "news:1ba2ed829305283e": 1790846269,
   "news:cd84e61cc53e8c08": 1790846269,
-  "news:ea252cc8beb0bf1a": 1790847477
+  "news:ea252cc8beb0bf1a": 1790847477,
+  "news:ffc5c109008b6a17": 1790848629
  },
  "stories": {
-  "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778,
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
   "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804,
   "교보생명 보험금·이자 과소지급 499건 최다": 1790605278,
@@ -1357,7 +1357,8 @@
   "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화": 1790844661,
   "[인사] 한화생명·한화손보": 1790846269,
   "[인사] 한화생명·한화생명금융서비스·한화손보·한화자산운용": 1790846269,
-  "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"": 1790846269
+  "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"": 1790846269,
+  "캐피탈까지 채운 한화생명···4400억 들여 애큐온 지분 50.54% 확보": 1790848629
  },
  "news_queue": [
   {
@@ -1689,6 +1690,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pQXdIeTJuaWNEd3A3eWF5NEJPdTVJdWtkT1czaVRTQVFBX2FpUlFXQnpVcnN1QzNaQVNVeGZDSUhsZFVaSG0wcTM2dnRSTFlS?oc=5",
    "sort_key": "Thu, 01 Oct 2026 08:53:16 GMT"
+  },
+  {
+   "id": "news:ffc5c109008b6a17",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "캐피탈까지 채운 한화생명···4400억 들여 애큐온 지분 50.54% 확보",
+   "source": "여성경제신문",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ULVVpNW1kQTJtVjVkODlrc1B6T0p1ajg1UUFzQmo3SF9wSWhMY0xEZzUwc3pIdkhFV3hCTWRVSEtoS0JEV2NYcDlzaF9HUmV1V0prRmw2RVhzSnJzeHRRNGdGQ2Q0N1ZpX0hzYlBnb0tmN0HSAXdBVV95cUxQcVRPYmdFek9kLWp6UTFkRzBsMjl2bkI2Wmt3ZENwUlk5dTJ0SjNSM29Za1kyZ3l5TzI2b1J2YU5tdGxKTmE5YTYyYnF3QWkzN1FIWmxvZG4tRkFrV3pvbk5OMkg1UXdBQU50RVI1Z1N3NFIwY2Rqcw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:08:37 GMT"
   }
  ],
  "initialized": true,
