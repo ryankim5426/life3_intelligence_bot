@@ -1233,10 +1233,15 @@
   "news:972eb7b56f9835e0": 1790836402,
   "news:2829e0669261b765": 1790837899,
   "news:b4b2aee7522bd433": 1790837900,
-  "news:cb1555affc475be0": 1790837900
+  "news:cb1555affc475be0": 1790837900,
+  "news:4f3c55023942d0b8": 1790839373,
+  "news:c5c375d1705fd4ce": 1790839374,
+  "news:7030210d46e211cb": 1790839374,
+  "news:0db7b67b4bc3afd0": 1790839374,
+  "news:42e686467ef3fa70": 1790839374,
+  "news:cb70c55ec35d91fa": 1790839374
  },
  "stories": {
-  "삼성생명 주가 1,500원 상승 후 장마감": 1790579856,
   "교보생명, 대출채권 27% 늘었다…자산별 운용 전략 '관통'": 1790582087,
   "삼성에스알에이자산운용, 삼성생명보험에 수익증권 1495억원 규모 거래": 1790583535,
   "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정": 1790585760,
@@ -1329,7 +1334,12 @@
   "삼성생명 손잡은 62조 헤이핀, 韓 상륙…최시진 전 UBS운용 대표 영입 [fn마켓워치]": 1790833589,
   "삼성생명 투자 받은 헤이핀, 韓 공략 본격화···\"기관자금 10억 유로\"": 1790836402,
   "[보험업계 동향] 한화생명ㆍ현대해상ㆍNH농협생명 (10.1)": 1790837900,
-  "한화생명, 애큐온 품고 여신금융 확대…K-ICS 부담 우려에 “자본여력 충분”": 1790837900
+  "한화생명, 애큐온 품고 여신금융 확대…K-ICS 부담 우려에 “자본여력 충분”": 1790837900,
+  "삼성생명, 금리 상승에도 장기채 '신중'": 1790839374,
+  "한화생명, 종신보험이 CSM 키웠는데 ‘700종신’ 중단…하반기 영업전략 변수": 1790839374,
+  "[인사] 한화생명": 1790839374,
+  "한화생명금융서비스 대표 교체…김국진 전무 선임": 1790839374,
+  "[인사] 한화생명·한화생명금융서비스": 1790839374
  },
  "news_queue": [
   {
@@ -1531,6 +1541,56 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12cm95N2NLZ1BEeDhSNlAxYWxWNkVOa2c4MHdYVFVOb3RQU1huZW5pY0h6bkExM19VUHVQRWg2eUdYeWwzd3Y1Y3BBNEVVeUJyZTh1ZkhnMDVubjZCSUxzM2dqZ3E0NUVtOWVZamgtMS0?oc=5",
    "sort_key": "Thu, 01 Oct 2026 06:36:55 GMT"
+  },
+  {
+   "id": "news:c5c375d1705fd4ce",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 금리 상승에도 장기채 '신중'",
+   "source": "PRESS9",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMFZUcm5POFBZMm9wLVE1cnR3cm84X2pPU29lSi01SUk1YllhNFZHQndRZVMtZnhMOHpjRjJYYmNVMXlVWms3amU0YzFsejBqNVRNRTdoNFZpRUpTVVNaa3lpS0E?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 06:56:59 GMT"
+  },
+  {
+   "id": "news:7030210d46e211cb",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 종신보험이 CSM 키웠는데 ‘700종신’ 중단…하반기 영업전략 변수",
+   "source": "PRESS9",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kazY5RU9RNURxNkxYZHlscHBGMHBNSlhSdGpGN3E4OFJWeC05NnRVVGpvN3JobWFSRmZ0ZjlKekk4VlZ0a2Q0LWJnS3Jzclo4bTlyUVdRdDN2aGlNYURQRFlpTU0?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:07:24 GMT"
+  },
+  {
+   "id": "news:0db7b67b4bc3afd0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[인사] 한화생명",
+   "source": "fetv.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wRXV2SFpocmdKN0xfMnJBMGstS2ZvbUhXZVpvS1VnemxaNEhoNFFrNFQ1ZHBEcXFKVFdQNl9uVUotMWd3SXFMRmtWVXpTV01wbzlHWGRMLVNJdEp5WEFRVjI2b1k1cUJG?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:08:40 GMT"
+  },
+  {
+   "id": "news:42e686467ef3fa70",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스 대표 교체…김국진 전무 선임",
+   "source": "파이낸셜포스트",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYkh0dkJxMThtelhoZjZjcV8ydWcxdGtuZ05sNm1kWFBPWGlyQ19mUG1TTkZpUldOREY2QlR0ckFXX0tDblN4YTdCLUQtZ2FZOXMtRnpsVHJjSjV2WW9nckg4MkhiSHRIUzVfZGdKemk0Rktq?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:14:22 GMT"
+  },
+  {
+   "id": "news:cb70c55ec35d91fa",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[인사] 한화생명·한화생명금융서비스",
+   "source": "더팩트",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNUgyX0xnbjdNeC03OUN3Q3NXM2JScS1DVDJNMHBycHVid3J3ZEVCSFY2dnpUR19sTnpGbV9Udmt3VEN3Nlk3a19sX0kwWjI1ZUNWNWY5bEx4UdIBVEFVX3lxTE8tejYxUHhMSXkzRDBhdnFpVG9JcjNYMHZ5Rzh1aWlOVkRUR2gtdWNIVXpGMEZNcUx2SWRLVzVVSjgtMDBiU085Z2Q1ZHJPc2swZ18tWA?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:18:16 GMT"
   }
  ],
  "initialized": true,
