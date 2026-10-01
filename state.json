@@ -1198,12 +1198,11 @@
   "news:29024c11c6bcc97b": 1790814244,
   "news:b9ba02e06fcb25d9": 1790814244,
   "news:25504768b90a757b": 1790814244,
-  "news:93479dd1cd455e2d": 1790814245
+  "news:93479dd1cd455e2d": 1790814245,
+  "news:68fd08eb28f3a3c2": 1790815903,
+  "news:ecfd1fb79f2547ae": 1790815903
  },
  "stories": {
-  "보험금 부지급·과소지급 5년간 961건, 5억4840만원 적발...교보생명 499건 최다": 1790555594,
-  "교보생명, AI로 돌봄∙환경 등 사회문제 해결하는 스타트업 육성": 1790555594,
-  "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡": 1790555594,
   "교보생명, ‘임팩트업 12기’ 스타트업 성과 공유": 1790556911,
   "교보생명, AI로 사회문제 푸는 스타트업 키운다": 1790556911,
   "교보생명, 취약계층 고용 해결 스타트업 지원": 1790556911,
@@ -1297,7 +1296,9 @@
   "한화생명, 애큐온캐피탈 인수로 여신금융 진출…'한화금융' 재편": 1790811157,
   "EQT, 한화생명-센트로이드PE에 애큐온 매각…본계약 체결": 1790812251,
   "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등": 1790812251,
-  "한화생명, 베트남서 건강관리·재무설계 결합…고객 접점 확대": 1790814245
+  "한화생명, 베트남서 건강관리·재무설계 결합…고객 접점 확대": 1790814245,
+  "한화생명, 애큐온캐피탈 인수·증권 증자 동시 추진": 1790815903,
+  "한화생명, 애큐온캐피탈 경영권 확보…4400억 투입해 캐피탈업 진출": 1790815903
  },
  "news_queue": [
   {
@@ -1329,6 +1330,26 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RXVRTjN0Q2k0NG9GRGxRcmZabTVYUkQtNGx6OFFHaTV5TkNmRDNZVGVkZkZQUnpCM2pwQUNUWUZyT1hwODZsZ0RGbGE5bXFjTVl2eE5WVDJLQUU5LUE?oc=5",
    "sort_key": "Wed, 30 Sep 2026 23:57:45 GMT"
+  },
+  {
+   "id": "news:68fd08eb28f3a3c2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 인수·증권 증자 동시 추진",
+   "source": "SR타임스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55S1BTN0JUZTd6QzF4cW9oOEd2TFc3ZUEwbUVIa04wY3FMdkpneG43RUEwb3BuZ0M3U0d1a1dlbWlVZW4wQkZhT0FhNUxDLXA3MGozZE54X3NWZWdmNU9McTY4cUVlcEdU0gFrQVVfeXFMT210SXB3LVpkeWtVTS13WkMwZHBadFpvQUlvSVk3Y0hpYzlERUFoank3R0ladXlFRk5KOHU4aXpMNlF1YzN2UzdjZWhBNVB5N1BFZVhhdXBZd2I3WnVzYUlEakltY09YSkJaV0U?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 00:26:19 GMT"
+  },
+  {
+   "id": "news:ecfd1fb79f2547ae",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온캐피탈 경영권 확보…4400억 투입해 캐피탈업 진출",
+   "source": "news2day.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdGNwV19BY3NpR0ZNSmtfMGpXOHFKQTFIOGQ1dWQxeHRMaDBTU1FnT3piQndJOXRwcENlSl9KTjFxbnFrX1JlV180T0lnZFQ2Z2pveG84cXFwRWlUdkE?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 00:46:00 GMT"
   }
  ],
  "initialized": true,
