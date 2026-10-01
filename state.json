@@ -1256,7 +1256,10 @@
   "news:ea252cc8beb0bf1a": 1790847477,
   "news:ffc5c109008b6a17": 1790848629,
   "news:8ce81e77c5c18a5e": 1790850064,
-  "news:d2b3add1f8ecbf87": 1790850064
+  "news:d2b3add1f8ecbf87": 1790850064,
+  "news:c27545b37ba93627": 1790852485,
+  "news:63e6fce751070bc3": 1790852485,
+  "news:8c593fb9d8f11976": 1790852485
  },
  "stories": {
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
@@ -1362,7 +1365,9 @@
   "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"": 1790846269,
   "캐피탈까지 채운 한화생명···4400억 들여 애큐온 지분 50.54% 확보": 1790848629,
   "한화생명, 애큐온캐피탈 인수 본계약 체결…신용등급 '긍정적 검토' 상향": 1790850064,
-  "교보생명 “온체인 금융, 2060년에도 작동해야”": 1790850064
+  "교보생명 “온체인 금융, 2060년에도 작동해야”": 1790850064,
+  "박진호 교보생명 부사장 \"온체인 금융, 도입보다 신뢰가 경쟁력\"": 1790852485,
+  "[한화생명 人事] 김상재 外": 1790852485
  },
  "news_queue": [
   {
@@ -1724,6 +1729,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqR2VNdDNjYURZYkNqNTFET3NMQm1HTWVISVlnUjRnWi1rSk0tdDFrWXBXNW5ncjZtYmt3ektFRDd0YzA0blVPZmVMWEo5ZTlsNnNXSWlUckxxXzJ1M093bjJrMlM1QW1NX29hYWxOclhaWmvSAXdBVV95cUxNVWItZkRnMFJ4ZFF4N2xXWnFscUZoU2UzTG9Rc3dONUlOdWR1QzV2NzBpN2l0MFVfa3B1VkVCVHdYUUR2cV9CbkFNRzBLcFVtT0lYTFEtZUpsRFc3NTJpYnBOYlhCZWt5SHNGd3RzbE5tVnFsZUFldw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 08:53:58 GMT"
+  },
+  {
+   "id": "news:63e6fce751070bc3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "박진호 교보생명 부사장 \"온체인 금융, 도입보다 신뢰가 경쟁력\"",
+   "source": "뉴데일리",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wM3ZSWC1tQzFWekZxcFZGZEN5NDlNQVpQWEJlT2twUlh0dGF0N1dPcVVEb2Voc2dmdC1xaExkYjVTNW9fV0I5cm9oS3paYTFHbnFrSC1zakdSLWs2aW9fLVdGWXRqYzg3MEIwZzYwemhWLUkyeUljSGxyONIBgAFBVV95cUxNVGdfdTJlR09Gci02ajh4WEF2cWtFSExobGd5cEVyUGE3bzJJbHpsUk5UQlhxRDBLSDhFZ2gyUTZCeDdDLW9nN3FDbDJMRE9HTlp5OEVUTms0Mi1SbFppUGtPS05URk1qV0l6WGFXcjdlY2lEVEtIc2JMemVuQzlabw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:44:40 GMT"
+  },
+  {
+   "id": "news:8c593fb9d8f11976",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[한화생명 人事] 김상재 外",
+   "source": "뉴데일리",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWTRBQWhJTXBNZC1lVV9kY0dmM3owc1V2ZEtiZXYtR1NtejdncmxyLXRVM29KLVBMWGh4dVZGLW9wb3RPQXRuaVhpUXduanplcTBrSC1GSkhGWEg0ZDFFYkROMlFFTElOMHFFTjFVZU5GOC1MOFFzUl9Ga9IBgAFBVV95cUxPX29aWC1EZVptNW5YeEw4UmJwUXN2M0t2aVFjZDg4NjFpSExENGl4OXRIcjFXUklmTzBEZVlwcms3RVFRby1nQ3Ewb0p5SFZkM1lWdzhHSy1MRGgyRWNZSjQzRWYzN08yRVF3R3N1VXZjVTI0UW5oSV9zeS01VXJDQw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 10:20:22 GMT"
   }
  ],
  "initialized": true,
