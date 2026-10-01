@@ -1249,11 +1249,12 @@
   "news:3b2f5954ec9ea3d9": 1790844661,
   "news:7b9a3e278f81f4bb": 1790844661,
   "news:777c6f58a966b753": 1790844661,
-  "news:e5da3836cbb0e68c": 1790844661
+  "news:e5da3836cbb0e68c": 1790844661,
+  "news:bf76b6209a7f5481": 1790846269,
+  "news:1ba2ed829305283e": 1790846269,
+  "news:cd84e61cc53e8c08": 1790846269
  },
  "stories": {
-  "\"사회적가치 창출·격차해소 앞장\" 교보생명 '임팩트업' 12기 우수 3곳 선정": 1790585760,
-  "삼성물산, 삼성생명 특별계정 장내매매로 최대주주등 주식 2053주 증가": 1790585760,
   "교보생명, AI 돌봄·헬스케어 스타트업 키운다…‘임팩트업’ 데모데이": 1790588778,
   "교보생명, AI 스타트업과 '사회문제 해법'…8년간 239곳 육성": 1790601424,
   "[금융계 동향] 현대해상·KB국민은행·교보생명": 1790603804,
@@ -1352,7 +1353,10 @@
   "‘3조’ 달성 바쁜 한화투자증권에 한화생명은 30년간 6% ‘배당 족쇄’?": 1790844661,
   "교보생명, 종합금융그룹 퍼즐 맞춘다": 1790844661,
   "[퇴근길머니] 삼전·닉스 자사주 매입 막바지…캐피탈 품은 한화생명": 1790844661,
-  "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화": 1790844661
+  "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화": 1790844661,
+  "[인사] 한화생명·한화손보": 1790846269,
+  "[인사] 한화생명·한화생명금융서비스·한화손보·한화자산운용": 1790846269,
+  "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"": 1790846269
  },
  "news_queue": [
   {
@@ -1654,6 +1658,36 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jcExpT1pZcEVYUFVuaTNma3FlWUpWNjlkVC1QQUFXX3BlNW5NREhoaXhYYXRxY0hyVDlEU2ZqR185c2Q5R2gwUUN1RHAxaFE1NHNGZw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 08:37:15 GMT"
+  },
+  {
+   "id": "news:bf76b6209a7f5481",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[인사] 한화생명·한화손보",
+   "source": "글로벌경제신문",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZX1g2aDVJZkFkZHdpMW11NXpxS0lDcFY0LVJIVUZaX3kzbERCTUZENWsyOWZkNUJsM1NYdlVIMUJmTmJCMWRscExJcDFlbnM5cVhpYUlPbnIzU2t3X0JVNXJFeDk2cjlxZXZvbWlBNGfSAXBBVV95cUxQWV9YNmg1SWZBZGR3aTFtdTV6cUtJQ3BWNC1SSFVGWl95M2xEQk1GRDVrMjlmZDVCbDNTWHZVSDFCZk5iQjFkbHBMSXAxZW5zOXFYaWFJT25yM1Nrd19CVTVyRXg5NnI5cWV2b21pQTRn?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:17:09 GMT"
+  },
+  {
+   "id": "news:1ba2ed829305283e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[인사] 한화생명·한화생명금융서비스·한화손보·한화자산운용",
+   "source": "우먼타임스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MQS0yWWRxSXZiOGlSaDFhQ0ZjQ0lQUEwzZXlmM2hEeUhFdmxNMWZ5bXZqWkRLU2J5eEVZbEgwWWdYUm1YMldBRUVOU1hYTjRGUF9Eamx1UHVXeTZFRWczb09CbTdWVG1kcmZzbm12MnrSAXRBVV95cUxOMzV3ZlpsWmJ4ZEZ3X256M3pjeTVJTUpWYmZPZGpZUzVwZXdzT19kVXpFUUtCSEtJWC1LV0s4d2hxTGZ5c290Z0NaZkJMVXptVlNybDhSa1BHVDhFM2dPM3dyWDNZbVNXazFJeWdYWk1IMWh3eQ?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:54:13 GMT"
+  },
+  {
+   "id": "news:cd84e61cc53e8c08",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명그룹, 보험·증권 등 전방위적 디지털자산 접목 시도…\"제도 대응 준비\"",
+   "source": "블루밍비트",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pQXdIeTJuaWNEd3A3eWF5NEJPdTVJdWtkT1czaVRTQVFBX2FpUlFXQnpVcnN1QzNaQVNVeGZDSUhsZFVaSG0wcTM2dnRSTFlS?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 08:53:16 GMT"
   }
  ],
  "initialized": true,
