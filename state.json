@@ -1194,10 +1194,13 @@
   "news:ef89ac1c169a0d8b": 1790805264,
   "news:7f95a392c92f6623": 1790811157,
   "news:3187baef17e5c7ae": 1790812251,
-  "news:b27870d149e4b453": 1790812251
+  "news:b27870d149e4b453": 1790812251,
+  "news:29024c11c6bcc97b": 1790814244,
+  "news:b9ba02e06fcb25d9": 1790814244,
+  "news:25504768b90a757b": 1790814244,
+  "news:93479dd1cd455e2d": 1790814245
  },
  "stories": {
-  "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑": 1790553726,
   "보험금 부지급·과소지급 5년간 961건, 5억4840만원 적발...교보생명 499건 최다": 1790555594,
   "교보생명, AI로 돌봄∙환경 등 사회문제 해결하는 스타트업 육성": 1790555594,
   "\"기술로 세상을 이롭게\"…교보생명, AI·디지털 스타트업 돋움판 역할 톡톡": 1790555594,
@@ -1293,7 +1296,8 @@
   "금융지주 전환 속도 내는 교보생명…무거워지는 교보증권 어깨": 1790805264,
   "한화생명, 애큐온캐피탈 인수로 여신금융 진출…'한화금융' 재편": 1790811157,
   "EQT, 한화생명-센트로이드PE에 애큐온 매각…본계약 체결": 1790812251,
-  "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등": 1790812251
+  "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등": 1790812251,
+  "한화생명, 베트남서 건강관리·재무설계 결합…고객 접점 확대": 1790814245
  },
  "news_queue": [
   {
@@ -1315,6 +1319,16 @@
    "date": "Wed, 30 Sep 2026",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbk9UWWJrMzJfbUhKR0lyaXd0cU1YNElHa3pIYjF0WEloNWkwUjJOem5qOWVYM1YydkZxY053VVlGN2djQVd2SWtacGlSNkkzVlVyTUF6Z3psTjltNjVsYzB3RDZOdWtIR0pmY0RrWGF1V09RLU9KQy0zN0REczRmXzJvcktmQ0NL?oc=5",
    "sort_key": "Wed, 30 Sep 2026 23:39:55 GMT"
+  },
+  {
+   "id": "news:93479dd1cd455e2d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 베트남서 건강관리·재무설계 결합…고객 접점 확대",
+   "source": "더구루",
+   "date": "Wed, 30 Sep 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RXVRTjN0Q2k0NG9GRGxRcmZabTVYUkQtNGx6OFFHaTV5TkNmRDNZVGVkZkZQUnpCM2pwQUNUWUZyT1hwODZsZ0RGbGE5bXFjTVl2eE5WVDJLQUU5LUE?oc=5",
+   "sort_key": "Wed, 30 Sep 2026 23:57:45 GMT"
   }
  ],
  "initialized": true,
