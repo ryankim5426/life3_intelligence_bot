@@ -1239,7 +1239,9 @@
   "news:7030210d46e211cb": 1790839374,
   "news:0db7b67b4bc3afd0": 1790839374,
   "news:42e686467ef3fa70": 1790839374,
-  "news:cb70c55ec35d91fa": 1790839374
+  "news:cb70c55ec35d91fa": 1790839374,
+  "news:ec52941fd24c378d": 1790840770,
+  "news:289dab18100ede1f": 1790840770
  },
  "stories": {
   "교보생명, 대출채권 27% 늘었다…자산별 운용 전략 '관통'": 1790582087,
@@ -1339,7 +1341,8 @@
   "한화생명, 종신보험이 CSM 키웠는데 ‘700종신’ 중단…하반기 영업전략 변수": 1790839374,
   "[인사] 한화생명": 1790839374,
   "한화생명금융서비스 대표 교체…김국진 전무 선임": 1790839374,
-  "[인사] 한화생명·한화생명금융서비스": 1790839374
+  "[인사] 한화생명·한화생명금융서비스": 1790839374,
+  "[인사] 한화생명·한화생명금융서비스 임원 승진": 1790840770
  },
  "news_queue": [
   {
@@ -1591,6 +1594,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNUgyX0xnbjdNeC03OUN3Q3NXM2JScS1DVDJNMHBycHVid3J3ZEVCSFY2dnpUR19sTnpGbV9Udmt3VEN3Nlk3a19sX0kwWjI1ZUNWNWY5bEx4UdIBVEFVX3lxTE8tejYxUHhMSXkzRDBhdnFpVG9JcjNYMHZ5Rzh1aWlOVkRUR2gtdWNIVXpGMEZNcUx2SWRLVzVVSjgtMDBiU085Z2Q1ZHJPc2swZ18tWA?oc=5",
    "sort_key": "Thu, 01 Oct 2026 07:18:16 GMT"
+  },
+  {
+   "id": "news:289dab18100ede1f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[인사] 한화생명·한화생명금융서비스 임원 승진",
+   "source": "스마트투데이",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Tm9qQlp1b1BtYUl2VnBqTmxwdW1oSExHVTlDTjJBVXFYdWxrVzBRNFV6YjdRS3Y4N1FJVTZ3bUNYeXJ4ZWgzRHJRNzJBalZzN0oyTENYak1CUEg5UEYw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 07:29:00 GMT"
   }
  ],
  "initialized": true,
