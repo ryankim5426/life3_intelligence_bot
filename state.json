@@ -1225,7 +1225,10 @@
   "news:a4628fab3630243d": 1790825865,
   "news:1b945e52f8b0bfc1": 1790827015,
   "news:ebfc1deb6de412cb": 1790828397,
-  "news:3d0fdbf9cf543bd0": 1790832358
+  "news:3d0fdbf9cf543bd0": 1790832358,
+  "news:18c18417e786b3ab": 1790833588,
+  "news:07b89be894fda801": 1790833588,
+  "news:5e54c3d918a576bb": 1790833589
  },
  "stories": {
   "교보생명, 자산운용 확대하며 지주사 전환 가속": 1790574733,
@@ -1318,7 +1321,8 @@
   "[특징주] 삼성생명, 장중 1%대 하락세…수급 불안정 속 관망 분위기 : 기업주식정보": 1790825865,
   "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?": 1790825865,
   "교보생명·엔비디아, 美 'GMI클라우드'에 투자": 1790827015,
-  "한화생명, 9조대 여신·저축은행 품고 ‘종합금융그룹’ 가속": 1790828397
+  "한화생명, 9조대 여신·저축은행 품고 ‘종합금융그룹’ 가속": 1790828397,
+  "삼성생명 손잡은 62조 헤이핀, 韓 상륙…최시진 전 UBS운용 대표 영입 [fn마켓워치]": 1790833589
  },
  "news_queue": [
   {
@@ -1480,6 +1484,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaGdnTDRPR2pLSWtBc0RCb3lBV1F1SmY2d0QtN3Vjak5LVzFvM2lCVm9lWDFiektXQWhLQkwyYkpRSFp0ZWdwQnA3VUhOTkV1SE9ZSEhZOGJFV0VINEJDbmJocmozODRnVE92Rmtsb9IBb0FVX3lxTE1iaGdnTDRPR2pLSWtBc0RCb3lBV1F1SmY2d0QtN3Vjak5LVzFvM2lCVm9lWDFiektXQWhLQkwyYkpRSFp0ZWdwQnA3VUhOTkV1SE9ZSEhZOGJFV0VINEJDbmJocmozODRnVE92Rmtsbw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 02:32:06 GMT"
+  },
+  {
+   "id": "news:5e54c3d918a576bb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 손잡은 62조 헤이핀, 韓 상륙…최시진 전 UBS운용 대표 영입 [fn마켓워치]",
+   "source": "v.daum.net",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHaVE1RkhYZ2ZNWVJHVFVaZVpVYnVRMC1RNXhqSWZ0bHNxWTVvRXFROTAxaTdxOW1sTjg1Y3ZYUHFGRUV1M0FDNFJqcEZPUzQ?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 05:34:34 GMT"
   }
  ],
  "initialized": true,
