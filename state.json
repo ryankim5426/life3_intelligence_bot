@@ -1230,7 +1230,10 @@
   "news:07b89be894fda801": 1790833588,
   "news:5e54c3d918a576bb": 1790833589,
   "news:a5d396c9b5ddfedc": 1790836402,
-  "news:972eb7b56f9835e0": 1790836402
+  "news:972eb7b56f9835e0": 1790836402,
+  "news:2829e0669261b765": 1790837899,
+  "news:b4b2aee7522bd433": 1790837900,
+  "news:cb1555affc475be0": 1790837900
  },
  "stories": {
   "삼성생명 주가 1,500원 상승 후 장마감": 1790579856,
@@ -1324,7 +1327,9 @@
   "교보생명·엔비디아, 美 'GMI클라우드'에 투자": 1790827015,
   "한화생명, 9조대 여신·저축은행 품고 ‘종합금융그룹’ 가속": 1790828397,
   "삼성생명 손잡은 62조 헤이핀, 韓 상륙…최시진 전 UBS운용 대표 영입 [fn마켓워치]": 1790833589,
-  "삼성생명 투자 받은 헤이핀, 韓 공략 본격화···\"기관자금 10억 유로\"": 1790836402
+  "삼성생명 투자 받은 헤이핀, 韓 공략 본격화···\"기관자금 10억 유로\"": 1790836402,
+  "[보험업계 동향] 한화생명ㆍ현대해상ㆍNH농협생명 (10.1)": 1790837900,
+  "한화생명, 애큐온 품고 여신금융 확대…K-ICS 부담 우려에 “자본여력 충분”": 1790837900
  },
  "news_queue": [
   {
@@ -1506,6 +1511,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2YjdxbXZ2dGdWUnh2ZGgtbVhud043RFRPdDVScmdnM0R0QTNwQkQtc2xBRkQ2bG1YSkM4LW5WdzJmYl9HcWoyZEZBNENOcU14V29hbWpFTEhHemZxX2R3WUZHelQwZ0tDQWc?oc=5",
    "sort_key": "Thu, 01 Oct 2026 06:14:37 GMT"
+  },
+  {
+   "id": "news:b4b2aee7522bd433",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[보험업계 동향] 한화생명ㆍ현대해상ㆍNH농협생명 (10.1)",
+   "source": "위클리오늘",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hcUZQR0xaSUVNQlA0VGdGV1ZEVWxnUG1OYjlnUHgtb2xzYzZoRy1JVW12QVlxWVVQZjFlV2YySGFJV0tDNFJYa1B4YjNkRkN3NUd4OVNmTllwdXNkSVFndFBMSldCZFpGRFhMSHRyZw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 06:35:33 GMT"
+  },
+  {
+   "id": "news:cb1555affc475be0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 품고 여신금융 확대…K-ICS 부담 우려에 “자본여력 충분”",
+   "source": "위키리크스한국",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12cm95N2NLZ1BEeDhSNlAxYWxWNkVOa2c4MHdYVFVOb3RQU1huZW5pY0h6bkExM19VUHVQRWg2eUdYeWwzd3Y1Y3BBNEVVeUJyZTh1ZkhnMDVubjZCSUxzM2dqZ3E0NUVtOWVZamgtMS0?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 06:36:55 GMT"
   }
  ],
  "initialized": true,
