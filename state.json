@@ -1222,10 +1222,10 @@
   "news:9720a90de294f2c4": 1790824630,
   "news:a8e657761adf1a3f": 1790824630,
   "news:6e4aeab64b7b2c77": 1790825865,
-  "news:a4628fab3630243d": 1790825865
+  "news:a4628fab3630243d": 1790825865,
+  "news:1b945e52f8b0bfc1": 1790827015
  },
  "stories": {
-  "10일 서울 종로구 교보생명 광화문 본사에서 '임팩트업 12기 데모데이'에 참가한 11개 기업의 대표들이 관계자들과 함께 기념 촬영을 하고 있다.(사진=교보생명)": 1790567658,
   "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011,
   "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240,
   "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태···인카금융 턱밑 추격": 1790572548,
@@ -1318,7 +1318,8 @@
   "[ESG경영] SM그룹·교보생명·글로벌세아 등 친환경 정화부터 국가유공자·지구촌 구호까지": 1790823237,
   "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리": 1790824630,
   "[특징주] 삼성생명, 장중 1%대 하락세…수급 불안정 속 관망 분위기 : 기업주식정보": 1790825865,
-  "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?": 1790825865
+  "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?": 1790825865,
+  "교보생명·엔비디아, 美 'GMI클라우드'에 투자": 1790827015
  },
  "news_queue": [
   {
@@ -1460,6 +1461,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xNDdRWGRoUW0yU0M1RklqT0xBNWR0dFpFNjBBV3R2OXNRYjZiWTVEcHo1SEVYT3J4c1Zpamw5aHZWSWtHUEd0OGt4ZWRfNzVFemNZU0hCbUJtTmhxMlc3N19GeWxUWFNoQzZKR3hRdU91NFdCSVhBcGtrS0VBdw?oc=5",
    "sort_key": "Thu, 01 Oct 2026 02:11:56 GMT"
+  },
+  {
+   "id": "news:1b945e52f8b0bfc1",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명·엔비디아, 美 'GMI클라우드'에 투자",
+   "source": "thetracker.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VW9FNnlkcHNJd3NOQ2w3akI2UzE5bkVaVkdodW1VVnh3ZXFncmJ5blI0SmtBSmdYVDhYOE5jMWgtNDNxaXNTX0pxU0syY1ROcDVhUzlYbEI?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 02:40:53 GMT"
   }
  ],
  "initialized": true,
