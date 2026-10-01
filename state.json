@@ -1223,10 +1223,10 @@
   "news:a8e657761adf1a3f": 1790824630,
   "news:6e4aeab64b7b2c77": 1790825865,
   "news:a4628fab3630243d": 1790825865,
-  "news:1b945e52f8b0bfc1": 1790827015
+  "news:1b945e52f8b0bfc1": 1790827015,
+  "news:ebfc1deb6de412cb": 1790828397
  },
  "stories": {
-  "\"스타트업과 만드는 사회문제 해법\"...교보생명, '임팩트업 데모데이' 진행": 1790569011,
   "[보험브리핑]KB손보·교보생명·현대해상·라이나생명": 1790570240,
   "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태···인카금융 턱밑 추격": 1790572548,
   "‘SBI 협력 확대’ 교보생명, 지분구조 변화에 쏠리는 눈 [조수연의 그래픽저널]": 1790572548,
@@ -1319,7 +1319,8 @@
   "애큐온 품은 한화생명 스텝업…'5년 고용보장' 놓고는 골머리": 1790824630,
   "[특징주] 삼성생명, 장중 1%대 하락세…수급 불안정 속 관망 분위기 : 기업주식정보": 1790825865,
   "삼성전자 100조 원대 주주환원, 삼성생명·삼성화재가 변수?": 1790825865,
-  "교보생명·엔비디아, 美 'GMI클라우드'에 투자": 1790827015
+  "교보생명·엔비디아, 美 'GMI클라우드'에 투자": 1790827015,
+  "한화생명, 9조대 여신·저축은행 품고 ‘종합금융그룹’ 가속": 1790828397
  },
  "news_queue": [
   {
@@ -1471,6 +1472,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VW9FNnlkcHNJd3NOQ2w3akI2UzE5bkVaVkdodW1VVnh3ZXFncmJ5blI0SmtBSmdYVDhYOE5jMWgtNDNxaXNTX0pxU0syY1ROcDVhUzlYbEI?oc=5",
    "sort_key": "Thu, 01 Oct 2026 02:40:53 GMT"
+  },
+  {
+   "id": "news:ebfc1deb6de412cb",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 9조대 여신·저축은행 품고 ‘종합금융그룹’ 가속",
+   "source": "뉴스로드",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaGdnTDRPR2pLSWtBc0RCb3lBV1F1SmY2d0QtN3Vjak5LVzFvM2lCVm9lWDFiektXQWhLQkwyYkpRSFp0ZWdwQnA3VUhOTkV1SE9ZSEhZOGJFV0VINEJDbmJocmozODRnVE92Rmtsb9IBb0FVX3lxTE1iaGdnTDRPR2pLSWtBc0RCb3lBV1F1SmY2d0QtN3Vjak5LVzFvM2lCVm9lWDFiektXQWhLQkwyYkpRSFp0ZWdwQnA3VUhOTkV1SE9ZSEhZOGJFV0VINEJDbmJocmozODRnVE92Rmtsbw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 02:32:06 GMT"
   }
  ],
  "initialized": true,
