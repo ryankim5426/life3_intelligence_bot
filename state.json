@@ -1262,7 +1262,8 @@
   "news:8c593fb9d8f11976": 1790852485,
   "news:a7c39b766ae25a3f": 1790853996,
   "news:cf9d4c6153683063": 1790865002,
-  "news:7e25560332eb86cd": 1790866295
+  "news:7e25560332eb86cd": 1790866295,
+  "news:41ec74cf5a911163": 1790874980
  },
  "stories": {
   "카카오그룹, 그랩·SCBX·교보생명과 손잡고 디지털자산 생태계 확장": 1790621299,
@@ -1368,7 +1369,8 @@
   "교보생명 “온체인 금융, 2060년에도 작동해야”": 1790850064,
   "박진호 교보생명 부사장 \"온체인 금융, 도입보다 신뢰가 경쟁력\"": 1790852485,
   "[한화생명 人事] 김상재 外": 1790852485,
-  "교보생명, 보험료 납입부터 보험금 지급까지 ‘온체인’ 실증": 1790853996
+  "교보생명, 보험료 납입부터 보험금 지급까지 ‘온체인’ 실증": 1790853996,
+  "한화생명, 인도네시아서 미국·중동까지 해외사업 확대…신성장동력 확보": 1790874980
  },
  "news_queue": [
   {
@@ -1760,6 +1762,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZElhdkQ4dWFTelRCTjA0YlpvcDA5dTVEX0pDSEFyQkRlZHItTml2RU50OGdyOUV6eVREMmFJdm9HcFhmV01nWHBBTUI4SGZsT193YlhFMTl4TGZHRjNkeUlMVl84UXJm?oc=5",
    "sort_key": "Thu, 01 Oct 2026 11:10:56 GMT"
+  },
+  {
+   "id": "news:41ec74cf5a911163",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 인도네시아서 미국·중동까지 해외사업 확대…신성장동력 확보",
+   "source": "sisaon.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxMkJSRnJ0TmpMUVc0UDFjVHVseVpGUE02eDAxLU5WNzJjMHdpaHg1RnNJbW9OUFFFbmZKTXlZNjhNNmJFbUd3NWh0djE2a3hsbW5IM24tM1ZtYWVrSXRlcnVNbEFmVDFieU5v?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 05:40:54 GMT"
   }
  ],
  "initialized": true,
