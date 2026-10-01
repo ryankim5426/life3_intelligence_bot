@@ -1204,10 +1204,14 @@
   "news:681117fb90afce09": 1790817415,
   "news:230492d37722d398": 1790817415,
   "news:bcbdc90ef96e666c": 1790817415,
-  "news:320e4b5168f03eb1": 1790818518
+  "news:320e4b5168f03eb1": 1790818518,
+  "news:06c00e43bf71d9d5": 1790819569,
+  "news:8f36cf62515a2c52": 1790819569,
+  "news:3db63c3bf9af5e46": 1790819569,
+  "news:6da0390ed27db924": 1790819569,
+  "news:04cf472cae7f61be": 1790819569
  },
  "stories": {
-  "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명": 1790560246,
   "교보생명, 사회문제 해결 스타트업 키운다…AI 돌봄 ‘슬립웨이브’ 대상": 1790565397,
   "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'": 1790565397,
   "10일 서울 종로구 교보생명 광화문 본사에서 '임팩트업 12기 데모데이'에 참가한 11개 기업의 대표들이 관계자들과 함께 기념 촬영을 하고 있다.(사진=교보생명)": 1790567658,
@@ -1294,7 +1298,9 @@
   "[개장 전 주요 공시] LS·한화솔루션·한화투자증권·한화생명 등": 1790812251,
   "한화생명, 베트남서 건강관리·재무설계 결합…고객 접점 확대": 1790814245,
   "한화생명, 애큐온캐피탈 인수·증권 증자 동시 추진": 1790815903,
-  "한화생명, 애큐온캐피탈 경영권 확보…4400억 투입해 캐피탈업 진출": 1790815903
+  "한화생명, 애큐온캐피탈 경영권 확보…4400억 투입해 캐피탈업 진출": 1790815903,
+  "한화생명, 4400억 투자 승부수…보험·증권·운용·여신 아우르는 금융그룹 청사진": 1790819569,
+  "[금융家] 교보생명 ㅣ SBI 품고 금융그룹 재편 속도…저축은행·디지털 ‘두 날개’": 1790819569
  },
  "news_queue": [
   {
@@ -1346,6 +1352,26 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdGNwV19BY3NpR0ZNSmtfMGpXOHFKQTFIOGQ1dWQxeHRMaDBTU1FnT3piQndJOXRwcENlSl9KTjFxbnFrX1JlV180T0lnZFQ2Z2pveG84cXFwRWlUdkE?oc=5",
    "sort_key": "Thu, 01 Oct 2026 00:46:00 GMT"
+  },
+  {
+   "id": "news:6da0390ed27db924",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 4400억 투자 승부수…보험·증권·운용·여신 아우르는 금융그룹 청사진",
+   "source": "fetimes.co.kr",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uMjduY2RRZWtFSWRVWmdZY2R3RkFtU3V6VTZWdHp0MUZUNWtkSURwRW8wTFNvNHhsNXZpWEVfLUtUdVRXQURlTUZBdEdMZ3d2a2V4VUV5Zi1BUXlhbmNlWmZaZXJCM1k5S1NBNHdtc9IBb0FVX3lxTE5uMjduY2RRZWtFSWRVWmdZY2R3RkFtU3V6VTZWdHp0MUZUNWtkSURwRW8wTFNvNHhsNXZpWEVfLUtUdVRXQURlTUZBdEdMZ3d2a2V4VUV5Zi1BUXlhbmNlWmZaZXJCM1k5S1NBNHdtcw?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 00:08:27 GMT"
+  },
+  {
+   "id": "news:04cf472cae7f61be",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융家] 교보생명 ㅣ SBI 품고 금융그룹 재편 속도…저축은행·디지털 ‘두 날개’",
+   "source": "CBC뉴스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zcjIyajdJb2syVWdLbTFzV2tZNGMxUWFIR3R4dkRrOXNGek8wNzFPeThsN1FnSEFseWJNelZyT1NzUDU0OWpEUFJpc3A3VkFzeWJSX0k1TnJ5aGVfZTVDbjh5QWgzWVJW?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 01:37:07 GMT"
   }
  ],
  "initialized": true,
