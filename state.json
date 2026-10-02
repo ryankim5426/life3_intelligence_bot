@@ -1296,7 +1296,10 @@
   "news:1fb4ee9f88165948": 1790910058,
   "news:6b6604484da80ff2": 1790910058,
   "news:b6ab9d62460f49b7": 1790910058,
-  "news:441a7873040eeb6c": 1790910058
+  "news:441a7873040eeb6c": 1790910058,
+  "news:984e5e6194c227e4": 1790911598,
+  "news:0fcc1242c23fb751": 1790911598,
+  "news:23ddca9e68093803": 1790911598
  },
  "stories": {
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
@@ -1419,7 +1422,10 @@
   "교보생명, 스테이블코인 넘어 RWA로…한·일 블록체인 금융 실증 확대": 1790910058,
   "교보생명, 서클·SBI와 스테이블코인·RWA 사업화 추진": 1790910058,
   "한화생명, 애큐온 품고 금융영토 확장…김동원 부회장 ‘시너지 경영’ 시험대": 1790910058,
-  "교보생명, 스테이블코인·RWA ‘실전’ 준비…투자·운용체계 구축": 1790910058
+  "교보생명, 스테이블코인·RWA ‘실전’ 준비…투자·운용체계 구축": 1790910058,
+  "교보생명, 일본SBI·서클과 디지털 금융 협력 확대": 1790911598,
+  "[애큐온캐피탈 M&A] 경영권만 챙기고 부담 나눴다…한화생명의 인수 셈법": 1790911598,
+  "삼성생명, 호텔신라 주식 1219주 늘려": 1790911598
  },
  "news_queue": [
   {
@@ -1631,6 +1637,36 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2RG5vSlN5SkIwNXFKVnRhYVI2VW1fY01mZ2RQRDNNVDhSSWVlTkRqbWhueTZCdjFKREEtLVc4dzQzYmdveVNDUUdZUTFVRi1UWG1HcmUxeWFoQ0Fvd3owSQ?oc=5",
    "sort_key": "Fri, 02 Oct 2026 02:44:36 GMT"
+  },
+  {
+   "id": "news:984e5e6194c227e4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 일본SBI·서클과 디지털 금융 협력 확대",
+   "source": "v.daum.net",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qOVgxbFA5OU1XcmE2X1RrX09YZWkzdFpTVWtPalNBSEhORUVqVm4xampWdVlkQmZsVmVSaFBIRUVqdFlfNHRlTFJwQy00cVU?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:20:05 GMT"
+  },
+  {
+   "id": "news:0fcc1242c23fb751",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[애큐온캐피탈 M&A] 경영권만 챙기고 부담 나눴다…한화생명의 인수 셈법",
+   "source": "딜사이트",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZbzFobjYwUEthckdYWnZ6VUdqM1pKZjlUeDlITzRvYWxkZjA0VWJpMlJDNnVSV0xjaUhkMmpfb19ZbzRLZ2JWWlpVYjhLSHc?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 03:00:00 GMT"
+  },
+  {
+   "id": "news:23ddca9e68093803",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 호텔신라 주식 1219주 늘려",
+   "source": "한스경제",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fRUJNQ2tBd1Z4SURoVVlVM3hsbEZNX2QxdmJBTS05SFRQQ0RlLXMyT1dzdWttUDYxdzZ2WG8yWkYzOVFUc3dVaURGNng4NWRDSjJIZzgzS1NjN3ZvaTJXM1A4TFdFRk8zN1ZDVdIBb0FVX3lxTE52VldSN3dFSjRXbnZCVFdLMjZSNXR0YnNRbllvTlNianZoWnFqWVBaMTRYdVhqaVFnVkFkRHdQTHd5czBLcl9XallsNDIwcGJqUHVhODd0WG5PNTV3MzdGSWRxSDY1NkZSMW5EVU9kbw?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 03:13:42 GMT"
   }
  ],
  "initialized": true,
