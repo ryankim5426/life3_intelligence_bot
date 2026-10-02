@@ -1316,7 +1316,8 @@
   "news:6fbfd1a86ee34f57": 1790919931,
   "news:b5ba051c1e9d8723": 1790919931,
   "news:0d1aa18d69767167": 1790920823,
-  "news:9403a6e07a88ce60": 1790920823
+  "news:9403a6e07a88ce60": 1790920823,
+  "news:51a6f5110d39dd26": 1790922671
  },
  "stories": {
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
@@ -1452,7 +1453,8 @@
   "교보생명, '온체인 금융' 시험대…스테이블코인·RWA 적용 본격 검토": 1790918727,
   "보험 밖으로 넓히는 한화생명…캐피탈 채우고 증권 키운다": 1790919931,
   "\"블록체인 기반 금융서비스·신사업 발굴\" 교보생명, SBI홀딩스·서클·비댁스와 '맞손' |": 1790919931,
-  "보험도 ‘온체인’ 시대로…교보생명, 스테이블코인 사업 시동": 1790920823
+  "보험도 ‘온체인’ 시대로…교보생명, 스테이블코인 사업 시동": 1790920823,
+  "교보생명, 스테이블코인 실증 범위 확대": 1790922671
  },
  "news_queue": [
   {
@@ -1804,6 +1806,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAteHp3TDNxQi1VaGwxVTdVbXpIZWQ2MThzTnF3NE9OUlh5azdkMlcyaTdkbEg5U3FJLWRsVlZCeHFyTGxKYlZfQnZ5LXh1eExUako3Y1Y4YVlRWE8tQkdFeE9BSFRxTERRcjVHOUc1UjFiTmRf?oc=5",
    "sort_key": "Fri, 02 Oct 2026 05:50:00 GMT"
+  },
+  {
+   "id": "news:51a6f5110d39dd26",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 스테이블코인 실증 범위 확대",
+   "source": "라이센스뉴스",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lNFRodk9MSU9PX0drbU43SHFvTnVNRlZmVTM0OVRoMWtFNlVwTXFLOE1oaTRhMTBjbUxjdlBCU25XSUpKV2psSkZpelZheC1IMUMxbE5sc0U4UE92N19MbWJBeVpUV0JOcklJ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 06:05:00 GMT"
   }
  ],
  "initialized": true,
