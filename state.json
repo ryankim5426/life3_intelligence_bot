@@ -1278,10 +1278,14 @@
   "news:ec2f9cee72227c92": 1790902179,
   "news:9d4db3485367cc1c": 1790903152,
   "news:0b38e7e7c26e106a": 1790903152,
-  "news:c7ffcaf7c31c2a42": 1790903152
+  "news:c7ffcaf7c31c2a42": 1790903152,
+  "news:e9bdeba258edb1b5": 1790904424,
+  "news:b0f2f99a8cc1faff": 1790904424,
+  "news:4d82b8a907a1465f": 1790904424,
+  "news:1b80967184122ad2": 1790904424,
+  "news:ce7ebbf568a5a7f2": 1790904424
  },
  "stories": {
-  "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
   "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
   "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
   "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
@@ -1393,7 +1397,10 @@
   "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토": 1790902179,
   "교보생명, SBI·서클·비댁스와 ‘온체인 금융’ 협력": 1790903152,
   "\"전통 금융과 온체인 생태계의 결합\"…교보생명, 글로벌 디지털 금융 영토 확장": 1790903152,
-  "교보생명, 디지털 금융 협력 확대… 스테이블코인·RWA 논의": 1790903152
+  "교보생명, 디지털 금융 협력 확대… 스테이블코인·RWA 논의": 1790903152,
+  "교보생명, ‘전통 금융과 온체인의 결합’ 가속": 1790904424,
+  "“스테이블코인·RWA, 실물 금융 속으로”… 교보생명, SBI홀딩스·서클·비댁스와 ‘디지털 금융 영토’ 넓힌다": 1790904424,
+  "교보생명, 스테이블코인·RWA 금융사업화 시동": 1790904424
  },
  "news_queue": [
   {
@@ -1485,6 +1492,36 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Q1Exa2hjc3FlSkFRYzB6b1hDbmI3QW1SWFJmUnYyaHJUVF9sZzd4Z1YtS1VqVjJxZzFaUktDU08xbUZVTXg1NVM1VGVydF84SF9QWGI1QnZkS0Z6VEJjVDVzWExBejNIMnI5dTNZcw?oc=5",
    "sort_key": "Fri, 02 Oct 2026 00:59:27 GMT"
+  },
+  {
+   "id": "news:4d82b8a907a1465f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘전통 금융과 온체인의 결합’ 가속",
+   "source": "CNB뉴스",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90MGFWQnVlbHgtNUxubGJUTk5LY3NreHNSZFJtbERMZ25mamp2VGJNbEZPejRzcENtOWllLUZnMFpVUTlFY3ZBOEJ0MGJSQWMwOWtCVlF2Q244SlFkeTByTjU0eWk1WGdMS18w?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:55:50 GMT"
+  },
+  {
+   "id": "news:1b80967184122ad2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "“스테이블코인·RWA, 실물 금융 속으로”… 교보생명, SBI홀딩스·서클·비댁스와 ‘디지털 금융 영토’ 넓힌다",
+   "source": "스마트경제",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4MG52aXQ2Nkt4UXZ3WTlWRFdfcUpjV295dTF6enFtbnV6MnRPcmRDUURxWU5iNzE2SkxiX2xROFdSWFNWYU5SSENNUTYtWUcxZnlzM2d5QzFmTlMzaVM5b09ZTVh3b2szVXNCMlg4VkI?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:57:16 GMT"
+  },
+  {
+   "id": "news:ce7ebbf568a5a7f2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 스테이블코인·RWA 금융사업화 시동",
+   "source": "파이낸셜뉴스",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16YlRKcHJGemIxbzRJS1hBMklpbTZld0ljeU9uMWZJM3VsVGlGUWcxQ0hZZUlJZ0RqMVBlcjMwS2x2bzNWR1BfajFIWmlhUkltalNMNGVzZVFXUQ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 01:09:17 GMT"
   }
  ],
  "initialized": true,
