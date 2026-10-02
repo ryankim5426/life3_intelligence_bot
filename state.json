@@ -1339,7 +1339,8 @@
   "news:fb7e69a59b7fa62b": 1790947077,
   "news:e2df04231999d26c": 1790954931,
   "news:d1f7347ee150b786": 1790956222,
-  "news:c73d65d35c43fae3": 1790968565
+  "news:c73d65d35c43fae3": 1790968565,
+  "news:f37326b2cbcc44fe": 1790981552
  },
  "stories": {
   "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원": 1790728534,
@@ -1484,7 +1485,8 @@
   "교보생명, SBI·서클·비댁스와 디지털자산 금융 활용 논의": 1790945568,
   "교보생명, 스테이블코인·RWA 금융 적용 모색…글로벌 협력 강화": 1790947077,
   "[주간사모펀드] EQT 팔고 한화생명·센트로이드 산다…애큐온 새판": 1790954931,
-  "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565
+  "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565,
+  "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552
  },
  "news_queue": [
   {
@@ -1976,6 +1978,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5McnI3aVotMVhUbkZzUHREdXBMM01HMFVnQ2NGNnBtRXRTeEFhZ2trZDFTRnFyNzhEWVRDZlNsRVpJZXUyY2VLSl9lVHhuRm8zLTEzMg?oc=5",
    "sort_key": "Fri, 02 Oct 2026 05:38:11 GMT"
+  },
+  {
+   "id": "news:f37326b2cbcc44fe",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건",
+   "source": "이코노미톡뉴스",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DbWEwSllyajNsUmhEM1labDlSWFRXeTJMLXJEaFBnd09maVNEZ2tvT1luVEdNbmo5WEdEOFZUUFhzNXczNEVZcnpHR1l6TmhVRzBTNG9GcmxmUUhfaWk4WEtJcTFpSmxlTUR4Yg?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 22:30:00 GMT"
   }
  ],
  "initialized": true,
