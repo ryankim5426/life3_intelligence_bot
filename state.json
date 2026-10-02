@@ -1292,10 +1292,13 @@
   "news:b0a00c6cbbe43110": 1790907883,
   "news:6b18518202a9fe91": 1790907883,
   "news:29a84d51782b7e23": 1790909062,
-  "news:e9fa93cc57e8d0f9": 1790909063
+  "news:e9fa93cc57e8d0f9": 1790909063,
+  "news:1fb4ee9f88165948": 1790910058,
+  "news:6b6604484da80ff2": 1790910058,
+  "news:b6ab9d62460f49b7": 1790910058,
+  "news:441a7873040eeb6c": 1790910058
  },
  "stories": {
-  "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
@@ -1412,7 +1415,11 @@
   "교보생명, SBI·서클과 스테이블코인 실증 논의": 1790905599,
   "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제": 1790906502,
   "호텔신라, 최대주주 삼성생명보험 등 주식 1219주 증가…삼성생명보험 특별계정 장내매수 영향": 1790907883,
-  "삼성생명·화재, 英·美 보험사 투자·인수 ‘저울질’…연말까지 검토": 1790909063
+  "삼성생명·화재, 英·美 보험사 투자·인수 ‘저울질’…연말까지 검토": 1790909063,
+  "교보생명, 스테이블코인 넘어 RWA로…한·일 블록체인 금융 실증 확대": 1790910058,
+  "교보생명, 서클·SBI와 스테이블코인·RWA 사업화 추진": 1790910058,
+  "한화생명, 애큐온 품고 금융영토 확장…김동원 부회장 ‘시너지 경영’ 시험대": 1790910058,
+  "교보생명, 스테이블코인·RWA ‘실전’ 준비…투자·운용체계 구축": 1790910058
  },
  "news_queue": [
   {
@@ -1584,6 +1591,46 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1bnpOWGZVOHVlNktGcERhS09TSzNXV0pqQ05nTHBqRjNyY3dCS2N0MGdhRXRxbjZib3RiaWtuT0RlVlFYZzRHQjVBbmJGZjBBd2paeVlqSldiZG1WZGdQbW5pVHk?oc=5",
    "sort_key": "Fri, 02 Oct 2026 02:28:01 GMT"
+  },
+  {
+   "id": "news:1fb4ee9f88165948",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 스테이블코인 넘어 RWA로…한·일 블록체인 금융 실증 확대",
+   "source": "포쓰저널",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43NWtZNzhhRk9qcUsyN3Njb3dNa0ktcHpocDBfcVdnYjNnakp4TU5sLThzU0d3d20wSjVHRXNfbmVhdnZfRVNFa1Y2bVdXY3RvMzlTUkpvcUZWRjktS2VpbjVtX2Y?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:09:12 GMT"
+  },
+  {
+   "id": "news:6b6604484da80ff2",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 서클·SBI와 스테이블코인·RWA 사업화 추진",
+   "source": "블루밍비트",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhblVlOGJuNnpuZU5mdnd0SXdpYjJwSnRXQ3phUGhMaUNtWlhpWTA5RTJRZzBMVXRjdGFKLXJZcXhVMXVhMTNCWVNfcTY1QmNQ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:15:05 GMT"
+  },
+  {
+   "id": "news:b6ab9d62460f49b7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 품고 금융영토 확장…김동원 부회장 ‘시너지 경영’ 시험대",
+   "source": "톱데일리",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14aWJzNV9NT1RVWlZSZENXU0VnbEpnNU9LV3o5aHpfMmNaYmw4MWxnblV6bUxpZmV0U0xwZjlRTEZjZF96NldlV0VSV056Tk4x?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:43:00 GMT"
+  },
+  {
+   "id": "news:441a7873040eeb6c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 스테이블코인·RWA ‘실전’ 준비…투자·운용체계 구축",
+   "source": "마이데일리",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2RG5vSlN5SkIwNXFKVnRhYVI2VW1fY01mZ2RQRDNNVDhSSWVlTkRqbWhueTZCdjFKREEtLVc4dzQzYmdveVNDUUdZUTFVRi1UWG1HcmUxeWFoQ0Fvd3owSQ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:44:36 GMT"
   }
  ],
  "initialized": true,
