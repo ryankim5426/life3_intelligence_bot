@@ -1269,10 +1269,11 @@
   "news:0bfa965d12a25901": 1790895265,
   "news:63c4e0f2ab038fee": 1790896394,
   "news:e93e9dff2286e6b2": 1790898690,
-  "news:045365db3f81b742": 1790898690
+  "news:045365db3f81b742": 1790898690,
+  "news:c0f1ced641d3e492": 1790900567,
+  "news:50f3fd0b73110230": 1790900567
  },
  "stories": {
-  "블룸버그 \"삼성생명 등 韓 금융사, 과감한 해외 M&A 추진…日 실패 사례 경계해야\"": 1790641301,
   "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
   "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
   "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
@@ -1378,7 +1379,8 @@
   "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁": 1790895265,
   "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394,
   "한화생명, 김동원 표 금융 영토 본격화…“종투사 까지 목표”": 1790898690,
-  "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략": 1790898690
+  "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략": 1790898690,
+  "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’": 1790900567
  },
  "news_queue": [
   {
@@ -1400,6 +1402,16 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVmRQR2hFRUhxY2Q4a2lqcmpHcTNnbXJzUW85bzZ1ZDNVUnRzamlnVWNaeG1uNDB6MUN4UW95YWVBN19rT01zTExrbWhGdV85LUZELXJaWXh6eUFZeGk4X3hiSGVtMkl1VFdB0gFvQVVfeXFMUDE4YXZ4dFdoeWhBRjBDeWJ0bEttc0pMYXJlNm1jSWlyc0tTajVKS2pBTEFzZzJZbkJmenNZWXZpdTg2d1lZODNqdFpJc0s1RDZpT0phdWp1Z2EzVXQ0dW43S0k3dHZyWlpHX0lVYXVF?oc=5",
    "sort_key": "Thu, 01 Oct 2026 23:43:08 GMT"
+  },
+  {
+   "id": "news:50f3fd0b73110230",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’",
+   "source": "PRESS9",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5udDR6d3l5TlRveXQyZ0hpcm1YSmxSS1ZDUXNtWFZxWjdWZDlxZElDTDI0NllSSm44UjczOTZvdEQ2eENvbm9NMDJJSlduOVA0WWUtXzRiNW5qSE9iYk9kN2FRQ0k?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:01:33 GMT"
   }
  ],
  "initialized": true,
