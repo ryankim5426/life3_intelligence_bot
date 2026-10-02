@@ -1331,10 +1331,12 @@
   "news:39fab732bf0affc7": 1790934521,
   "news:6abb2004129f0c29": 1790934521,
   "news:46a8276e40114fdd": 1790934521,
-  "news:705a5f74763de7da": 1790934521
+  "news:705a5f74763de7da": 1790934521,
+  "news:771448aa51f2f7d9": 1790936752,
+  "news:3ca9a2c790bae529": 1790936752,
+  "news:69da7bd6bc11b1c7": 1790936752
  },
  "stories": {
-  "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
   "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 3%대 하락 : 기업주식정보": 1790707257,
   "삼성생명 사내벤처 출신 글로케어, 외국인 요양보호사 양성·취업 지원": 1790728534,
@@ -1472,7 +1474,10 @@
   "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169,
   "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'": 1790928080,
   "\"보험·증권도 온체인으로\"…교보생명, SBI·서클과 '블록체인 금융' 맞손": 1790930881,
-  "교보생명, 보험업무 넘어 결제·정산까지… 디지털자산 활용 확대": 1790934521
+  "교보생명, 보험업무 넘어 결제·정산까지… 디지털자산 활용 확대": 1790934521,
+  "교보생명 SBI홀딩스 서클과 '블록체인 협력'": 1790936752,
+  "'완전체' 삼성생명에 대해 이야기한 모모나, \"기대가 된다\"": 1790936752,
+  "한화생명, 9400억 승부수…종합금융그룹 전환 속도": 1790936752
  },
  "news_queue": [
   {
@@ -1894,6 +1899,36 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX3hkWlVmTERVUHg2R3R3SFN2Z3NsX2x2cERWRk5qVW5PZXhobTlRMXgtZ2JScS1yTGNjNXJyQ1pEVElDd0gyb3BseEhwWk9PY21vQm9wRUM5Yzl2bzZOT0ptVHlpQVZFLWRrNGMxRdIBb0FVX3lxTE4zX3hkWlVmTERVUHg2R3R3SFN2Z3NsX2x2cERWRk5qVW5PZXhobTlRMXgtZ2JScS1yTGNjNXJyQ1pEVElDd0gyb3BseEhwWk9PY21vQm9wRUM5Yzl2bzZOT0ptVHlpQVZFLWRrNGMxRQ?oc=5",
    "sort_key": "Fri, 02 Oct 2026 05:29:07 GMT"
+  },
+  {
+   "id": "news:771448aa51f2f7d9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 SBI홀딩스 서클과 '블록체인 협력'",
+   "source": "세이프머니",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZ09JaHlITnhJNVRBTmhHb25FN3JTQnhqRmhnNF8zblNiaEp0UkFtTmRvUnBCNXN6dFNEbEUwNHRKUjdndlJZVUgxM3VobTVZb25sdU5SLUgyczFLalgyVHhRZzF0VTNlR29KeVNR?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 10:02:25 GMT"
+  },
+  {
+   "id": "news:3ca9a2c790bae529",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'완전체' 삼성생명에 대해 이야기한 모모나, \"기대가 된다\"",
+   "source": "바스켓코리아",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3aVJpVHdQYXROczNSdkM2OGxtOWZQX2ZmT2V2TnlmeVpzak42eUthYVcxcFg5Rzk0TlRmQ0tRYlZrN3ZxZ0tyVUo3UFIzRkxOempqMUNEZ2l0RkVkTGlGclNNcTJfWlBRM3JOSElmS3NNTVBWNm1r?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 10:05:03 GMT"
+  },
+  {
+   "id": "news:69da7bd6bc11b1c7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 9400억 승부수…종합금융그룹 전환 속도",
+   "source": "서울경제TV",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZnoxSEcxa3Z4Z1VYVzgzTmx0aVh5eWNkeENwMDRSUHZKUHRPRE5zb2FVbWcxLUVNdWgwa1o5NHF4ZGppamJldFZEM1VscUtIQXkzbUVWSnRsX0kxZEpWdmhXWDE?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 10:18:04 GMT"
   }
  ],
  "initialized": true,
