@@ -1302,7 +1302,8 @@
   "news:23ddca9e68093803": 1790911598,
   "news:0a120e5f9e1fe61b": 1790912879,
   "news:6da1aab92a3868dd": 1790912880,
-  "news:ae61f9ada0835735": 1790912880
+  "news:ae61f9ada0835735": 1790912880,
+  "news:1878832664f4a0e7": 1790913703
  },
  "stories": {
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
@@ -1430,7 +1431,8 @@
   "[애큐온캐피탈 M&A] 경영권만 챙기고 부담 나눴다…한화생명의 인수 셈법": 1790911598,
   "삼성생명, 호텔신라 주식 1219주 늘려": 1790911598,
   "교보생명, 스테이블코인 ‘보험 접목’ 시동…SBI·서클과 손잡았다": 1790912880,
-  "교보생명, 디지털 금융 사업 확대 논의…SBI·서클·비댁스와 협력 By 알파경제 alphabiz": 1790912880
+  "교보생명, 디지털 금융 사업 확대 논의…SBI·서클·비댁스와 협력 By 알파경제 alphabiz": 1790912880,
+  "한화생명, '애큐온캐피탈' 인수로 금융시너지 확장 가속화...국내·외 M&A '광폭행보' 업계 이목 집중": 1790913703
  },
  "news_queue": [
   {
@@ -1692,6 +1694,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aYVVYTGtvWmt0VGQzR283aGtGMmxVZllBSkZKVC1zY1l5b3pyT0x0OXRoamNlTE1ITGFqUmM0R2NScWl4Nk4tTi1BQzVkZmdYZ1R2S3lhbUtkQjZXN2FkTzkwOGwyQjY2dU50cjdZUkI?oc=5",
    "sort_key": "Fri, 02 Oct 2026 03:35:00 GMT"
+  },
+  {
+   "id": "news:1878832664f4a0e7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, '애큐온캐피탈' 인수로 금융시너지 확장 가속화...국내·외 M&A '광폭행보' 업계 이목 집중",
+   "source": "녹색경제신문",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRlBfTGhJODMtSHpMYS1uY0xfbDFFc2NFWlVVN0N4U2RyWU1IR1NoVHlOMWhVeTdqRXAwR2ktMzU2OFpjTzRISXZNWHJXZ0piejJnUkhnVFB2ZGQzQ2pnUEwwNktvNGtP?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 03:56:00 GMT"
   }
  ],
  "initialized": true,
