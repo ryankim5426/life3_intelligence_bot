@@ -1322,7 +1322,9 @@
   "news:58a363f280ba08de": 1790925622,
   "news:2b66536d4aec2058": 1790925622,
   "news:aef129eb2b60eea9": 1790925622,
-  "news:089c6c45fd3bea90": 1790927169
+  "news:089c6c45fd3bea90": 1790927169,
+  "news:1ba148bcb3925bec": 1790928080,
+  "news:a91aebc5411aee8d": 1790928080
  },
  "stories": {
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
@@ -1461,7 +1463,8 @@
   "교보생명, 스테이블코인 실증 범위 확대": 1790922671,
   "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가": 1790925622,
   "[보험 NOW] 교보생명·농협생명": 1790925622,
-  "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169
+  "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169,
+  "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'": 1790928080
  },
  "news_queue": [
   {
@@ -1853,6 +1856,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZWp1WS12N2FUNzRhLUYtUWNHeXE5ZE85T2tMaUZDdnVjQ0F5UVFaVmJrSzM1VG9YcFhXZEpCeWNMTmVhMWhqV0k1cDZST0JvcGNtMDUwODFCVXdGdUh1WWVvb2l3M1A1YjMxTUtYWEk?oc=5",
    "sort_key": "Fri, 02 Oct 2026 07:36:38 GMT"
+  },
+  {
+   "id": "news:a91aebc5411aee8d",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'",
+   "source": "straightnews.co.kr",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93azRaNE1pSDRlY0FPWktJSm44WUpJQU9aaWtITzlwRXVoQ0RiM25pWWw5MUoxRXJOMzJjQXdBbXVVT3JRQ3ZzLXpYZldVTEVHSWhYTGFfTGVEdEZnNjJlVXNxaXhBREdsT3dVekdXZklRX2PSAXdBVV95cUxQMjV4UEhPWHc4Qlc1dXBhd2FIdXBlLUZTQXNYM1FhOFktV05XTlBSRF90YVgzMW5lby1UQ2dyUWlobXdNc0lzQW5TS1hzY204cnRHZVdyOHVNd1VWeGF6T0ZLWENpU1VZRHJxcHNKSE82eE5NV3lQWQ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 06:06:45 GMT"
   }
  ],
  "initialized": true,
