@@ -1312,7 +1312,9 @@
   "news:86c6d08ced28f1a3": 1790918727,
   "news:a380e05ea82ace48": 1790918727,
   "news:df51f42589778999": 1790918727,
-  "news:fde923758db3913b": 1790918727
+  "news:fde923758db3913b": 1790918727,
+  "news:6fbfd1a86ee34f57": 1790919931,
+  "news:b5ba051c1e9d8723": 1790919931
  },
  "stories": {
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
@@ -1445,7 +1447,9 @@
   "삼성생명·화재, 해외 금융사 투자 검토…“결정된 사항 없어”": 1790917292,
   "교보생명, 일본 SBI홀딩스 등과 스테이블코인·RWA 금융서비스 기술검증 협력 논의": 1790917292,
   "애큐온 품는 한화생명…신용등급 상향 기대·자본비율은 부담": 1790918727,
-  "교보생명, '온체인 금융' 시험대…스테이블코인·RWA 적용 본격 검토": 1790918727
+  "교보생명, '온체인 금융' 시험대…스테이블코인·RWA 적용 본격 검토": 1790918727,
+  "보험 밖으로 넓히는 한화생명…캐피탈 채우고 증권 키운다": 1790919931,
+  "\"블록체인 기반 금융서비스·신사업 발굴\" 교보생명, SBI홀딩스·서클·비댁스와 '맞손' |": 1790919931
  },
  "news_queue": [
   {
@@ -1767,6 +1771,26 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vX1lTd05MWmo0YmJYYi13UjE4ZjdEQkNhX05hbWd6TUNiem5aR29JVHlsdUN0ZWxaM1pNUXBCcVhSenNvYlUtOTZFZ1NFb0JjMVRKMS1lS0F5NnZPaGt5WUdEdkMyQU54Y0xtQWh5MzQ?oc=5",
    "sort_key": "Fri, 02 Oct 2026 05:10:08 GMT"
+  },
+  {
+   "id": "news:6fbfd1a86ee34f57",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "보험 밖으로 넓히는 한화생명…캐피탈 채우고 증권 키운다",
+   "source": "the-pr.co.kr",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UYlFWeTdaQW5wQzg2eXN5dVd1OVBiN1JrbmJkTWpMUU9nYWJ5M2NMNWNkcmpUR0ZaVmlfa2VGVldBUE1UX2kwY2VRTHhEQ2d2UGQxMFpjYTVRRGNzYVJZZThvSGYtOHpHeUHSAW5BVV95cUxNWnZLRzNpVHBySVI5MjF5ZDhmUkU0RWZKX0VLajhsVWkyVFFrTlZFTlNzWWU4MjF2T3hRQU4tZW80V29KOS1URGh0NkFXSDhLcDZHX0VHRURDQW5EanJ1QThkNzhwYjYtcVUzWGJtQQ?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 01:28:58 GMT"
+  },
+  {
+   "id": "news:b5ba051c1e9d8723",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"블록체인 기반 금융서비스·신사업 발굴\" 교보생명, SBI홀딩스·서클·비댁스와 '맞손' |",
+   "source": "catchnews.kr",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yckNZeDN6eXB5N19iakNiZmRNTkp1VFZkX1loYWdBaWlMTDZudzJLMjBvWVJud1JvTnZ1Wl9yOGt2VU1RdHVZWWxIeDM1bFNybUh6X1FTMUhZeHhpVk9pR05qT0lVYnRmNDRQTzdmZw?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 03:09:17 GMT"
   }
  ],
  "initialized": true,
