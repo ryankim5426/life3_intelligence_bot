@@ -1334,7 +1334,8 @@
   "news:705a5f74763de7da": 1790934521,
   "news:771448aa51f2f7d9": 1790936752,
   "news:3ca9a2c790bae529": 1790936752,
-  "news:69da7bd6bc11b1c7": 1790936752
+  "news:69da7bd6bc11b1c7": 1790936752,
+  "news:7d4c063f1017aee7": 1790945568
  },
  "stories": {
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
@@ -1477,7 +1478,8 @@
   "교보생명, 보험업무 넘어 결제·정산까지… 디지털자산 활용 확대": 1790934521,
   "교보생명 SBI홀딩스 서클과 '블록체인 협력'": 1790936752,
   "'완전체' 삼성생명에 대해 이야기한 모모나, \"기대가 된다\"": 1790936752,
-  "한화생명, 9400억 승부수…종합금융그룹 전환 속도": 1790936752
+  "한화생명, 9400억 승부수…종합금융그룹 전환 속도": 1790936752,
+  "교보생명, SBI·서클·비댁스와 디지털자산 금융 활용 논의": 1790945568
  },
  "news_queue": [
   {
@@ -1929,6 +1931,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZnoxSEcxa3Z4Z1VYVzgzTmx0aVh5eWNkeENwMDRSUHZKUHRPRE5zb2FVbWcxLUVNdWgwa1o5NHF4ZGppamJldFZEM1VscUtIQXkzbUVWSnRsX0kxZEpWdmhXWDE?oc=5",
    "sort_key": "Fri, 02 Oct 2026 10:18:04 GMT"
+  },
+  {
+   "id": "news:7d4c063f1017aee7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI·서클·비댁스와 디지털자산 금융 활용 논의",
+   "source": "코리아리포트",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aYkpDODU5T2kwaHl5YXNoQ0dlbFJPbUZuclhRRVhEMFpCbWVNOEliXzAtT2tBSEl2TTQzcjFWMjJrUXVNVnA5OE4wcklPQzZoYW1zelRRa0NQcjVOUlBJSVZrRWQ4ck03bFlMQmlmcXc?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 12:33:37 GMT"
   }
  ],
  "initialized": true,
