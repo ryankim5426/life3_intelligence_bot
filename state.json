@@ -1303,7 +1303,9 @@
   "news:0a120e5f9e1fe61b": 1790912879,
   "news:6da1aab92a3868dd": 1790912880,
   "news:ae61f9ada0835735": 1790912880,
-  "news:1878832664f4a0e7": 1790913703
+  "news:1878832664f4a0e7": 1790913703,
+  "news:abec4f660a0dea46": 1790915213,
+  "news:e3ce6be83ec50648": 1790915213
  },
  "stories": {
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
@@ -1432,7 +1434,8 @@
   "삼성생명, 호텔신라 주식 1219주 늘려": 1790911598,
   "교보생명, 스테이블코인 ‘보험 접목’ 시동…SBI·서클과 손잡았다": 1790912880,
   "교보생명, 디지털 금융 사업 확대 논의…SBI·서클·비댁스와 협력 By 알파경제 alphabiz": 1790912880,
-  "한화생명, '애큐온캐피탈' 인수로 금융시너지 확장 가속화...국내·외 M&A '광폭행보' 업계 이목 집중": 1790913703
+  "한화생명, '애큐온캐피탈' 인수로 금융시너지 확장 가속화...국내·외 M&A '광폭행보' 업계 이목 집중": 1790913703,
+  "한금서 김국진의 최우선 과제···한화생명 '과의존' 탈피": 1790915213
  },
  "news_queue": [
   {
@@ -1704,6 +1707,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRlBfTGhJODMtSHpMYS1uY0xfbDFFc2NFWlVVN0N4U2RyWU1IR1NoVHlOMWhVeTdqRXAwR2ktMzU2OFpjTzRISXZNWHJXZ0piejJnUkhnVFB2ZGQzQ2pnUEwwNktvNGtP?oc=5",
    "sort_key": "Fri, 02 Oct 2026 03:56:00 GMT"
+  },
+  {
+   "id": "news:e3ce6be83ec50648",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한금서 김국진의 최우선 과제···한화생명 '과의존' 탈피",
+   "source": "뉴스웨이",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWUZVRE9PUnZtZlRtYzI0VmtHcWZwY1FPMGduMkZ1U1hFaXM0dS0yN0I0cEE4RU5jMUNNdTI2OXpINlFCSXNCSzFQLTF4UGxoU09Fb0hnTDVzbXR0WXhoU2RhUGZpc0JldHc?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 04:04:55 GMT"
   }
  ],
  "initialized": true,
