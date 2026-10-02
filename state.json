@@ -1286,7 +1286,9 @@
   "news:ce7ebbf568a5a7f2": 1790904424,
   "news:06aaff9030ef304a": 1790905598,
   "news:1b16e860bb621a84": 1790905599,
-  "news:8d57a2ee837a9eb2": 1790905599
+  "news:8d57a2ee837a9eb2": 1790905599,
+  "news:c2ce2eede8690e6b": 1790906502,
+  "news:881e2070921c0de2": 1790906502
  },
  "stories": {
   "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박": 1790648349,
@@ -1405,7 +1407,8 @@
   "“스테이블코인·RWA, 실물 금융 속으로”… 교보생명, SBI홀딩스·서클·비댁스와 ‘디지털 금융 영토’ 넓힌다": 1790904424,
   "교보생명, 스테이블코인·RWA 금융사업화 시동": 1790904424,
   "교보생명, SBI·서클과 손잡고 '디지털자산 신사업' 시동": 1790905599,
-  "교보생명, SBI·서클과 스테이블코인 실증 논의": 1790905599
+  "교보생명, SBI·서클과 스테이블코인 실증 논의": 1790905599,
+  "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제": 1790906502
  },
  "news_queue": [
   {
@@ -1547,6 +1550,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aWhiOF9Cal9RNXI4Z1liMllyVEhKY0pGTzNZeEpmTUJYMzNpNk5WWWxTZHRNVy1kVVNOZENkX2tWbkJxU0RiRmlDWlNCeHdONVQ3N2RCWUd4Z9IBWEFVX3lxTE91bVJRY3JLTGRWREJ4MWFBbzNmYkdFXzQ4djItS1VJRm12NVo4RVhLX2I5SV9tUWJUSWZwWFJyc1lrek1EdVJRbmQtYnV5cEozUmY5a0RNNl8?oc=5",
    "sort_key": "Fri, 02 Oct 2026 01:28:15 GMT"
+  },
+  {
+   "id": "news:881e2070921c0de2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제",
+   "source": "에너지경제신문",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TUEdBNWQybFpUTWhTLTBjYVVSMlh5NExDd1FLMTV6c1VwM3JfZ1ZvZmVXbmJIdXphOU5GUkhqc3JTSU9NdnlNbVhjdDc2eUJaem8wTGx4RWlRWWlBTThhcmtGbw?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 01:03:27 GMT"
   }
  ],
  "initialized": true,
