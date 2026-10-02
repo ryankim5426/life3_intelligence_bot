@@ -1275,7 +1275,10 @@
   "news:14ba2137e2495f4e": 1790902179,
   "news:bf9da926ded8a628": 1790902179,
   "news:90035bdb2d959139": 1790902179,
-  "news:ec2f9cee72227c92": 1790902179
+  "news:ec2f9cee72227c92": 1790902179,
+  "news:9d4db3485367cc1c": 1790903152,
+  "news:0b38e7e7c26e106a": 1790903152,
+  "news:c7ffcaf7c31c2a42": 1790903152
  },
  "stories": {
   "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
@@ -1387,7 +1390,10 @@
   "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’": 1790900567,
   "한화생명 인비테이셔널 아시아 여자 주니어 대회 6일 개막": 1790902179,
   "[보험 밖 나가는 한화금융①] 한화생명, 캐피탈·저축은행 동시 확보…저축은행 판도 바꾸나": 1790902179,
-  "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토": 1790902179
+  "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토": 1790902179,
+  "교보생명, SBI·서클·비댁스와 ‘온체인 금융’ 협력": 1790903152,
+  "\"전통 금융과 온체인 생태계의 결합\"…교보생명, 글로벌 디지털 금융 영토 확장": 1790903152,
+  "교보생명, 디지털 금융 협력 확대… 스테이블코인·RWA 논의": 1790903152
  },
  "news_queue": [
   {
@@ -1449,6 +1455,36 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aX2k1aDBtTVNwSzhoN3R6VlFFZzVDUVdEbHZ5azFTeGhMSTdURld4QlVmUnhfMDJmQXdFMzlsT29QMVJpWWxfM3ZRaDdJUUx2RHpzbHRpRHFsWUh5TFM1a0dUakZxVXF6Nm9J?oc=5",
    "sort_key": "Fri, 02 Oct 2026 00:43:26 GMT"
+  },
+  {
+   "id": "news:9d4db3485367cc1c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI·서클·비댁스와 ‘온체인 금융’ 협력",
+   "source": "SR타임스",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HMklqSFZNeU16RG1JYk5MeXNHdTlFQ19veUVETGJHaFRFUXZIMWlQQWxrYzYtZEVlRV9XbnFtUDJyZExKWlRYdncwa0xqczBBRGM1V0JOd19iS2VPQzVNZUZHWXU1eTJ10gFrQVVfeXFMTk9YV3V4QzlyWDNwakFIdnRVNjlDQmhvNGxEYkFlR1lqWm5fNHBsU1JIY3B3SW1zQVNGNmtsZ1ByRVRfZk1fRHFXOG9RUGxwQ1JCLUJ3YWtUSGVWTFJQX2RHcFl3azladWZlTWc?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:45:46 GMT"
+  },
+  {
+   "id": "news:0b38e7e7c26e106a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"전통 금융과 온체인 생태계의 결합\"…교보생명, 글로벌 디지털 금융 영토 확장",
+   "source": "thefairnews.co.kr",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QVC1ZaGpaVTlDaHRSYTFJQk9NelZiZTdySmgxWjZhaGtORHV0NVJ1Tm8wT0dTVVdNMEFQdUNsa2I4TG0tZUpOal9SMDV5TzBXRC10a29sTkZQM3BMVVItT29ubG85ZzZIZXFwNTZPMmk?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:52:11 GMT"
+  },
+  {
+   "id": "news:c7ffcaf7c31c2a42",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 디지털 금융 협력 확대… 스테이블코인·RWA 논의",
+   "source": "비즈니스리포트",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Q1Exa2hjc3FlSkFRYzB6b1hDbmI3QW1SWFJmUnYyaHJUVF9sZzd4Z1YtS1VqVjJxZzFaUktDU08xbUZVTXg1NVM1VGVydF84SF9QWGI1QnZkS0Z6VEJjVDVzWExBejNIMnI5dTNZcw?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:59:27 GMT"
   }
  ],
  "initialized": true,
