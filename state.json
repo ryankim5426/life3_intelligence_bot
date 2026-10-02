@@ -1318,10 +1318,12 @@
   "news:0d1aa18d69767167": 1790920823,
   "news:9403a6e07a88ce60": 1790920823,
   "news:51a6f5110d39dd26": 1790922671,
-  "news:d5d075d286ee0281": 1790924209
+  "news:d5d075d286ee0281": 1790924209,
+  "news:58a363f280ba08de": 1790925622,
+  "news:2b66536d4aec2058": 1790925622,
+  "news:aef129eb2b60eea9": 1790925622
  },
  "stories": {
-  "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
   "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
@@ -1455,7 +1457,9 @@
   "보험 밖으로 넓히는 한화생명…캐피탈 채우고 증권 키운다": 1790919931,
   "\"블록체인 기반 금융서비스·신사업 발굴\" 교보생명, SBI홀딩스·서클·비댁스와 '맞손' |": 1790919931,
   "보험도 ‘온체인’ 시대로…교보생명, 스테이블코인 사업 시동": 1790920823,
-  "교보생명, 스테이블코인 실증 범위 확대": 1790922671
+  "교보생명, 스테이블코인 실증 범위 확대": 1790922671,
+  "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가": 1790925622,
+  "[보험 NOW] 교보생명·농협생명": 1790925622
  },
  "news_queue": [
   {
@@ -1817,6 +1821,26 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lNFRodk9MSU9PX0drbU43SHFvTnVNRlZmVTM0OVRoMWtFNlVwTXFLOE1oaTRhMTBjbUxjdlBCU25XSUpKV2psSkZpelZheC1IMUMxbE5sc0U4UE92N19MbWJBeVpUV0JOcklJ?oc=5",
    "sort_key": "Fri, 02 Oct 2026 06:05:00 GMT"
+  },
+  {
+   "id": "news:2b66536d4aec2058",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가",
+   "source": "디지털투데이",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfcDVKazJXMk1jSko1RzgzUHNrd1pCT0llMVhsZXFRa0R6T3NiR2xxQXhkekR1cldGYUpyV3ltbklPbWpuSXpwSDFxa1pSWDlKejZvQ05zSFRlWmlUZVJCQ05KLVZ1Y19IWmhVNVV2YTVIR1l6Ujg5M2pMcw?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 06:53:12 GMT"
+  },
+  {
+   "id": "news:aef129eb2b60eea9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험 NOW] 교보생명·농협생명",
+   "source": "위키리크스한국",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVUhrTk9IM3UwYzNCXzF0ak85N3lGSVBuY29DbUJNejl4SVdwRjhRUGk0UU1TaFdGN1dNOVN4YXBRck1zZmNRck5qRklPdkRMNUFNS2NIVjZNSXJ0TEIyaU9oSzVsamN4azNBVWRLVGM?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 07:18:16 GMT"
   }
  ],
  "initialized": true,
