@@ -1336,7 +1336,8 @@
   "news:3ca9a2c790bae529": 1790936752,
   "news:69da7bd6bc11b1c7": 1790936752,
   "news:7d4c063f1017aee7": 1790945568,
-  "news:fb7e69a59b7fa62b": 1790947077
+  "news:fb7e69a59b7fa62b": 1790947077,
+  "news:e2df04231999d26c": 1790954931
  },
  "stories": {
   "삼성생명, 보험 '복잡성' 줄이고 AI로 '쉬운 보험' 승부수": 1790695804,
@@ -1481,7 +1482,8 @@
   "'완전체' 삼성생명에 대해 이야기한 모모나, \"기대가 된다\"": 1790936752,
   "한화생명, 9400억 승부수…종합금융그룹 전환 속도": 1790936752,
   "교보생명, SBI·서클·비댁스와 디지털자산 금융 활용 논의": 1790945568,
-  "교보생명, 스테이블코인·RWA 금융 적용 모색…글로벌 협력 강화": 1790947077
+  "교보생명, 스테이블코인·RWA 금융 적용 모색…글로벌 협력 강화": 1790947077,
+  "[주간사모펀드] EQT 팔고 한화생명·센트로이드 산다…애큐온 새판": 1790954931
  },
  "news_queue": [
   {
@@ -1953,6 +1955,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8weENrbWl4MXVtSEU2eURoTkpuVm5ScjlZampkWmEtN1FYand6WXRjT1Z6ZlBLaDdwMmg3Y1NRZ2dHbHV4VVp2SFViZmhDc2I2ZU96Z0p5ZXVjR1lBdjlmVXhxMGJ4Q1FH?oc=5",
    "sort_key": "Fri, 02 Oct 2026 13:03:08 GMT"
+  },
+  {
+   "id": "news:e2df04231999d26c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[주간사모펀드] EQT 팔고 한화생명·센트로이드 산다…애큐온 새판",
+   "source": "v.daum.net",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9COXdGZHRIRE4xNG5BeUZoam1TWWlQTzYtUWNTZklhdFd1SjAyUGp3akVMckpxclBxa3dHVXplX2FULTVMY3dKY245ZC1WMTA?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 15:02:14 GMT"
   }
  ],
  "initialized": true,
