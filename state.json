@@ -1321,7 +1321,8 @@
   "news:d5d075d286ee0281": 1790924209,
   "news:58a363f280ba08de": 1790925622,
   "news:2b66536d4aec2058": 1790925622,
-  "news:aef129eb2b60eea9": 1790925622
+  "news:aef129eb2b60eea9": 1790925622,
+  "news:089c6c45fd3bea90": 1790927169
  },
  "stories": {
   "SBI저축은행, 13년 만에 간판 바꾼다…교보생명 DNA 이식": 1790668967,
@@ -1459,7 +1460,8 @@
   "보험도 ‘온체인’ 시대로…교보생명, 스테이블코인 사업 시동": 1790920823,
   "교보생명, 스테이블코인 실증 범위 확대": 1790922671,
   "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가": 1790925622,
-  "[보험 NOW] 교보생명·농협생명": 1790925622
+  "[보험 NOW] 교보생명·농협생명": 1790925622,
+  "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169
  },
  "news_queue": [
   {
@@ -1841,6 +1843,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVUhrTk9IM3UwYzNCXzF0ak85N3lGSVBuY29DbUJNejl4SVdwRjhRUGk0UU1TaFdGN1dNOVN4YXBRck1zZmNRck5qRklPdkRMNUFNS2NIVjZNSXJ0TEIyaU9oSzVsamN4azNBVWRLVGM?oc=5",
    "sort_key": "Fri, 02 Oct 2026 07:18:16 GMT"
+  },
+  {
+   "id": "news:089c6c45fd3bea90",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대",
+   "source": "데이터투자",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZWp1WS12N2FUNzRhLUYtUWNHeXE5ZE85T2tMaUZDdnVjQ0F5UVFaVmJrSzM1VG9YcFhXZEpCeWNMTmVhMWhqV0k1cDZST0JvcGNtMDUwODFCVXdGdUh1WWVvb2l3M1A1YjMxTUtYWEk?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 07:36:38 GMT"
   }
  ],
  "initialized": true,
