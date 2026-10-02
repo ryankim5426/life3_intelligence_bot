@@ -1324,7 +1324,10 @@
   "news:aef129eb2b60eea9": 1790925622,
   "news:089c6c45fd3bea90": 1790927169,
   "news:1ba148bcb3925bec": 1790928080,
-  "news:a91aebc5411aee8d": 1790928080
+  "news:a91aebc5411aee8d": 1790928080,
+  "news:7d1310ccb6d9cb3f": 1790930881,
+  "news:1c40180eb075c089": 1790930881,
+  "news:02698fc7cf82ce37": 1790930881
  },
  "stories": {
   "한화생명, 확인된 악재 없이 소폭 하락 마감 5,800원 : 기업주식정보": 1790676224,
@@ -1463,7 +1466,8 @@
   "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가": 1790925622,
   "[보험 NOW] 교보생명·농협생명": 1790925622,
   "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169,
-  "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'": 1790928080
+  "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'": 1790928080,
+  "\"보험·증권도 온체인으로\"…교보생명, SBI·서클과 '블록체인 금융' 맞손": 1790930881
  },
  "news_queue": [
   {
@@ -1865,6 +1869,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93azRaNE1pSDRlY0FPWktJSm44WUpJQU9aaWtITzlwRXVoQ0RiM25pWWw5MUoxRXJOMzJjQXdBbXVVT3JRQ3ZzLXpYZldVTEVHSWhYTGFfTGVEdEZnNjJlVXNxaXhBREdsT3dVekdXZklRX2PSAXdBVV95cUxQMjV4UEhPWHc4Qlc1dXBhd2FIdXBlLUZTQXNYM1FhOFktV05XTlBSRF90YVgzMW5lby1UQ2dyUWlobXdNc0lzQW5TS1hzY204cnRHZVdyOHVNd1VWeGF6T0ZLWENpU1VZRHJxcHNKSE82eE5NV3lQWQ?oc=5",
    "sort_key": "Fri, 02 Oct 2026 06:06:45 GMT"
+  },
+  {
+   "id": "news:02698fc7cf82ce37",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "\"보험·증권도 온체인으로\"…교보생명, SBI·서클과 '블록체인 금융' 맞손",
+   "source": "글로벌에픽",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FdXNDc2lNMXE1b0RUY09sZl9ycEh5Sm85VHg1LVR2Q0tPSWxqQm1MSHozUGltZG81c05XbWdZU2t5cG4tcWktMEtSMUNzWFZCM05pZXlBNTVRVjNBTmptWFIwWlA4RzhEaHpZaW14M0U5TnRiOXVWSVVHTUE?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 01:09:37 GMT"
   }
  ],
  "initialized": true,
