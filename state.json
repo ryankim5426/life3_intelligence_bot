@@ -1271,7 +1271,11 @@
   "news:e93e9dff2286e6b2": 1790898690,
   "news:045365db3f81b742": 1790898690,
   "news:c0f1ced641d3e492": 1790900567,
-  "news:50f3fd0b73110230": 1790900567
+  "news:50f3fd0b73110230": 1790900567,
+  "news:14ba2137e2495f4e": 1790902179,
+  "news:bf9da926ded8a628": 1790902179,
+  "news:90035bdb2d959139": 1790902179,
+  "news:ec2f9cee72227c92": 1790902179
  },
  "stories": {
   "인니서 한화생명 계열·OK금융銀, 현지 결제 인프라 기업과 맞손": 1790645043,
@@ -1380,7 +1384,10 @@
   "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394,
   "한화생명, 김동원 표 금융 영토 본격화…“종투사 까지 목표”": 1790898690,
   "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략": 1790898690,
-  "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’": 1790900567
+  "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’": 1790900567,
+  "한화생명 인비테이셔널 아시아 여자 주니어 대회 6일 개막": 1790902179,
+  "[보험 밖 나가는 한화금융①] 한화생명, 캐피탈·저축은행 동시 확보…저축은행 판도 바꾸나": 1790902179,
+  "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토": 1790902179
  },
  "news_queue": [
   {
@@ -1412,6 +1419,36 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5udDR6d3l5TlRveXQyZ0hpcm1YSmxSS1ZDUXNtWFZxWjdWZDlxZElDTDI0NllSSm44UjczOTZvdEQ2eENvbm9NMDJJSlduOVA0WWUtXzRiNW5qSE9iYk9kN2FRQ0k?oc=5",
    "sort_key": "Fri, 02 Oct 2026 00:01:33 GMT"
+  },
+  {
+   "id": "news:bf9da926ded8a628",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 인비테이셔널 아시아 여자 주니어 대회 6일 개막",
+   "source": "데일리안",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ3dGR01HVHlsb2V2ZXFxVlZWWEVtaG04ekdua3RoRVBJT0drOXN2SDU3RGh4SW1aTkpqNVJDdzZnY19NRUhSeVJRbFJ3WmxRZEljaHVpX2Jzd0VvUS1zSmZUeFVQc3NHZGF3Tll2T25tcmwya3RZYnhkNGFVbDJoX25GeHN1bVlOc1ppaDNUaTU1RWNua0NMNXQ0a3JCWi10SlhUejlSZmdCTXJHUUhVRURTcC1KMmhYbkswT1hNQWVBeTlhVEcyY1lmM3djTEN0Y1I1NGRkOFNjWFNmZ1V3cjNlSy1QaGxqQ2R3WEc4djdWTDljQTVtSUs5V2xnMmJqQlEyb0dtYjFOY3V6TEZ1eE5Bei1OTzNxdzZxVWZrZk4zVWs?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:22:00 GMT"
+  },
+  {
+   "id": "news:90035bdb2d959139",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[보험 밖 나가는 한화금융①] 한화생명, 캐피탈·저축은행 동시 확보…저축은행 판도 바꾸나",
+   "source": "뉴스저널리즘",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zblcycjR1U3dad2pISXV2NENoRmhYclBXTVlFNDhJTjBZampQekFCUHNQQVU0OXVmLW01azgtYjIzSXpkTXdSb1lHZmZPczZucXRQNlBXeDI1Qm5kNnNtb1h1cEtMTGRYTXNR?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:42:18 GMT"
+  },
+  {
+   "id": "news:ec2f9cee72227c92",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토",
+   "source": "뉴스저널리즘",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aX2k1aDBtTVNwSzhoN3R6VlFFZzVDUVdEbHZ5azFTeGhMSTdURld4QlVmUnhfMDJmQXdFMzlsT29QMVJpWWxfM3ZRaDdJUUx2RHpzbHRpRHFsWUh5TFM1a0dUakZxVXF6Nm9J?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 00:43:26 GMT"
   }
  ],
  "initialized": true,
