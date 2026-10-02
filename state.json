@@ -1290,10 +1290,11 @@
   "news:c2ce2eede8690e6b": 1790906502,
   "news:881e2070921c0de2": 1790906502,
   "news:b0a00c6cbbe43110": 1790907883,
-  "news:6b18518202a9fe91": 1790907883
+  "news:6b18518202a9fe91": 1790907883,
+  "news:29a84d51782b7e23": 1790909062,
+  "news:e9fa93cc57e8d0f9": 1790909063
  },
  "stories": {
-  "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 ‘교보SBI저축은행’": 1790649355,
   "[줌인] 18년 합작 끝낸 교보생명…자산운용 100% 품고 ETF·퇴직연금 키운다": 1790650349,
   "교보라이프플래닛, 13년 적자 끝 법인 해산…교보생명에 흡수": 1790656518,
   "교보라플 합병 앞둔 교보생명…우려 떨친 자본건전성 200% '양호'": 1790665378,
@@ -1410,7 +1411,8 @@
   "교보생명, SBI·서클과 손잡고 '디지털자산 신사업' 시동": 1790905599,
   "교보생명, SBI·서클과 스테이블코인 실증 논의": 1790905599,
   "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제": 1790906502,
-  "호텔신라, 최대주주 삼성생명보험 등 주식 1219주 증가…삼성생명보험 특별계정 장내매수 영향": 1790907883
+  "호텔신라, 최대주주 삼성생명보험 등 주식 1219주 증가…삼성생명보험 특별계정 장내매수 영향": 1790907883,
+  "삼성생명·화재, 英·美 보험사 투자·인수 ‘저울질’…연말까지 검토": 1790909063
  },
  "news_queue": [
   {
@@ -1572,6 +1574,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85UkhEcE1fNG1qYV9nNUw4WlRIZHNhSHJPZ2VTenFQTVVDb3VtOUY3dWhtWUIxandoZUJrWmZuci12LWpCZnZpWk95X21neEt5TGpINDAtVnVhSmhjR0kwbzVGNEI0LWxKeFhjbkdJaFRYN3RRY0F1eGktMA?oc=5",
    "sort_key": "Fri, 02 Oct 2026 02:11:05 GMT"
+  },
+  {
+   "id": "news:e9fa93cc57e8d0f9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재, 英·美 보험사 투자·인수 ‘저울질’…연말까지 검토",
+   "source": "디지털데일리",
+   "date": "Fri, 02 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1bnpOWGZVOHVlNktGcERhS09TSzNXV0pqQ05nTHBqRjNyY3dCS2N0MGdhRXRxbjZib3RiaWtuT0RlVlFYZzRHQjVBbmJGZjBBd2paeVlqSldiZG1WZGdQbW5pVHk?oc=5",
+   "sort_key": "Fri, 02 Oct 2026 02:28:01 GMT"
   }
  ],
  "initialized": true,
