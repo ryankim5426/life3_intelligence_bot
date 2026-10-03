@@ -1343,14 +1343,13 @@
   "news:f37326b2cbcc44fe": 1790981552,
   "news:80465881ee5ca464": 1791001704,
   "news:3c2c2ef2aa374186": 1791010732,
-  "news:bff05040ee9efdaa": 1791013554
+  "news:bff05040ee9efdaa": 1791013554,
+  "news:151d673dabdb9192": 1791019569,
+  "news:562484093aa97308": 1791019569,
+  "news:c6501bd0df68c83a": 1791019569,
+  "news:04c0bd280047263a": 1791019569
  },
  "stories": {
-  "한화생명, 애큐온캐피탈 인수…저축銀도 손자회사 편입": 1790759988,
-  "김동원 금융영토 또 넓혔다 … 한화생명, 애큐온캐피탈 인수 본계약": 1790759988,
-  "한화생명, 애큐온 4400억 인수…종합금융 속도": 1790759988,
-  "애큐온 품는 한화생명…'종합금융그룹' 도약 본격화": 1790759988,
-  "한화생명, 애큐온캐피탈·저축은행 품었다…경영권 인수 이사회 의결": 1790759988,
   "한화생명, 애큐온 인수…\"종합금융그룹 도약 '한화금융' 시너지 확장\"": 1790762303,
   "애큐온 품고 증권에 2500억…한화생명 '종합금융' 퍼즐 맞춘다": 1790762303,
   "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711,
@@ -1462,7 +1461,11 @@
   "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565,
   "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552,
   "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704,
-  "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI": 1791010732
+  "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI": 1791010732,
+  "삼성생명, 허윤자 500G 출전 기념 이벤트 실시… 한정판 티셔츠도 판매": 1791019569,
+  "[26박신자컵] ‘초전박살’ 3점슛 신기록 세운 삼성생명, 첫 출전한 캐나다 팀에 한 수 지도": 1791019569,
+  "[26 박신자컵] ‘삼성생명이 달라졌어요!’ 3점슛 23개 융단폭격, 칼튼대학교 완파": 1791019569,
+  "[26박신자컵] 초반부터 압도한 삼성생명, 칼튼대학교 완파": 1791019569
  },
  "news_queue": [
   {
@@ -1484,6 +1487,46 @@
    "date": "Thu, 01 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2TFFzNzZ1QmdyZ0czY29LT2VZUmo5LWx2M09TQkV0TE9Nak9WSE9Rc1k1bl9LaEo0NTgxY0x5ZEs0RXhvN2xFOS1SWXRRMDNsS1U2MFlSMUVyS0E?oc=5",
    "sort_key": "Thu, 01 Oct 2026 22:43:54 GMT"
+  },
+  {
+   "id": "news:151d673dabdb9192",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 허윤자 500G 출전 기념 이벤트 실시… 한정판 티셔츠도 판매",
+   "source": "점프볼",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wQXlCdDJjczNJS2wtdWV2NWc4UnhMdkh2V1lnTGtaUnBxMUtqcDgtVm9rSU5UbHliNmUzSzVPQVZJNHMxLTBINy1YTERMMVU5a194bzFVVjYybVp4U29qT0dDWWZxYWpseThYM3kwOUktY01wcEE?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 03:30:25 GMT"
+  },
+  {
+   "id": "news:562484093aa97308",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26박신자컵] ‘초전박살’ 3점슛 신기록 세운 삼성생명, 첫 출전한 캐나다 팀에 한 수 지도",
+   "source": "점프볼",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12dW9hQkU4NFZwT1lSMlk5SXFPSlVuZV9qcWthOVE1aHBQNHRoWnQ0cTBLZzBPNnU3R0FMbWE2SjdSUE1DQ09Sb1o3eXdDYjN4WXZBRHN2QkdVN18xdWdtWjJvVk1uMXBFTnFRVkMyTGlUdDJa?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 09:05:44 GMT"
+  },
+  {
+   "id": "news:c6501bd0df68c83a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26 박신자컵] ‘삼성생명이 달라졌어요!’ 3점슛 23개 융단폭격, 칼튼대학교 완파",
+   "source": "basketkorea.com",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MRTVLRmxBUHQ5cE9sM1d4dTVMNVVLNzJ6OWc5SlpGU2ZOSWxkNnFUTFdNSDh2dnM5bWhZTkJuV2d3NWo1Uk5sTHE3bkxDbkV3dWtKQ3hCSEhkWDFqZkdwcURSOXRXYWV4ZEN4RHdmOTd1aWRXUFlF?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 09:12:53 GMT"
+  },
+  {
+   "id": "news:04c0bd280047263a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26박신자컵] 초반부터 압도한 삼성생명, 칼튼대학교 완파",
+   "source": "rookie.co.kr",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNTlvY3FkWFpZQ1M2aG9CZndNQW82SGlfT1RWRldrcGVWemIwMkVVUUtCbE1mamtaNlhLMUhhR2ZLQmVsSHNCMlBQNE13V0MzREhYMkNzcUZjOXZUT2MtVEhySmFRU21GZ3c?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 09:15:53 GMT"
   }
  ],
  "initialized": true,
