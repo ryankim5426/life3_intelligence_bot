@@ -1341,7 +1341,8 @@
   "news:d1f7347ee150b786": 1790956222,
   "news:c73d65d35c43fae3": 1790968565,
   "news:f37326b2cbcc44fe": 1790981552,
-  "news:80465881ee5ca464": 1791001704
+  "news:80465881ee5ca464": 1791001704,
+  "news:3c2c2ef2aa374186": 1791010732
  },
  "stories": {
   "한화생명, 애큐온캐피탈·저축은행 품는다…종합금융 포트폴리오 확장": 1790752031,
@@ -1478,7 +1479,8 @@
   "[주간사모펀드] EQT 팔고 한화생명·센트로이드 산다…애큐온 새판": 1790954931,
   "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565,
   "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552,
-  "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704
+  "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704,
+  "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI": 1791010732
  },
  "news_queue": [
   {
@@ -1490,6 +1492,16 @@
    "date": "Fri, 02 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GelVjSl93b2tGbXNjTm1RaVRxYjFsQnBnTjd2UDgwb3h6SmxEYkg3REpNWVQyVlluUy1HTlh6UEU2bUJaTkJGc3JCU3A0bWc?oc=5",
    "sort_key": "Fri, 02 Oct 2026 00:26:29 GMT"
+  },
+  {
+   "id": "news:3c2c2ef2aa374186",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI",
+   "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+   "date": "Thu, 01 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2TFFzNzZ1QmdyZ0czY29LT2VZUmo5LWx2M09TQkV0TE9Nak9WSE9Rc1k1bl9LaEo0NTgxY0x5ZEs0RXhvN2xFOS1SWXRRMDNsS1U2MFlSMUVyS0E?oc=5",
+   "sort_key": "Thu, 01 Oct 2026 22:43:54 GMT"
   }
  ],
  "initialized": true,
