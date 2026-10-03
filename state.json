@@ -1348,17 +1348,12 @@
   "news:562484093aa97308": 1791019569,
   "news:c6501bd0df68c83a": 1791019569,
   "news:04c0bd280047263a": 1791019569,
-  "news:89376adc42e29d5e": 1791020734
+  "news:89376adc42e29d5e": 1791020734,
+  "news:8781cb72a7489260": 1791038466,
+  "news:c693aea05d62e30e": 1791038466,
+  "news:e306c7c53b2f9290": 1791038466
  },
  "stories": {
-  "[금융계 동향] 새마을금고·KB금융그룹·교보생명": 1790763711,
-  "한화생명, 캐피탈 인수·증권 5000억 증자…종합금융 시너지(종합)": 1790765186,
-  "애큐온 품은 한화생명, ‘팔색조’ 포트폴리오 구축": 1790765186,
-  "한화생명, 애큐온캐피탈 품는다…저축은행 이어 증권에도 2500억 출자": 1790767483,
-  "[창립 19주년] 한화생명, 글로벌 조합금융그룹 도약": 1790771723,
-  "코스피, 약보합에 6800선 유지...SK스퀘어, LG에너지솔루션 상승 VS KB금융, 삼성생명 하락": 1790771723,
-  "[단독] 한화생명 자회사 GA 3곳 대표이사 전격 교체… 1년여 만의 ‘초강수’ 인사 단행": 1790775946,
-  "‘체급 키우고 판 흔든다’… 한화생명, 조 단위 승부수로 띄운 종합금융의 꿈": 1790778608,
   "한화생명볼파크 3000석 증설 ‘2만 관중 시대’ 연다": 1790781603,
   "한화생명, 애큐온캐피탈 품는다…보험 넘어 '종합금융' 속도": 1790795813,
   "애큐온캐피탈·저축銀 품는다… 한화생명, 종합금융그룹 도약 - 머니투데이": 1790795813,
@@ -1464,7 +1459,10 @@
   "삼성생명, 허윤자 500G 출전 기념 이벤트 실시… 한정판 티셔츠도 판매": 1791019569,
   "[26박신자컵] ‘초전박살’ 3점슛 신기록 세운 삼성생명, 첫 출전한 캐나다 팀에 한 수 지도": 1791019569,
   "[26 박신자컵] ‘삼성생명이 달라졌어요!’ 3점슛 23개 융단폭격, 칼튼대학교 완파": 1791019569,
-  "[26박신자컵] 초반부터 압도한 삼성생명, 칼튼대학교 완파": 1791019569
+  "[26박신자컵] 초반부터 압도한 삼성생명, 칼튼대학교 완파": 1791019569,
+  "[26 박신자컵] ‘한 경기 팀 최다 3점슛 23개 폭발’ 하상윤 삼성생명 감독, “세팅되기 전에 빠르게 슛을 던져야 한다”": 1791038466,
+  "[26박신자컵] ‘3점 8방’ 삼성생명 김아름 ”2개째부터 슛 감 좋다고 느꼈다“": 1791038466,
+  "[박신자컵] 박지수 빠진 KB, 후지쯔에 석패...신한은행과 삼성생명은 나란히 승리": 1791038466
  },
  "news_queue": [
   {
@@ -1526,6 +1524,36 @@
    "date": "Sat, 03 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNTlvY3FkWFpZQ1M2aG9CZndNQW82SGlfT1RWRldrcGVWemIwMkVVUUtCbE1mamtaNlhLMUhhR2ZLQmVsSHNCMlBQNE13V0MzREhYMkNzcUZjOXZUT2MtVEhySmFRU21GZ3c?oc=5",
    "sort_key": "Sat, 03 Oct 2026 09:15:53 GMT"
+  },
+  {
+   "id": "news:8781cb72a7489260",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26 박신자컵] ‘한 경기 팀 최다 3점슛 23개 폭발’ 하상윤 삼성생명 감독, “세팅되기 전에 빠르게 슛을 던져야 한다”",
+   "source": "바스켓코리아",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13MWdaQ3pxMVAyYTZfdnVickVmUnB2Yl95eHMxVjZtU2FXNUVrMWRxMnNuRDEwd1VYTEFkcUFPd2FpSGsxUlJQUy05WnR1VGc0WWJlTjl0NzZsbnBjX0dTSE9kSGp4TTNCd05qVXhIWVMtemJkUE1J?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 09:50:51 GMT"
+  },
+  {
+   "id": "news:c693aea05d62e30e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26박신자컵] ‘3점 8방’ 삼성생명 김아름 ”2개째부터 슛 감 좋다고 느꼈다“",
+   "source": "rookie.co.kr",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVEtYek1yZmRyaFY0b3p6SHo0UExYUm1kWklqZjFBcm9qY1JHWjRMLXpFZ0tqUnJEYWU3V2FWVklNOVlOc3ZmYTlxRzNfSEtxWDA4bGgyOWg2akRjREw4ZkNzSHdTM1k?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 09:55:10 GMT"
+  },
+  {
+   "id": "news:e306c7c53b2f9290",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[박신자컵] 박지수 빠진 KB, 후지쯔에 석패...신한은행과 삼성생명은 나란히 승리",
+   "source": "뉴스핌",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBURGRBOEZaX2gwQ2RQdUQ1bmtnQVZULU5HNmQ1eF8zQUpMV0tLZWk4UmVVcERoZXphNFJrcF9Rd0FXNVpZZzZyRjR3WkJxT1U4cFROcmNYQWJfQnhO?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 12:55:00 GMT"
   }
  ],
  "initialized": true,
