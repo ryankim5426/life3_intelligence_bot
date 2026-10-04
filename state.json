@@ -1356,10 +1356,10 @@
   "news:741b137b1fe204cd": 1791072130,
   "news:3cf1ac8a3bd9599d": 1791092844,
   "news:085f504a9ec496fa": 1791112867,
-  "news:4cbdf87a81d1750c": 1791112867
+  "news:4cbdf87a81d1750c": 1791112867,
+  "news:a6fc5a50a69461ac": 1791142187
  },
  "stories": {
-  "한화생명, 인도네시아서 미국·중동까지 해외사업 확대…신성장동력 확보": 1790874980,
   "[빅데이터로본다] 변액보험 2026년 10월 브랜드평판 랭킹... 1위 미래에셋생명 변액보험, 2위 삼성생명 변액보험, 3위 한화생명 변액보험": 1790891196,
   "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁": 1790895265,
   "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394,
@@ -1424,7 +1424,8 @@
   "[박신자컵] 박지수 빠진 KB, 후지쯔에 석패...신한은행과 삼성생명은 나란히 승리": 1791038466,
   "교보생명, ‘교보’로 묶고 금융의 폭을 넓힌다": 1791072130,
   "한화생명 볼파크 50번 째 매진": 1791112867,
-  "대전 한화생명볼파크 개천절 연휴에 매진": 1791112867
+  "대전 한화생명볼파크 개천절 연휴에 매진": 1791112867,
+  "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]": 1791142187
  },
  "news_queue": [
   {
@@ -1446,6 +1447,16 @@
    "date": "Sun, 04 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yb0czSk1UNGs3RkdfMjNEYkNrSHR4R1pSb1Q1T2pIa0pHZTlCcGhZSE85bGNWWUphQXJHSlIxdERVRTBjN3l1N0Nodw?oc=5",
    "sort_key": "Sun, 04 Oct 2026 07:47:58 GMT"
+  },
+  {
+   "id": "news:a6fc5a50a69461ac",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]",
+   "source": "쿠키뉴스",
+   "date": "Sat, 03 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oSGRyTzVCSktkbTlwTHc2d3FJNzc2RW5KTTY1a3hjd1R1djc5eHg4Tzl2bUVMTG03OWxtdVI5eDNSeVhVaWFza2xJc3VUeDJ1M0p0bkZUMUpjWjVHSUZfRDRiMA?oc=5",
+   "sort_key": "Sat, 03 Oct 2026 01:08:07 GMT"
   }
  ],
  "initialized": true,
