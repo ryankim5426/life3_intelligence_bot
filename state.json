@@ -1357,20 +1357,10 @@
   "news:3cf1ac8a3bd9599d": 1791092844,
   "news:085f504a9ec496fa": 1791112867,
   "news:4cbdf87a81d1750c": 1791112867,
-  "news:a6fc5a50a69461ac": 1791142187
+  "news:a6fc5a50a69461ac": 1791142187,
+  "news:2e456a505f16cf0a": 1791162752
  },
  "stories": {
-  "'보험사 넘어 금융그룹으로'…한화생명, 애큐온 품고 종합금융 경쟁": 1790895265,
-  "애큐온저축銀 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'": 1790896394,
-  "한화생명, 김동원 표 금융 영토 본격화…“종투사 까지 목표”": 1790898690,
-  "헤이핀, 서울사무소 열었다…삼성생명과 한국 기관 공략": 1790898690,
-  "한화생명, 순익 2배 늘었는데 배당은 언제…‘주주환원 딜레마’": 1790900567,
-  "한화생명 인비테이셔널 아시아 여자 주니어 대회 6일 개막": 1790902179,
-  "[보험 밖 나가는 한화금융①] 한화생명, 캐피탈·저축은행 동시 확보…저축은행 판도 바꾸나": 1790902179,
-  "[보험 밖 나가는 한화금융③] 여신 더한 한화생명…해외 M&A도 계속 검토": 1790902179,
-  "교보생명, SBI·서클·비댁스와 ‘온체인 금융’ 협력": 1790903152,
-  "\"전통 금융과 온체인 생태계의 결합\"…교보생명, 글로벌 디지털 금융 영토 확장": 1790903152,
-  "교보생명, 디지털 금융 협력 확대… 스테이블코인·RWA 논의": 1790903152,
   "교보생명, ‘전통 금융과 온체인의 결합’ 가속": 1790904424,
   "“스테이블코인·RWA, 실물 금융 속으로”… 교보생명, SBI홀딩스·서클·비댁스와 ‘디지털 금융 영토’ 넓힌다": 1790904424,
   "교보생명, 스테이블코인·RWA 금융사업화 시동": 1790904424,
@@ -1424,40 +1414,10 @@
   "교보생명, ‘교보’로 묶고 금융의 폭을 넓힌다": 1791072130,
   "한화생명 볼파크 50번 째 매진": 1791112867,
   "대전 한화생명볼파크 개천절 연휴에 매진": 1791112867,
-  "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]": 1791142187
+  "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]": 1791142187,
+  "라이언, G2 3-0 제압 ‘이변’…한화생명과 결승 진출 두고 맞대결 [MSI]": 1791162752
  },
- "news_queue": [
-  {
-   "id": "news:085f504a9ec496fa",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 볼파크 50번 째 매진",
-   "source": "news1.kr",
-   "date": "Sun, 04 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcTk1QjFabzBLeDI4SkdFRXBPZWtrbnQ1TGFadGV5WWV1LV9IUHpxQUt1aTRyUzJWYl9TcGhjMUxFTjVSc1FqU0RrSQ?oc=5",
-   "sort_key": "Sun, 04 Oct 2026 05:41:03 GMT"
-  },
-  {
-   "id": "news:4cbdf87a81d1750c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "대전 한화생명볼파크 개천절 연휴에 매진",
-   "source": "news1.kr",
-   "date": "Sun, 04 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yb0czSk1UNGs3RkdfMjNEYkNrSHR4R1pSb1Q1T2pIa0pHZTlCcGhZSE85bGNWWUphQXJHSlIxdERVRTBjN3l1N0Nodw?oc=5",
-   "sort_key": "Sun, 04 Oct 2026 07:47:58 GMT"
-  },
-  {
-   "id": "news:a6fc5a50a69461ac",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]",
-   "source": "쿠키뉴스",
-   "date": "Sat, 03 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oSGRyTzVCSktkbTlwTHc2d3FJNzc2RW5KTTY1a3hjd1R1djc5eHg4Tzl2bUVMTG03OWxtdVI5eDNSeVhVaWFza2xJc3VUeDJ1M0p0bkZUMUpjWjVHSUZfRDRiMA?oc=5",
-   "sort_key": "Sat, 03 Oct 2026 01:08:07 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-04"
+ "last_digest": "2026-10-05"
 }
