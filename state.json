@@ -1371,10 +1371,11 @@
   "news:95b25e112d791655": 1791216649,
   "news:50d820d0e2e1e3ec": 1791216649,
   "news:6f3290e1e83a703f": 1791216649,
-  "news:d017236830eeea4f": 1791216649
+  "news:d017236830eeea4f": 1791216649,
+  "news:aaa276bb80110f0e": 1791240329,
+  "news:018aa677a6dd0a54": 1791240329
  },
  "stories": {
-  "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565,
   "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552,
   "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704,
   "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI": 1791010732,
@@ -1402,7 +1403,9 @@
   "[핌in청주] 배혜윤 은퇴한 삼성생명, 하상윤 감독 \"3점슛 30개 이상 던져야\"": 1791216649,
   "디펜딩 챔프 일본의 후지쯔, 삼성생명 대파하며 박신자컵 2연승으로 조 선두 이어가": 1791216649,
   "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’": 1791216649,
-  "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다": 1791216649
+  "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다": 1791216649,
+  "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지형도]": 1791240329,
+  "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’": 1791240329
  },
  "news_queue": [
   {
@@ -1534,6 +1537,26 @@
    "date": "Mon, 05 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExrTG1IYlBFa3ZsN1Rkc1M5OXBYWWQxeUtTNUE5ZXpyZTRCQ0FjR2ZSdV9SV1FDM0VCT2VPS2N2bXhSWlQtUElnYzBYUE1pWENVSlAwdHItYl9Xa25idW5LNk56dHo2bnJhVmJQYThGRU1Bekt0bmpKaWFPN2IyWktodHB4dGFrSGdETWotWTR0aHZZeVBZ?oc=5",
    "sort_key": "Mon, 05 Oct 2026 15:55:52 GMT"
+  },
+  {
+   "id": "news:aaa276bb80110f0e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지형도]",
+   "source": "한국금융신문",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91RFJ4N1o1TEQxblgwWGJIZ2lQMVpib3RGV2c5UTI0bUMzSUR3WmNLM3BXNWU1ZmE5SnlzelVyaFlFSGxza2pwQXlXUVZUV0N5LUJxRV82S1BMOXloRlJIRVFPTUthVm1HSUlDeUpINzlWUGdZSVh4a0J0REw?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:018aa677a6dd0a54",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’",
+   "source": "소비자가 만드는 신문",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0cWctN1lSYkEzUjJ3RzAwbUFTSFhzb05mVFpWMDdYTmZNUVgzQU5NLWx2WnZKbkVTYnc5ZG5MOHBOQ1h6ZXZNTE43OW83LVl3bkVFVUdHaDdrY1o4UjBRQnMxSGxmMExGTzZwT0F5di1rR2s?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 21:10:00 GMT"
   }
  ],
  "initialized": true,
