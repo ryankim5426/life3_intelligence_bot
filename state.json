@@ -1364,21 +1364,16 @@
   "news:312d937dac54a5b7": 1791184336,
   "news:e49062ee44d5ea2d": 1791184336,
   "news:37018bb8c1c4e675": 1791184336,
-  "news:4aff8ef6f4d19fb4": 1791184336
+  "news:4aff8ef6f4d19fb4": 1791184336,
+  "news:7d4ebfa5899aa7b8": 1791216649,
+  "news:5343b66138faca06": 1791216649,
+  "news:12a534e84da111fd": 1791216649,
+  "news:95b25e112d791655": 1791216649,
+  "news:50d820d0e2e1e3ec": 1791216649,
+  "news:6f3290e1e83a703f": 1791216649,
+  "news:d017236830eeea4f": 1791216649
  },
  "stories": {
-  "한화생명보험, 주주 국민연금공단 측 주식등 보유 비율 1.06%p 증가": 1790925622,
-  "[보험 NOW] 교보생명·농협생명": 1790925622,
-  "국민연금공단 등, 한화생명 지분 6.63%로 1.06%포인트 확대": 1790927169,
-  "[금융맞수] 한화생명 vs 교보생명, 보험 밖 영토 확장…관건은 '수익화'": 1790928080,
-  "\"보험·증권도 온체인으로\"…교보생명, SBI·서클과 '블록체인 금융' 맞손": 1790930881,
-  "교보생명, 보험업무 넘어 결제·정산까지… 디지털자산 활용 확대": 1790934521,
-  "교보생명 SBI홀딩스 서클과 '블록체인 협력'": 1790936752,
-  "'완전체' 삼성생명에 대해 이야기한 모모나, \"기대가 된다\"": 1790936752,
-  "한화생명, 9400억 승부수…종합금융그룹 전환 속도": 1790936752,
-  "교보생명, SBI·서클·비댁스와 디지털자산 금융 활용 논의": 1790945568,
-  "교보생명, 스테이블코인·RWA 금융 적용 모색…글로벌 협력 강화": 1790947077,
-  "[주간사모펀드] EQT 팔고 한화생명·센트로이드 산다…애큐온 새판": 1790954931,
   "한화생명, 애큐온 품고 금융영역 확대…신용평가사, 계열 편입에 등급 '상향' 검토": 1790968565,
   "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552,
   "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704,
@@ -1400,7 +1395,14 @@
   "GA 1위 경쟁 뜨거워진다…한화생명금융·인카금융서비스 ‘각축전’": 1791184336,
   "[26박신자컵] ‘디펜딩 챔피언의 벽 높았다’ 2쿼터에 무너진 삼성생명, 후지쯔에 완패": 1791184336,
   "[박신자컵] ‘엔트리 전원 득점’ 후지쯔, 삼성생명 격파... A조 무패 행진 이어간다!": 1791184336,
-  "[26박신자컵] 3연패 향한 시동! 후지쯔, 삼성생명 꺾고 예선 2연승": 1791184336
+  "[26박신자컵] 3연패 향한 시동! 후지쯔, 삼성생명 꺾고 예선 2연승": 1791184336,
+  "한화생명, 설계사 치매 전문교육·장애인 고용 확대": 1791216649,
+  "[핌in청주] 후지쯔 14명 전원 득점, 삼성생명 제압…2연승 박신자컵 단독 선두": 1791216649,
+  "[26박신자컵] ‘3P 30개 이상 시도’ 삼성생명이 덧칠하는 새로운 색깔": 1791216649,
+  "[핌in청주] 배혜윤 은퇴한 삼성생명, 하상윤 감독 \"3점슛 30개 이상 던져야\"": 1791216649,
+  "디펜딩 챔프 일본의 후지쯔, 삼성생명 대파하며 박신자컵 2연승으로 조 선두 이어가": 1791216649,
+  "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’": 1791216649,
+  "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다": 1791216649
  },
  "news_queue": [
   {
@@ -1462,6 +1464,76 @@
    "date": "Mon, 05 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MTTVEN09RMmEtQ0ZEY2JDZzM5RFJpN3NyWXQ3OVhJU0NiUTdXUThDbEJDeWtjeGZteUc0cHZuT2Fmb1FOZWRNRkZCcnYybmowNmlXcmZoWXFTb29BazJhTGxtR2tMUFY3THc?oc=5",
    "sort_key": "Mon, 05 Oct 2026 06:48:05 GMT"
+  },
+  {
+   "id": "news:7d4ebfa5899aa7b8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 설계사 치매 전문교육·장애인 고용 확대",
+   "source": "웹이코노미",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrUk9iREh0M2l5ZGkzRUM4NUpMc3d6SlRUeTVVTzh3OXpjNUtqanNDWDBMckRnQlJFLVNSMGFhM3ZWUFJJVUg2blREaUZFQy00SC1UdDE0bDc2VkE1U014M0RibXRLVmI5eHRzZ09hOUlWdw?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 07:06:24 GMT"
+  },
+  {
+   "id": "news:5343b66138faca06",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[핌in청주] 후지쯔 14명 전원 득점, 삼성생명 제압…2연승 박신자컵 단독 선두",
+   "source": "뉴스핌",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZEh2V2NQNUQxbGFpcl9YUGNmMnJVLVZKSXNUc0ptMFA1dHpHRUdCWVRJSnRCczRkbHFmaEM5blJYQmRFWHNoYXRxWnV2NWh6TTBtTHFjRmViMHY1?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 07:13:00 GMT"
+  },
+  {
+   "id": "news:12a534e84da111fd",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26박신자컵] ‘3P 30개 이상 시도’ 삼성생명이 덧칠하는 새로운 색깔",
+   "source": "점프볼",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dnFqMlM3LUFNWkVWb0RqT2FrYnJrTUtJcnlSYV9QWjFCT2E2dzNUWmJvdm93Y3pPVEpYS21SODVPeWkzdWdaN2pFN1g5ZVBqNWpGekRuZndsVFMwaTB3S2dpTGdwWndSOGE0eFYwdWhRdTJ6?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 07:16:18 GMT"
+  },
+  {
+   "id": "news:95b25e112d791655",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[핌in청주] 배혜윤 은퇴한 삼성생명, 하상윤 감독 \"3점슛 30개 이상 던져야\"",
+   "source": "뉴스핌",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aY3Y1dlM4R3RjdEgwNzJGeDFEd2JOWnVxOVRVSnBzRTI1ZW9aUUswRm8zSDh0MFF6LTdIYWZQTU85MTJSMXVscG9nTTlyRzlMU213LVB3azNfVFdI?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 07:40:00 GMT"
+  },
+  {
+   "id": "news:50d820d0e2e1e3ec",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "디펜딩 챔프 일본의 후지쯔, 삼성생명 대파하며 박신자컵 2연승으로 조 선두 이어가",
+   "source": "조선일보",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORThGQUt3T242MFdPY09Cd0F2R1VWWlNQeUotSm0wUWJZQVdiMVp1REpVSzAzREdIZ0xrVF9GVGZ6WlVobVFPTzA2NlJpN0pzdUVvZllwSmxjY2RKY2FKbVFFOWRhQWJNUWRQVUNTUVpEVG5TR0NLNkRHd3RuX00xeUVjdi1SQQ?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 08:12:00 GMT"
+  },
+  {
+   "id": "news:6f3290e1e83a703f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’",
+   "source": "스포츠경향",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iOEVkWDZ3Vi1XWXExTl9kTFhQM1ZHYnpYcmtXVm02SGZBV3h4VnVwOHdXN2hudmFRbzM1a205NHY2STJGd2oxa2NzOG5JZ29DUFpQcnNnOWRFYXNVSm5teEdqd9IBY0FVX3lxTE9iOEVkWDZ3Vi1XWXExTl9kTFhQM1ZHYnpYcmtXVm02SGZBV3h4VnVwOHdXN2hudmFRbzM1a205NHY2STJGd2oxa2NzOG5JZ29DUFpQcnNnOWRFYXNVSm5teEdqdw?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 08:37:00 GMT"
+  },
+  {
+   "id": "news:d017236830eeea4f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다",
+   "source": "news.sbs.co.kr",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExrTG1IYlBFa3ZsN1Rkc1M5OXBYWWQxeUtTNUE5ZXpyZTRCQ0FjR2ZSdV9SV1FDM0VCT2VPS2N2bXhSWlQtUElnYzBYUE1pWENVSlAwdHItYl9Xa25idW5LNk56dHo2bnJhVmJQYThGRU1Bekt0bmpKaWFPN2IyWktodHB4dGFrSGdETWotWTR0aHZZeVBZ?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 15:55:52 GMT"
   }
  ],
  "initialized": true,
