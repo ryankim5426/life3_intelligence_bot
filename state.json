@@ -1373,10 +1373,14 @@
   "news:6f3290e1e83a703f": 1791216649,
   "news:d017236830eeea4f": 1791216649,
   "news:aaa276bb80110f0e": 1791240329,
-  "news:018aa677a6dd0a54": 1791240329
+  "news:018aa677a6dd0a54": 1791240329,
+  "news:4c1ecde6be29fdbe": 1791253947,
+  "news:e9e24b7059cd584d": 1791253947,
+  "news:f7ee1e29ad2622ac": 1791253947,
+  "news:d5b76b7d79fec2e1": 1791253947,
+  "news:fabf2365a4ba50ee": 1791253947
  },
  "stories": {
-  "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’이 관건": 1790981552,
   "[머니 취향템 연구소] 보험 들고 걸었더니 최대 67만원…삼성생명 'Care+' 설계해보니": 1791001704,
   "딜클로징 앞둔 ‘케이트윈타워’ 투자자 윤곽, 교직원공제회·경찰공제회·삼성생명 우선주 투자자로 참여 - SPI": 1791010732,
   "삼성생명, 허윤자 500G 출전 기념 이벤트 실시… 한정판 티셔츠도 판매": 1791019569,
@@ -1405,160 +1409,13 @@
   "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’": 1791216649,
   "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다": 1791216649,
   "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지형도]": 1791240329,
-  "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’": 1791240329
+  "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’": 1791240329,
+  "한화생명 편입에 한숨돌린 애큐온… 고금리 시름 덜어": 1791253947,
+  "\"엄마·아빠 일터서 명예사원증 목에 걸다\"…교보생명, '패밀리 데이'로 일·가정 양립 실천 |": 1791253947,
+  "부모 일터 방문한 ‘어린이 명예사원’…교보생명, 가족 초청 행사 열어": 1791253947,
+  "교보생명, 자녀에게 부모 일터 소개…73명 ‘패밀리 데이’": 1791253947
  },
- "news_queue": [
-  {
-   "id": "news:d3b76e02eea43228",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "‘亞 골프 미래’ 한자리에…한화생명 여자주니어 대회 6일 개막",
-   "source": "서울경제",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rQ1d3VGR5OHhoSUFPdDltRVhTRXJkWkxNaUVQY3k0RzlydVc2OUROWC1ybm5aMlBQWXEwRGMxbWVKN1NManBQbTJHOGNzRU5uaVHSAVNBVV95cUxNczJyTkVGNzJESTJvSDhHMmhPOWtKb1RRR050NjVvZmxNN0hELVVUcUVYeTdNcGJNM3JFTElaTzdZVlJGWHBURDFGWVhRa3NMeTNyZw?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 00:47:09 GMT"
-  },
-  {
-   "id": "news:d7bd40865fccd321",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, SBI·서클과 ‘온체인 금융’ 협력 모색, 보험·자산운용 연결한다",
-   "source": "비온미디어",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QUlhZbE1MZm5DWkpyYzQ1aG1oZXR5d0JVcjQ1b0RfV2tpZlRwbFdadUN2Y0Nna3NqRGdMWU1TaGthTEJqd1UxOHFpRWVpR2pXeDBvQ1Z5Yk1jcTlQU3BZNVpMZ0NORk9meUc00gFrQVVfeXFMTlBSWFlsTUxmbkNaSnJjNDVobWhldHl3QlVyNDVvRF9Xa2lmVHBsV1p1Q3ZjQ2drc2pEZ0xZTVNoa2FMQmp3VTE4cWlFZWlHald4MG9DVnliTWNxOVBTcFk1WkxnQ05GT2Z5RzQ?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 02:58:56 GMT"
-  },
-  {
-   "id": "news:312d937dac54a5b7",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "GA 1위 경쟁 뜨거워진다…한화생명금융·인카금융서비스 ‘각축전’",
-   "source": "데일리한국",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdE9HTnlQZUpVWjA0TWZCbGo1NFpvWUdZeGxTTE16VVlsWTZEWjJ3aUk2V0NsXzdJODlyMVhhZFUwdGN3bm5fYzdOQm1CUEluRjlDaF9KbTM3UkFKUkRwVmZOQWwzUTRwSTE0ZXRfONIBc0FVX3lxTE5Mc3BLTnkybzRRX3dyZGhVSDF0aDNqNi1XUV9HeEpaVDlEUkhxU3JJeENvYUkxRDJKR1F2dEJUalhhNzY2QmpTTGFXSzZ6OEd1TXpEOHFvanF2elZIRmh5ZEtQMEZkcGRUaEhsQ2tNbVVnUmc?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 05:00:00 GMT"
-  },
-  {
-   "id": "news:e49062ee44d5ea2d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[26박신자컵] ‘디펜딩 챔피언의 벽 높았다’ 2쿼터에 무너진 삼성생명, 후지쯔에 완패",
-   "source": "점프볼",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RTllienVDQkYxaWNBSGlOcVhIUE1rZnZOYXhrWW5CNUlGSHM2bWJUeHUyMFhIbVFDNFJmakg1OFlTci1ETEpWQlZlYWNWNFpUNHFrMk5TdjdreUI4bllXRGlxWmwySDZQRmRSbGRkeGJEMEJi?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 06:41:10 GMT"
-  },
-  {
-   "id": "news:37018bb8c1c4e675",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[박신자컵] ‘엔트리 전원 득점’ 후지쯔, 삼성생명 격파... A조 무패 행진 이어간다!",
-   "source": "바스켓코리아",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNWlPb2dWNE1WMG1fOHEtMVBKVzhyOWJ1c2w3c3RVdEdFdkhBOTJPaEE3amlESTUyb29tNm12TS1YZG9sdndaYWRjemlvZ3JackY4eUo1M3dzNnlWemZRd05QVnZBa1hhNnJoSURzYl9xN1RWcXg4?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 06:43:19 GMT"
-  },
-  {
-   "id": "news:4aff8ef6f4d19fb4",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[26박신자컵] 3연패 향한 시동! 후지쯔, 삼성생명 꺾고 예선 2연승",
-   "source": "rookie.co.kr",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MTTVEN09RMmEtQ0ZEY2JDZzM5RFJpN3NyWXQ3OVhJU0NiUTdXUThDbEJDeWtjeGZteUc0cHZuT2Fmb1FOZWRNRkZCcnYybmowNmlXcmZoWXFTb29BazJhTGxtR2tMUFY3THc?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 06:48:05 GMT"
-  },
-  {
-   "id": "news:7d4ebfa5899aa7b8",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 설계사 치매 전문교육·장애인 고용 확대",
-   "source": "웹이코노미",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrUk9iREh0M2l5ZGkzRUM4NUpMc3d6SlRUeTVVTzh3OXpjNUtqanNDWDBMckRnQlJFLVNSMGFhM3ZWUFJJVUg2blREaUZFQy00SC1UdDE0bDc2VkE1U014M0RibXRLVmI5eHRzZ09hOUlWdw?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 07:06:24 GMT"
-  },
-  {
-   "id": "news:5343b66138faca06",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] 후지쯔 14명 전원 득점, 삼성생명 제압…2연승 박신자컵 단독 선두",
-   "source": "뉴스핌",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZEh2V2NQNUQxbGFpcl9YUGNmMnJVLVZKSXNUc0ptMFA1dHpHRUdCWVRJSnRCczRkbHFmaEM5blJYQmRFWHNoYXRxWnV2NWh6TTBtTHFjRmViMHY1?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 07:13:00 GMT"
-  },
-  {
-   "id": "news:12a534e84da111fd",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[26박신자컵] ‘3P 30개 이상 시도’ 삼성생명이 덧칠하는 새로운 색깔",
-   "source": "점프볼",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dnFqMlM3LUFNWkVWb0RqT2FrYnJrTUtJcnlSYV9QWjFCT2E2dzNUWmJvdm93Y3pPVEpYS21SODVPeWkzdWdaN2pFN1g5ZVBqNWpGekRuZndsVFMwaTB3S2dpTGdwWndSOGE0eFYwdWhRdTJ6?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 07:16:18 GMT"
-  },
-  {
-   "id": "news:95b25e112d791655",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] 배혜윤 은퇴한 삼성생명, 하상윤 감독 \"3점슛 30개 이상 던져야\"",
-   "source": "뉴스핌",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aY3Y1dlM4R3RjdEgwNzJGeDFEd2JOWnVxOVRVSnBzRTI1ZW9aUUswRm8zSDh0MFF6LTdIYWZQTU85MTJSMXVscG9nTTlyRzlMU213LVB3azNfVFdI?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 07:40:00 GMT"
-  },
-  {
-   "id": "news:50d820d0e2e1e3ec",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "디펜딩 챔프 일본의 후지쯔, 삼성생명 대파하며 박신자컵 2연승으로 조 선두 이어가",
-   "source": "조선일보",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORThGQUt3T242MFdPY09Cd0F2R1VWWlNQeUotSm0wUWJZQVdiMVp1REpVSzAzREdIZ0xrVF9GVGZ6WlVobVFPTzA2NlJpN0pzdUVvZllwSmxjY2RKY2FKbVFFOWRhQWJNUWRQVUNTUVpEVG5TR0NLNkRHd3RuX00xeUVjdi1SQQ?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 08:12:00 GMT"
-  },
-  {
-   "id": "news:6f3290e1e83a703f",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’",
-   "source": "스포츠경향",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iOEVkWDZ3Vi1XWXExTl9kTFhQM1ZHYnpYcmtXVm02SGZBV3h4VnVwOHdXN2hudmFRbzM1a205NHY2STJGd2oxa2NzOG5JZ29DUFpQcnNnOWRFYXNVSm5teEdqd9IBY0FVX3lxTE9iOEVkWDZ3Vi1XWXExTl9kTFhQM1ZHYnpYcmtXVm02SGZBV3h4VnVwOHdXN2hudmFRbzM1a205NHY2STJGd2oxa2NzOG5JZ29DUFpQcnNnOWRFYXNVSm5teEdqdw?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 08:37:00 GMT"
-  },
-  {
-   "id": "news:d017236830eeea4f",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다",
-   "source": "news.sbs.co.kr",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaExrTG1IYlBFa3ZsN1Rkc1M5OXBYWWQxeUtTNUE5ZXpyZTRCQ0FjR2ZSdV9SV1FDM0VCT2VPS2N2bXhSWlQtUElnYzBYUE1pWENVSlAwdHItYl9Xa25idW5LNk56dHo2bnJhVmJQYThGRU1Bekt0bmpKaWFPN2IyWktodHB4dGFrSGdETWotWTR0aHZZeVBZ?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 15:55:52 GMT"
-  },
-  {
-   "id": "news:aaa276bb80110f0e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지형도]",
-   "source": "한국금융신문",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91RFJ4N1o1TEQxblgwWGJIZ2lQMVpib3RGV2c5UTI0bUMzSUR3WmNLM3BXNWU1ZmE5SnlzelVyaFlFSGxza2pwQXlXUVZUV0N5LUJxRV82S1BMOXloRlJIRVFPTUthVm1HSUlDeUpINzlWUGdZSVh4a0J0REw?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 21:00:00 GMT"
-  },
-  {
-   "id": "news:018aa677a6dd0a54",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’",
-   "source": "소비자가 만드는 신문",
-   "date": "Mon, 05 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0cWctN1lSYkEzUjJ3RzAwbUFTSFhzb05mVFpWMDdYTmZNUVgzQU5NLWx2WnZKbkVTYnc5ZG5MOHBOQ1h6ZXZNTE43OW83LVl3bkVFVUdHaDdrY1o4UjBRQnMxSGxmMExGTzZwT0F5di1rR2s?oc=5",
-   "sort_key": "Mon, 05 Oct 2026 21:10:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-05"
+ "last_digest": "2026-10-06"
 }
