@@ -1465,10 +1465,14 @@
   "news:d660716a88952c88": 1791381303,
   "news:70a8c29185a0274c": 1791381303,
   "news:9f9620287065c003": 1791381303,
-  "news:a2f175e3d1d91ab6": 1791381303
+  "news:a2f175e3d1d91ab6": 1791381303,
+  "news:cb3d534bfbef368c": 1791402571,
+  "news:19ab4e7ed2c013ef": 1791402571,
+  "news:118879c9291b6a7d": 1791402571,
+  "news:b955db0d86de8eb5": 1791402571,
+  "news:755e5763074a9762": 1791402571
  },
  "stories": {
-  "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]": 1791142187,
   "라이언, G2 3-0 제압 ‘이변’…한화생명과 결승 진출 두고 맞대결 [MSI]": 1791162752,
   "‘亞 골프 미래’ 한자리에…한화생명 여자주니어 대회 6일 개막": 1791184336,
   "교보생명, SBI·서클과 ‘온체인 금융’ 협력 모색, 보험·자산운용 연결한다": 1791184336,
@@ -1556,7 +1560,11 @@
   "[박신자컵] ‘초반부터 압도’ BNK 썸, 삼성생명 91-56 완파…2연승 질주": 1791381303,
   "'킹 29득점+숀 롱 27득점' 폭발! KCC 난타전 끝 한국가스공사에 103-98 신승, 개막전 패배 후 2연승...BNK 삼성생명 꺾고 A조 공동 2위 등극(종합)": 1791381303,
   "‘호화 멤버’ BNK 화력 무섭네···삼성생명에 91-56 완승, 박신자컵 2연승 ‘亞쿼터’ 바네사 15점 반짝": 1791381303,
-  "[박신자컵] 큰 좌절 맛본 삼성생명, 팀원들과 합 맞춘 이해란": 1791381303
+  "[박신자컵] 큰 좌절 맛본 삼성생명, 팀원들과 합 맞춘 이해란": 1791381303,
+  "한화생명볼파크 증축 협약": 1791402571,
+  "[박신자컵] ‘게임은 1Q에 터졌다’ BNK, 삼성생명 제압 … 첫 경기 패배 후 2연승": 1791402571,
+  "[박신자컵] 변소정 16점 활약 BNK, 삼성생명 91-56 제압…조별리그 2승 1패": 1791402571,
+  "교보생명, SBI홀딩스•서클•비댁스와 디지털 금융 협력 확대 논의": 1791402571
  },
  "news_queue": [
   {
@@ -1808,6 +1816,46 @@
    "date": "Wed, 07 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pOVFaXzdueFN3VkV5dWVrLVc0MUdXSWVXMDA1Zi1TRTNuNXd6clBXQWphYzRWQXlSNllISU1UUXplZ2U3NFV6OHBGRTlZdlA1czZvRVcybVlQbTBtUEZDNTJHbERhZjNHN2NxbnlDa2F3M21IS1ZN?oc=5",
    "sort_key": "Wed, 07 Oct 2026 12:40:46 GMT"
+  },
+  {
+   "id": "news:19ab4e7ed2c013ef",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명볼파크 증축 협약",
+   "source": "연합뉴스",
+   "date": "Tue, 06 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZWc2NER1MF9JejhxNDRDZGo1WGVHbGxhX3JseWR6Qkw2RWtFXzBNTlRyaU5VaEU2OUVFNW1DOW1Lcm9oWHBOYUxJa1hnQ2pUMkJGUlozLVRwNlXSAWBBVV95cUxQMHV5eTZLa3M1WXY1M1JJN3lhdWZEYmNoS0N5NVFDQU1kMVdFSlp6emd3OVNvR2dCNzZNeU9OS1ZyaHlhTmRJYkU3S3hMcmZKV2NlUG5PdC1QRG5LdjhzaEg?oc=5",
+   "sort_key": "Tue, 06 Oct 2026 07:50:43 GMT"
+  },
+  {
+   "id": "news:118879c9291b6a7d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[박신자컵] ‘게임은 1Q에 터졌다’ BNK, 삼성생명 제압 … 첫 경기 패배 후 2연승",
+   "source": "바스켓코리아",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ELUgtZm5YNGhZX3JmSUo2aDRjM0lVRmdCcUhZOTFiUUo5dVo5UUItZWlmeVUzakdGcXVBdkFwX1lxZXdESUdWNnVpX0ZDNmZ1Z3RNOXZnZlIxSFRwc0pQR2RZZHdzT2Q4YUloRHl1M0Y1SnBpaWQ4?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 11:12:37 GMT"
+  },
+  {
+   "id": "news:b955db0d86de8eb5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[박신자컵] 변소정 16점 활약 BNK, 삼성생명 91-56 제압…조별리그 2승 1패",
+   "source": "뉴스핌",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPSHoxdldDY2JaUklOaUhoRGRTLUJxc1BKZ2VmX21WQ3lKV2xPSHprNWlCYlpqaDVma3ZJekU4WmFNZDUyWVBwTlNrV0FQMFF4aE5VLTNOQ0FRQl9l?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 14:05:00 GMT"
+  },
+  {
+   "id": "news:755e5763074a9762",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI홀딩스•서클•비댁스와 디지털 금융 협력 확대 논의",
+   "source": "와이즈경제",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vakNQZGQ3RmloMEZzTDZkOHFYNmpKRzloSVU3T0pNVmc1R1V2UWp2dTJlNkNENmxHbGVacmpyUXZrQzBoNkdsRjBkQmFsNkJzY0Z6anBQdTYwV0h4MTNOcFM2Z1ZBa2tLNDdz?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 16:59:25 GMT"
   }
  ],
  "initialized": true,
