@@ -1435,7 +1435,24 @@
   "news:4c36e8f7f802a9d0": 1791303095,
   "news:4b654c91bd794a2b": 1791303095,
   "news:898fa1842b278497": 1791333581,
-  "news:97e56014b7b3bd5c": 1791333581
+  "news:97e56014b7b3bd5c": 1791333581,
+  "news:55db8ac9248028ad": 1791354721,
+  "news:81bd551499d180e3": 1791354721,
+  "news:2792395ecb42bace": 1791354721,
+  "news:a42f2009eea6737f": 1791354725,
+  "news:a06b647e8a1d3f22": 1791354725,
+  "news:851c4e1157c49b36": 1791354725,
+  "news:7f6eba55be80efcf": 1791354725,
+  "news:4b581149ce783ad2": 1791354725,
+  "news:d06328635ca151c9": 1791354725,
+  "news:f88776c92dc8e28f": 1791354725,
+  "news:bf7616163508575d": 1791354725,
+  "news:58ef3a5d4e77fe51": 1791354725,
+  "news:5f4ef746744c1eda": 1791354725,
+  "news:0f69f400e6f35855": 1791354725,
+  "news:3b635499a90db3cb": 1791354725,
+  "news:21431b1709140023": 1791354725,
+  "news:e5e4c9c195f16b24": 1791354725
  },
  "stories": {
   "한화생명 볼파크 50번 째 매진": 1791112867,
@@ -1503,9 +1520,164 @@
   "[사진기사]한화생명볼파크 3천석 증설": 1791303095,
   "[박신자컵] KB스타즈, 박지수 발목 부상 악재에도 삼성생명 제압…64-57 승리": 1791303095,
   "윤예빈, 친정 삼성생명 앞에서 '손기술' 뽐냈다…KB 64-57 승리하며 박신자컵 2승째 거둬": 1791303095,
-  "한화생명, 애큐온 인수 부담…킥스 하방압력·노조 위로금 변수": 1791333581
+  "한화생명, 애큐온 인수 부담…킥스 하방압력·노조 위로금 변수": 1791333581,
+  "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’ 관건": 1791354725,
+  "대전시, 대전 한화생명볼파크 2만석으로 확대…": 1791354725,
+  "[데스크칼럼] 김동원식 한화생명의 앞날② 바람 자는 날": 1791354725,
+  "[알짜뉴스·창립 19주년] 한화생명, 보험 넘어 ‘글로벌 종합금융그룹’ 도약": 1791354725,
+  "대전 한화생명볼파크 관람석 3천석 늘린다": 1791354725,
+  "[생보사 분석②] 설계사 3,280명 늘린 삼성생명…보장성 늘어도 보험손익 36% 급감": 1791354725,
+  "삼성생명 본드포워드 증가세 꺾였다…누적 평가손실 2.1조원": 1791354725,
+  "“넓어지는 독수리 요람”… 한화생명볼파크, 2028년 3월까지 2만 석 규모로 증축": 1791354725,
+  "삼성생명·화재, 3분기도 호실적 전망 … 이익 체력 '탄탄'": 1791354725,
+  "[기획] 한화생명, 애큐온 인수…종합금융 시너지 확대": 1791354725,
+  "센트로이드, 4년 대규모 투자 재개…한화생명과 첫 펀드 딜": 1791354725,
+  "[단독] GA시책서 빠진 5·7·10년납 단기납종신… 교보생명 ‘신호탄’될까": 1791354725,
+  "[이슈] 상반기 보험사 해외 순이익 2배 늘었다...한화생명 87% 차지": 1791354725,
+  "'제판분리 5년'…한화생명 GA, 설계사 수 4만명 육박": 1791354725
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:a42f2009eea6737f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’ 관건",
+   "source": "이코노미톡뉴스",
+   "date": "Mon, 05 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DbWEwSllyajNsUmhEM1labDlSWFRXeTJMLXJEaFBnd09maVNEZ2tvT1luVEdNbmo5WEdEOFZUUFhzNXczNEVZcnpHR1l6TmhVRzBTNG9GcmxmUUhfaWk4WEtJcTFpSmxlTUR4Yg?oc=5",
+   "sort_key": "Mon, 05 Oct 2026 23:24:00 GMT"
+  },
+  {
+   "id": "news:a06b647e8a1d3f22",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "대전시, 대전 한화생명볼파크 2만석으로 확대…",
+   "source": "브레이크뉴스",
+   "date": "Tue, 06 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QZUdfZUY5YkpmMmgzNzZ1QlFxeE9kM0JlSzVGY2F5SXMwLWZRandpbFA2cWNBTm5LVUtrbHMxSjhDdw?oc=5",
+   "sort_key": "Tue, 06 Oct 2026 22:45:49 GMT"
+  },
+  {
+   "id": "news:851c4e1157c49b36",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[데스크칼럼] 김동원식 한화생명의 앞날② 바람 자는 날",
+   "source": "글로벌E",
+   "date": "Tue, 06 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DMk9UdnJVaU9yVVRhVHVCRExRbWlnNFV6ODltaHdrMVg4bFdvZHNVUzZXbGY2YXA0ZTY4bWlESTdQNEE2UlVhWnU0WU9FekUzc1lUMk1RTHRaWDZMaWZHMWdwelV5S01manc00gFvQVVfeXFMTUF5UWFKaWFGQWN5bHNqQmJYeVBrd0NSSlNQekpZajR3WXJnSnRUYnc0RUk4bzNVdGV2eDV3Q3J0ZnR2cG03V1JvZ25DdDNyTlB0LVE2WjMtU1h1b0VxNmFTeVBPeXJJNF94S1V3cGxV?oc=5",
+   "sort_key": "Tue, 06 Oct 2026 23:00:00 GMT"
+  },
+  {
+   "id": "news:7f6eba55be80efcf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[알짜뉴스·창립 19주년] 한화생명, 보험 넘어 ‘글로벌 종합금융그룹’ 도약",
+   "source": "한국금융경제신문",
+   "date": "Tue, 06 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUFI0NHhGR0sxTDJxQ08zZjVDYjc1MXV6RHVncFpsOVBLZ0dYbklrdk05c0FUT2tLcWJvZEVidFRjRGhFbEoxcDJqeENCeUZpRy1fMkNTOEI3Y2l2eVFyZXp4ZHBrSXRwN1k3dtIBcEFVX3lxTE1CenptUVB3TVJ4TDRWTzRaYXVYM1c5Q0I3YjNUVDFEeW9oM3ZMS3k1d2NqeHFfaHdoM3N0S3o1MXF6T01oNm1CNDVrc25CWDhmUHEwQkZ3NURva0poR0NoWXFsMXZyaEJhQ3FPTjhZNUE?oc=5",
+   "sort_key": "Tue, 06 Oct 2026 23:20:00 GMT"
+  },
+  {
+   "id": "news:4b581149ce783ad2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "대전 한화생명볼파크 관람석 3천석 늘린다",
+   "source": "중부매일",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Z3hIVDdNM1YweXZsbEhSeDhOWVN4VkZJTDZhTWp5R254UmlQZGpwZmJ1alZYNDdRamVURzltazRRRk96UDBNS2ZiUTM5X1dfZmVwRmxDNEg1ZjdZVkJuZzV2d3hQZ3VPR0HSAW5BVV95cUxPNkhsckZZQU5wdGsxMFZZME5meE9NWkVuRGwzUGp5WFhnN2tKeVlEeWF5QXlLQmxfaUwteTh5YXVibl80Ymo2YUxSb2d3Ynh5MUpidm5jcXkySmxjdEcyTEFkZ1B6ZGd3WGNKUzlVdw?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 00:08:02 GMT"
+  },
+  {
+   "id": "news:d06328635ca151c9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[생보사 분석②] 설계사 3,280명 늘린 삼성생명…보장성 늘어도 보험손익 36% 급감",
+   "source": "경인방송 뉴스",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04bl9xZjF4U1NoMFRSSU5jc2JWWG42akZsalYweC1USUhhOXlCNlZvNU9FbWItb2JFYTdoR25wakNGT19TcldCd0FIR1pZN2JEaUMtYVZHbHhyRHAzaGxLM3BQWTjSAWhBVV95cUxORTc2bDNOa0pJbmdUYWFfcVBkOVpJcEdZbGExbGpZeGl6aWVLR1BPanF5cGNtVVBRRGpnNEh3SGhLcFl2MUxwdVhCU2VqeTZxYmRaUzQ5MER1bVBXQ1dfSnhHal9zeFlKOA?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 01:15:21 GMT"
+  },
+  {
+   "id": "news:f88776c92dc8e28f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 본드포워드 증가세 꺾였다…누적 평가손실 2.1조원",
+   "source": "연합인포맥스",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1OHU3TktCcnB6Ylo2R251UVFnc0stWTBxR0JzVmxfMGdQN182M3FFZFBENjZqYWFTc20xNFBqRWxWNzhkR3M2OUt5b1EtZTdOcENMcUM2NXFHT2M5U19zMkd4bUVDOFRfd1dVTlo5YnI?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 01:32:03 GMT"
+  },
+  {
+   "id": "news:bf7616163508575d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“넓어지는 독수리 요람”… 한화생명볼파크, 2028년 3월까지 2만 석 규모로 증축",
+   "source": "문화일보",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GbDNXaUdDTHZOR0FTTFdTN1NsYnNaOUdtTWJaaGFZallpbzU4UUxaU0trZTNoTlZXYzk5TnZkNDhvSlNyVEZJYWVteTZyeEta?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 02:42:44 GMT"
+  },
+  {
+   "id": "news:58ef3a5d4e77fe51",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재, 3분기도 호실적 전망 … 이익 체력 '탄탄'",
+   "source": "뉴데일리",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wVDJCUmtua0xEb2lydV9fazBpcWhRLXJqdEp1eXhXTWZXZTc1bkdqeTNjQmtSLVV2YmxkWVBKVFBVbWFYNUVhSVdESXFxczVrTlh4Ql9Ub1dOc1VfNklrUmJRcVlRUjFTYmg0di1rNDE5aXBxS0F0cG1xZ9IBgAFBVV95cUxOeVpqQ01lMkJhTW05Qmhrb2pSSDh6RkFqZ0JhNkVrU0RiaTdkcldOa3RXYkVNZzBzNURSLTY2VWFvYWFBdlpaaG81MHdHb0lBOElsM1JmMEhvRVpVaDlJRlVsYVMtSDJrd3R4enh0dU1mNjI3eUpBNXNORXBYdzl5QQ?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 02:52:54 GMT"
+  },
+  {
+   "id": "news:5f4ef746744c1eda",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[기획] 한화생명, 애큐온 인수…종합금융 시너지 확대",
+   "source": "한국금융경제신문",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZS3o4ZGJ2bmtQX0tZZkJvRWZWRm1mdUVkdkViVnZQVkNzQnZEWTRnUURsWkFjR3VsSWt4Si1MUFpQUUVhMlBHY2RwU2d4TlBlNm4waGRzTkF2MVprbzBmVEJodFlBVFV4ZWNfdExKV0_SAXBBVV95cUxQWUt6OGRidm5rUF9LWWZCb0VmVkZtZnVFZHZFYlZ2UFZDc0J2RFk0Z1FEbFpBY0d1bElreEotTFBaUFFFYTJQR2NkcFNneE5QZTZuMGhkc05BdjFaa28wZlRCaHRZQVRVeGVjX3RMSldP?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 04:14:34 GMT"
+  },
+  {
+   "id": "news:0f69f400e6f35855",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "센트로이드, 4년 대규모 투자 재개…한화생명과 첫 펀드 딜",
+   "source": "뉴스톱",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYWdkSUUxcU5lYjVhRzRPUUE0MnBXeFNwcWxYM19jcU9qQXVyOFZxSUlMbVdKUTZZNjdvSGRYMjlMbEdYVVVMMnNWWC0tcU94NHotTG1TNEZNQ1ZfSy0xOElPSVNQM2FXUmM2SUtUUQ?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 04:20:04 GMT"
+  },
+  {
+   "id": "news:3b635499a90db3cb",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[단독] GA시책서 빠진 5·7·10년납 단기납종신… 교보생명 ‘신호탄’될까",
+   "source": "보험저널",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTXdZNXB6VG8xMUN5SFEwRzlhWFdVTkpXb3lwRnRzdWpBM00yNDJqODlZWWFuU2NwUlB2V29JaG1nb1MwWFF5NnYtR2dWUVZYRng2NzJqNlJZV0NHcEwxNWc0OFZHRlh5aHM3T0pfRQ?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 04:51:51 GMT"
+  },
+  {
+   "id": "news:21431b1709140023",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[이슈] 상반기 보험사 해외 순이익 2배 늘었다...한화생명 87% 차지",
+   "source": "오늘경제",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wNEkwT1VCVnlLWnFvaVg1VmpOY3ZUT3dQZkVxS18zRlV3bkJTZzdoU19JSGRmM2szd0U1bkZ2TTgtVFNaUWE5U3psR29PMHN2VjNZVVlQcGh4UEVsUUJaWGhHRXVTNlVKSmZLM1A0TExCRzg?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 05:38:45 GMT"
+  },
+  {
+   "id": "news:e5e4c9c195f16b24",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'제판분리 5년'…한화생명 GA, 설계사 수 4만명 육박",
+   "source": "전자신문",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90a2dnTUlzVzdKZ0pGeE5GRUVzUVJyRlBjZlUySG95T1RmVHIycVk1XzF4WGMySnA0OVdsdHNFQ2VnZ2gyOTNOQU5FQ09CdzBZTEh4VEZrZ1U3Q0hTZEFiUkFn?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 06:00:00 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-07"
 }
