@@ -1452,11 +1452,22 @@
   "news:0f69f400e6f35855": 1791354725,
   "news:3b635499a90db3cb": 1791354725,
   "news:21431b1709140023": 1791354725,
-  "news:e5e4c9c195f16b24": 1791354725
+  "news:e5e4c9c195f16b24": 1791354725,
+  "news:9805e68034e3d488": 1791381301,
+  "news:d8a484755867094a": 1791381301,
+  "news:01c2b20189aef5bd": 1791381303,
+  "news:a2a415b3493dabe3": 1791381303,
+  "news:a43998e84f5437f2": 1791381303,
+  "news:78d0a8e576fe2e5c": 1791381303,
+  "news:938df13eef78e01a": 1791381303,
+  "news:611cb231135aa058": 1791381303,
+  "news:98b6eeef2c59fbdf": 1791381303,
+  "news:d660716a88952c88": 1791381303,
+  "news:70a8c29185a0274c": 1791381303,
+  "news:9f9620287065c003": 1791381303,
+  "news:a2f175e3d1d91ab6": 1791381303
  },
  "stories": {
-  "한화생명 볼파크 50번 째 매진": 1791112867,
-  "대전 한화생명볼파크 개천절 연휴에 매진": 1791112867,
   "한화생명, 북미 돌풍 잠재웠다…라이언 3-2 꺾고 MSI 결승 진출 [쿠키 현장]": 1791142187,
   "라이언, G2 3-0 제압 ‘이변’…한화생명과 결승 진출 두고 맞대결 [MSI]": 1791162752,
   "‘亞 골프 미래’ 한자리에…한화생명 여자주니어 대회 6일 개막": 1791184336,
@@ -1534,7 +1545,18 @@
   "센트로이드, 4년 대규모 투자 재개…한화생명과 첫 펀드 딜": 1791354725,
   "[단독] GA시책서 빠진 5·7·10년납 단기납종신… 교보생명 ‘신호탄’될까": 1791354725,
   "[이슈] 상반기 보험사 해외 순이익 2배 늘었다...한화생명 87% 차지": 1791354725,
-  "'제판분리 5년'…한화생명 GA, 설계사 수 4만명 육박": 1791354725
+  "'제판분리 5년'…한화생명 GA, 설계사 수 4만명 육박": 1791354725,
+  "‘삼성생명ㆍ삼성화재’ 인센티브 임금성 ‘부정’…삼성전자와 다른 결론, 이유는?": 1791381303,
+  "[금융그룹 꾀하는 교보생명] ① 계열사가 메운 본업 수익성 둔화": 1791381303,
+  "[한화생명 김동원 부회장 리더십 ①] '금융 한화' 오너 됐지만 경영역량은 '물음표''": 1791381303,
+  "[업앤다운]보험주 상승…미래에셋생명↑·삼성생명↓": 1791381303,
+  "교보생명, 가상자산 생태계 접점 넓힌다…에버노스에 3000만 달러 투자": 1791381303,
+  "한화생명, 애큐온 품고 조달 경쟁력 높인다…비보험 셈법도 '고차'": 1791381303,
+  "[26박신자컵] 전반에만 51점…BNK, 삼성생명 완파하고 KB스타즈와 공동 2위": 1791381303,
+  "[박신자컵] ‘초반부터 압도’ BNK 썸, 삼성생명 91-56 완파…2연승 질주": 1791381303,
+  "'킹 29득점+숀 롱 27득점' 폭발! KCC 난타전 끝 한국가스공사에 103-98 신승, 개막전 패배 후 2연승...BNK 삼성생명 꺾고 A조 공동 2위 등극(종합)": 1791381303,
+  "‘호화 멤버’ BNK 화력 무섭네···삼성생명에 91-56 완승, 박신자컵 2연승 ‘亞쿼터’ 바네사 15점 반짝": 1791381303,
+  "[박신자컵] 큰 좌절 맛본 삼성생명, 팀원들과 합 맞춘 이해란": 1791381303
  },
  "news_queue": [
   {
@@ -1676,6 +1698,116 @@
    "date": "Wed, 07 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90a2dnTUlzVzdKZ0pGeE5GRUVzUVJyRlBjZlUySG95T1RmVHIycVk1XzF4WGMySnA0OVdsdHNFQ2VnZ2gyOTNOQU5FQ09CdzBZTEh4VEZrZ1U3Q0hTZEFiUkFn?oc=5",
    "sort_key": "Wed, 07 Oct 2026 06:00:00 GMT"
+  },
+  {
+   "id": "news:01c2b20189aef5bd",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘삼성생명ㆍ삼성화재’ 인센티브 임금성 ‘부정’…삼성전자와 다른 결론, 이유는?",
+   "source": "월간노동법률",
+   "date": "Tue, 06 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHl2SmozSi0wNHFBcEstUHJzSkJyclNENFFlWVhORFBTN3ZFemdHbURlRlJKYWYtRG11bkZOTVZxa3lldk5ReVhONFJ5SDZ6SXdvNDBLa2EwY3M0MF9WZXVOSXBaemgwNVR0UDROMzRveG9mbmVFVzZjVDhNUjZXYlNkRVFISWJ1aWxiRkpn?oc=5",
+   "sort_key": "Tue, 06 Oct 2026 08:05:00 GMT"
+  },
+  {
+   "id": "news:a2a415b3493dabe3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융그룹 꾀하는 교보생명] ① 계열사가 메운 본업 수익성 둔화",
+   "source": "파이낸셜포스트",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oQm1Sc2x0N2NCblFnal9DRU9sVGFzYUZKS1VOSmxQd0lRU3RldnpHazlCSlV6UmJJNUhCS3FmaVlhMGxvdGJuVV9ueDB1cFloMXQ0YmtkcWhaUmREd0wxam1uXy1wZUNocXhWMGNtWW9XS3ln?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 06:58:49 GMT"
+  },
+  {
+   "id": "news:a43998e84f5437f2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[한화생명 김동원 부회장 리더십 ①] '금융 한화' 오너 됐지만 경영역량은 '물음표''",
+   "source": "S저널",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Sk1jUVFaZ1MyQVAtUXlOXzYxZlBGUXZKYlRWeWE4cGhhUlY2S2Z3R1ZzMks2NHktOEhjSS0wWl9aVG90dnFyU0s4UnF3Y1ZXdUhSVFpLbXdmeTRNU180VGhuNVhpQTFrNVl5N3Vn?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 06:58:56 GMT"
+  },
+  {
+   "id": "news:78d0a8e576fe2e5c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[업앤다운]보험주 상승…미래에셋생명↑·삼성생명↓",
+   "source": "NSP통신",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HNDlDWGlIWU9pWHlsUWdRTEtLR0xLblhDTTJVckc5UEdiVmRQV3g0dVNfb3YzeHlFNGZZd0xiUXQ1YUdZclhqTTBEZDRpb2lTOWxwY01yWHBrSjNKWkQxaA?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 07:19:50 GMT"
+  },
+  {
+   "id": "news:938df13eef78e01a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 가상자산 생태계 접점 넓힌다…에버노스에 3000만 달러 투자",
+   "source": "민주신문",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LMndvZ0J5a045OE5mRURmczBWSk01cllRWlpaM0JEdWFRNEN3ckRpenBzX2Q1dFNNV2s0dEFOM3B6LW1DODJKU0VuYlVkN2Y5UzZCU2s0TkNjbkFzUzB1cUJYaUloalAtSUdV0gFrQVVfeXFMTksyd29nQnlrTjk4TmZFRGZzMFZKTTVyWVFaWlozQkR1YVE0Q3dyRGl6cHNfZDV0U01XazR0QU4zcHotbUM4MkpTRW5iVWQ3ZjlTNkJTazROQ2NuQXNTMHVxQlhpSWhqUC1JR1U?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 08:21:43 GMT"
+  },
+  {
+   "id": "news:611cb231135aa058",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 애큐온 품고 조달 경쟁력 높인다…비보험 셈법도 '고차'",
+   "source": "Daum",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TT21NZ21yVjVKWDFPUklPVGtZYVY5RWRQQWZlWE5VcHdjT1poNlpMUTRlVXhBa0tIZnMtaFRFNThHNmxISEE?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 10:23:06 GMT"
+  },
+  {
+   "id": "news:98b6eeef2c59fbdf",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[26박신자컵] 전반에만 51점…BNK, 삼성생명 완파하고 KB스타즈와 공동 2위",
+   "source": "점프볼",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOcWtGVkRyTm5MQ284Vnc4MFZSTVRhUk1XcG1uWTYwOVdiVVhVdG9xLXg0Yk1YMDVwQjB3ZENwa2hlLUtpUmVtTmR1U1RrcVNfNFZCV1gwSHlFSjFOVHdxYThQX0tNZF9DUG1FbXdMb28?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 11:30:38 GMT"
+  },
+  {
+   "id": "news:d660716a88952c88",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[박신자컵] ‘초반부터 압도’ BNK 썸, 삼성생명 91-56 완파…2연승 질주",
+   "source": "데일리스포츠한국",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSS1RVSjBYYzNHMXl2Z1laMFNsNFlDV1pZVUZtYllJcFlsRWY0WlBrOEZIUkVmWHNLcFFWVTFraVZaUmg0U1BJTE9haFI1Y0o1WDRfVmRMeUdrYU5tMlI2dzFQV0hacjcwSjVPYzNGRlJDYVNTWDF6SHB2TUkyQknSAX9BVV95cUxQUktUVUowWGMzRzF5dmdZWjBTbDRZQ1daWVVGbWJZSXBZbEVmNFpQazhGSFJFZlhzS3BRVlUxa2lWWlJoNFNQSUxPYWhSNWNKNVg0X1ZkTHlHa2FObTJSNncxUFdIWnI3MEo1T2MzRkZSQ2FTU1gxekhwdk1JMkJJ?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 12:17:14 GMT"
+  },
+  {
+   "id": "news:70a8c29185a0274c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'킹 29득점+숀 롱 27득점' 폭발! KCC 난타전 끝 한국가스공사에 103-98 신승, 개막전 패배 후 2연승...BNK 삼성생명 꺾고 A조 공동 2위 등극(종합)",
+   "source": "마이데일리",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvMmliWExDeU5UVkR0Z3RxcGw3SjZReTQxMTZFczlsUkNTMlRpa0xyZ1N2dW5vMXhLM0RVVVBZVU11c3pvNXpNTktSZWlldE5UVTVBejVsYU44Tk1kTHF0cWlyMUVKdw?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 12:37:36 GMT"
+  },
+  {
+   "id": "news:9f9620287065c003",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘호화 멤버’ BNK 화력 무섭네···삼성생명에 91-56 완승, 박신자컵 2연승 ‘亞쿼터’ 바네사 15점 반짝",
+   "source": "스포츠경향",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzMVRETkhKNnBCQUNkaU5SVDVGSzF2eFhmUVgyNmxGSlVIcXFja2RKc0ViblN6eGd5LWg1MnowcnVtcnpfOUZ0SzNpenU4VkllekFELXN6TDNhSHg0WlHSAWNBVV95cUxPQjkwVG9nVDY4ck9saXpzcW14aF9qalRnaFlEeE93NGViMmI2UFA1amxEU254WHNjZWlFWG11LXFIaHhKZ3BFTHFsSDFvUFhobXJsLUV2aFloQkhRVkNEM2R3akk?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 12:38:00 GMT"
+  },
+  {
+   "id": "news:a2f175e3d1d91ab6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[박신자컵] 큰 좌절 맛본 삼성생명, 팀원들과 합 맞춘 이해란",
+   "source": "바스켓코리아",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pOVFaXzdueFN3VkV5dWVrLVc0MUdXSWVXMDA1Zi1TRTNuNXd6clBXQWphYzRWQXlSNllISU1UUXplZ2U3NFV6OHBGRTlZdlA1czZvRVcybVlQbTBtUEZDNTJHbERhZjNHN2NxbnlDa2F3M21IS1ZN?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 12:40:46 GMT"
   }
  ],
  "initialized": true,
