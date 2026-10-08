@@ -1507,16 +1507,18 @@
   "news:da19136271f20963": 1791461571,
   "news:26a373d890faa622": 1791461571,
   "news:32e6e9449a5e5a32": 1791461571,
-  "news:316bf5c1a43dc24d": 1791461571
+  "news:316bf5c1a43dc24d": 1791461571,
+  "news:29e7a0d5788ae934": 1791485659,
+  "news:f9f7ae2d4fdd5112": 1791485659,
+  "news:c9fcaaf944899714": 1791485659,
+  "news:bf3191ec5f3d953c": 1791485659,
+  "news:286fea71c558b8e6": 1791485659,
+  "news:05a3b18bc1fc277a": 1791485659,
+  "news:f665398569cd9942": 1791485660,
+  "news:dfaafb3ba43a957f": 1791485660,
+  "news:8b88c0dd36ecf1e7": 1791485660
  },
  "stories": {
-  "한화생명, 설계사 치매 전문교육·장애인 고용 확대": 1791216649,
-  "[핌in청주] 후지쯔 14명 전원 득점, 삼성생명 제압…2연승 박신자컵 단독 선두": 1791216649,
-  "[26박신자컵] ‘3P 30개 이상 시도’ 삼성생명이 덧칠하는 새로운 색깔": 1791216649,
-  "[핌in청주] 배혜윤 은퇴한 삼성생명, 하상윤 감독 \"3점슛 30개 이상 던져야\"": 1791216649,
-  "디펜딩 챔프 일본의 후지쯔, 삼성생명 대파하며 박신자컵 2연승으로 조 선두 이어가": 1791216649,
-  "‘3년 연속 우승 도전’ 후지쯔, 박신자컵 삼성생명 89-66 완파 ‘2연승’···이해란 9점 ‘예열중’": 1791216649,
-  "[단독] 1월부터 토스뱅크 해킹 시도…교보생명도 노렸다": 1791216649,
   "애큐온캐피탈 대주주 한화생명으로…경영진 재편 촉각 [캐피탈사 M&A 지형도]": 1791240329,
   "경쟁사 줄일 때 홀로 늘렸다…삼성생명, 전속 설계사 1300여 명 ‘폭풍 흡수’": 1791240329,
   "한화생명 편입에 한숨돌린 애큐온… 고금리 시름 덜어": 1791253947,
@@ -1628,7 +1630,10 @@
   "사상 첫 2조원 해외 채권 쏜 삼성생명, 왜 지금? : 경제": 1791461571,
   "‘해외투자 확대’ 삼성생명, 최대 2조원 선제적 해외 자본확충": 1791461571,
   "삼성생명, 창사 첫 채권 발행…해외서 최대 2조 원 조달": 1791461571,
-  "교보생명, ‘치료 공백’ 겨냥한 뇌졸중 특약…배타적사용권 확보": 1791461571
+  "교보생명, ‘치료 공백’ 겨냥한 뇌졸중 특약…배타적사용권 확보": 1791461571,
+  "\"해외 자산운용·M&A 자금 확보\"…삼성생명, 2조원 실탄 장전": 1791485660,
+  "보장에서 일상으로…삼성생명 '피트스톱' 건강관리 접점 넓혔다[현장+]": 1791485660,
+  "[2026 금융대상] 한화생명 ‘하나로H종신보험’, 사망보장에 노후자금까지 마련": 1791485660
  },
  "news_queue": [
   {
@@ -1970,6 +1975,36 @@
    "date": "Thu, 08 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzc0J5eHFsMk1OZ0FyR1lFanQxUVhWcGgwUnBuQWxRa29WQUJKTlM4TmRBOERIczVBX3VIYlNXWGMxSDcyT2NrRF9yQ292SW83ajQ1Z21kdS1oSFJObEtJTmM1RkJCb2hR?oc=5",
    "sort_key": "Thu, 08 Oct 2026 10:17:25 GMT"
+  },
+  {
+   "id": "news:f665398569cd9942",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"해외 자산운용·M&A 자금 확보\"…삼성생명, 2조원 실탄 장전",
+   "source": "글로벌에픽",
+   "date": "Thu, 08 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wOTZ2REpRRnJzQlFWR1gwNXY0Vy1wWWtkVE9ubVNJNXpTSE8xYW9SMEgzbGMxZDYtQUxkWG5aY0lRVG5xNURNVTVFX0JzOWU0WXpiRDlpRl90eXdGQzkzcmxwbjVRbmtoVk81SjI4R241M2lRWUhFaHBzMVg?oc=5",
+   "sort_key": "Thu, 08 Oct 2026 10:59:04 GMT"
+  },
+  {
+   "id": "news:dfaafb3ba43a957f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "보장에서 일상으로…삼성생명 '피트스톱' 건강관리 접점 넓혔다[현장+]",
+   "source": "블로터",
+   "date": "Thu, 08 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XQnNYTlJ1cmRaUE4tWHB1R1ROamxwdzYwWThzWUtyc3JfRDJ1TlhQUDE3dzFqdDJ0MWFpTFhQSmlrU2J2U3I0aXozWHRvQWlHX3Y3b0txdGNrTXpVUkRISjJabXpNdWNESC14M9IBbEFVX3lxTE5XQnNYTlJ1cmRaUE4tWHB1R1ROamxwdzYwWThzWUtyc3JfRDJ1TlhQUDE3dzFqdDJ0MWFpTFhQSmlrU2J2U3I0aXozWHRvQWlHX3Y3b0txdGNrTXpVUkRISjJabXpNdWNESC14Mw?oc=5",
+   "sort_key": "Thu, 08 Oct 2026 11:31:38 GMT"
+  },
+  {
+   "id": "news:8b88c0dd36ecf1e7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[2026 금융대상] 한화생명 ‘하나로H종신보험’, 사망보장에 노후자금까지 마련",
+   "source": "아시아투데이",
+   "date": "Wed, 07 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WSXdUNkFVNTlIeVBTZi1EVFhqZURpU1NWVGcwM0tCelpRelphLW1EVmh5WEtuQlJoaWtORmVXRm5OYnhTeGpuRWxacFNEVkZVMUN3U01jalgzbEdtUy1DUWlPczU3MEtFQ1k1V1lR?oc=5",
+   "sort_key": "Wed, 07 Oct 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
