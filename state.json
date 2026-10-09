@@ -1531,7 +1531,8 @@
   "news:9c2ee7481df17f6b": 1791542073,
   "news:3aedddbcd4b9ec8b": 1791542073,
   "news:71857d2e7496f409": 1791565847,
-  "news:719b3d2262099b53": 1791565847
+  "news:719b3d2262099b53": 1791565847,
+  "news:9aec8271c424139c": 1791582361
  },
  "stories": {
   "한화생명, 애큐온 인수 부담…킥스 하방압력·노조 위로금 변수": 1791333581,
@@ -1607,7 +1608,8 @@
   "삼성생명, 도심 속 '운동수명 정비소' 운영… 서울마당서 팝업 오픈": 1791542073,
   "[금융家] 삼성생명 ㅣ 자본 확충부터 보험 혁신까지…글로벌 성장·고객 편의 '두 토끼'": 1791542073,
   "[보험업계기상도]10월 둘째 주 ‘구름조금 이하’ 우세…삼성생명 등 보험금 지급심사 및 매각 지연 부담": 1791542073,
-  "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력": 1791542073
+  "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력": 1791542073,
+  "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다": 1791582361
  },
  "news_queue": [
   {
@@ -1679,6 +1681,16 @@
    "date": "Thu, 08 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IU09mVWVIaFU3NVlmNjd4OXpBZzVPMURzZzlkb29IeDl6eXU1a25OZ19yXzVFWk5HbjZpbHBLTkl4TGZiWE1ZOHB1ZjRqTU10aUdtTnN0ZmtTdWhYaGxjaDRaN2VmbnFtSXZRQ2pB?oc=5",
    "sort_key": "Thu, 08 Oct 2026 02:41:02 GMT"
+  },
+  {
+   "id": "news:9aec8271c424139c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다",
+   "source": "AP신문",
+   "date": "Fri, 09 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PekVwSnlWNTVIU21FWFZIYUY3a0xjLTBxd3VLeGpER1RJcF9tTHNrcDAzOWtBUzYyLXZESlVScndfN3d4aUtlak1SODhUSE5KZFNtOGVTQ0I3X0xrM2h3eEFnQWw4bjE4TWEzUNIBbEFVX3lxTE5PekVwSnlWNTVIU21FWFZIYUY3a0xjLTBxd3VLeGpER1RJcF9tTHNrcDAzOWtBUzYyLXZESlVScndfN3d4aUtlak1SODhUSE5KZFNtOGVTQ0I3X0xrM2h3eEFnQWw4bjE4TWEzUA?oc=5",
+   "sort_key": "Fri, 09 Oct 2026 17:59:16 GMT"
   }
  ],
  "initialized": true,
