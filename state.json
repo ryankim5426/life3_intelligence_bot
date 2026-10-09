@@ -1518,13 +1518,13 @@
   "news:dfaafb3ba43a957f": 1791485660,
   "news:8b88c0dd36ecf1e7": 1791485660,
   "news:55aaa7278bcd29d2": 1791502913,
-  "news:683af3a7147e686f": 1791502913
+  "news:683af3a7147e686f": 1791502913,
+  "news:1c2c4847b09cac07": 1791515332,
+  "news:5f5d9cae32bca82a": 1791515333,
+  "news:f37c018b4eaa2db8": 1791515333,
+  "news:dad27da5d18a26f5": 1791515333
  },
  "stories": {
-  "한화생명 편입에 한숨돌린 애큐온… 고금리 시름 덜어": 1791253947,
-  "\"엄마·아빠 일터서 명예사원증 목에 걸다\"…교보생명, '패밀리 데이'로 일·가정 양립 실천 |": 1791253947,
-  "부모 일터 방문한 ‘어린이 명예사원’…교보생명, 가족 초청 행사 열어": 1791253947,
-  "교보생명, 자녀에게 부모 일터 소개…73명 ‘패밀리 데이’": 1791253947,
   "교보생명, ‘2026 교보 패밀리데이’ 개최···가족친화 문화 확산": 1791278681,
   "[생보사 분석①] 연결 순익 늘었지만…교보생명, 고정이하여신비율 4.7배": 1791278681,
   "[함께가자 우리ESG] 교보생명, 임직원 가족 초청 '2026 패밀리 데이' 성료": 1791278681,
@@ -1633,9 +1633,43 @@
   "교보생명, ‘치료 공백’ 겨냥한 뇌졸중 특약…배타적사용권 확보": 1791461571,
   "\"해외 자산운용·M&A 자금 확보\"…삼성생명, 2조원 실탄 장전": 1791485660,
   "보장에서 일상으로…삼성생명 '피트스톱' 건강관리 접점 넓혔다[현장+]": 1791485660,
-  "[2026 금융대상] 한화생명 ‘하나로H종신보험’, 사망보장에 노후자금까지 마련": 1791485660
+  "[2026 금융대상] 한화생명 ‘하나로H종신보험’, 사망보장에 노후자금까지 마련": 1791485660,
+  "삼성생명, 글로벌 시장 공략 위한 15억 달러 신종자본증권 첫 발행 결정": 1791515333,
+  "한화생명 인비테이셔널, 아시아 6개국 골프 유망주 격돌…안윤주 정상 등극": 1791515333,
+  "[주목 e-금융] “3조 넘고, 4조 향해” 한화투자증권 종투사 도약·단기금융업 경쟁 구도 재편…\"한화생명·한화자산운용 전폭 지원\"": 1791515333
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:5f5d9cae32bca82a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 글로벌 시장 공략 위한 15억 달러 신종자본증권 첫 발행 결정",
+   "source": "공감신문",
+   "date": "Fri, 09 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URFlBMF9HTGFvaGh2cVZoVm03Mk5LVUFVTXppaGtTQTcwX0xVcG9sbHBVWGN4MUlWeVZ6WFpYLURaam9tY2doVGZBcHFVV0UxN0E4UjlQWFF6bjY2dVZaMG5LODEyQkU?oc=5",
+   "sort_key": "Fri, 09 Oct 2026 00:11:20 GMT"
+  },
+  {
+   "id": "news:f37c018b4eaa2db8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 인비테이셔널, 아시아 6개국 골프 유망주 격돌…안윤주 정상 등극",
+   "source": "더페어",
+   "date": "Fri, 09 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzLVNYZkVDaXEzdFlmQTNMUU02YVlqS0ZSdjN2QlBwS1hNRXNOZjBlSnZmWHExeFlrMGlfNHV1d25Zcnd6Y0VBS3lTVE9ob1IzbWVJRTRIMzQwcnUxRzFBUDRra19fX0ViN1JFeXppaW3SAXRBVV95cUxQUTlITGNrSTRZeFRGbERSQ19nMC1zM3ZGV1oySmVibGY1QzliQ0h3M29ZTDFDMFphdHRPNEhIY1lCdVFHeU9RMWNBNnF0aDBxbVBBT1V3T1hIS2s4aEpMVGo4akdGZVpmRVZyblpwbHJuSXNpMQ?oc=5",
+   "sort_key": "Fri, 09 Oct 2026 01:20:03 GMT"
+  },
+  {
+   "id": "news:dad27da5d18a26f5",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[주목 e-금융] “3조 넘고, 4조 향해” 한화투자증권 종투사 도약·단기금융업 경쟁 구도 재편…\"한화생명·한화자산운용 전폭 지원\"",
+   "source": "이코노미톡뉴스",
+   "date": "Fri, 09 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ekZhbUd3azVma2VwRzZnTkl0LXFQdEZTbXR6RF82dHB4TmlDWGwyektlbDNINVlVc1YxelExb2U3OHpVTjhBeldWY19ZUWYwRDRkNDdHekxNNVpNU3BFZXdFTV9sbjg4MTBLSg?oc=5",
+   "sort_key": "Fri, 09 Oct 2026 02:27:29 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-09"
 }
