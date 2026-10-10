@@ -1541,13 +1541,12 @@
   "news:f1db6adaa095fa58": 1791640559,
   "news:5ba0c512c0057fef": 1791640560,
   "news:57c5b1012d7c09d2": 1791640560,
-  "news:cbf2058f010969c4": 1791640560
+  "news:cbf2058f010969c4": 1791640560,
+  "news:ffd297c60e53d34f": 1791669380,
+  "news:200bc67378a7463c": 1791669381,
+  "news:370a36439a013545": 1791669381
  },
  "stories": {
-  "한화생명볼파크 증축 협약": 1791402571,
-  "[박신자컵] ‘게임은 1Q에 터졌다’ BNK, 삼성생명 제압 … 첫 경기 패배 후 2연승": 1791402571,
-  "[박신자컵] 변소정 16점 활약 BNK, 삼성생명 91-56 제압…조별리그 2승 1패": 1791402571,
-  "교보생명, SBI홀딩스•서클•비댁스와 디지털 금융 협력 확대 논의": 1791402571,
   "한화생명, 한화증권 증자에 전환우선주 택한 이유": 1791437444,
   "삼성생명, 운동수명 점검 팝업 피트스톱 운영…서울·전주서 고객 만난다": 1791437444,
   "삼성생명 “피트스톱에서 운동수명 점검하세요”": 1791437444,
@@ -1597,7 +1596,9 @@
   "삼성생명, 2조 규모 신종자본증권 첫 발행": 1791616877,
   "\"아시아 골프 유망주 한자리에\"…한화생명, 글로벌 인재 육성 앞장": 1791640560,
   "전산장애 잦은 금융사, 정보보호 예산 집행률 70% 미만…한화생명도 50%대": 1791640560,
-  "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승": 1791640560
+  "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승": 1791640560,
+  "[포토] 2라운드 4순위 삼성생명, ′숙명여고 김민정′": 1791669381,
+  "생보사, 정보보호 인력 비율 금융권 ‘꼴찌’… 교보생명 최저 - 조선비즈": 1791669381
  },
  "news_queue": [
   {
@@ -1649,6 +1650,26 @@
    "date": "Sat, 10 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pbkt4Sk41Z3lsUGVvVko2U0JvUC1OZEE4ckdld0dBSC13LTZmWlJXN29FMW8tLV9qNFVIcl94QmxEQWNLOGFCWno1Zm4tS2xlYWRfZk51QVRndw?oc=5",
    "sort_key": "Sat, 10 Oct 2026 11:37:00 GMT"
+  },
+  {
+   "id": "news:200bc67378a7463c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[포토] 2라운드 4순위 삼성생명, ′숙명여고 김민정′",
+   "source": "점프볼",
+   "date": "Sat, 10 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZ0c0Y0h2V2lRU3RKUHk2eWwzR0x3V0FLZXpLWmpPR1g1RV9WR3lQLVNSejMzZ2htYUJ3OWQxX1dVMkdRLXhURkhPYXo3NFV3Y29XX0FfNURZTGszWUJmVTVKVUl5Nmd3N2ZUdk40YmwtWUhqT3c?oc=5",
+   "sort_key": "Sat, 10 Oct 2026 04:16:06 GMT"
+  },
+  {
+   "id": "news:370a36439a013545",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "생보사, 정보보호 인력 비율 금융권 ‘꼴찌’… 교보생명 최저 - 조선비즈",
+   "source": "Chosunbiz",
+   "date": "Sat, 10 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnIzdXgxMElBeWV0M21vdkFBTVo5YmNNdlZPeDN0RlFyVUFnMDJXQWtQNU05ZHJpNmxmVVo1WmVqRUh2Zl9sU2VhVEJQWHpybEF0T1I1VjRobW1BN3hVYXZLLV9EeUh3Q3FVTTlSb2hhMEFlTGY1eFNRUmJsd3NwddIBlAFBVV95cUxNYWExZkJVQWxzQkZISUs2dlE3LXBNNmo4RDJuMGN1S3R1MmZ5WVhHVHFHRnFMWG0xd2dvWXpINkZybmNMekw5Y1VnNjg1OGNJMmdzdHhWMTdFTC1YYlh5NklwNjV5MzFqSjY1UE82aFFtRERLc3RzUHlDNUk5aWsySjRfSExHR3J2YmtUUXNiRXpIU0ZS?oc=5",
+   "sort_key": "Sat, 10 Oct 2026 21:06:51 GMT"
   }
  ],
  "initialized": true,
