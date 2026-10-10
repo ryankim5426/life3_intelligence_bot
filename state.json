@@ -1537,20 +1537,13 @@
   "news:3477092ff154f109": 1791616877,
   "news:d636116fb4d1f736": 1791616877,
   "news:4d5aa7ae87d2bda4": 1791616877,
-  "news:b2032d68481e6104": 1791616877
+  "news:b2032d68481e6104": 1791616877,
+  "news:f1db6adaa095fa58": 1791640559,
+  "news:5ba0c512c0057fef": 1791640560,
+  "news:57c5b1012d7c09d2": 1791640560,
+  "news:cbf2058f010969c4": 1791640560
  },
  "stories": {
-  "‘삼성생명ㆍ삼성화재’ 인센티브 임금성 ‘부정’…삼성전자와 다른 결론, 이유는?": 1791381303,
-  "[금융그룹 꾀하는 교보생명] ① 계열사가 메운 본업 수익성 둔화": 1791381303,
-  "[한화생명 김동원 부회장 리더십 ①] '금융 한화' 오너 됐지만 경영역량은 '물음표''": 1791381303,
-  "[업앤다운]보험주 상승…미래에셋생명↑·삼성생명↓": 1791381303,
-  "교보생명, 가상자산 생태계 접점 넓힌다…에버노스에 3000만 달러 투자": 1791381303,
-  "한화생명, 애큐온 품고 조달 경쟁력 높인다…비보험 셈법도 '고차'": 1791381303,
-  "[26박신자컵] 전반에만 51점…BNK, 삼성생명 완파하고 KB스타즈와 공동 2위": 1791381303,
-  "[박신자컵] ‘초반부터 압도’ BNK 썸, 삼성생명 91-56 완파…2연승 질주": 1791381303,
-  "'킹 29득점+숀 롱 27득점' 폭발! KCC 난타전 끝 한국가스공사에 103-98 신승, 개막전 패배 후 2연승...BNK 삼성생명 꺾고 A조 공동 2위 등극(종합)": 1791381303,
-  "‘호화 멤버’ BNK 화력 무섭네···삼성생명에 91-56 완승, 박신자컵 2연승 ‘亞쿼터’ 바네사 15점 반짝": 1791381303,
-  "[박신자컵] 큰 좌절 맛본 삼성생명, 팀원들과 합 맞춘 이해란": 1791381303,
   "한화생명볼파크 증축 협약": 1791402571,
   "[박신자컵] ‘게임은 1Q에 터졌다’ BNK, 삼성생명 제압 … 첫 경기 패배 후 2연승": 1791402571,
   "[박신자컵] 변소정 16점 활약 BNK, 삼성생명 91-56 제압…조별리그 2승 1패": 1791402571,
@@ -1601,7 +1594,10 @@
   "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력": 1791542073,
   "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다": 1791582361,
   "“정보보호 예산 잡아놓고 덜 썼다”…우리은행·한화생명·토스증권·하나카드, 분야별 미집행률 가장 높아": 1791616877,
-  "삼성생명, 2조 규모 신종자본증권 첫 발행": 1791616877
+  "삼성생명, 2조 규모 신종자본증권 첫 발행": 1791616877,
+  "\"아시아 골프 유망주 한자리에\"…한화생명, 글로벌 인재 육성 앞장": 1791640560,
+  "전산장애 잦은 금융사, 정보보호 예산 집행률 70% 미만…한화생명도 50%대": 1791640560,
+  "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승": 1791640560
  },
  "news_queue": [
   {
@@ -1623,6 +1619,36 @@
    "date": "Thu, 08 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BcnJuTDRLMDlkVktwVmRKV3dib3pBRHQ0RFlZN29qQzBiRFRLWTRnU29xalZnaG1WVmlBd1N6VVNUU1ZSMGQ4bjhFSXBJdnA4ODk5SF9DMFRmUQ?oc=5",
    "sort_key": "Thu, 08 Oct 2026 08:27:27 GMT"
+  },
+  {
+   "id": "news:5ba0c512c0057fef",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "\"아시아 골프 유망주 한자리에\"…한화생명, 글로벌 인재 육성 앞장",
+   "source": "글로벌에픽",
+   "date": "Sat, 10 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zdFFVeFF5MVhyOVBEOFBqVWJBa3BuVTdoSnAxVmM1WDVzb2VFRDhIVjlWSnIwYkdfRHlja19tUnZDa3FHSlh0eFRybHl2LUp1dzBOSGl0M2Q0Z2cwblVaX0p0Q01wb0VpYVJ0NlFHa0JkWW5mbDVjSzlzWno?oc=5",
+   "sort_key": "Sat, 10 Oct 2026 03:41:34 GMT"
+  },
+  {
+   "id": "news:57c5b1012d7c09d2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "전산장애 잦은 금융사, 정보보호 예산 집행률 70% 미만…한화생명도 50%대",
+   "source": "보험매일",
+   "date": "Sat, 10 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSFJqbEJwVlVjR3ZRSUxZMkJSeVBkZUtTTGRGLW5iYk8wVXpUMHZCajdNcGlQZnNiVWR4REVwaHVFdmlQcUhGU1h4bF94LUFNaFp5MEFRSG92a1MtUnJYQ0J3OWtBblFm?oc=5",
+   "sort_key": "Sat, 10 Oct 2026 09:01:46 GMT"
+  },
+  {
+   "id": "news:cbf2058f010969c4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승",
+   "source": "브릿지경제",
+   "date": "Sat, 10 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pbkt4Sk41Z3lsUGVvVko2U0JvUC1OZEE4ckdld0dBSC13LTZmWlJXN29FMW8tLV9qNFVIcl94QmxEQWNLOGFCWno1Zm4tS2xlYWRfZk51QVRndw?oc=5",
+   "sort_key": "Sat, 10 Oct 2026 11:37:00 GMT"
   }
  ],
  "initialized": true,
