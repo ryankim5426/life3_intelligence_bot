@@ -1532,10 +1532,10 @@
   "news:3aedddbcd4b9ec8b": 1791542073,
   "news:71857d2e7496f409": 1791565847,
   "news:719b3d2262099b53": 1791565847,
-  "news:9aec8271c424139c": 1791582361
+  "news:9aec8271c424139c": 1791582361,
+  "news:27502bc09f0a9a1c": 1791595168
  },
  "stories": {
-  "한화생명, 애큐온 인수 부담…킥스 하방압력·노조 위로금 변수": 1791333581,
   "손보사까지 M&A 보폭 넓히는 교보생명…‘투자 여력’ 관건": 1791354725,
   "대전시, 대전 한화생명볼파크 2만석으로 확대…": 1791354725,
   "[데스크칼럼] 김동원식 한화생명의 앞날② 바람 자는 날": 1791354725,
@@ -1611,88 +1611,7 @@
   "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력": 1791542073,
   "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다": 1791582361
  },
- "news_queue": [
-  {
-   "id": "news:5f5d9cae32bca82a",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 글로벌 시장 공략 위한 15억 달러 신종자본증권 첫 발행 결정",
-   "source": "공감신문",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URFlBMF9HTGFvaGh2cVZoVm03Mk5LVUFVTXppaGtTQTcwX0xVcG9sbHBVWGN4MUlWeVZ6WFpYLURaam9tY2doVGZBcHFVV0UxN0E4UjlQWFF6bjY2dVZaMG5LODEyQkU?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 00:11:20 GMT"
-  },
-  {
-   "id": "news:f37c018b4eaa2db8",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 인비테이셔널, 아시아 6개국 골프 유망주 격돌…안윤주 정상 등극",
-   "source": "더페어",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzLVNYZkVDaXEzdFlmQTNMUU02YVlqS0ZSdjN2QlBwS1hNRXNOZjBlSnZmWHExeFlrMGlfNHV1d25Zcnd6Y0VBS3lTVE9ob1IzbWVJRTRIMzQwcnUxRzFBUDRra19fX0ViN1JFeXppaW3SAXRBVV95cUxQUTlITGNrSTRZeFRGbERSQ19nMC1zM3ZGV1oySmVibGY1QzliQ0h3M29ZTDFDMFphdHRPNEhIY1lCdVFHeU9RMWNBNnF0aDBxbVBBT1V3T1hIS2s4aEpMVGo4akdGZVpmRVZyblpwbHJuSXNpMQ?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 01:20:03 GMT"
-  },
-  {
-   "id": "news:dad27da5d18a26f5",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[주목 e-금융] “3조 넘고, 4조 향해” 한화투자증권 종투사 도약·단기금융업 경쟁 구도 재편…\"한화생명·한화자산운용 전폭 지원\"",
-   "source": "이코노미톡뉴스",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ekZhbUd3azVma2VwRzZnTkl0LXFQdEZTbXR6RF82dHB4TmlDWGwyektlbDNINVlVc1YxelExb2U3OHpVTjhBeldWY19ZUWYwRDRkNDdHekxNNVpNU3BFZXdFTV9sbjg4MTBLSg?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 02:27:29 GMT"
-  },
-  {
-   "id": "news:d4b09ee2ceb54086",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 도심 속 '운동수명 정비소' 운영… 서울마당서 팝업 오픈",
-   "source": "더퍼블릭",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVNThhVXdYTXQ2WVNLdUtNdllMQnEzeW1uOWlGYmM2M3lZeHFBcGl6SDZobTNTYXUwWFpsUTZkdlVZT2YtOW5NSm5aZU9VMklINE5KMzQwc0NHWXV4VVp3Q3BkYTlCenJOdlAyd2VzUdIBb0FVX3lxTFBVNThhVXdYTXQ2WVNLdUtNdllMQnEzeW1uOWlGYmM2M3lZeHFBcGl6SDZobTNTYXUwWFpsUTZkdlVZT2YtOW5NSm5aZU9VMklINE5KMzQwc0NHWXV4VVp3Q3BkYTlCenJOdlAyd2VzUQ?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 03:16:20 GMT"
-  },
-  {
-   "id": "news:1503811c61c998ca",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[금융家] 삼성생명 ㅣ 자본 확충부터 보험 혁신까지…글로벌 성장·고객 편의 '두 토끼'",
-   "source": "CBC뉴스",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XaWxFTTE2M3dZV2ZFa2FSdlJaX1lqdS1ONXp2TmR6UGZtbWxoUmJRbGF3X2VYZDRCc19FSHRobmI3NVR2N2VGWk1ZWXVVQ3NadGxlMUEweFNiN0E0eEJ0RVlnbUI4b3Zp?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 03:23:31 GMT"
-  },
-  {
-   "id": "news:9c2ee7481df17f6b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험업계기상도]10월 둘째 주 ‘구름조금 이하’ 우세…삼성생명 등 보험금 지급심사 및 매각 지연 부담",
-   "source": "NSP통신",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jQUFxOWRmZ0wyRG9pUlVpV2FJSnlsdVhjX3JNSjhkTVVuYTRBblAzNFNUZjFpbi00djVLcnJrVUZtOWxzNTZzQ292NmtRNkk3OUpha3dsQ2VWWFBsX1cteA?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 05:57:51 GMT"
-  },
-  {
-   "id": "news:3aedddbcd4b9ec8b",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력",
-   "source": "업코리아",
-   "date": "Thu, 08 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IU09mVWVIaFU3NVlmNjd4OXpBZzVPMURzZzlkb29IeDl6eXU1a25OZ19yXzVFWk5HbjZpbHBLTkl4TGZiWE1ZOHB1ZjRqTU10aUdtTnN0ZmtTdWhYaGxjaDRaN2VmbnFtSXZRQ2pB?oc=5",
-   "sort_key": "Thu, 08 Oct 2026 02:41:02 GMT"
-  },
-  {
-   "id": "news:9aec8271c424139c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다",
-   "source": "AP신문",
-   "date": "Fri, 09 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PekVwSnlWNTVIU21FWFZIYUY3a0xjLTBxd3VLeGpER1RJcF9tTHNrcDAzOWtBUzYyLXZESlVScndfN3d4aUtlak1SODhUSE5KZFNtOGVTQ0I3X0xrM2h3eEFnQWw4bjE4TWEzUNIBbEFVX3lxTE5PekVwSnlWNTVIU21FWFZIYUY3a0xjLTBxd3VLeGpER1RJcF9tTHNrcDAzOWtBUzYyLXZESlVScndfN3d4aUtlak1SODhUSE5KZFNtOGVTQ0I3X0xrM2h3eEFnQWw4bjE4TWEzUA?oc=5",
-   "sort_key": "Fri, 09 Oct 2026 17:59:16 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-09"
+ "last_digest": "2026-10-10"
 }
