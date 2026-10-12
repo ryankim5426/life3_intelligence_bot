@@ -1572,13 +1572,12 @@
   "news:5245564b93121a4b": 1791791934,
   "news:a92405da72c12f6b": 1791791934,
   "news:86384be18a43fb9b": 1791791934,
-  "news:8c1540961cd88b0e": 1791791934
+  "news:8c1540961cd88b0e": 1791791934,
+  "news:f3f6c975f6e007c6": 1791827144,
+  "news:6e58d24e56742612": 1791827144,
+  "dart:20261012000503": 1791827144
  },
  "stories": {
-  "삼성생명, 도심 속 '운동수명 정비소' 운영… 서울마당서 팝업 오픈": 1791542073,
-  "[금융家] 삼성생명 ㅣ 자본 확충부터 보험 혁신까지…글로벌 성장·고객 편의 '두 토끼'": 1791542073,
-  "[보험업계기상도]10월 둘째 주 ‘구름조금 이하’ 우세…삼성생명 등 보험금 지급심사 및 매각 지연 부담": 1791542073,
-  "한화생명, 순익 9045억·해외 성장 192%…김동원 부회장의 디지털·글로벌 전략 탄력": 1791542073,
   "한화생명 인비테이셔널, 초대 챔피언 안윤주…亞 여자골프 미래 밝혔다": 1791582361,
   "“정보보호 예산 잡아놓고 덜 썼다”…우리은행·한화생명·토스증권·하나카드, 분야별 미집행률 가장 높아": 1791616877,
   "삼성생명, 2조 규모 신종자본증권 첫 발행": 1791616877,
@@ -1610,7 +1609,9 @@
   "한화생명 주가 70원 하락 후 장마감": 1791791934,
   "삼성 이어 한화생명도 '7000억원 규모' 채권발행 검토": 1791791934,
   "삼성생명, 고금리 부담에도 2조 조달 강행…해외 M&A 속도 내나": 1791791934,
-  "한화생명, 아시아 6개국 골프 유망주 격돌…15세 안윤주 초대 챔피언": 1791791934
+  "한화생명, 아시아 6개국 골프 유망주 격돌…15세 안윤주 초대 챔피언": 1791791934,
+  "[포토] 금메달 #삼성생명 #제107회_전국체전_탁구 #남일반부_단체전 입상팀들": 1791827144,
+  "[더밸류 브리핑] 오늘의 보험 소식…생명보험협회·보험연수원· 한화생명": 1791827144
  },
  "news_queue": [
   {
@@ -1752,6 +1753,26 @@
    "date": "Sun, 11 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWW1scm9Ta0VSN1I5V2tmN2t4dFJFSUQ2QVZqSEF3OFhuUngwYlhJRDZ0dGU1UExNTkctWnNlbjJidUpCV3hxY05fSWdDcFprd0FwblNqdjd0YlM3aDQyYVVBTGlVXzVROWVxbdIBb0FVX3lxTFB6RlA1TGZTVGdRdFVOTy1yYWE1TXpKVWFBWDZWTzg0bXR3UlhkeU1vV1FqOExNekg5SkZqZkhSM1JIemx5YnlBS3pJOHhRWVc3RzFBeDFZLWRWNVJxbW10R1VhcGY3R1FyTWVfck1raw?oc=5",
    "sort_key": "Sun, 11 Oct 2026 23:46:47 GMT"
+  },
+  {
+   "id": "news:f3f6c975f6e007c6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[포토] 금메달 #삼성생명 #제107회_전국체전_탁구 #남일반부_단체전 입상팀들",
+   "source": "더 핑퐁",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GVkptbERrQVF4ME81a2ZPVmNwazVRUExwdmp2Ylc1dHk0MFdNcjJjZ0VRWjkxT1J1X2p0blFvbVc5bktFcGZQRnY5Tzl5NDZlakpxaTVzQVI0VHAzb0Z2aWN4SXlXTlJJM2Q3a1FaU0jSAXNBVV95cUxQeWZ1RVZOUU02VG5UTjNLeWVFWjFaekk0SEVLQm0wb3lRQk1PTHJicWtDX1p4VnJKSGcwZkdDS09XNG9wMEVnbzBpUi1TZExETVp4TU1ZLWtMbjdxVFIwdThxZ1plZTNsX0M5ZTNqcVJTRXN3?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 06:44:28 GMT"
+  },
+  {
+   "id": "news:6e58d24e56742612",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[더밸류 브리핑] 오늘의 보험 소식…생명보험협회·보험연수원· 한화생명",
+   "source": "더밸류뉴스",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lU1RlaVFDV0lkOGJMdU9IWGR6R18zNXAyMDdDUmx1UTJMMDkwTjh0QXpXYzFyX0J3X21WUy1vNmo5aGxWeTNRQXlGWF9aZ19Ibnp4Nw?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 06:49:21 GMT"
   }
  ],
  "initialized": true,
