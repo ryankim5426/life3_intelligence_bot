@@ -1556,12 +1556,25 @@
   "news:5e996a28a1b7e6b4": 1791769028,
   "news:5f77477417405736": 1791769028,
   "news:ab2538a4e6f81d2c": 1791769028,
-  "news:9f5da7cca01d2211": 1791769028
+  "news:9f5da7cca01d2211": 1791769028,
+  "news:c0d0969376119035": 1791791930,
+  "news:c06c5a1de7c5ddf5": 1791791930,
+  "news:1d8ef98df5f2e55c": 1791791934,
+  "news:c8449a7586748542": 1791791934,
+  "news:426e67a4f28daef4": 1791791934,
+  "news:a764119b2f8ec33b": 1791791934,
+  "news:028a8e16dc6bd405": 1791791934,
+  "news:ddd87315bc14e72a": 1791791934,
+  "news:ffeae812553488ec": 1791791934,
+  "news:5242e8e1e68f4838": 1791791934,
+  "news:fbc191f2e330806a": 1791791934,
+  "news:94b73c2972b4e178": 1791791934,
+  "news:5245564b93121a4b": 1791791934,
+  "news:a92405da72c12f6b": 1791791934,
+  "news:86384be18a43fb9b": 1791791934,
+  "news:8c1540961cd88b0e": 1791791934
  },
  "stories": {
-  "삼성생명, 글로벌 시장 공략 위한 15억 달러 신종자본증권 첫 발행 결정": 1791515333,
-  "한화생명 인비테이셔널, 아시아 6개국 골프 유망주 격돌…안윤주 정상 등극": 1791515333,
-  "[주목 e-금융] “3조 넘고, 4조 향해” 한화투자증권 종투사 도약·단기금융업 경쟁 구도 재편…\"한화생명·한화자산운용 전폭 지원\"": 1791515333,
   "삼성생명, 도심 속 '운동수명 정비소' 운영… 서울마당서 팝업 오픈": 1791542073,
   "[금융家] 삼성생명 ㅣ 자본 확충부터 보험 혁신까지…글로벌 성장·고객 편의 '두 토끼'": 1791542073,
   "[보험업계기상도]10월 둘째 주 ‘구름조금 이하’ 우세…삼성생명 등 보험금 지급심사 및 매각 지연 부담": 1791542073,
@@ -1583,9 +1596,164 @@
   "삼성생명, 해외서 신종자본증권 첫 발행…美보험사 투자 겨냥": 1791769028,
   "남성 육아휴직 확산하는 보험업계…KB손보·삼성생명 사용률 ‘최고’": 1791769028,
   "[코스피·코스닥,삼성전자 KCC건설 LG에너지솔루션 동부건설 삼성생명 HD현대마린솔루션 SK인천석유화학 한국항공우주 피엠티등 8일 주요공시]": 1791769028,
-  "[전일 주요공시] LG에너지솔루션ㆍ삼성생명ㆍHD현대마린솔루션ㆍJYP Ent. 등": 1791769028
+  "[전일 주요공시] LG에너지솔루션ㆍ삼성생명ㆍHD현대마린솔루션ㆍJYP Ent. 등": 1791769028,
+  "[특징주] 삼성생명 장중 1.58% 내림세… 26만4750원에 거래 : 기업주식정보": 1791791934,
+  "[특징주] 한화생명, 장중 약세 흐름… 1%대 하락 5080원선 거래 : 기업주식정보": 1791791934,
+  "교보생명, 뇌졸중 치료 보장 공백 메웠다…업계 최초 특약 '독점권' 확보": 1791791934,
+  "비영리 꼬리표 뗀 삼성생명, 4,535억 출자해 요양∙금융 결합": 1791791934,
+  "삼성생명, 최대 2조원 자본확충 카드 꺼냈다": 1791791934,
+  "삼성전자 거액 배당 앞둔 삼성생명…추가 주주환원 언제쯤": 1791791934,
+  "'M&A 채비' 삼성생명 첫 외화채, 고금리 부담…삼성화재도 뒤따를까": 1791791934,
+  "삼성생명 2조 영구채 발행…삼성카드, 조달 다각화 전략 ‘주목’": 1791791934,
+  "삼성생명, 태국·중국법인 실적 개선…글로벌 확장 속도": 1791791934,
+  "‘제1회 한화생명 인비테이셔널’ 안산 더헤븐CC서 사흘간 열전": 1791791934,
+  "한화생명 주가 70원 하락 후 장마감": 1791791934,
+  "삼성 이어 한화생명도 '7000억원 규모' 채권발행 검토": 1791791934,
+  "삼성생명, 고금리 부담에도 2조 조달 강행…해외 M&A 속도 내나": 1791791934,
+  "한화생명, 아시아 6개국 골프 유망주 격돌…15세 안윤주 초대 챔피언": 1791791934
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:1d8ef98df5f2e55c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[특징주] 삼성생명 장중 1.58% 내림세… 26만4750원에 거래 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LTFJsM01ZTmpDcmQ3azhyT2tUZVNkZjdNeVJxeGxTTDYtb25pLXVDOGktdVYwbk02Ql82YTFKS0ZncW5Kd3N3S3JYNA?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 01:21:00 GMT"
+  },
+  {
+   "id": "news:c8449a7586748542",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[특징주] 한화생명, 장중 약세 흐름… 1%대 하락 5080원선 거래 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GeGViN0NTWV95NXI2SjU4c0c4NFNsU21Qa2E1dHVtTndUc3hld0JVTHQyRlJTX1Z5VWN5eWloTzVLYktMOEFnQnRjTQ?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 01:39:00 GMT"
+  },
+  {
+   "id": "news:426e67a4f28daef4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 뇌졸중 치료 보장 공백 메웠다…업계 최초 특약 '독점권' 확보",
+   "source": "금융경제신문",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96NnJqT19rWXdHUmlWNkhTRzNWdE1HQVVlcl9kXy0tZUpua0xxVDBkOW1nVkY4WVpKNXRuSXVua1hDVHhoejlzN0FWMHNtOGJCZFM4R21weFQybFJJUzJLMVlfaUFkR0NWb2JFOdIBb0FVX3lxTE9VeHNBRW9RYUFpcGROTnZHTXNfWWZVdnpTX1ZmYk9UVzRhTXJQbFBycEdPT2s0cXUzWlRZSmprb242ZmxpZlM2eEo1WUphNlU3Rk1kS0pBTEhkTjhiaDE1UE12QWNQajVlLXdyQm0wSQ?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 02:00:00 GMT"
+  },
+  {
+   "id": "news:a764119b2f8ec33b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "비영리 꼬리표 뗀 삼성생명, 4,535억 출자해 요양∙금융 결합",
+   "source": "리드경제",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TQlFiblJiOUZNQ1pqTzM3N2VKWTdibGlIaXltLWsxTExpT00wSmk3NDhDcTZzM25DTHNSaUdtRmRrZVhzMmlsWHFMN2taQkNJbVE0MGF6bk5vVldTNkJpRWtkT0NUSXlyZmw0YU0yc2I?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 02:02:00 GMT"
+  },
+  {
+   "id": "news:028a8e16dc6bd405",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 최대 2조원 자본확충 카드 꺼냈다",
+   "source": "뉴스포스트",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tdzNYb3lSNGFpSmJDOU1zUHhKQXRJRFZnZW8xdVhjXzFTVm84d0lmVUZrNnJVem1ucmpYTnZhN1FpbDlNdVAzdXdLNXYxa09EX2lzT3I1RjZILW9PU2FhdHd6c2V3b1VO?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 05:21:46 GMT"
+  },
+  {
+   "id": "news:ddd87315bc14e72a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성전자 거액 배당 앞둔 삼성생명…추가 주주환원 언제쯤",
+   "source": "아주경제",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAycmsxbUtLVVlGNllPNGN2ZzlseF9yYTlMeEVfUWdfcS1aTUJtcF9fay0xUUduYjZsaU5XRFQxVDRvdE0zcnh3VjlJNmV4dWRSUlR4M2hxc0LSAVhBVV95cUxQMnJrMW1LS1VZRjZZTzRjdmc5bHhfcmE5THhFX1FnX3EtWk1CbXBfX2stMVFHbmI2bGlOV0RUMVQ0b3RNM3J4d1Y5STZleHVkUlJUeDNocXNC?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 05:23:58 GMT"
+  },
+  {
+   "id": "news:ffeae812553488ec",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'M&A 채비' 삼성생명 첫 외화채, 고금리 부담…삼성화재도 뒤따를까",
+   "source": "인베스트조선",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzVwTHBhNVY5ZTdQYjY5MmdCOF9KV1FwYkRnT3dvUFhGNXhaNTZUVEJwQjNmOHdiWnNwcHRJUTU5aVgwd0dJVTd6VWZxWDBCY044Q19VNjVJUDEtalNweGhkdzlId2VhTzFWWl9mdjc0WjR2TGxBUjdFbGhVdXVIZWFaOA?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 05:29:00 GMT"
+  },
+  {
+   "id": "news:5242e8e1e68f4838",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 2조 영구채 발행…삼성카드, 조달 다각화 전략 ‘주목’",
+   "source": "뉴스톱",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LUUFwM2N0WTVCNzhYb0lXX1h2ZjBIMDAwTUhaal9BZ2llWVdfeEhWWlRWcWRiTEdfQ0lrUkQ5M25NM0M0QkxjT1BjSWwtRXVKcUpWMWpzVTJNMVF2NVlVUHRFVm1jMEhqMEFHY0xadw?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 05:30:52 GMT"
+  },
+  {
+   "id": "news:fbc191f2e330806a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 태국·중국법인 실적 개선…글로벌 확장 속도",
+   "source": "한스경제",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcDZlYUtpVWgwWGxBWF9pM0lmZ1l4TkJrX0l3QnFDNUxpOTNwaVlCRTJqNE1SZFhJVk9QSzg1QVE3d1huYzFWYW1QcTlXMkxGNXhPRlBTTHE0QUo5SWc5VjBaMUJzMDJqX1JPcdIBb0FVX3lxTE5yYTRxdE1ZZnVtdHZYeXREUWxuOWhQMDFfa2hWXzdwdlhWci1kQjR3NlM0b1FNWEpyajBKX1doUkEyNnhIMFNMT0JMWldpeGpjR21sMmJIRXJsZjFaR1p2cUtIUFl3TThZZ2dzNGJ2MA?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 05:46:11 GMT"
+  },
+  {
+   "id": "news:94b73c2972b4e178",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘제1회 한화생명 인비테이셔널’ 안산 더헤븐CC서 사흘간 열전",
+   "source": "저스트 이코노믹스",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iTnpoS1NqSGd4V3hQUGtyVzczdFE0N2lzQjk2bjlyUWcxRjlxSmZhT2VuVWRrYlljR1BqMWo3UDByTEV4TVZPLWdRUGlrYUdoOW5tU0RjZndnaHhBYS1z?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 06:48:00 GMT"
+  },
+  {
+   "id": "news:5245564b93121a4b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 70원 하락 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95LVRnVUVqVnd5bWdLRk9YcHpUWjRtUGtQMlBsWHppUVdZWjZDNVFQRzdIMEllV2hGT08wbGNkb2taSjFZVHNLZ0pVemVmdVNnSm1UeWZfRlhzVGMt?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 06:50:40 GMT"
+  },
+  {
+   "id": "news:a92405da72c12f6b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "삼성 이어 한화생명도 '7000억원 규모' 채권발행 검토",
+   "source": "전자신문",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tQ1VDZmFjbkVzWmRBam80V3dxUV9RRDhCUjNfMTFVaFRvVThvSDdWMTBwN0luZC1GM0lDaTRXNEtsbTAtVTFrX2FPUTg5UQ?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 07:03:26 GMT"
+  },
+  {
+   "id": "news:86384be18a43fb9b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 고금리 부담에도 2조 조달 강행…해외 M&A 속도 내나",
+   "source": "조세일보",
+   "date": "Mon, 12 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTk9mQXNROWxucERQQ0VCLW1wTW96ajF3d0lDa0tXSlRCXy1SVmhVaDZiLTRDWUxSZXU5d2JxUFA5TFcxZFBBRmt6YzFDS3BrR3dxSUUyNUVMS1prSnNqR21iN2F0ekJJcGJ6ZlhwVQ?oc=5",
+   "sort_key": "Mon, 12 Oct 2026 07:20:00 GMT"
+  },
+  {
+   "id": "news:8c1540961cd88b0e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 아시아 6개국 골프 유망주 격돌…15세 안윤주 초대 챔피언",
+   "source": "금융경제신문",
+   "date": "Sun, 11 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWW1scm9Ta0VSN1I5V2tmN2t4dFJFSUQ2QVZqSEF3OFhuUngwYlhJRDZ0dGU1UExNTkctWnNlbjJidUpCV3hxY05fSWdDcFprd0FwblNqdjd0YlM3aDQyYVVBTGlVXzVROWVxbdIBb0FVX3lxTFB6RlA1TGZTVGdRdFVOTy1yYWE1TXpKVWFBWDZWTzg0bXR3UlhkeU1vV1FqOExNekg5SkZqZkhSM1JIemx5YnlBS3pJOHhRWVc3RzFBeDFZLWRWNVJxbW10R1VhcGY3R1FyTWVfck1raw?oc=5",
+   "sort_key": "Sun, 11 Oct 2026 23:46:47 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-12"
 }
