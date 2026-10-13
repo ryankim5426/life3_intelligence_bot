@@ -1605,12 +1605,11 @@
   "news:59c5fbaae3d4356d": 1791892558,
   "news:08f78060caa621a7": 1791892558,
   "news:037145d91d1adbb6": 1791892558,
-  "news:2cedd56a90e0b1e7": 1791892558
+  "news:2cedd56a90e0b1e7": 1791892558,
+  "news:6d5720a0af461589": 1791918581,
+  "news:24395a54f6fa8cf9": 1791918581
  },
  "stories": {
-  "\"아시아 골프 유망주 한자리에\"…한화생명, 글로벌 인재 육성 앞장": 1791640560,
-  "전산장애 잦은 금융사, 정보보호 예산 집행률 70% 미만…한화생명도 50%대": 1791640560,
-  "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승": 1791640560,
   "[포토] 2라운드 4순위 삼성생명, ′숙명여고 김민정′": 1791669381,
   "생보사, 정보보호 인력 비율 금융권 ‘꼴찌’… 교보생명 최저 - 조선비즈": 1791669381,
   "\"보험금 거절은 실무자의 판단인가\"…삼성생명 홍원학·교보생명 조대규, 책임의 끝은 어디에": 1791700452,
@@ -1663,7 +1662,8 @@
   "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’": 1791892558,
   "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명": 1791892558,
   "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프": 1791892558,
-  "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558
+  "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558,
+  "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581
  },
  "news_queue": [
   {
@@ -1865,6 +1865,16 @@
    "date": "Tue, 13 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HcGdMOEMtWGlSVmRJU3FSdF9zTkRycUszeFFVTG9RNGFpNDNXWjczTmF6X3oyOW5VY0lON2FyRnhHX0EtYzU2NVJnN1dvYW8zT29VRktMQ2ZHdF9PTjFOdVhGUmRrZ2xiRXZzUTdRSE9uRGFr?oc=5",
    "sort_key": "Tue, 13 Oct 2026 07:36:32 GMT"
+  },
+  {
+   "id": "news:24395a54f6fa8cf9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 '제10회 책갈피 독서편지 공모전 개최'",
+   "source": "라온신문",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04aGF0UDk4QXVlLXRxbjgwaU5HQV9WMW5uWjlMZ2pRU2JtVEp3dElyQkxRcUVLWFV2akE4NmFZNVJOMjJQSWxFS0ZvWGJ6cEFPM2NUbXBzeUVwbXBkbF9XYQ?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 00:36:45 GMT"
   }
  ],
  "initialized": true,
