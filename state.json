@@ -1581,7 +1581,16 @@
   "news:ffb7c8449f3a9e2e": 1791848949,
   "news:cb241d6291bc3f0d": 1791848949,
   "news:78d36cd46c339a6c": 1791848949,
-  "news:43c3a3d2f8b9f7cc": 1791848949
+  "news:43c3a3d2f8b9f7cc": 1791848949,
+  "news:cac11e7d242a08b2": 1791864871,
+  "news:776fade5af636ecc": 1791864874,
+  "news:086722abee2f5832": 1791864874,
+  "news:410902203563c988": 1791864874,
+  "news:84805a8455d97cf1": 1791864874,
+  "news:268e8b72b3bbff50": 1791864874,
+  "news:e7fb845f719f0b4b": 1791864874,
+  "news:bc55849664c9b15d": 1791864874,
+  "news:fd8452e1ccb1f8fd": 1791864874
  },
  "stories": {
   "“정보보호 예산 잡아놓고 덜 썼다”…우리은행·한화생명·토스증권·하나카드, 분야별 미집행률 가장 높아": 1791616877,
@@ -1621,9 +1630,98 @@
   "삼전 호황에 3조 배당 쥔 삼성생명·화재, M&A 시동거나": 1791848949,
   "삼성생명, 해외 신종자본증권 2조원 발행…K-ICS 208%에도 자본 보강": 1791848949,
   "한화생명 1위·미래에셋생명 2위·교보생명 3위…10월 생명보험 평판 순위 공개": 1791848949,
-  "한화생명, 생명보험 브랜드평판 2026년 10월...1위": 1791848949
+  "한화생명, 생명보험 브랜드평판 2026년 10월...1위": 1791848949,
+  "삼성생명, 골든종신보험 '암보장형' 도입": 1791864874,
+  "삼성생명, 종신보험 인출 시점 앞당긴다…암 진단 땐 추가 인출도": 1791864874,
+  "삼성생명, '삼성 골든종신보험' 개정 출시 - 머니투데이": 1791864874,
+  "삼성생명, ‘골든종신보험’ 개정…암 보장 강화하고 인출 시점 단축": 1791864874,
+  "삼성생명, 종신보험 인출 기능 강화…암보장형 추가": 1791864874,
+  "아티·젠랑이·넥스 보고 있나…경력직 신입 수리, 한화생명 마스코트 합류": 1791864874,
+  "삼성생명, 종신보험 신규 수요 확대 '정조준'...사망보장에 '암보장·연금전환' 결합 등 생존혜택에 초점": 1791864874,
+  "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증": 1791864874
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:776fade5af636ecc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 골든종신보험 '암보장형' 도입",
+   "source": "연합뉴스",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aHdKOXp5dXhDbERwMlNhU1A2el9MaW45ckVVUlZQQllWaXJpVldsOGlqSFpaN0o5TmpqOU00OGlfOHRMNEk1YU9iQUVQZUYyTXN6dGdfQ0NTNVJCeU02eNIBYEFVX3lxTE56aHdKOXp5dXhDbERwMlNhU1A2el9MaW45ckVVUlZQQllWaXJpVldsOGlqSFpaN0o5TmpqOU00OGlfOHRMNEk1YU9iQUVQZUYyTXN6dGdfQ0NTNVJCeU02eA?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 00:26:18 GMT"
+  },
+  {
+   "id": "news:086722abee2f5832",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 종신보험 인출 시점 앞당긴다…암 진단 땐 추가 인출도",
+   "source": "이지경제",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SYVVQaFdTRlU0QWFsc3pMNU9sVmxEQU85NWV4Sk1xNkRSU20wVFExMDBZZ3h2Y05PVmtHVlFnUGFHSkxXbWpKdUkwXzFJSmwtUkhYand3aThHVWVxa3d1MGVtX2dkejNWMG80WUxR?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 00:34:45 GMT"
+  },
+  {
+   "id": "news:410902203563c988",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '삼성 골든종신보험' 개정 출시 - 머니투데이",
+   "source": "머니투데이",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMTJwUW1lTFBHT2h5aXhGb1JCR1BrTlh0a1RBcXhtaFhSdlFoMnJrU0VFcTZuaU5jMk5aa2hrT2lNWFlsbGl4ckw1eU1LSy1PdTJDenZmY25rLUdjbVRRM2tvbVJtTmRDbnRN0gFwQVVfeXFMUFg3UVFncFR0OWJxb29semFEcV9LWnB4SmFtR0tmNHMzNktIYW9MaDV0clJFOVAxV2h2ZXB3WUtQWU1KaDNlSTRZSTI0eXlQUURXNWFlUlJaMDlYSVhXNFI5Rk5MQ190QWRTbEFWUkM1VA?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 00:59:33 GMT"
+  },
+  {
+   "id": "news:84805a8455d97cf1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, ‘골든종신보험’ 개정…암 보장 강화하고 인출 시점 단축",
+   "source": "브릿지경제",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Q01vOEtYUHhOQkJiY1VubFlieGhEbVIxaXFJMzZDd2kyckVCQVJ2X3lka3ZlUGtYSzc1UjQxZ2F0YXYtSkZESUZPMlNBMmJ3MlNlTnJsbHdjdw?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 01:21:00 GMT"
+  },
+  {
+   "id": "news:268e8b72b3bbff50",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 종신보험 인출 기능 강화…암보장형 추가",
+   "source": "로이슈",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fMzd0dlBKTzRpdVJJN0JZOUtBTzJVcnhzYTUwcGxselg2b1d1U0VRVVFfVU9kS0dtX1EtQ3lvSWFuVWhNS205Wm1ULWlDbGJzM0JGcDRpS0V3YnZMSFpKODBKaEVRQUNNSENCQU9udjg2Q0hqNzg5M1BB?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 01:29:33 GMT"
+  },
+  {
+   "id": "news:e7fb845f719f0b4b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "아티·젠랑이·넥스 보고 있나…경력직 신입 수리, 한화생명 마스코트 합류",
+   "source": "www.xportsnews.com",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QmJTZWlBcWdTM2pSMU5iTWstc1hDVDZPamYyREIteC04VEFVWmcwOVRsNVJ2b3llMmtzZmZKbmNMV2ZSLW4wTVZRTjFBSE9pZUg1YQ?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 01:40:09 GMT"
+  },
+  {
+   "id": "news:bc55849664c9b15d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 종신보험 신규 수요 확대 '정조준'...사망보장에 '암보장·연금전환' 결합 등 생존혜택에 초점",
+   "source": "녹색경제신문",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xdHRVdXh1SzM2MzU0aEFvaWZ0S1NDTjQzWHZ6ZTc0LS1aOEctdnQzNTd0QUFxazF6WmoyLV9wWU5xNG1kTkxaR3hpY0ttN2t1Yk43eXVvc19fOWo0OVRKR254Zk9Pb29O?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 01:42:00 GMT"
+  },
+  {
+   "id": "news:fd8452e1ccb1f8fd",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증",
+   "source": "녹색경제신문",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MVVVekhUOUhZTEh0YXc4Vmt3dk9YVzRMSmt2a1J5eGthWW5Nd0pqYXp5eDZwdjBGaU1NNnhiVmtOdERpOTFzRDhyX2ZETlIxdHZPRFkyRmxBOVc1emlsMk9teXdlaXpH?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 02:31:00 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-13"
 }
