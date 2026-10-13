@@ -1607,11 +1607,11 @@
   "news:037145d91d1adbb6": 1791892558,
   "news:2cedd56a90e0b1e7": 1791892558,
   "news:6d5720a0af461589": 1791918581,
-  "news:24395a54f6fa8cf9": 1791918581
+  "news:24395a54f6fa8cf9": 1791918581,
+  "news:a014e16708c7064e": 1791933410,
+  "news:1d1bb61fed062f14": 1791933410
  },
  "stories": {
-  "[포토] 2라운드 4순위 삼성생명, ′숙명여고 김민정′": 1791669381,
-  "생보사, 정보보호 인력 비율 금융권 ‘꼴찌’… 교보생명 최저 - 조선비즈": 1791669381,
   "\"보험금 거절은 실무자의 판단인가\"…삼성생명 홍원학·교보생명 조대규, 책임의 끝은 어디에": 1791700452,
   "[26박신자컵] ‘박지수 발목 삐끗’ KB스타즈, 돌발 악재 딛고 삼성생명 제압": 1791725457,
   "홍원학 삼성생명 대표, 노블카운티 품고 시니어시장 노린다 [보험사 시니어 전략]": 1791743250,
@@ -1663,7 +1663,9 @@
   "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명": 1791892558,
   "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프": 1791892558,
   "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558,
-  "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581
+  "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581,
+  "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성": 1791933410,
+  "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지": 1791933410
  },
  "news_queue": [
   {
@@ -1875,6 +1877,26 @@
    "date": "Tue, 13 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04aGF0UDk4QXVlLXRxbjgwaU5HQV9WMW5uWjlMZ2pRU2JtVEp3dElyQkxRcUVLWFV2akE4NmFZNVJOMjJQSWxFS0ZvWGJ6cEFPM2NUbXBzeUVwbXBkbF9XYQ?oc=5",
    "sort_key": "Tue, 13 Oct 2026 00:36:45 GMT"
+  },
+  {
+   "id": "news:a014e16708c7064e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성",
+   "source": "DealSite경제TV",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDU0pCUGJuSTdYZjFMcWwzUnFuNG9HY1FlMy16X0pUdFVhT3JnQzlyYWR4NnlJVE1vQzdDdDlhZ0dNUV9pNlNBVXJleGtuQk5DZ3Z5Q1hEUQ?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 09:55:05 GMT"
+  },
+  {
+   "id": "news:1d1bb61fed062f14",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지",
+   "source": "핀포인트뉴스",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CVE5CcmRZZVNJNlVKMWRqRF90cFpDMUV0d2pKTGpxQkxwMmN5NG1hQVE4dkFDeUhCY0hRTTc4Q0lpUzRYUDB0bmJyQ3dNbWRSRmxwTlNiLUNUTm5pRndfdW9IX1lkV3UzV2dFUlNORXlSWjDSAXdBVV95cUxNZ2d4aHUzV2tmNTNaSkpNMjZxLUphRFdXdGFWVjVTc3JZZjJnUHBzV0wzWFBBVXV5UjF5WjNXQkJPRHJVNFdWWUNkbGxWMGVZUnNoREp5anFCLVRLQ2FhckZwbEtxVERpOXlGamt6ODR4dzF2YlFtMA?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 22:07:17 GMT"
   }
  ],
  "initialized": true,
