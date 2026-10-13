@@ -1590,11 +1590,24 @@
   "news:268e8b72b3bbff50": 1791864874,
   "news:e7fb845f719f0b4b": 1791864874,
   "news:bc55849664c9b15d": 1791864874,
-  "news:fd8452e1ccb1f8fd": 1791864874
+  "news:fd8452e1ccb1f8fd": 1791864874,
+  "news:efeccb66e9ed1a0a": 1791892556,
+  "news:37d48637f171c757": 1791892556,
+  "news:55544288fba112f4": 1791892556,
+  "news:6ebe365489c3862d": 1791892558,
+  "news:b912f7df94705c97": 1791892558,
+  "news:829e47a6d9f29c8c": 1791892558,
+  "news:71b8352bf2fe18aa": 1791892558,
+  "news:d07248ed71d4dce9": 1791892558,
+  "news:307ab551533c9802": 1791892558,
+  "news:ca89286abd5314e8": 1791892558,
+  "news:95a03cd4b9669a82": 1791892558,
+  "news:59c5fbaae3d4356d": 1791892558,
+  "news:08f78060caa621a7": 1791892558,
+  "news:037145d91d1adbb6": 1791892558,
+  "news:2cedd56a90e0b1e7": 1791892558
  },
  "stories": {
-  "“정보보호 예산 잡아놓고 덜 썼다”…우리은행·한화생명·토스증권·하나카드, 분야별 미집행률 가장 높아": 1791616877,
-  "삼성생명, 2조 규모 신종자본증권 첫 발행": 1791616877,
   "\"아시아 골프 유망주 한자리에\"…한화생명, 글로벌 인재 육성 앞장": 1791640560,
   "전산장애 잦은 금융사, 정보보호 예산 집행률 70% 미만…한화생명도 50%대": 1791640560,
   "안윤주, 제 1회 한화생명 인비테이셔널 아시아 여자주니어골프서 우승": 1791640560,
@@ -1638,7 +1651,19 @@
   "삼성생명, 종신보험 인출 기능 강화…암보장형 추가": 1791864874,
   "아티·젠랑이·넥스 보고 있나…경력직 신입 수리, 한화생명 마스코트 합류": 1791864874,
   "삼성생명, 종신보험 신규 수요 확대 '정조준'...사망보장에 '암보장·연금전환' 결합 등 생존혜택에 초점": 1791864874,
-  "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증": 1791864874
+  "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증": 1791864874,
+  "한화생명, 해외사업 성과 가시화…이익 기여도 11%로 확대": 1791892558,
+  "[마켓인]피치, 삼성생명 미 달러화 후순위채에 ‘A+’ 부여": 1791892558,
+  "이경근 한화생명 사장, 보험영업 지휘…CSM 성장 가속화": 1791892558,
+  "삼성생명·화재, 3분기 누적 순익 4.6조 코앞…성적표 엇갈려": 1791892558,
+  "삼성생명 종신보험 다시 키운다, 홍원학 건강보험 쏠림 줄여 수익 다변화": 1791892558,
+  "한화생명, 10월 생보 브랜드평판 1위…미래에셋·교보 순": 1791892558,
+  "\"K-ICS 208%에도 2조 자본확충\"…무디스, 삼성생명 달러 영구채에 'A2' 부여 [fn마켓워치]": 1791892558,
+  "무디스, 삼성생명 달러화 후순위 자본증권에 신용등급 'A2' 부여": 1791892558,
+  "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’": 1791892558,
+  "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명": 1791892558,
+  "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프": 1791892558,
+  "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558
  },
  "news_queue": [
   {
@@ -1720,6 +1745,126 @@
    "date": "Tue, 13 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MVVVekhUOUhZTEh0YXc4Vmt3dk9YVzRMSmt2a1J5eGthWW5Nd0pqYXp5eDZwdjBGaU1NNnhiVmtOdERpOTFzRDhyX2ZETlIxdHZPRFkyRmxBOVc1emlsMk9teXdlaXpH?oc=5",
    "sort_key": "Tue, 13 Oct 2026 02:31:00 GMT"
+  },
+  {
+   "id": "news:6ebe365489c3862d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 해외사업 성과 가시화…이익 기여도 11%로 확대",
+   "source": "PRESS9",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95c21MNTVQMTFLdTFvR3ZSeEJuczJXdkxGZFg5eEk5eUh3SVl0U29fS045VlhXSVhPMzZRNmY4MkRWZHZFLTBxZEw5YXpiTmp6NW0ydG05cHBLRUFMVUl5MGNPNzg?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 04:16:41 GMT"
+  },
+  {
+   "id": "news:b912f7df94705c97",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[마켓인]피치, 삼성생명 미 달러화 후순위채에 ‘A+’ 부여",
+   "source": "이데일리",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTI3UUlXazN0dHNPU2Q5aHNkSEVFMllOdS11d2NDMjVSbl9iTlhXNy0wUkhWSnc0SjJmQmJITVJ1eVUyOUFRYVE2MnlpQ2xEdmNaNS0tSWU5MFBReTJfMi1VeWw3czJxT3ZCaThqbHhBYkFTYUF6Ulo2ZkVUT0pORg?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 05:14:02 GMT"
+  },
+  {
+   "id": "news:829e47a6d9f29c8c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "이경근 한화생명 사장, 보험영업 지휘…CSM 성장 가속화",
+   "source": "FETV",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTFo1SWZacWFpY2tJRU43ZXlrbHZfc3ZhX0w4cGEtUllkaGRaeXQ1MS0zb0tqUkpnVElGQXFJMk43X0U5THo4ZGZveWZpZXdqTDczOFZTU3gtZGlDeUZrdHotYjRQWFJs?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 05:40:33 GMT"
+  },
+  {
+   "id": "news:71b8352bf2fe18aa",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재, 3분기 누적 순익 4.6조 코앞…성적표 엇갈려",
+   "source": "파이낸셜투데이",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRHk5RDZ6cUFvLWtuaDNWU3ktcXJDbGVXakFIaGpYUkctU1NEcjhEb25OTW1iSTZBNzU4bHNINHZXdHFzWTFTWGhDMkNpQVFsN1N5MGRubUFYU1QtWFFYWXJHaWVpUFNRZkR30gFuQVVfeXFMTy1vUlhqSnVsWmJIc1U0Z09WMzJCXzRDSHpZX3VsNjVGaVc1QWhEQ083aXlZYjZsdzFOT2pqU1l6a3lBMTQweFBvV0M1V3pIWUFLYk9QeUJha2k1Z3Q2b0FwQkxxQWhBbGwzRU5BVUE?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 06:26:22 GMT"
+  },
+  {
+   "id": "news:d07248ed71d4dce9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 종신보험 다시 키운다, 홍원학 건강보험 쏠림 줄여 수익 다변화",
+   "source": "비즈니스포스트",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMT0ppbThMQ2F2YmNhVHhEMTZjZnBOemVZY0h6dEkwcFB4MmRzYmN6RlVqZGFibW9mS1pKeWtUai1BU3N6ZUVvSUpVNXU5MmxUbTdsOVhTbWhHRGFibHRmMnEzMmsxaEZjUE92VFVlZE5hOEE?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 06:37:52 GMT"
+  },
+  {
+   "id": "news:307ab551533c9802",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 10월 생보 브랜드평판 1위…미래에셋·교보 순",
+   "source": "PRESS9",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LWXJ6NXRMcmtZd1I1V0FTTWNUczl2M3ZNcU9XV0F5cC1EUE9Zd3VIaWlxNFZJWkotZWtydTU0M1RvajFlNXdYdks5V2hjamVTV2pvMVVlNmtfdEdCaktqcDY5b0Y?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 06:52:53 GMT"
+  },
+  {
+   "id": "news:ca89286abd5314e8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"K-ICS 208%에도 2조 자본확충\"…무디스, 삼성생명 달러 영구채에 'A2' 부여 [fn마켓워치]",
+   "source": "파이낸셜뉴스",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbFJ5VkZLQmhSalR0M2ppX0lTazl3OC1HWFFCUHhNVlNDWU5TZUNMSS1pSkJyX2ZRZF9jNmFaSHFPZ3VGejBZWTRacmRPdWMtVzF5NHpmSHkydw?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:13:42 GMT"
+  },
+  {
+   "id": "news:95a03cd4b9669a82",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "무디스, 삼성생명 달러화 후순위 자본증권에 신용등급 'A2' 부여",
+   "source": "뉴시스",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Oc3pOWkJOeFBMMVl2OVVyM3NXaEo4OVppc0hXTnhZWWRxYnIzdVVuekJZdzdreU5xOXM5MmpqNGJKTUd1YnBES01QdzhBMmcyMFNJWEVpX2xQbDhmb3ozSTUxTV84cHNUNV9WdWdhOUFBTzJueGpyddIBeEFVX3lxTE1Oc3pOWkJOeFBMMVl2OVVyM3NXaEo4OVppc0hXTnhZWWRxYnIzdVVuekJZdzdreU5xOXM5MmpqNGJKTUd1YnBES01QdzhBMmcyMFNJWEVpX2xQbDhmb3ozSTUxTV84cHNUNV9WdWdhOUFBTzJueGpydQ?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:25:57 GMT"
+  },
+  {
+   "id": "news:59c5fbaae3d4356d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’",
+   "source": "DFT 대한금융신문",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVlZHQWF1N2h2cUFoNHNPcFpNbzN2ZDU0UnlYVnF4czFMT2JMRU95c3UyaHQ0QWlOOU1MeUZINm1ETHozc3NpYkQ1QzhuTTd5ek44TmRfdWhiWkkzczgtdE5rc210RW8ya3MtcG1jTFPSAXBBVV95cUxQTVZWR0FhdTdodnFBaDRzT3BaTW8zdmQ1NFJ5WFZxeHMxTE9iTEVPeXN1Mmh0NEFpTjlNTHlGSDZtREx6M3NzaWJENUM4bk03eXpOOE5kX3VoYlpJM3M4LXROa3NtdEVvMmtzLXBtY0xT?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:29:54 GMT"
+  },
+  {
+   "id": "news:08f78060caa621a7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명",
+   "source": "더밸류뉴스",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydGFPYkdrQ0RIYWhqSllPLUtIUEE4RE5Fb1YtaXFkcHRXdEVvMFZGeXNIb2JfVFV0WGRuZFJnSjZjOTdwanI5Z2twY1MyVEY4M1VB?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:34:46 GMT"
+  },
+  {
+   "id": "news:037145d91d1adbb6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프",
+   "source": "위키리크스한국",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UeENjUk85Wkp0YnBRa1BWY3R6SzdhZWJxZGV2NldqRXh4aXpsZUg3Q3Z0MF9vbGdRMWZmYVhxV19EVEdGaGx6dDM0aVpYT0J1Z3g5eVRBVEpsY0pEcHQxTDJ3dWgwbzlxQUZ0XzBnQm8?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:35:58 GMT"
+  },
+  {
+   "id": "news:2cedd56a90e0b1e7",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명",
+   "source": "파이낸셜리뷰",
+   "date": "Tue, 13 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HcGdMOEMtWGlSVmRJU3FSdF9zTkRycUszeFFVTG9RNGFpNDNXWjczTmF6X3oyOW5VY0lON2FyRnhHX0EtYzU2NVJnN1dvYW8zT29VRktMQ2ZHdF9PTjFOdVhGUmRrZ2xiRXZzUTdRSE9uRGFr?oc=5",
+   "sort_key": "Tue, 13 Oct 2026 07:36:32 GMT"
   }
  ],
  "initialized": true,
