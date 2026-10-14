@@ -1642,7 +1642,15 @@
   "news:de8bb08f9b322534": 1791962961,
   "news:f0d828e649784fc4": 1791962961,
   "news:6d5536bd4bf8c6e2": 1791962961,
-  "news:eee1adceba78db9f": 1791962961
+  "news:eee1adceba78db9f": 1791962961,
+  "news:be57988c0e633816": 1791982986,
+  "news:815aee5ff999d3f6": 1791982986,
+  "news:7a33eff2512b5620": 1791982986,
+  "news:61ce9d75b96652fa": 1791982987,
+  "news:92fab2549250485e": 1791982987,
+  "news:ab7f59492d6aa7f8": 1791982987,
+  "news:6b0c16e61f5dc09f": 1791982987,
+  "news:27de0d6e3d2da9cc": 1791982987
  },
  "stories": {
   "[26박신자컵] ‘박지수 발목 삐끗’ KB스타즈, 돌발 악재 딛고 삼성생명 제압": 1791725457,
@@ -1721,7 +1729,12 @@
   "[데스크칼럼] 김동원식 한화생명의 앞날③ 10월 22일 '운명의 날'": 1791962961,
   "[보험브리핑]한화손보·교보생명·한화생명": 1791962961,
   "‘종합금융’ 꿈꾸는 한화생명…과제도 산적": 1791962961,
-  "[보험 NOW] 한화생명·교보생명": 1791962961
+  "[보험 NOW] 한화생명·교보생명": 1791962961,
+  "[마감분석] 삼성생명, 3.71% 내린 24만6500원 마감 : 기업주식정보": 1791982987,
+  "후순위채 1.5조 도래하는 한화생명의 차환 딜레마": 1791982987,
+  "교보생명, 보험 가입 고객 건강관리 강화…신규 프로그램 도입": 1791982987,
+  "【공시 모니터링】 삼성생명, 투자자산 탄소비용 8826억원 산정…전 직원 성과급에 기후목표 연계": 1791982987,
+  "삼성생명·삼성화재, 청소년 위기 상담 경찰 구조 연계 체계 구축": 1791982987
  },
  "news_queue": [
   {
@@ -1833,6 +1846,56 @@
    "date": "Wed, 14 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UjFTU2lBNkRTVmlUTXRkX3NPbmV6ZENQb3BSY3Y0QWxXSUNwRDhxWkYxTl9zdThRR2RKZThCTmI3ZGpWRkxMZkFubEtuSlRieFBDRnVmR01NVlJBaXVQLVQweVZHVG96ZV8tSTNYMS0?oc=5",
    "sort_key": "Wed, 14 Oct 2026 06:39:09 GMT"
+  },
+  {
+   "id": "news:61ce9d75b96652fa",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[마감분석] 삼성생명, 3.71% 내린 24만6500원 마감 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Wed, 14 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rQ0lFTWM4RkdBaHQ0cWRHd0RneEhCTlpuU1ZiVVRpSU5qMFZOMEd1bG04VzBHRGQzOVRGQlBIMWxvOXhIb0JWZWpjZw?oc=5",
+   "sort_key": "Wed, 14 Oct 2026 06:46:00 GMT"
+  },
+  {
+   "id": "news:92fab2549250485e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "후순위채 1.5조 도래하는 한화생명의 차환 딜레마",
+   "source": "DFT 대한금융신문",
+   "date": "Wed, 14 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TaXRXalZOWTh5dUFDTUsySkJEREdfYUZtSk9UZlB4ZjhpamZwUm9DZ0ROX2hPZGJYcEtwM3dlZG5VbXFkcU1CdEdJUUx5em5kRkJNVDdFNVJjc2FzSG5NdG1WTkZSLTg2eTJzdg?oc=5",
+   "sort_key": "Wed, 14 Oct 2026 07:05:00 GMT"
+  },
+  {
+   "id": "news:ab7f59492d6aa7f8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 보험 가입 고객 건강관리 강화…신규 프로그램 도입",
+   "source": "파이낸셜포스트",
+   "date": "Wed, 14 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3SGlXWF9hMEo5YWw0Z2xEc2hqVWJiUkc0Q2R0YnpUdVBTZjFXR1llZUJsakN3S3A3ZHNsV1N5MUNBQ1FiZFgzWm55cmJMYUF6c2lnSmJpTTUwWUQtdmtvZW9WRFE4YXRPbXR3MS0zQ0hJekVJ?oc=5",
+   "sort_key": "Wed, 14 Oct 2026 07:39:11 GMT"
+  },
+  {
+   "id": "news:6b0c16e61f5dc09f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "【공시 모니터링】 삼성생명, 투자자산 탄소비용 8826억원 산정…전 직원 성과급에 기후목표 연계",
+   "source": "임팩트온",
+   "date": "Wed, 14 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4eUhDS2xCRU9mZDhQTERZNnBkU18tbUoyeW5EZXd3bld2TmhiNzFmTVB3Q25xLXo3eXkteEZvall6U0JSQ2J2cnNCSmlZWXA4RVVCbW5RMWVEWkh1TGZlTTRJQ0Z2eE5CS0E?oc=5",
+   "sort_key": "Wed, 14 Oct 2026 07:55:47 GMT"
+  },
+  {
+   "id": "news:27de0d6e3d2da9cc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·삼성화재, 청소년 위기 상담 경찰 구조 연계 체계 구축",
+   "source": "NSP통신",
+   "date": "Wed, 14 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLR3Vya19FeVpvTThVYXNCa0hreURLc3d3UDJsVE9pZ1Q1WVNmUlJqTTRjMGt4X21EYjR5OURiUGZSTWN5OGI3YTlzVHlKeFd6ZGtET3lBVXRrSl9SRnBYWA?oc=5",
+   "sort_key": "Wed, 14 Oct 2026 09:27:24 GMT"
   }
  ],
  "initialized": true,
