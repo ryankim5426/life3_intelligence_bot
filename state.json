@@ -1609,7 +1609,20 @@
   "news:6d5720a0af461589": 1791918581,
   "news:24395a54f6fa8cf9": 1791918581,
   "news:a014e16708c7064e": 1791933410,
-  "news:1d1bb61fed062f14": 1791933410
+  "news:1d1bb61fed062f14": 1791933410,
+  "news:6906f02557cb1cf0": 1791943193,
+  "news:21a38c382ca05d5d": 1791943193,
+  "news:30b69f2a58b928ba": 1791943193,
+  "news:38e0826747ed4951": 1791943193,
+  "news:bffbbc025d313af0": 1791943193,
+  "news:1d4bdea1f0895dad": 1791943193,
+  "news:05e8674461f4e9f6": 1791943193,
+  "news:6b76609c102f2c96": 1791943193,
+  "news:ecc04049c1b2211c": 1791943193,
+  "news:c4130d2b4dfdc704": 1791943193,
+  "news:8030746bf6369ffb": 1791943193,
+  "news:9d1e01de6cc814b3": 1791943193,
+  "news:78d73b2dce9d0b9a": 1791943193
  },
  "stories": {
   "\"보험금 거절은 실무자의 판단인가\"…삼성생명 홍원학·교보생명 조대규, 책임의 끝은 어디에": 1791700452,
@@ -1665,240 +1678,22 @@
   "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558,
   "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581,
   "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성": 1791933410,
-  "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지": 1791933410
+  "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지": 1791933410,
+  "비흡연 보험료 할인에 건강검진 보너스까지…교보생명 재무설계사, 가입자 건강도 챙긴다": 1791943193,
+  "3분기 GA채널 매출, 생보 한화생명·손보 메리츠화재 선두": 1791943193,
+  "삼성생명 첫 2조 원 영구채, 등급 하향이 드러낸 자본의 질": 1791943193,
+  "교보생명, 보험 가입 후 건강까지 챙긴다…‘평생든든서비스’ 확대": 1791943193,
+  "한화생명, 생애주기 맞춰 보장·자금 활용..‘필요할때 쓰는 종신보험’ 출시": 1791943193,
+  "한화생명, 낸 보험료 생활자금으로 활용하는 종신보험 출시": 1791943193,
+  "한화생명, '한화생명 필요할때 쓰는 종신보험' 출시": 1791943193,
+  "한화생명, 낸 보험료 찾아 쓰는 종신보험 출시…남은 사망보장 유지": 1791943193,
+  "한화생명, 사망보험금 최대 210% 체증…생애자금 인출 기능 강화": 1791943193,
+  "교보생명, 평생든든서비스에 건강관리 프로그램 추가": 1791943193,
+  "한화생명, 사망보장+생애자금인출 '종신보험' 출시": 1791943193,
+  "“더 쉬워진 가입, 빨라진 자금 활용, 강력해진 암 보장”… 삼성생명, ‘삼성 간편 골든종신보험’ 전격 개정 출시": 1791943193,
+  "한화생명, 목돈 급할 때 보험료 전액 꺼내 쓰는 종신보험 출시": 1791943193
  },
- "news_queue": [
-  {
-   "id": "news:776fade5af636ecc",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 골든종신보험 '암보장형' 도입",
-   "source": "연합뉴스",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aHdKOXp5dXhDbERwMlNhU1A2el9MaW45ckVVUlZQQllWaXJpVldsOGlqSFpaN0o5TmpqOU00OGlfOHRMNEk1YU9iQUVQZUYyTXN6dGdfQ0NTNVJCeU02eNIBYEFVX3lxTE56aHdKOXp5dXhDbERwMlNhU1A2el9MaW45ckVVUlZQQllWaXJpVldsOGlqSFpaN0o5TmpqOU00OGlfOHRMNEk1YU9iQUVQZUYyTXN6dGdfQ0NTNVJCeU02eA?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 00:26:18 GMT"
-  },
-  {
-   "id": "news:086722abee2f5832",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 종신보험 인출 시점 앞당긴다…암 진단 땐 추가 인출도",
-   "source": "이지경제",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SYVVQaFdTRlU0QWFsc3pMNU9sVmxEQU85NWV4Sk1xNkRSU20wVFExMDBZZ3h2Y05PVmtHVlFnUGFHSkxXbWpKdUkwXzFJSmwtUkhYand3aThHVWVxa3d1MGVtX2dkejNWMG80WUxR?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 00:34:45 GMT"
-  },
-  {
-   "id": "news:410902203563c988",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, '삼성 골든종신보험' 개정 출시 - 머니투데이",
-   "source": "머니투데이",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMTJwUW1lTFBHT2h5aXhGb1JCR1BrTlh0a1RBcXhtaFhSdlFoMnJrU0VFcTZuaU5jMk5aa2hrT2lNWFlsbGl4ckw1eU1LSy1PdTJDenZmY25rLUdjbVRRM2tvbVJtTmRDbnRN0gFwQVVfeXFMUFg3UVFncFR0OWJxb29semFEcV9LWnB4SmFtR0tmNHMzNktIYW9MaDV0clJFOVAxV2h2ZXB3WUtQWU1KaDNlSTRZSTI0eXlQUURXNWFlUlJaMDlYSVhXNFI5Rk5MQ190QWRTbEFWUkM1VA?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 00:59:33 GMT"
-  },
-  {
-   "id": "news:84805a8455d97cf1",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, ‘골든종신보험’ 개정…암 보장 강화하고 인출 시점 단축",
-   "source": "브릿지경제",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Q01vOEtYUHhOQkJiY1VubFlieGhEbVIxaXFJMzZDd2kyckVCQVJ2X3lka3ZlUGtYSzc1UjQxZ2F0YXYtSkZESUZPMlNBMmJ3MlNlTnJsbHdjdw?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 01:21:00 GMT"
-  },
-  {
-   "id": "news:268e8b72b3bbff50",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 종신보험 인출 기능 강화…암보장형 추가",
-   "source": "로이슈",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fMzd0dlBKTzRpdVJJN0JZOUtBTzJVcnhzYTUwcGxselg2b1d1U0VRVVFfVU9kS0dtX1EtQ3lvSWFuVWhNS205Wm1ULWlDbGJzM0JGcDRpS0V3YnZMSFpKODBKaEVRQUNNSENCQU9udjg2Q0hqNzg5M1BB?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 01:29:33 GMT"
-  },
-  {
-   "id": "news:e7fb845f719f0b4b",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "아티·젠랑이·넥스 보고 있나…경력직 신입 수리, 한화생명 마스코트 합류",
-   "source": "www.xportsnews.com",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QmJTZWlBcWdTM2pSMU5iTWstc1hDVDZPamYyREIteC04VEFVWmcwOVRsNVJ2b3llMmtzZmZKbmNMV2ZSLW4wTVZRTjFBSE9pZUg1YQ?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 01:40:09 GMT"
-  },
-  {
-   "id": "news:bc55849664c9b15d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 종신보험 신규 수요 확대 '정조준'...사망보장에 '암보장·연금전환' 결합 등 생존혜택에 초점",
-   "source": "녹색경제신문",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xdHRVdXh1SzM2MzU0aEFvaWZ0S1NDTjQzWHZ6ZTc0LS1aOEctdnQzNTd0QUFxazF6WmoyLV9wWU5xNG1kTkxaR3hpY0ttN2t1Yk43eXVvc19fOWo0OVRKR254Zk9Pb29O?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 01:42:00 GMT"
-  },
-  {
-   "id": "news:fd8452e1ccb1f8fd",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증",
-   "source": "녹색경제신문",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MVVVekhUOUhZTEh0YXc4Vmt3dk9YVzRMSmt2a1J5eGthWW5Nd0pqYXp5eDZwdjBGaU1NNnhiVmtOdERpOTFzRDhyX2ZETlIxdHZPRFkyRmxBOVc1emlsMk9teXdlaXpH?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 02:31:00 GMT"
-  },
-  {
-   "id": "news:6ebe365489c3862d",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 해외사업 성과 가시화…이익 기여도 11%로 확대",
-   "source": "PRESS9",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95c21MNTVQMTFLdTFvR3ZSeEJuczJXdkxGZFg5eEk5eUh3SVl0U29fS045VlhXSVhPMzZRNmY4MkRWZHZFLTBxZEw5YXpiTmp6NW0ydG05cHBLRUFMVUl5MGNPNzg?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 04:16:41 GMT"
-  },
-  {
-   "id": "news:b912f7df94705c97",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[마켓인]피치, 삼성생명 미 달러화 후순위채에 ‘A+’ 부여",
-   "source": "이데일리",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTI3UUlXazN0dHNPU2Q5aHNkSEVFMllOdS11d2NDMjVSbl9iTlhXNy0wUkhWSnc0SjJmQmJITVJ1eVUyOUFRYVE2MnlpQ2xEdmNaNS0tSWU5MFBReTJfMi1VeWw3czJxT3ZCaThqbHhBYkFTYUF6Ulo2ZkVUT0pORg?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 05:14:02 GMT"
-  },
-  {
-   "id": "news:829e47a6d9f29c8c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "이경근 한화생명 사장, 보험영업 지휘…CSM 성장 가속화",
-   "source": "FETV",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTFo1SWZacWFpY2tJRU43ZXlrbHZfc3ZhX0w4cGEtUllkaGRaeXQ1MS0zb0tqUkpnVElGQXFJMk43X0U5THo4ZGZveWZpZXdqTDczOFZTU3gtZGlDeUZrdHotYjRQWFJs?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 05:40:33 GMT"
-  },
-  {
-   "id": "news:71b8352bf2fe18aa",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재, 3분기 누적 순익 4.6조 코앞…성적표 엇갈려",
-   "source": "파이낸셜투데이",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRHk5RDZ6cUFvLWtuaDNWU3ktcXJDbGVXakFIaGpYUkctU1NEcjhEb25OTW1iSTZBNzU4bHNINHZXdHFzWTFTWGhDMkNpQVFsN1N5MGRubUFYU1QtWFFYWXJHaWVpUFNRZkR30gFuQVVfeXFMTy1vUlhqSnVsWmJIc1U0Z09WMzJCXzRDSHpZX3VsNjVGaVc1QWhEQ083aXlZYjZsdzFOT2pqU1l6a3lBMTQweFBvV0M1V3pIWUFLYk9QeUJha2k1Z3Q2b0FwQkxxQWhBbGwzRU5BVUE?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 06:26:22 GMT"
-  },
-  {
-   "id": "news:d07248ed71d4dce9",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 종신보험 다시 키운다, 홍원학 건강보험 쏠림 줄여 수익 다변화",
-   "source": "비즈니스포스트",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMT0ppbThMQ2F2YmNhVHhEMTZjZnBOemVZY0h6dEkwcFB4MmRzYmN6RlVqZGFibW9mS1pKeWtUai1BU3N6ZUVvSUpVNXU5MmxUbTdsOVhTbWhHRGFibHRmMnEzMmsxaEZjUE92VFVlZE5hOEE?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 06:37:52 GMT"
-  },
-  {
-   "id": "news:307ab551533c9802",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 10월 생보 브랜드평판 1위…미래에셋·교보 순",
-   "source": "PRESS9",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LWXJ6NXRMcmtZd1I1V0FTTWNUczl2M3ZNcU9XV0F5cC1EUE9Zd3VIaWlxNFZJWkotZWtydTU0M1RvajFlNXdYdks5V2hjamVTV2pvMVVlNmtfdEdCaktqcDY5b0Y?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 06:52:53 GMT"
-  },
-  {
-   "id": "news:ca89286abd5314e8",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "\"K-ICS 208%에도 2조 자본확충\"…무디스, 삼성생명 달러 영구채에 'A2' 부여 [fn마켓워치]",
-   "source": "파이낸셜뉴스",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbFJ5VkZLQmhSalR0M2ppX0lTazl3OC1HWFFCUHhNVlNDWU5TZUNMSS1pSkJyX2ZRZF9jNmFaSHFPZ3VGejBZWTRacmRPdWMtVzF5NHpmSHkydw?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:13:42 GMT"
-  },
-  {
-   "id": "news:95a03cd4b9669a82",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "무디스, 삼성생명 달러화 후순위 자본증권에 신용등급 'A2' 부여",
-   "source": "뉴시스",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Oc3pOWkJOeFBMMVl2OVVyM3NXaEo4OVppc0hXTnhZWWRxYnIzdVVuekJZdzdreU5xOXM5MmpqNGJKTUd1YnBES01QdzhBMmcyMFNJWEVpX2xQbDhmb3ozSTUxTV84cHNUNV9WdWdhOUFBTzJueGpyddIBeEFVX3lxTE1Oc3pOWkJOeFBMMVl2OVVyM3NXaEo4OVppc0hXTnhZWWRxYnIzdVVuekJZdzdreU5xOXM5MmpqNGJKTUd1YnBES01QdzhBMmcyMFNJWEVpX2xQbDhmb3ozSTUxTV84cHNUNV9WdWdhOUFBTzJueGpydQ?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:25:57 GMT"
-  },
-  {
-   "id": "news:59c5fbaae3d4356d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’",
-   "source": "DFT 대한금융신문",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVlZHQWF1N2h2cUFoNHNPcFpNbzN2ZDU0UnlYVnF4czFMT2JMRU95c3UyaHQ0QWlOOU1MeUZINm1ETHozc3NpYkQ1QzhuTTd5ek44TmRfdWhiWkkzczgtdE5rc210RW8ya3MtcG1jTFPSAXBBVV95cUxQTVZWR0FhdTdodnFBaDRzT3BaTW8zdmQ1NFJ5WFZxeHMxTE9iTEVPeXN1Mmh0NEFpTjlNTHlGSDZtREx6M3NzaWJENUM4bk03eXpOOE5kX3VoYlpJM3M4LXROa3NtdEVvMmtzLXBtY0xT?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:29:54 GMT"
-  },
-  {
-   "id": "news:08f78060caa621a7",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명",
-   "source": "더밸류뉴스",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydGFPYkdrQ0RIYWhqSllPLUtIUEE4RE5Fb1YtaXFkcHRXdEVvMFZGeXNIb2JfVFV0WGRuZFJnSjZjOTdwanI5Z2twY1MyVEY4M1VB?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:34:46 GMT"
-  },
-  {
-   "id": "news:037145d91d1adbb6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프",
-   "source": "위키리크스한국",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UeENjUk85Wkp0YnBRa1BWY3R6SzdhZWJxZGV2NldqRXh4aXpsZUg3Q3Z0MF9vbGdRMWZmYVhxV19EVEdGaGx6dDM0aVpYT0J1Z3g5eVRBVEpsY0pEcHQxTDJ3dWgwbzlxQUZ0XzBnQm8?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:35:58 GMT"
-  },
-  {
-   "id": "news:2cedd56a90e0b1e7",
-   "kind": "news",
-   "company": "삼성생명 · 교보생명",
-   "title": "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명",
-   "source": "파이낸셜리뷰",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HcGdMOEMtWGlSVmRJU3FSdF9zTkRycUszeFFVTG9RNGFpNDNXWjczTmF6X3oyOW5VY0lON2FyRnhHX0EtYzU2NVJnN1dvYW8zT29VRktMQ2ZHdF9PTjFOdVhGUmRrZ2xiRXZzUTdRSE9uRGFr?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 07:36:32 GMT"
-  },
-  {
-   "id": "news:24395a54f6fa8cf9",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 '제10회 책갈피 독서편지 공모전 개최'",
-   "source": "라온신문",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04aGF0UDk4QXVlLXRxbjgwaU5HQV9WMW5uWjlMZ2pRU2JtVEp3dElyQkxRcUVLWFV2akE4NmFZNVJOMjJQSWxFS0ZvWGJ6cEFPM2NUbXBzeUVwbXBkbF9XYQ?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 00:36:45 GMT"
-  },
-  {
-   "id": "news:a014e16708c7064e",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성",
-   "source": "DealSite경제TV",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDU0pCUGJuSTdYZjFMcWwzUnFuNG9HY1FlMy16X0pUdFVhT3JnQzlyYWR4NnlJVE1vQzdDdDlhZ0dNUV9pNlNBVXJleGtuQk5DZ3Z5Q1hEUQ?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 09:55:05 GMT"
-  },
-  {
-   "id": "news:1d1bb61fed062f14",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지",
-   "source": "핀포인트뉴스",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CVE5CcmRZZVNJNlVKMWRqRF90cFpDMUV0d2pKTGpxQkxwMmN5NG1hQVE4dkFDeUhCY0hRTTc4Q0lpUzRYUDB0bmJyQ3dNbWRSRmxwTlNiLUNUTm5pRndfdW9IX1lkV3UzV2dFUlNORXlSWjDSAXdBVV95cUxNZ2d4aHUzV2tmNTNaSkpNMjZxLUphRFdXdGFWVjVTc3JZZjJnUHBzV0wzWFBBVXV5UjF5WjNXQkJPRHJVNFdWWUNkbGxWMGVZUnNoREp5anFCLVRLQ2FhckZwbEtxVERpOXlGamt6ODR4dzF2YlFtMA?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 22:07:17 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-13"
+ "last_digest": "2026-10-14"
 }
