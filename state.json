@@ -1655,7 +1655,8 @@
   "news:c592c86a8cbec192": 1792000738,
   "news:e14bf26f8e5da01b": 1792000738,
   "news:611dbb2e80a1fc96": 1792013698,
-  "news:6355601b227dd90d": 1792013698
+  "news:6355601b227dd90d": 1792013698,
+  "news:f3faf79b725d7378": 1792022776
  },
  "stories": {
   "[교보생명 구조개편] 금융그룹 향해 속도전…관리 역량 시험대": 1791769028,
@@ -1737,180 +1738,10 @@
   "교보생명, 보험 가입 고객 건강관리 강화…신규 프로그램 도입": 1791982987,
   "【공시 모니터링】 삼성생명, 투자자산 탄소비용 8826억원 산정…전 직원 성과급에 기후목표 연계": 1791982987,
   "삼성생명·삼성화재, 청소년 위기 상담 경찰 구조 연계 체계 구축": 1791982987,
-  "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락": 1792013698
+  "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락": 1792013698,
+  "한화생명, 김동원 부회장 체제 첫 인사… 글로벌 투자 진용 재편": 1792022776
  },
- "news_queue": [
-  {
-   "id": "news:7d399e10a1451ce4",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[교보생명 구조개편] 새 자본규제 앞 백기…라플 합병 '나비 효과'",
-   "source": "DealSite경제TV",
-   "date": "Tue, 13 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRaTRub0doNkpjYnVsMDN0S2V3czZTQTc2Y1NTYm5YZ0lJQ0tBd3hvLXFCbl9HVkFWMEFILTdadGg4TEpvMUtSTFZNRlpkUzdFZUk3aG53?oc=5",
-   "sort_key": "Tue, 13 Oct 2026 22:00:22 GMT"
-  },
-  {
-   "id": "news:7854a95de379db62",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 사망보장 증액·납입료 인출 가능 종신보험 출시",
-   "source": "센트럴경제",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYclo3S28zNGVMNzdqM3BJaUtWT0NvU2N5enpGZlhHUGNQNlZGMWFtNm83N3hvNW8welZ0d0xXT0hHSzg0NkZZMC00OUlxSHBXaTdVZ0JtdzdjS1VPU2w3c0dob09DQdIBakFVX3lxTE13eUQxZXZPcktJVUlhWFh1RjB3LVZpUi0wRDRxdXdzSVhTUWZzMHR4MHdldWljdVRCXzFyRTREMkNuN1NaUVN2dTN1bEQyTVFCczN1Q2tQNjRWX0l2dHVQZjFPeGZ6X1NDVnc?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 01:47:27 GMT"
-  },
-  {
-   "id": "news:96815297608f9219",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "사망보장 받다가 생활자금으로…한화생명, 종신보험 선택지 넓혀",
-   "source": "신아일보",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Z0MxLWxLcExRUUVPOU5lRjg3UndkUVNRVHo1RWFza1Q1TGZPekVEVnNLeVF0b2NfZ0RodGZKWEo0TTA0R3haZ2pvR29BSXpmb2hKSkQtbmxyaThXa0hwMzJVTDUwRW5MUklSMkg2YjM?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 02:06:59 GMT"
-  },
-  {
-   "id": "news:c20c4dc5c4042f8c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 GA 4社 4色 유지율… 생보 25회차 한금서·라이프랩 '업계 평균 하회', IFC '조직성장률' 27.4% TOP",
-   "source": "보험저널",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRXZpSHNaNTJSVTloSEZ0SnhKdC1JZldCS1ozbldhYWNIRmYyaFdBODFXaFRmajZwQ2ZnbU9xeWRGaTl4b2wtR05qaWs0eS1rdGlBWlNndGJKNXFyZ2k5cFo0S19sckxlX1RFbkZvNA?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 02:28:38 GMT"
-  },
-  {
-   "id": "news:b5cef6f70c589bff",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 생애자금 꺼내 쓰는 종신보험 출시",
-   "source": "핀포인트뉴스",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mbjZuQmFnZ01EdUx0dUk1M2QtQ3R4YVNTWnlYTXZYbGd5YUs1ZXBTR0cwNEZZR1BLM0NaTVlJUHJ6MERhLTVidC1Xb2JxSmlGUXpZZjFHSzdOTUJDRUdFRjVWM19xN2M3X2NwaC16V1ZzNHfSAXdBVV95cUxPM2VfRlJFdEpYSHhTbE1ON2FQWjR0RjlOcDFGXzRDYkMwcXY2SmtVWmZKNWlwVGVGSnVlNmd4WU9ZWjNjTzF3NTc2TUt5NTlWS18wYnlWTTB3RHRrcmM0WFNUdlAzYzZYU01xcVNOQm1yYm9kb09ZSQ?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 04:38:57 GMT"
-  },
-  {
-   "id": "news:76abd492f04e77d0",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "\"아프기 전에 챙긴다\"...교보생명, 보험 넘어 건강관리까지 돕는다",
-   "source": "조세일보",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SYlJydmV4X2JtOEF6ZWFCTFBWMWxWbjhnbHBjcXZIYWxKX1VFTEVub1RTdU5PWURSY3F3anZQc3ZYYTdPOUZGMzJkWHNQVk5PT0J3ZjV4US01dThfV1BJd2tQNDZwa2pJS3Vtbl9FLXVGUVoz?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 04:40:00 GMT"
-  },
-  {
-   "id": "news:9f9971541c44a5ff",
-   "kind": "news",
-   "company": "삼성생명 · 한화생명",
-   "title": "생명보험주 흐름 '이목'…삼성생명·한화생명 등 하락",
-   "source": "CBC뉴스",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TMDBkSXoyTV85VVJUZk1wenBUSjh2VTlPVGM1Wmw1eWZfODNXOFVXS2pFOEFoak5ocUY1dEwzNVdKN3BoS1JJNGNBSTVXSWpaSFctMW9RbTYxd2hLV2lVUUt6dkx2R2gx?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 05:31:20 GMT"
-  },
-  {
-   "id": "news:de8bb08f9b322534",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[데스크칼럼] 김동원식 한화생명의 앞날③ 10월 22일 '운명의 날'",
-   "source": "글로벌E",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NcngyVHE0WGNqblZEeHRCQklOOGJPeEJuQW5SeUptdlZMV0NiTU1lYTA3QW9WR0VDWlRxbU82MmJ3MjY1dEtOU01FbTViM1N5RE05MVk4ZUhxOWdPU0t6cG5mTDZvWk5RU0130gFvQVVfeXFMTk9FMWhfekN2OVZQNW5CczF4V2ZUZ0JwRHAyVmhGN1lKZE13MkhWMkQ2clpHVXZORm9CSlF0Slc3dTR1V2VqNklwN0pkQ20tOG9iMFFXM0k0YlVPUEdRRHVwcUlLZ29aN3dULThpamY0?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 06:09:56 GMT"
-  },
-  {
-   "id": "news:f0d828e649784fc4",
-   "kind": "news",
-   "company": "교보생명 · 한화생명",
-   "title": "[보험브리핑]한화손보·교보생명·한화생명",
-   "source": "메트로신문",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OQ1IwRGRyWVBtcTJSSXMzMjlGY1RfZ3dlQlJ5NmZNbXRCX1B2cWkyNXBpSHFMZUdEQzNFYVF5LVVIblctNDVtYktGejF0Tlc1YWZsR2RZTWd2OV9uVmllNA?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 06:17:36 GMT"
-  },
-  {
-   "id": "news:6d5536bd4bf8c6e2",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "‘종합금융’ 꿈꾸는 한화생명…과제도 산적",
-   "source": "주간한국",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmUTUtV25jaG8zaW00b19nRE9GWDFfcEltUjVwUGRpQnM0WTNnQWg1TEk5Y2V4Zy1nSzdLUU5RUUgzaGhMa19RRklldUx6UlZncDlDOTRlUXlnaUtNVWFIYjVQSDhGd3phX1ZrYjNsWFnSAXRBVV95cUxQalpxc3cxMmc4WlViTHV4Sm9fd1Y1dkRQa0dRUF91YVkwcldrNEMwbnF2TWVEc0cxVVZuaTVGM2o1R2pGcTVRT1FJbldRTDd0ajYwRUk2S05SdXNaR2RDVkgzZThQTVNNbXpORW03LVNVb3oydA?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 06:28:42 GMT"
-  },
-  {
-   "id": "news:eee1adceba78db9f",
-   "kind": "news",
-   "company": "교보생명 · 한화생명",
-   "title": "[보험 NOW] 한화생명·교보생명",
-   "source": "위키리크스한국",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UjFTU2lBNkRTVmlUTXRkX3NPbmV6ZENQb3BSY3Y0QWxXSUNwRDhxWkYxTl9zdThRR2RKZThCTmI3ZGpWRkxMZkFubEtuSlRieFBDRnVmR01NVlJBaXVQLVQweVZHVG96ZV8tSTNYMS0?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 06:39:09 GMT"
-  },
-  {
-   "id": "news:61ce9d75b96652fa",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[마감분석] 삼성생명, 3.71% 내린 24만6500원 마감 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rQ0lFTWM4RkdBaHQ0cWRHd0RneEhCTlpuU1ZiVVRpSU5qMFZOMEd1bG04VzBHRGQzOVRGQlBIMWxvOXhIb0JWZWpjZw?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 06:46:00 GMT"
-  },
-  {
-   "id": "news:92fab2549250485e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "후순위채 1.5조 도래하는 한화생명의 차환 딜레마",
-   "source": "DFT 대한금융신문",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TaXRXalZOWTh5dUFDTUsySkJEREdfYUZtSk9UZlB4ZjhpamZwUm9DZ0ROX2hPZGJYcEtwM3dlZG5VbXFkcU1CdEdJUUx5em5kRkJNVDdFNVJjc2FzSG5NdG1WTkZSLTg2eTJzdg?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 07:05:00 GMT"
-  },
-  {
-   "id": "news:ab7f59492d6aa7f8",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보험 가입 고객 건강관리 강화…신규 프로그램 도입",
-   "source": "파이낸셜포스트",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3SGlXWF9hMEo5YWw0Z2xEc2hqVWJiUkc0Q2R0YnpUdVBTZjFXR1llZUJsakN3S3A3ZHNsV1N5MUNBQ1FiZFgzWm55cmJMYUF6c2lnSmJpTTUwWUQtdmtvZW9WRFE4YXRPbXR3MS0zQ0hJekVJ?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 07:39:11 GMT"
-  },
-  {
-   "id": "news:6b0c16e61f5dc09f",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "【공시 모니터링】 삼성생명, 투자자산 탄소비용 8826억원 산정…전 직원 성과급에 기후목표 연계",
-   "source": "임팩트온",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4eUhDS2xCRU9mZDhQTERZNnBkU18tbUoyeW5EZXd3bld2TmhiNzFmTVB3Q25xLXo3eXkteEZvall6U0JSQ2J2cnNCSmlZWXA4RVVCbW5RMWVEWkh1TGZlTTRJQ0Z2eE5CS0E?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 07:55:47 GMT"
-  },
-  {
-   "id": "news:27de0d6e3d2da9cc",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·삼성화재, 청소년 위기 상담 경찰 구조 연계 체계 구축",
-   "source": "NSP통신",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLR3Vya19FeVpvTThVYXNCa0hreURLc3d3UDJsVE9pZ1Q1WVNmUlJqTTRjMGt4X21EYjR5OURiUGZSTWN5OGI3YTlzVHlKeFd6ZGtET3lBVXRrSl9SRnBYWA?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 09:27:24 GMT"
-  },
-  {
-   "id": "news:6355601b227dd90d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락",
-   "source": "이코노뉴스",
-   "date": "Wed, 14 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95OGdVdVZkSnpDMzBHblRscTlyWDRxQWlnZnJDQWlFbkN6NXAwUjl1YWs0dHhPdy1YVFUyVHZSN1BXWWJPRzBNbF83OUoxOTVUdk1abmFMNU93SldTMmJ1anRla2tuZVVNMm5lY3VnSQ?oc=5",
-   "sort_key": "Wed, 14 Oct 2026 12:30:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-14"
+ "last_digest": "2026-10-15"
 }
