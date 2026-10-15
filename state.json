@@ -1656,15 +1656,17 @@
   "news:e14bf26f8e5da01b": 1792000738,
   "news:611dbb2e80a1fc96": 1792013698,
   "news:6355601b227dd90d": 1792013698,
-  "news:f3faf79b725d7378": 1792022776
+  "news:f3faf79b725d7378": 1792022776,
+  "news:b5a9a762b58a8303": 1792038878,
+  "news:7a3e064deee33e55": 1792038878,
+  "news:ef551ebe333e1343": 1792038879,
+  "news:dec8f1c78b69b662": 1792038879,
+  "news:d1bed65004523e71": 1792038879,
+  "news:876f88580371efe0": 1792038879,
+  "news:497008167523167c": 1792038879,
+  "news:6709d0d08ba302f1": 1792038879
  },
  "stories": {
-  "[교보생명 구조개편] 금융그룹 향해 속도전…관리 역량 시험대": 1791769028,
-  "AI로 치매 징후 찾고 금융으로 돌봄…한화생명의 '치매 안전망'": 1791769028,
-  "삼성생명, 해외서 신종자본증권 첫 발행…美보험사 투자 겨냥": 1791769028,
-  "남성 육아휴직 확산하는 보험업계…KB손보·삼성생명 사용률 ‘최고’": 1791769028,
-  "[코스피·코스닥,삼성전자 KCC건설 LG에너지솔루션 동부건설 삼성생명 HD현대마린솔루션 SK인천석유화학 한국항공우주 피엠티등 8일 주요공시]": 1791769028,
-  "[전일 주요공시] LG에너지솔루션ㆍ삼성생명ㆍHD현대마린솔루션ㆍJYP Ent. 등": 1791769028,
   "[특징주] 삼성생명 장중 1.58% 내림세… 26만4750원에 거래 : 기업주식정보": 1791791934,
   "[특징주] 한화생명, 장중 약세 흐름… 1%대 하락 5080원선 거래 : 기업주식정보": 1791791934,
   "교보생명, 뇌졸중 치료 보장 공백 메웠다…업계 최초 특약 '독점권' 확보": 1791791934,
@@ -1739,9 +1741,76 @@
   "【공시 모니터링】 삼성생명, 투자자산 탄소비용 8826억원 산정…전 직원 성과급에 기후목표 연계": 1791982987,
   "삼성생명·삼성화재, 청소년 위기 상담 경찰 구조 연계 체계 구축": 1791982987,
   "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락": 1792013698,
-  "한화생명, 김동원 부회장 체제 첫 인사… 글로벌 투자 진용 재편": 1792022776
+  "한화생명, 김동원 부회장 체제 첫 인사… 글로벌 투자 진용 재편": 1792022776,
+  "한화생명, 다양한 생애자금 인출 가능한 종신보험 출시": 1792038879,
+  "[특징주] 삼성생명 장중 6%대 급락세…23만원선 밑돌아 : 기업주식정보": 1792038879,
+  "새로고침, 교보생명과 업무협약 체결…상호 협력 강화 추진": 1792038879,
+  "\"M&A·증자엔 6900억, 배당은 0원\"…한화생명 '밸류업 딜레마' [fn마켓워치]": 1792038879,
+  "[9월 생보사 GA M/S] 삼성생명, 지에이코리아 14.2% '1위 수성'…지에이스타 7계단 뛰어 '4위'": 1792038879,
+  "[한화금융 확장 셈법] ④한화생명, 투자금 절반 아꼈지만...돌아올 '청구서'": 1792038879
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:ef551ebe333e1343",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 다양한 생애자금 인출 가능한 종신보험 출시",
+   "source": "이슈투데이",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxY200UmtybW1QMXNEU0J4SzJMa0hEZGJQSVRabkZ1QzhJVUdjU0VncnAzTlZNeEl6M0pCZy1NaEVmbnJjdjdpTEpPUDN6cl9lcDF2OXdYcGsyYWpYdTVVaDBKU1ZWZw?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 00:46:53 GMT"
+  },
+  {
+   "id": "news:dec8f1c78b69b662",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[특징주] 삼성생명 장중 6%대 급락세…23만원선 밑돌아 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzbkZHdks2eW9KUmpvZzlOMkM3cE1kU0doakdZRTZSb091SkhwbnlnYXU1MmREUHdTRzBVQ0Z4SDhDcXFScmZ0RW5OQQ?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 01:21:00 GMT"
+  },
+  {
+   "id": "news:d1bed65004523e71",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "새로고침, 교보생명과 업무협약 체결…상호 협력 강화 추진",
+   "source": "전자신문",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dGRRQmhBUk9wdUVvMjNfdFFtZUR4bGNqdW02NzZzTGx0TVYyeDQ1cXhBUTdMcnRsckIwb2pSdkZSa0N5ZU1KR3VFSkdVdw?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 01:26:51 GMT"
+  },
+  {
+   "id": "news:876f88580371efe0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "\"M&A·증자엔 6900억, 배당은 0원\"…한화생명 '밸류업 딜레마' [fn마켓워치]",
+   "source": "부산파이낸셜뉴스",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1icG9HQTNUNTd6d2RjZGNCdnNiQklQN3NGcEZEemRROXJPcEgzX2xRNWctaHJVNjItVE1vQXc1eGE1MTV5S2ZCZV9fMFdWN2JLUHZMTXhpXzY2U1N5?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 01:48:00 GMT"
+  },
+  {
+   "id": "news:497008167523167c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[9월 생보사 GA M/S] 삼성생명, 지에이코리아 14.2% '1위 수성'…지에이스타 7계단 뛰어 '4위'",
+   "source": "보험저널",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWWhYaGc5MnpjcERTNk8yTnZRdVB2cmI2YjM4dFJaMFdFT09mcUZabnZPOFhVMnFudTRZMHIwS0NjT3BkTElDRjlOSS11bk1NOEQ2T0daT1BqMTBlX0Z3bW13bjUwY2ZsdTdUX1pHSQ?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 03:41:36 GMT"
+  },
+  {
+   "id": "news:6709d0d08ba302f1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[한화금융 확장 셈법] ④한화생명, 투자금 절반 아꼈지만...돌아올 '청구서'",
+   "source": "뷰어스",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11YjF0UXJiQUR0ME9HWUZQVDE4WDFOWXNvdDYtV1V3Q0t4dnhZNEsxVi1reU9nSUNaRm1RZVFRd2lScFU5ZWVldnR3SWxtR3BVamh2NXB6bkw?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 04:30:03 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-15"
 }
