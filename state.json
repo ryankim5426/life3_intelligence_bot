@@ -1683,7 +1683,11 @@
   "news:97e3775b3a855bea": 1792056313,
   "news:682c2a7058e80935": 1792056313,
   "news:628ae914abd82972": 1792056313,
-  "news:68ad8c5fb5b38718": 1792056313
+  "news:68ad8c5fb5b38718": 1792056313,
+  "news:384d0a1f3531cd38": 1792074019,
+  "news:2d7edfcf448100e1": 1792074019,
+  "news:2ac798504befef13": 1792074019,
+  "news:65455a84c4efe4ba": 1792074019
  },
  "stories": {
   "[포토] 금메달 #삼성생명 #제107회_전국체전_탁구 #남일반부_단체전 입상팀들": 1791827144,
@@ -1771,7 +1775,11 @@
   "새로고침, 교보생명과 공동 발전 위한 업무제휴협약": 1792056313,
   "[리포트] 치매 진단 이후까지 대비…한화생명, 자산관리 영역 확장": 1792056313,
   "[업앤다운]보험주 하락…현대해상↑·삼성생명↓": 1792056313,
-  "[더밸류 브리핑] 오늘의 금융 소식…삼성금융네트웍스· 교보생명": 1792056313
+  "[더밸류 브리핑] 오늘의 금융 소식…삼성금융네트웍스· 교보생명": 1792056313,
+  "한화생명, 8000억 자본확충 추진…애큐온 인수·한화證 증자 뒷받침 [시그널]": 1792074019,
+  "[마감분석] 한화생명 하락 마감 4665원 기록 지분 변동 공시 속 약세 : 기업주식정보": 1792074019,
+  "삼성생명, '독일 트리아논 펀드' 30% 배상 조정 불복…정식 재판행": 1792074019,
+  "'종합금융' 속도내는 한화생명, 주주환원 전략은 불투명": 1792074019
  },
  "news_queue": [
   {
@@ -2023,6 +2031,46 @@
    "date": "Wed, 14 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWR2R3UEdtX3haNWFqZmN5RmhzZWdtblJtMHg5Z09PYWZTYUlRLTFpRW9zZDMzWGM1cUZzYjExUWRIcHJnMDhCY1F3Q3psQXBibDJn?oc=5",
    "sort_key": "Wed, 14 Oct 2026 10:32:12 GMT"
+  },
+  {
+   "id": "news:384d0a1f3531cd38",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 8000억 자본확충 추진…애큐온 인수·한화證 증자 뒷받침 [시그널]",
+   "source": "서울경제",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlQWstMlVDUFNhVkdfTzFPNW9ESzBUTS1lLWxsdkVxODRyQS12VHFlakpGSGNVQmFla2ZULUJ5OEpXeUxQZFJRa3hKWFA3ZFR6NURR0gFTQVVfeXFMUGVBay0yVUNQU2FWR19PMU81b0RLMFRNLWUtbGx2RXE4NHJBLXZUcWVqSkZIY1VCYWVrZlQtQnk4Sld5TFBkUlFreEpYUDdkVHo1RFE?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 06:56:48 GMT"
+  },
+  {
+   "id": "news:2d7edfcf448100e1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[마감분석] 한화생명 하락 마감 4665원 기록 지분 변동 공시 속 약세 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyVEhKMFRrczJLQ3dhMF92a05rc0tnc2hocDBEMlQ3YlZBd2VodTcxU2VWRmNQczZVMWJLY3VBbWVpTElzcHJyRUFMbw?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 07:06:00 GMT"
+  },
+  {
+   "id": "news:2ac798504befef13",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '독일 트리아논 펀드' 30% 배상 조정 불복…정식 재판행",
+   "source": "뉴스저널리즘",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84T2xkd3VzZ2U1ZFd4OEd0UW04V29UX25hQVRCY01ZMmh2Mk94SVFFMi1XNlNxWXRPejFaV0RtZ3lvYmJmR0JTZnVESElJcHJVZ1hmcXdiNm5kZUpoc3JwbjcyTzNTbDczaTdR?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 09:00:06 GMT"
+  },
+  {
+   "id": "news:65455a84c4efe4ba",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'종합금융' 속도내는 한화생명, 주주환원 전략은 불투명",
+   "source": "파이낸셜뉴스",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRDZ3TnFXYW9mZUNiMXFDRjVaYVZBMXVVUUo5SEVLbDcta2drbVZoX3NpVDdjNzhxb0FObGVlUFl1blFIYjR4c1JQZWM0N1BaNkJGbFc2ejJoZw?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 09:30:47 GMT"
   }
  ],
  "initialized": true,
