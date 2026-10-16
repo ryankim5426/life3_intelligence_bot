@@ -1716,21 +1716,21 @@
   "news:eba53fc2163469fb": 1792141197,
   "dart:20261016000155": 1792141198,
   "dart:20261016000153": 1792141198,
-  "dart:20261016000150": 1792141199
+  "dart:20261016000150": 1792141199,
+  "news:70cd96e09d22e15f": 1792158885,
+  "news:c9aca44e867f3754": 1792158885,
+  "news:2e214c5dba08aec4": 1792158885,
+  "news:6c54d6201ee9fbc6": 1792158886,
+  "news:305e13e191bfe961": 1792158886,
+  "news:39333137e4d81610": 1792158886,
+  "news:287231c660352634": 1792158886,
+  "news:df52658c3f3ba310": 1792158886,
+  "news:3f896b8bccab136a": 1792158886,
+  "news:6f70d4c1c646a691": 1792158886,
+  "news:4e3ccffd9c64ca7e": 1792158886,
+  "news:bc1562a5f9c590bc": 1792158886
  },
  "stories": {
-  "한화생명, 해외사업 성과 가시화…이익 기여도 11%로 확대": 1791892558,
-  "[마켓인]피치, 삼성생명 미 달러화 후순위채에 ‘A+’ 부여": 1791892558,
-  "이경근 한화생명 사장, 보험영업 지휘…CSM 성장 가속화": 1791892558,
-  "삼성생명·화재, 3분기 누적 순익 4.6조 코앞…성적표 엇갈려": 1791892558,
-  "삼성생명 종신보험 다시 키운다, 홍원학 건강보험 쏠림 줄여 수익 다변화": 1791892558,
-  "한화생명, 10월 생보 브랜드평판 1위…미래에셋·교보 순": 1791892558,
-  "\"K-ICS 208%에도 2조 자본확충\"…무디스, 삼성생명 달러 영구채에 'A2' 부여 [fn마켓워치]": 1791892558,
-  "무디스, 삼성생명 달러화 후순위 자본증권에 신용등급 'A2' 부여": 1791892558,
-  "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’": 1791892558,
-  "[더밸류 브리핑] 오늘의 생명보험 소식…교보생명·미래에셋생명· 동양생명": 1791892558,
-  "[보험 NOW] 삼성생명·미래에셋생명·동양생명·신한라이프": 1791892558,
-  "[오늘의 보험] 삼성생명·메트라이프생명·미래에셋생명·교보생명": 1791892558,
   "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581,
   "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성": 1791933410,
   "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지": 1791933410,
@@ -1812,7 +1812,16 @@
   "류지현 신임 감독 환영하는 대전한화생명볼파크": 1792141197,
   "삼성생명 이익잉여금 16조 돌파…생보업계 증가분 42.5% 차지": 1792141197,
   "교보생명, 환경교육 범위 넓힌다…돌봄시설·지역축제까지": 1792141197,
-  "[보험사 풍향계] 교보생명, 수소차 타고 환경교육 확산 外": 1792141197
+  "[보험사 풍향계] 교보생명, 수소차 타고 환경교육 확산 外": 1792141197,
+  "[현장체크] 교보생명, 신한라이프, 농협생명, ABL생명": 1792158886,
+  "실적 개선한 한화생명…증권·캐피탈에 눈 돌린 이유": 1792158886,
+  "교보생명, 이동환경교실 학교 밖으로 확대…연말까지 2만5000명 교육": 1792158886,
+  "한화생명 주가 70원 상승 후 장마감": 1792158886,
+  "AI 우려 완화, 코스피 '활짝'...삼성생명·미래에셋증권 '껑충'": 1792158886,
+  "교보생명, 수소차 환경교실 학교 밖으로... 돌봄기관·축제로 확대": 1792158886,
+  "아시아 골프유망주 108명 지원…일동후디스, 한화생명 인비테이셔널 후원": 1792158886,
+  "신창재 교보생명 회장, 금리상승 부담에 ALM·재보험 병행 [보험사 금리상승 여파]": 1792158886,
+  "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886
  },
  "news_queue": [
   {
@@ -1984,6 +1993,96 @@
    "date": "Fri, 16 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TS3dJcXhGZmdubEhZUjhwSHVnLURyNWNmeE50M3BONWlGd3VoSHgwSW1wRkd3RlVhQzl2MF92S0d6dC1iaVRyX09yOC1ZcWt1R0ZqaUkyRnl6TmhvRWRraWlB?oc=5",
    "sort_key": "Fri, 16 Oct 2026 07:21:17 GMT"
+  },
+  {
+   "id": "news:6c54d6201ee9fbc6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[현장체크] 교보생명, 신한라이프, 농협생명, ABL생명",
+   "source": "뉴스포트",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VEE1NVgxSVNkc2E5RzJwTjRWOEtROWdmTVIxWjNnbTNMZzNncVlPVFFPd2M2WWVNVmVfeXJTb0FWaHZ3c19Rb2ZyQWtGdGx5aGtnTk5Sa29DNWlDYXBNUnhkeEpUUm5xV0pz?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 02:26:38 GMT"
+  },
+  {
+   "id": "news:305e13e191bfe961",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "실적 개선한 한화생명…증권·캐피탈에 눈 돌린 이유",
+   "source": "투데이신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByZUYtQXBpVXctalVaVzRFVExfem1rVkFLcU4tNDFXc25FUDRMRzZJX1RIWC1YczRDUGlNc1FHYzYzWm1zVnlnclpjUzhhVS0zaGhTNWMyMHVzYjU2MTFMQzVocFB5TFlXQkNR0gFvQVVfeXFMTVZleFQyQTd1bVg0dlpXS083QnZfOHNxeVRhdUpLWUg3SVdVTmpfVTVBVzc4NTdCbjMwMTRjZXU2dUlObW9hVzBDZFJMSmFMaFgzd2phcGhtRDlES1VfZ0t5QndOeWFTOEVVLVc4S24w?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 06:35:07 GMT"
+  },
+  {
+   "id": "news:39333137e4d81610",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 이동환경교실 학교 밖으로 확대…연말까지 2만5000명 교육",
+   "source": "NSP통신",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15YkM0T3dUcEVoZWNhY2FrRWNYa2Q4NWZlUWdsdzlrT09NVDVMcWg1bVRaaTVfQjF3LWJ1MzdSdFZBSEtDSk5XcFlQc1pjNm1OZnREU2ZRQlEzX2J4NnhMSg?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 06:54:27 GMT"
+  },
+  {
+   "id": "news:287231c660352634",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 70원 상승 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vbjk3V2JMdFRmUk9yMlJ1MmxYUFZIRWdaUEU2WDBqbjA2TG01VzM3Q004bWUyY3NjaGI0V2JUaHMwR19vTHZXR2cwTHhRMVJPMDB6Ylc1N2VFM0kyN3VJOVFfVXp5LUtnME15MHhzREFUUFd1?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 07:05:15 GMT"
+  },
+  {
+   "id": "news:df52658c3f3ba310",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "AI 우려 완화, 코스피 '활짝'...삼성생명·미래에셋증권 '껑충'",
+   "source": "초이스경제",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlM0lvRmQwYlB2QmZoaG5fdWN1WUJsY3BiWWhMOVM5TU1TZTMyQV9idk91NF9HQVFQZ2RTRkd4ZGhJYlducE1temQ0Y2VNM1FwQ0RWQVlBb05xaDFwbm9JQlkwMG5icnZmZmZSNHBRY1bSAXNBVV95cUxPaElaT3FaZl9kc3FoSG4yWXNVeVRwa2tCWXFZVVJXRXdHaEdoTEQxWDQ0YVFHWGI5RWEzQ1JzckJzTUJpWnYxMlp3MmpRUjlRdDFmY21zNW5kOWhhaXdiYW1aRzVHQUNuNDR6Q3lQaFJsR3NB?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 07:16:22 GMT"
+  },
+  {
+   "id": "news:3f896b8bccab136a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 수소차 환경교실 학교 밖으로... 돌봄기관·축제로 확대",
+   "source": "리버티코리아포스트",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxcFhUcURvN3lZeTRybG5PaTlBYks5dThFQ0p3SW9wV054cjFEbEJrVDlkWXJ3MnhyNHVRSmFEUGxpNXBla3ZrMmkyMi0ySlBNUUtQbk1xMkg4YVZWQXR3bi01MHNkcDTSAWdBVV95cUxQMXBYVHFEbzd5WXk0cmxuT2k5QWJLOXU4RUNKd0lvcFdOeHIxRGxCa1Q5ZFlydzJ4cjR1UUphRFBsaTVwZWt2azJpMjItMkpQTVFLUG5NcTJIOGFWVkF0d24tNTBzZHA0?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 07:58:44 GMT"
+  },
+  {
+   "id": "news:6f70d4c1c646a691",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "아시아 골프유망주 108명 지원…일동후디스, 한화생명 인비테이셔널 후원",
+   "source": "동아일보",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZUDY0dWY2b29TTEU3Vk9CaVd3SS01RzlnODJOZDg2QjZFZGtqd1R3QjlrckxlRVRtajNxR3BkTFg2VGhFdHZkN19LWFhZVDdMVXNSckw4ZzYyQlF1ZDFza3d3dXhNZ9IBZkFVX3lxTE9ZUDY0dWY2b29TTEU3Vk9CaVd3SS01RzlnODJOZDg2QjZFZGtqd1R3QjlrckxlRVRtajNxR3BkTFg2VGhFdHZkN19LWFhZVDdMVXNSckw4ZzYyQlF1ZDFza3d3dXhNZw?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 08:58:52 GMT"
+  },
+  {
+   "id": "news:4e3ccffd9c64ca7e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "신창재 교보생명 회장, 금리상승 부담에 ALM·재보험 병행 [보험사 금리상승 여파]",
+   "source": "한국금융신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wTEhsMkxlb1RaS1BFZzc0Y0pLMHQwaGxSbTdGTmRnckVaZ1l6bkNYU2g4YTd2RXRveG5IVnotVTNMS2hPd2xFZ0xuZ2hwaXZmbThLTklVMDhxWVA2SGwwcDNvOTYtUHNDTGZkRGg2d01NZnluSEswUDZxNmo?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 11:37:46 GMT"
+  },
+  {
+   "id": "news:bc1562a5f9c590bc",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승",
+   "source": "이코노뉴스",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hYjBZM1A1UkVhWGNNMEtXeU9sVFdzWTVqSk10bHh5ZU5HN2ZfQmcza1BhWVluNG9jZ0d3a3Y2SW1XNXh0RVFSRGZnNGpQa3V6c0t3REM2X3V6M0xMWEx6b3RIZXNrV3pJdVdtVVF3bw?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 12:30:00 GMT"
   }
  ],
  "initialized": true,
