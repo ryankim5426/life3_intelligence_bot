@@ -1733,7 +1733,11 @@
   "news:856ddf6d82ca8ab6": 1792183591,
   "news:2f80f797576822cb": 1792183591,
   "news:b0980adfc88feff7": 1792183592,
-  "news:fb85030a94e03fc0": 1792183592
+  "news:fb85030a94e03fc0": 1792183592,
+  "news:c48803407ed3061b": 1792191841,
+  "news:1c60c3654f8d0168": 1792191842,
+  "news:3f3298b998710674": 1792191842,
+  "news:92f5bf8a4ff95b1f": 1792191842
  },
  "stories": {
   "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성": 1791933410,
@@ -1828,7 +1832,10 @@
   "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886,
   "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명": 1792173253,
   "'한화생명볼파크 스카이박스 무상이용 의혹' 대전 경찰관 입건": 1792183592,
-  "지난달 24일 서울 중구 더 플라자 호텔에서 열린 '2026 초록우산 기업사회공헌(CSR) 포럼'에서 교보생명 관계자가 보호대상아동 성장·자립 지원사업 '교보다솜이 꿈도깨비 사업'의 운영 성과와 사례를 발표하고 있다.(사진=교보생명)": 1792183592
+  "지난달 24일 서울 중구 더 플라자 호텔에서 열린 '2026 초록우산 기업사회공헌(CSR) 포럼'에서 교보생명 관계자가 보호대상아동 성장·자립 지원사업 '교보다솜이 꿈도깨비 사업'의 운영 성과와 사례를 발표하고 있다.(사진=교보생명)": 1792183592,
+  "[이달의 신상품] 삼성생명, ‘골든종신보험’ 개정…인출 시점 단축": 1792191842,
+  "[9월 GA 생보사 실적 M/S] 굿리치… 한화생명 18% '1위', DGB생명 8.2% '4계단 껑충'": 1792191842,
+  "[9월 GA 생보사 실적 M/S] 디비금융서비스… 신한라이프 30% '1위', 한화생명 18%, 메트라이프 15% 순": 1792191842
  },
  "news_queue": [
   {
@@ -2120,6 +2127,36 @@
    "date": "Fri, 16 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMi5A1BVV95cUxPSjF5QjRNbUd2NTBXbmFWMDkwSW5pYnE2TEFZSGp6SUhFbV9YX1RrUmV3S1JWMVJJU1N5dllBUVRPSDJlRDV0OGxCMEpFdlBiRmdrQU9RVkU0c19CX0ZBbmZMMjAxTUFIM01PVlZRM18zUzl4VkE2WFpvUnZibmNPbkVIeFpZTGlMYXdlMXNyOEx5bndYSUxaWXFhNWwyMm5xQ0VfcHFvcE4xdmhwTDhXRDFHcndGZ1J3eXlmOF9uQlk2X25DVUNCRnlNNUtQbnBoTDMtcEZSQkQ5OHZBY1ZNbFJrbHNGZTlWS3RNa2w4ajg0SmZDWkVKOWJJaTUtZEx5VnljLXRucG5NQjI0YnRDcnBnWElZRHlQV3BpcHhTaHRJOEZOUjMxMlY4VGkzalFFaUZSanVzUGFublNxbllHWFpCclFrS1lFaVd0Vkw0R09Nd0syYWQweGFMU3llQ0RrQjhrcjJwNGY2R09PTkZlTHdsUFBONHpxcmFCT3VSVk95WjRyeE9KeWsyejNtUTRtLVJzT2Z2bTB3MFNfUmxsTlJqN0U3YzRhX0hJN0psVlNMNFFRMmZkUDZIVEVPbVVvcWgyazFUV0RxaVFpbEZIXzhTMXRnRndTUDNxNU1NNGxYdlNDTGx5Yng5Rzh3SmpXTXlPeC1YaVJjMGNza0taYm9VanM3QWVqRkRQd2IwNjcwNTJtbXF5QUc4MFFpUE1rX0NMM2V6amNyUGtVdFdpeFlLbXIxTGlWbzZrR2dxcWJGS2I0WkQ4QkxSNGhjMXZRNGc0N2s1QVVEZ1lodzlNOW55RG41RlE5TkdVRTZjMlhzdVZ5eVplMHczUGRHSG9YOEcxSW0wdG9ycm1mMXJDVk5idEJ5LUxtVmNGMmZKSWtXbTlFcTNoZDVjRVBLZnR5alBkYkVZUlhndUstbFVQOEI3SlNER2p2M185dHUwSE5udVZ5QXpZZ3hDc09oYkMwSWRLY3RndFRHaEJrRlA3NWdaenRSdVVGRHltRkc4cGU0QkZuQ1BCaUk0TW5tQ0syZUlWTWMyR2ltR3ZkTHVCQ0JQRk8tT0JLakxVNTNTN201YkFYMnc1YlRoU0o0UGo2U3JDN0IyX2M5ZUVubXZVSGlQMDJOOWZObG5laFR2MWZRVzFUUmVmZm5WMG5JOUJxbS11UXZYWUhTdDRiOWR5WDZCbW45cHQ1TTBTWmpLeWhsNFRaSHRtNWtMc2ZBaUV5d20zZHpBYWxscTZDVHU3TGFHbVNrUzNvYTNWMDJVWlVZMnhkaW45ZW1xNmJYV0pldG5VUE9sRW5XLUV2ZTBBbXpWRjVLX21VSDdqSVYxV2Nobnl4WXRlcllUOGRxajRmaFJmTG4teElfQ1FET3VEY3FTUXAtOW4zNC1GLVpUM0w4Q1pSckhhZjdTUzVtSG43NGZfWERMb2JwcURjNXF2aFRQeWY3YzN1NWU5QXY4NjQ3QUhlUkxnU2VFbDg4bjNOQnhOQ2ROMkJWX0Y2S002UzJBZ013WjhidWx4bVBKbWJVUFV3eVZITzhza1lOSnd5a3cxUjBYYlVsYkp2MGRVc3UxVF9SYlBvcEQ2bWp5YTJGRG5jYUtULWFFcFFoWGFWbXpqNFV3RW1EUUJkTzZtZjNvM0w3bnFqU3FYbkhvdENnWnM1cDZpRVRRWVAwZEd2dHpkdTdrSktVODdaekdqblFoTHpXR2dUNFJaclF5bG56MHdrMEdOWklmZ29OSWtMZ1pTMUZlUWE5OVZZQnRIdXZxZmdTV1UxNDNvei0tTmJoZmtyblZ0V1EzM2Z2bS1yY0xRTTFPOXVBV0gwY2VoZ1RVMjRVM1Ryb1lWc2cwWHlPbW01b1hjVTZHTFBsRDgxQzU0X0dvNzBXdUdiaS1sMVRELUdEUDhsM194VkFTMmZmNkZUbnpyUThibEF3ZDlHUlBUWWl3YXdkQ1Vfc09VRTRBcEhYSF9uX1pFZWFYNWZ0WnZkcFJnZjNrcGNLa01qTEpSV2pld1l0bU82ajlza3BwZVJWOG5fb1d2VlRDdmhoSmJodjNMOE5JOFNQYnFrNTRuTHQ1S0pkUGU1NU9yTWpUVm9YQVlBX1h1czVFcUdhUW9HelFySGs0bWdWdFJkc2hQaV9SaGdBd2ZHeHJvMFJJWVdUaERlbGtmNmoxRmdZbjF5RGdCNExsN3dCcW9nSnQ5dkpDV3VnZWRpeDJIVFdkM2hKNTU5WHdwOHA2NU11bGx2Y3FyaFBtY2x5NUtyQW1XdG0yUzBfcUNGamtXOEx2Zkx3N0R0RWxWaG5XQmdnSHY4THBmUkx2QTNQTjQySm5BWFVvZ0JCcERtaGMyS2xEUFI?oc=5",
    "sort_key": "Fri, 16 Oct 2026 17:59:32 GMT"
+  },
+  {
+   "id": "news:1c60c3654f8d0168",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이달의 신상품] 삼성생명, ‘골든종신보험’ 개정…인출 시점 단축",
+   "source": "FETV",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jdEl5QVk4dFZQbnBmZV96a2NPVlZHVG96dHYxWHlQSjZiZDZaTFhWM1BOSU41bDdtaWdubHlZc2g5dWNTUDBwU2FDc1c3LTlYcm1ReTdfaTFpbUhJVWlkcVItNExhZUI3?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:3f3298b998710674",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 굿리치… 한화생명 18% '1위', DGB생명 8.2% '4계단 껑충'",
+   "source": "보험저널",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EMy0ySXZnQU1YTG5ibGUwSDZSNnEtMDU2cHFYbzM5emtjQzc1WHJxMkZqclJPalEzc0xKZWdqckNMd09QOGNDWlRLV3BoVklLWmZuNWg0Z0RDVjlDUXp2THIzOGlnMUk3aWJqX2c2Yw?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:92f5bf8a4ff95b1f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 디비금융서비스… 신한라이프 30% '1위', 한화생명 18%, 메트라이프 15% 순",
+   "source": "보험저널",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XejNFUlFPMmZkNktqZHRGQm5SeWRDeDZXZzlkWFY4REN4c2xnZmFBSm9TRWgyRHpEQTBad3JUdFJLNGlGU2ZLSC1uakxzZTdqYzZ0RDM0MzFrUXhwbUJ6U2xjNjA0aE10cENnQTlVZw?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
