@@ -1728,7 +1728,8 @@
   "news:3f896b8bccab136a": 1792158886,
   "news:6f70d4c1c646a691": 1792158886,
   "news:4e3ccffd9c64ca7e": 1792158886,
-  "news:bc1562a5f9c590bc": 1792158886
+  "news:bc1562a5f9c590bc": 1792158886,
+  "news:6d9ab934ffecff7a": 1792173253
  },
  "stories": {
   "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581,
@@ -1821,7 +1822,8 @@
   "교보생명, 수소차 환경교실 학교 밖으로... 돌봄기관·축제로 확대": 1792158886,
   "아시아 골프유망주 108명 지원…일동후디스, 한화생명 인비테이셔널 후원": 1792158886,
   "신창재 교보생명 회장, 금리상승 부담에 ALM·재보험 병행 [보험사 금리상승 여파]": 1792158886,
-  "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886
+  "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886,
+  "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명": 1792173253
  },
  "news_queue": [
   {
@@ -2083,6 +2085,16 @@
    "date": "Fri, 16 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hYjBZM1A1UkVhWGNNMEtXeU9sVFdzWTVqSk10bHh5ZU5HN2ZfQmcza1BhWVluNG9jZ0d3a3Y2SW1XNXh0RVFSRGZnNGpQa3V6c0t3REM2X3V6M0xMWEx6b3RIZXNrV3pJdVdtVVF3bw?oc=5",
    "sort_key": "Fri, 16 Oct 2026 12:30:00 GMT"
+  },
+  {
+   "id": "news:6d9ab934ffecff7a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명",
+   "source": "파이낸셜리뷰",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Nck9wTTR0b0pLMWpUUS14bThVTjh3MXlRV2tJVW5QMFh0aVB4N3RFc2VyTEF3d3RrSm9sMFdRMWItSzNIZVV5cGcyZzhqVENCaWtkamwtQXJ2aWFhSVhoMUxUUUJYM2MwZnBKTFUwUHpnUTd5?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 05:54:33 GMT"
   }
  ],
  "initialized": true,
