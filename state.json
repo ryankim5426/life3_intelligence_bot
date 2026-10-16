@@ -1689,7 +1689,18 @@
   "news:2ac798504befef13": 1792074019,
   "news:65455a84c4efe4ba": 1792074019,
   "news:7ddd08609311dcd5": 1792108550,
-  "news:6026956d78370233": 1792108550
+  "news:6026956d78370233": 1792108550,
+  "news:553a8ad425e4b6c0": 1792123577,
+  "news:5e83867b034d75f7": 1792123580,
+  "news:9c4253f7a2064590": 1792123580,
+  "news:acceacb82ffcc75a": 1792123580,
+  "news:abc18baf838136e0": 1792123580,
+  "news:901c7774e8fdd1d0": 1792123580,
+  "news:342bc52be7661645": 1792123580,
+  "news:2c86d48f7e35ad7f": 1792123580,
+  "news:2710ea148208ad60": 1792123580,
+  "news:56022b745d43c1b1": 1792123580,
+  "news:5c15e1554b220971": 1792123580
  },
  "stories": {
   "삼성생명, 골든종신보험 '암보장형' 도입": 1791864874,
@@ -1776,9 +1787,120 @@
   "삼성생명, '독일 트리아논 펀드' 30% 배상 조정 불복…정식 재판행": 1792074019,
   "'종합금융' 속도내는 한화생명, 주주환원 전략은 불투명": 1792074019,
   "[마감분석] 삼성생명 7%대 하락 마감 22만8000원에 거래 종료 : 기업주식정보": 1792108550,
-  "교보생명, 계열사 재편에 1조 투입… ‘지주전환+승계’ 작업 주목": 1792108550
+  "교보생명, 계열사 재편에 1조 투입… ‘지주전환+승계’ 작업 주목": 1792108550,
+  "교보생명, 수소차량으로 찾아가는 환경교육 실시": 1792123580,
+  "교보생명, 수소차로 찾아가는 환경교육…연말까지 2만5000명 대상": 1792123580,
+  "[개장시황] 삼성생명 5.04% 급등…폭락 끝낸 코스피 반등 이유": 1792123580,
+  "교보생명, 학교 넘어 지역사회로 환경교육 확대": 1792123580,
+  "교보생명 환경교육 지역 축제로…시민 참여 확대": 1792123580,
+  "교보생명, ‘푸름이 이동환경교실’ 실시": 1792123580,
+  "삼성생명, 주가 하락 과도...투자의견 ’매수’로 상향 By 알파경제 alphabiz": 1792123580,
+  "[함께가자 우리ESG] 교보생명, 찾아가는 환경교육… 지역사회로 확장": 1792123580,
+  "교보생명, ‘이동환경교실’로 학교·돌봄기관 교육": 1792123580,
+  "[비은행 지주의 도전]애큐온 품은 한화생명…한화투자증권, 종투사로 '업그레이드'": 1792123580
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:5e83867b034d75f7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 수소차량으로 찾아가는 환경교육 실시",
+   "source": "전자신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55YUlwVHJOS0JDckZ0ampvdkhidW5KN0xKbG1XVURaVmdLaXRGZTBiSkFlZ2lFd2duU1BwaGYzaWNWVS1UOWRfUE1SYWV6QQ?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 00:09:26 GMT"
+  },
+  {
+   "id": "news:9c4253f7a2064590",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 수소차로 찾아가는 환경교육…연말까지 2만5000명 대상",
+   "source": "뉴스1",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZVFjSGhMdTRjLVBfZWRWa080bE9hOG9aRUpKWjRUOS1lYUZyMEJ1V2hkcHdYRk5DeXk5aHNhZ3ZiZHVBOWdvMGQ3bF9LOTVEcnRocXNOd1lPMmJGc2ZsZw?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 00:21:44 GMT"
+  },
+  {
+   "id": "news:acceacb82ffcc75a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[개장시황] 삼성생명 5.04% 급등…폭락 끝낸 코스피 반등 이유",
+   "source": "자본시장뉴스",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bHZSRXVudVlMeEFSWU9DQ24yTG5nZXBoY1pzZTlldTFGWlBHZkFxVWc0Q1FxcnpBcXhOWHNnamxTbUNxQkpZd0xQN1pHYVMtNHFxZmdHa09kRDZGMUk2WVNFMDNTbWM?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 01:00:00 GMT"
+  },
+  {
+   "id": "news:abc18baf838136e0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 학교 넘어 지역사회로 환경교육 확대",
+   "source": "파이낸셜투데이",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50a3FoZXR1VkFORTQtOHFESmp5UVk1SUJndzJEOHdicnlZMDluMGZ4UUEzWWtBYXBKN3dGLTBWMUdWbzlkcEJGVW9kc3dGNVlPQ2czSUd5OHROa0U3WXhRLTRUaWx4QTdPekpv0gFuQVVfeXFMUDBCRlFWYWExajhiQzVHYk5hUEhSNmNMYlZzZ1NlaGFjZ1Q4V1JYS3VnTGlXSHEzTldfNDc0TXNnSlB5Zjc0azRLV2ZiM0lkNnlJRzBUTUdheWlUYi15clRiRmh4MUpwYUIzNGltX1E?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 01:05:38 GMT"
+  },
+  {
+   "id": "news:901c7774e8fdd1d0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 환경교육 지역 축제로…시민 참여 확대",
+   "source": "포쓰저널",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EQkpnQmlqVVBBMmkxV2NpTWpNdHZMUk13bC1XRklKMllTdk5zbXZKeW9JRVpWektOb1piUUFzYzA0am1ISVlQLXJnaGR6Q3FMaU1wS0phdjRZalU3R0J0RkFWNDU?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 01:30:52 GMT"
+  },
+  {
+   "id": "news:342bc52be7661645",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘푸름이 이동환경교실’ 실시",
+   "source": "보험신보",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lazVUTkNkcFV2LVlSbkYzTkhqeGc4Um9QRU5WMXAxckFmZ25nQ25NWklXdVNzbU0wNDdzeFQzbzl6TXQ3eUxNVnZYREFKTEZveFlsY1NuNzJTREY2Sk5xX19yXzEwQUo5bXRr?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 01:37:13 GMT"
+  },
+  {
+   "id": "news:2c86d48f7e35ad7f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 주가 하락 과도...투자의견 ’매수’로 상향 By 알파경제 alphabiz",
+   "source": "Investing.com 한국어",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tV0Y2VEF4eGVQNmVUalNmRFNITnk0eG5HRmo3RVZZS05WN3lrcExONEdiZDgzbDNvdzJURW00a25RRTJOSTEzbGhMek9hakNyalppZjlPYi0yY3htalpvZnlUenUySFFwYUZEdXdIQ3k?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 01:45:00 GMT"
+  },
+  {
+   "id": "news:2710ea148208ad60",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[함께가자 우리ESG] 교보생명, 찾아가는 환경교육… 지역사회로 확장",
+   "source": "뉴스락",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wNV9OQUNscG96SWUxLWRmYXBnY1ZKcmc5QlNkdzF0Wi1IMzY0YXF1RV9ucndmNzg4VlVidEhWRTE1TS1fMzkxdDR6T2VuREVqLWJZUlVmUTh6RmltWjl5SlZrVVloeldLODNUeg?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 02:13:45 GMT"
+  },
+  {
+   "id": "news:56022b745d43c1b1",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘이동환경교실’로 학교·돌봄기관 교육",
+   "source": "글로벌이코노믹",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGg5dTRGenFWSWdiSWVPNDNvLUZGeUYzRFRBcVBTeERZMWdaZWt6bG5JRklRRDRUdmxjbkxjYXJ0eFo5SHJuVUc0X2xLVTNpVl9pSXg2Y29IcjR2RGE1YWJIazlZcW9iQTlBUHRzWmFTdGd0d1MxekRqNTFxazBnRGVyX2Q?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 02:24:00 GMT"
+  },
+  {
+   "id": "news:5c15e1554b220971",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[비은행 지주의 도전]애큐온 품은 한화생명…한화투자증권, 종투사로 '업그레이드'",
+   "source": "대한경제",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54V19ES08tWnc0UVdWMFhvdmlYa3BzOUloUzhiSGg2RXJUbzljUFRSUXljN2dmX1MzTi0zMGI5WWMxQ2N6YndJVFJpZ2txek5KcFlidG1TMGtqUzlpU3lzVW5uYkFxQUVjb3oweHBWeV8yOEU?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 21:40:13 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-16"
 }
