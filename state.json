@@ -1729,10 +1729,13 @@
   "news:6f70d4c1c646a691": 1792158886,
   "news:4e3ccffd9c64ca7e": 1792158886,
   "news:bc1562a5f9c590bc": 1792158886,
-  "news:6d9ab934ffecff7a": 1792173253
+  "news:6d9ab934ffecff7a": 1792173253,
+  "news:856ddf6d82ca8ab6": 1792183591,
+  "news:2f80f797576822cb": 1792183591,
+  "news:b0980adfc88feff7": 1792183592,
+  "news:fb85030a94e03fc0": 1792183592
  },
  "stories": {
-  "교보생명 '제10회 책갈피 독서편지 공모전 개최'": 1791918581,
   "[교보생명 구조개편] 비보험 강화 박차…아쉬운 방향성": 1791933410,
   "한화생명금융서비스 브랜드평판지수 36% 상승…인카금융서비스 선두 유지": 1791933410,
   "비흡연 보험료 할인에 건강검진 보너스까지…교보생명 재무설계사, 가입자 건강도 챙긴다": 1791943193,
@@ -1823,7 +1826,9 @@
   "아시아 골프유망주 108명 지원…일동후디스, 한화생명 인비테이셔널 후원": 1792158886,
   "신창재 교보생명 회장, 금리상승 부담에 ALM·재보험 병행 [보험사 금리상승 여파]": 1792158886,
   "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886,
-  "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명": 1792173253
+  "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명": 1792173253,
+  "'한화생명볼파크 스카이박스 무상이용 의혹' 대전 경찰관 입건": 1792183592,
+  "지난달 24일 서울 중구 더 플라자 호텔에서 열린 '2026 초록우산 기업사회공헌(CSR) 포럼'에서 교보생명 관계자가 보호대상아동 성장·자립 지원사업 '교보다솜이 꿈도깨비 사업'의 운영 성과와 사례를 발표하고 있다.(사진=교보생명)": 1792183592
  },
  "news_queue": [
   {
@@ -2095,6 +2100,26 @@
    "date": "Fri, 16 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Nck9wTTR0b0pLMWpUUS14bThVTjh3MXlRV2tJVW5QMFh0aVB4N3RFc2VyTEF3d3RrSm9sMFdRMWItSzNIZVV5cGcyZzhqVENCaWtkamwtQXJ2aWFhSVhoMUxUUUJYM2MwZnBKTFUwUHpnUTd5?oc=5",
    "sort_key": "Fri, 16 Oct 2026 05:54:33 GMT"
+  },
+  {
+   "id": "news:b0980adfc88feff7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'한화생명볼파크 스카이박스 무상이용 의혹' 대전 경찰관 입건",
+   "source": "대전MBC",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zd19oRTVLbUh3VjJXWGN5YUhxRGJ3aXNHQXBHR3ljWGZ6SEdZb1Nkd1hkZ2dLRWRkOFZEYmtjQ3k4bFV1YVpYb0UyUWRYZjg?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 06:55:33 GMT"
+  },
+  {
+   "id": "news:fb85030a94e03fc0",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "지난달 24일 서울 중구 더 플라자 호텔에서 열린 '2026 초록우산 기업사회공헌(CSR) 포럼'에서 교보생명 관계자가 보호대상아동 성장·자립 지원사업 '교보다솜이 꿈도깨비 사업'의 운영 성과와 사례를 발표하고 있다.(사진=교보생명)",
+   "source": "전자신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMi5A1BVV95cUxPSjF5QjRNbUd2NTBXbmFWMDkwSW5pYnE2TEFZSGp6SUhFbV9YX1RrUmV3S1JWMVJJU1N5dllBUVRPSDJlRDV0OGxCMEpFdlBiRmdrQU9RVkU0c19CX0ZBbmZMMjAxTUFIM01PVlZRM18zUzl4VkE2WFpvUnZibmNPbkVIeFpZTGlMYXdlMXNyOEx5bndYSUxaWXFhNWwyMm5xQ0VfcHFvcE4xdmhwTDhXRDFHcndGZ1J3eXlmOF9uQlk2X25DVUNCRnlNNUtQbnBoTDMtcEZSQkQ5OHZBY1ZNbFJrbHNGZTlWS3RNa2w4ajg0SmZDWkVKOWJJaTUtZEx5VnljLXRucG5NQjI0YnRDcnBnWElZRHlQV3BpcHhTaHRJOEZOUjMxMlY4VGkzalFFaUZSanVzUGFublNxbllHWFpCclFrS1lFaVd0Vkw0R09Nd0syYWQweGFMU3llQ0RrQjhrcjJwNGY2R09PTkZlTHdsUFBONHpxcmFCT3VSVk95WjRyeE9KeWsyejNtUTRtLVJzT2Z2bTB3MFNfUmxsTlJqN0U3YzRhX0hJN0psVlNMNFFRMmZkUDZIVEVPbVVvcWgyazFUV0RxaVFpbEZIXzhTMXRnRndTUDNxNU1NNGxYdlNDTGx5Yng5Rzh3SmpXTXlPeC1YaVJjMGNza0taYm9VanM3QWVqRkRQd2IwNjcwNTJtbXF5QUc4MFFpUE1rX0NMM2V6amNyUGtVdFdpeFlLbXIxTGlWbzZrR2dxcWJGS2I0WkQ4QkxSNGhjMXZRNGc0N2s1QVVEZ1lodzlNOW55RG41RlE5TkdVRTZjMlhzdVZ5eVplMHczUGRHSG9YOEcxSW0wdG9ycm1mMXJDVk5idEJ5LUxtVmNGMmZKSWtXbTlFcTNoZDVjRVBLZnR5alBkYkVZUlhndUstbFVQOEI3SlNER2p2M185dHUwSE5udVZ5QXpZZ3hDc09oYkMwSWRLY3RndFRHaEJrRlA3NWdaenRSdVVGRHltRkc4cGU0QkZuQ1BCaUk0TW5tQ0syZUlWTWMyR2ltR3ZkTHVCQ0JQRk8tT0JLakxVNTNTN201YkFYMnc1YlRoU0o0UGo2U3JDN0IyX2M5ZUVubXZVSGlQMDJOOWZObG5laFR2MWZRVzFUUmVmZm5WMG5JOUJxbS11UXZYWUhTdDRiOWR5WDZCbW45cHQ1TTBTWmpLeWhsNFRaSHRtNWtMc2ZBaUV5d20zZHpBYWxscTZDVHU3TGFHbVNrUzNvYTNWMDJVWlVZMnhkaW45ZW1xNmJYV0pldG5VUE9sRW5XLUV2ZTBBbXpWRjVLX21VSDdqSVYxV2Nobnl4WXRlcllUOGRxajRmaFJmTG4teElfQ1FET3VEY3FTUXAtOW4zNC1GLVpUM0w4Q1pSckhhZjdTUzVtSG43NGZfWERMb2JwcURjNXF2aFRQeWY3YzN1NWU5QXY4NjQ3QUhlUkxnU2VFbDg4bjNOQnhOQ2ROMkJWX0Y2S002UzJBZ013WjhidWx4bVBKbWJVUFV3eVZITzhza1lOSnd5a3cxUjBYYlVsYkp2MGRVc3UxVF9SYlBvcEQ2bWp5YTJGRG5jYUtULWFFcFFoWGFWbXpqNFV3RW1EUUJkTzZtZjNvM0w3bnFqU3FYbkhvdENnWnM1cDZpRVRRWVAwZEd2dHpkdTdrSktVODdaekdqblFoTHpXR2dUNFJaclF5bG56MHdrMEdOWklmZ29OSWtMZ1pTMUZlUWE5OVZZQnRIdXZxZmdTV1UxNDNvei0tTmJoZmtyblZ0V1EzM2Z2bS1yY0xRTTFPOXVBV0gwY2VoZ1RVMjRVM1Ryb1lWc2cwWHlPbW01b1hjVTZHTFBsRDgxQzU0X0dvNzBXdUdiaS1sMVRELUdEUDhsM194VkFTMmZmNkZUbnpyUThibEF3ZDlHUlBUWWl3YXdkQ1Vfc09VRTRBcEhYSF9uX1pFZWFYNWZ0WnZkcFJnZjNrcGNLa01qTEpSV2pld1l0bU82ajlza3BwZVJWOG5fb1d2VlRDdmhoSmJodjNMOE5JOFNQYnFrNTRuTHQ1S0pkUGU1NU9yTWpUVm9YQVlBX1h1czVFcUdhUW9HelFySGs0bWdWdFJkc2hQaV9SaGdBd2ZHeHJvMFJJWVdUaERlbGtmNmoxRmdZbjF5RGdCNExsN3dCcW9nSnQ5dkpDV3VnZWRpeDJIVFdkM2hKNTU5WHdwOHA2NU11bGx2Y3FyaFBtY2x5NUtyQW1XdG0yUzBfcUNGamtXOEx2Zkx3N0R0RWxWaG5XQmdnSHY4THBmUkx2QTNQTjQySm5BWFVvZ0JCcERtaGMyS2xEUFI?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 17:59:32 GMT"
   }
  ],
  "initialized": true,
