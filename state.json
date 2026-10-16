@@ -1700,17 +1700,25 @@
   "news:2c86d48f7e35ad7f": 1792123580,
   "news:2710ea148208ad60": 1792123580,
   "news:56022b745d43c1b1": 1792123580,
-  "news:5c15e1554b220971": 1792123580
+  "news:5c15e1554b220971": 1792123580,
+  "news:bdc0ae7bffda82d8": 1792141196,
+  "news:6ab9022e3db1898c": 1792141196,
+  "news:ffcff40d2deb3196": 1792141196,
+  "news:bb8f8d58390249e3": 1792141196,
+  "news:b159b9930aed0cbe": 1792141196,
+  "news:4532d6efc74da82e": 1792141196,
+  "news:41e4bd73ae21dc45": 1792141197,
+  "news:a9d00dc7883037a2": 1792141197,
+  "news:c51a8b4986f5a80c": 1792141197,
+  "news:f42da033d26d7e69": 1792141197,
+  "news:3ba509c5b73c93a3": 1792141197,
+  "news:897f6f1de0aaa39e": 1792141197,
+  "news:eba53fc2163469fb": 1792141197,
+  "dart:20261016000155": 1792141198,
+  "dart:20261016000153": 1792141198,
+  "dart:20261016000150": 1792141199
  },
  "stories": {
-  "삼성생명, 골든종신보험 '암보장형' 도입": 1791864874,
-  "삼성생명, 종신보험 인출 시점 앞당긴다…암 진단 땐 추가 인출도": 1791864874,
-  "삼성생명, '삼성 골든종신보험' 개정 출시 - 머니투데이": 1791864874,
-  "삼성생명, ‘골든종신보험’ 개정…암 보장 강화하고 인출 시점 단축": 1791864874,
-  "삼성생명, 종신보험 인출 기능 강화…암보장형 추가": 1791864874,
-  "아티·젠랑이·넥스 보고 있나…경력직 신입 수리, 한화생명 마스코트 합류": 1791864874,
-  "삼성생명, 종신보험 신규 수요 확대 '정조준'...사망보장에 '암보장·연금전환' 결합 등 생존혜택에 초점": 1791864874,
-  "교보생명, 건강보험 상품 혁신 주도...시장 경쟁력 강화로 CSM도 급증": 1791864874,
   "한화생명, 해외사업 성과 가시화…이익 기여도 11%로 확대": 1791892558,
   "[마켓인]피치, 삼성생명 미 달러화 후순위채에 ‘A+’ 부여": 1791892558,
   "이경근 한화생명 사장, 보험영업 지휘…CSM 성장 가속화": 1791892558,
@@ -1797,7 +1805,14 @@
   "삼성생명, 주가 하락 과도...투자의견 ’매수’로 상향 By 알파경제 alphabiz": 1792123580,
   "[함께가자 우리ESG] 교보생명, 찾아가는 환경교육… 지역사회로 확장": 1792123580,
   "교보생명, ‘이동환경교실’로 학교·돌봄기관 교육": 1792123580,
-  "[비은행 지주의 도전]애큐온 품은 한화생명…한화투자증권, 종투사로 '업그레이드'": 1792123580
+  "[비은행 지주의 도전]애큐온 품은 한화생명…한화투자증권, 종투사로 '업그레이드'": 1792123580,
+  "[금융계 동향] 우리금융그룹·신한라이프·교보생명": 1792141197,
+  "[MD포토] 한화생명 볼파크에서 포즈 취하는 류지현 감독": 1792141197,
+  "[포토] '류지현 감독 취임 축하하는 한화생명볼파크'": 1792141197,
+  "류지현 신임 감독 환영하는 대전한화생명볼파크": 1792141197,
+  "삼성생명 이익잉여금 16조 돌파…생보업계 증가분 42.5% 차지": 1792141197,
+  "교보생명, 환경교육 범위 넓힌다…돌봄시설·지역축제까지": 1792141197,
+  "[보험사 풍향계] 교보생명, 수소차 타고 환경교육 확산 外": 1792141197
  },
  "news_queue": [
   {
@@ -1899,6 +1914,76 @@
    "date": "Thu, 15 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54V19ES08tWnc0UVdWMFhvdmlYa3BzOUloUzhiSGg2RXJUbzljUFRSUXljN2dmX1MzTi0zMGI5WWMxQ2N6YndJVFJpZ2txek5KcFlidG1TMGtqUzlpU3lzVW5uYkFxQUVjb3oweHBWeV8yOEU?oc=5",
    "sort_key": "Thu, 15 Oct 2026 21:40:13 GMT"
+  },
+  {
+   "id": "news:41e4bd73ae21dc45",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 우리금융그룹·신한라이프·교보생명",
+   "source": "민주신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVHJVOXFvSVhUR2dWMnRJUWRmWVVBc2tjUWdpdU5STnd4aDVFLU9zYkxaWUozbVZZQzM0UzNkNGZvb01ISnpSVEUzcEMxUE9Oa0RGWVlZQW00RVlnS19QQi05OUNFUVpQRUY00gFrQVVfeXFMTU9UclU5cW9JWFRHZ1YydElRZGZZVUFza2NRZ2l1TlJOd3hoNUUtT3NiTFpZSjNtVllDMzRTM2Q0Zm9vTUhKelJURTNwQzFQT05rREZZWVlBbTRFWWdLX1BCLTk5Q0VRWlBFRjQ?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 04:52:13 GMT"
+  },
+  {
+   "id": "news:a9d00dc7883037a2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[MD포토] 한화생명 볼파크에서 포즈 취하는 류지현 감독",
+   "source": "마이데일리",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80cXJfeG1vZnptQlNoYVpmdnRoVEpnckwydmtISHlIZi1oQ29KNWpiTzRPQnFFSXZuaHFYWEJIcmRfMzBHN0ZRSS05ZHFPUGxKZVpHOXVBT2hBOEtwRllrLVNVeEg3QQ?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 05:08:11 GMT"
+  },
+  {
+   "id": "news:c51a8b4986f5a80c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[포토] '류지현 감독 취임 축하하는 한화생명볼파크'",
+   "source": "스타뉴스",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2LXVTR04yTE5aR2ppSldmbk05Z19CZ3FTTnhJU3hLdV9LN0xQc1ZWT0pXN2dLelpfbmFEWWZSekE1VHJHWXBRdnBqSExmd193N20zS0EwZ2l6UERrY1dyeWZ4RW9QVGhQUS1oZGhxM25NOXZtekE?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 05:21:30 GMT"
+  },
+  {
+   "id": "news:f42da033d26d7e69",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "류지현 신임 감독 환영하는 대전한화생명볼파크",
+   "source": "뉴시스",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SanNWN0dWTTdLS2ZuMmR4c0R1WGxJazZPVDU1ZDFZaVVYaHFRc0NITlRLd2FCVWVSd1BDVTFsQTZ5NXllSzdqWWFSYzBTU3RTQi1SQUpNNk5hMk43TEtBdDhUcW1JU0dUS2RyRm42NW9NbnFOVG5VVdIBeEFVX3lxTE5SanNWN0dWTTdLS2ZuMmR4c0R1WGxJazZPVDU1ZDFZaVVYaHFRc0NITlRLd2FCVWVSd1BDVTFsQTZ5NXllSzdqWWFSYzBTU3RTQi1SQUpNNk5hMk43TEtBdDhUcW1JU0dUS2RyRm42NW9NbnFOVG5VVQ?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 05:42:28 GMT"
+  },
+  {
+   "id": "news:3ba509c5b73c93a3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 이익잉여금 16조 돌파…생보업계 증가분 42.5% 차지",
+   "source": "CEO스코어데일리",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yYlNkcUVYbDlyYm5GU2t3cDlfMm8zZ3RUY3I3TjV1dklKODY1Uk5fc2ZjbTdUUlh6WmhHbk5FZVB1RV9LOHpVZzQyM2pCQ1V1YXlXclZ0Vmt5MjUwZ3dOaVR2aUVxM1li?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 06:45:40 GMT"
+  },
+  {
+   "id": "news:897f6f1de0aaa39e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 환경교육 범위 넓힌다…돌봄시설·지역축제까지",
+   "source": "파이낸셜포스트",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DM2ZMTEczdUdNWGliVWNSV3BvWXZ0Ql9HZENmcThGWEpVYzcwekRqamZzZFdjcVFSV2I2U0tGOXdBUmFXWFFlVzQ4Y1J5N1JQajl0N1ZzY0ZybVM5ZlM0bDUzZDFnWnpudFVwRzdjUVhQR0xM?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 07:04:50 GMT"
+  },
+  {
+   "id": "news:eba53fc2163469fb",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험사 풍향계] 교보생명, 수소차 타고 환경교육 확산 外",
+   "source": "에너지경제신문",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TS3dJcXhGZmdubEhZUjhwSHVnLURyNWNmeE50M3BONWlGd3VoSHgwSW1wRkd3RlVhQzl2MF92S0d6dC1iaVRyX09yOC1ZcWt1R0ZqaUkyRnl6TmhvRWRraWlB?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 07:21:17 GMT"
   }
  ],
  "initialized": true,
