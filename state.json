@@ -1741,10 +1741,13 @@
   "news:3d4ae95ac3a6bdd4": 1792215750,
   "news:fdf32cd0e78a91a5": 1792215751,
   "news:f37f3df0243a1715": 1792230270,
-  "news:0f14ec26aef382d2": 1792254677
+  "news:0f14ec26aef382d2": 1792254677,
+  "news:7df2960e16e43ae6": 1792278483,
+  "news:0459daeea41d6bf6": 1792278484,
+  "news:a2c13d47a5de8a80": 1792278484,
+  "news:669d42e774a5ce64": 1792278484
  },
  "stories": {
-  "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락": 1792013698,
   "한화생명, 김동원 부회장 체제 첫 인사… 글로벌 투자 진용 재편": 1792022776,
   "한화생명, 다양한 생애자금 인출 가능한 종신보험 출시": 1792038879,
   "[특징주] 삼성생명 장중 6%대 급락세…23만원선 밑돌아 : 기업주식정보": 1792038879,
@@ -1811,7 +1814,10 @@
   "[9월 GA 생보사 실적 M/S] 디비금융서비스… 신한라이프 30% '1위', 한화생명 18%, 메트라이프 15% 순": 1792191842,
   "[9월 GA 생보사 실적 M/S] 케이지에이에셋… 한화생명 18.7% '선두' 지속, 동양생명 17%, 신한 21%, '상위 3사' 48%": 1792215751,
   "한화생명, 사망보험금 키우고 보험료 100% 돌려받는다": 1792230270,
-  "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677
+  "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677,
+  "삼성 생명·화재, 상반기 순익·CSM 동": 1792278484,
+  "[9월 GA 생보사 실적 M/S] 메가인포에셋… 한화생명 64.4% '독주', 푸폰현대 25.6% '2위', 이하 '한 자릿수' 점유율": 1792278484,
+  "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료": 1792278484
  },
  "news_queue": [
   {
@@ -1843,6 +1849,36 @@
    "date": "Thu, 15 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yTWxHOER2RTJQcnNuNTlkMDM3bWtEeFZXMVpPVFNtRmRmbV9RcjF3R3QxNDNrTEt6S3BPOFloc3hPNjE1ejlQcEZCT2owTkR5T3NaOEtIMkVOLV9va3NUcVlFUHRXRFZoMkZjbXZ1ZThtUXl2UHZiWC15ajBidkU?oc=5",
    "sort_key": "Thu, 15 Oct 2026 21:50:00 GMT"
+  },
+  {
+   "id": "news:0459daeea41d6bf6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성 생명·화재, 상반기 순익·CSM 동",
+   "source": "이투데이",
+   "date": "Sat, 17 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84Q2pqSXJNZlhQUmlfck5Cems3U2NieUxIUk8ydnI3eDU3eHFsWXBIUHI1NUJ1SVVpbmkyQklQbnBjNVBjZjNDT3MwbEVjVkV0MVQ2OEctYWdGd3BiQkhlUEpwbjBUZk1X?oc=5",
+   "sort_key": "Sat, 17 Oct 2026 00:42:39 GMT"
+  },
+  {
+   "id": "news:a2c13d47a5de8a80",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 메가인포에셋… 한화생명 64.4% '독주', 푸폰현대 25.6% '2위', 이하 '한 자릿수' 점유율",
+   "source": "보험저널",
+   "date": "Sat, 17 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QazlrMEJmMG5pSi1DdmplSnRBT2xLUUcyWnh4a2FVR0xXbUJqNlY4enBkSjVnOE1vQ2gya2sxY2xwRTl4Tmo4WWhuTkF0ZUhBN1g5aVJ0TzNzOE0tbkhxdEt5Q0NWZ2NUb0xULS1UOA?oc=5",
+   "sort_key": "Sat, 17 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:669d42e774a5ce64",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료",
+   "source": "PRESS9",
+   "date": "Sat, 17 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zOURJMjdPZWVJVmlhX3U4QVpLV196M3h6bkhoSE9XM0I0QTlUMXJBTDBFYV9sVlptNEM0cENLaENwMGp3dTVYVkFqZ1dUclRJampKRlZ4TE1SLXpYWWRCNVZhTkY?oc=5",
+   "sort_key": "Sat, 17 Oct 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
