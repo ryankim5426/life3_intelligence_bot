@@ -1740,7 +1740,8 @@
   "news:92f5bf8a4ff95b1f": 1792191842,
   "news:3d4ae95ac3a6bdd4": 1792215750,
   "news:fdf32cd0e78a91a5": 1792215751,
-  "news:f37f3df0243a1715": 1792230270
+  "news:f37f3df0243a1715": 1792230270,
+  "news:0f14ec26aef382d2": 1792254677
  },
  "stories": {
   "코스피, 소폭 하락해 6000선 턱걸이...LG에너지솔루션, 삼성전기 상승 VS 삼성생명, 삼성바이오로직스 하락": 1792013698,
@@ -1809,7 +1810,8 @@
   "[9월 GA 생보사 실적 M/S] 굿리치… 한화생명 18% '1위', DGB생명 8.2% '4계단 껑충'": 1792191842,
   "[9월 GA 생보사 실적 M/S] 디비금융서비스… 신한라이프 30% '1위', 한화생명 18%, 메트라이프 15% 순": 1792191842,
   "[9월 GA 생보사 실적 M/S] 케이지에이에셋… 한화생명 18.7% '선두' 지속, 동양생명 17%, 신한 21%, '상위 3사' 48%": 1792215751,
-  "한화생명, 사망보험금 키우고 보험료 100% 돌려받는다": 1792230270
+  "한화생명, 사망보험금 키우고 보험료 100% 돌려받는다": 1792230270,
+  "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677
  },
  "news_queue": [
   {
@@ -1831,6 +1833,16 @@
    "date": "Sat, 17 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMLUVKUTJrUWV0QUZxMjJfbGpkU0ZFazE1cXdPUHFhMjJJcW1kMmhsR3JXeVN5bC1uVHJ1Q0puZWhOX2hLUnhQUQ?oc=5",
    "sort_key": "Sat, 17 Oct 2026 08:22:00 GMT"
+  },
+  {
+   "id": "news:0f14ec26aef382d2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미",
+   "source": "네이버 프리미엄콘텐츠",
+   "date": "Thu, 15 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yTWxHOER2RTJQcnNuNTlkMDM3bWtEeFZXMVpPVFNtRmRmbV9RcjF3R3QxNDNrTEt6S3BPOFloc3hPNjE1ejlQcEZCT2owTkR5T3NaOEtIMkVOLV9va3NUcVlFUHRXRFZoMkZjbXZ1ZThtUXl2UHZiWC15ajBidkU?oc=5",
+   "sort_key": "Thu, 15 Oct 2026 21:50:00 GMT"
   }
  ],
  "initialized": true,
