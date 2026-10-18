@@ -1751,7 +1751,10 @@
   "news:d30c4eafd5a6a255": 1792302676,
   "news:6a1993740c3a7dea": 1792320191,
   "news:f16462b50a8a792f": 1792320191,
-  "news:903bcdaf714b6206": 1792344369
+  "news:903bcdaf714b6206": 1792344369,
+  "news:bb2c56514806dc50": 1792360333,
+  "news:55bc11a16cb2158a": 1792360333,
+  "news:494dad95055e92e8": 1792360333
  },
  "stories": {
   "[마감분석] 삼성생명 7%대 하락 마감 22만8000원에 거래 종료 : 기업주식정보": 1792108550,
@@ -1796,7 +1799,10 @@
   "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료": 1792278484,
   "교보생명, 수소차 활용한 체험 중심 환경교육 확대": 1792302676,
   "“환경교육도 배달합니다”…교보생명, 수소차로 학교·지역사회 누빈다": 1792320191,
-  "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369
+  "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369,
+  "홍원학 삼성생명 대표, 보험 밖으로 넓힌 성장판⋯첫 연임 도전 [보험 CEO 연임 레이스 ①]": 1792360333,
+  "[9월 GA 생보사 실적 M/S] 스카이블루에셋, 한화생명 34%, DB생명 30%… 교보생명 6계단 '껑충'": 1792360333,
+  "[9월 GA 생보사 실적 M/S] 밸류마크…한화생명 54% '1위', 신한라이프 25% '2위'": 1792360333
  },
  "news_queue": [
   {
@@ -1828,6 +1834,36 @@
    "date": "Sun, 18 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Hdy1rcmU4UHZMYkJ3djh0SEh4VGtLMDJ1cy1JdDdmaWUzQ0lSVzNkNEhJRU5hZ0dfa0J3SEwzbFpfWWFCU3BpR1A1elQ5bFRGZm5HVUZWRVlyLUtuOENRY2wyTVJkOHd0UEJONXJGY3ZBUQ?oc=5",
    "sort_key": "Sun, 18 Oct 2026 15:52:56 GMT"
+  },
+  {
+   "id": "news:bb2c56514806dc50",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "홍원학 삼성생명 대표, 보험 밖으로 넓힌 성장판⋯첫 연임 도전 [보험 CEO 연임 레이스 ①]",
+   "source": "이투데이",
+   "date": "Sun, 18 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxVXpsdmhqY2ZqTC1yVzVrLUNCNVZHdi1nVGllLXZOYVhWcnhZUU9IYW05UTA1M090SlNIT1FMRDgxQVJvQnVBN19wVTc0T1c1eUxTSA?oc=5",
+   "sort_key": "Sun, 18 Oct 2026 20:00:00 GMT"
+  },
+  {
+   "id": "news:55bc11a16cb2158a",
+   "kind": "news",
+   "company": "교보생명 · 한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 스카이블루에셋, 한화생명 34%, DB생명 30%… 교보생명 6계단 '껑충'",
+   "source": "보험저널",
+   "date": "Sun, 18 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81TGNjSzk1d0t0d0RtV2RiTFdsMlhkb1ZEYlFoR1BEUmZUcmZ2ZUdVbXJBdUlKUHhwUzdXUThRR25aUnUweU9PVnpXWGRuajUwcTN3MENZS25xYmtCV1hNdTBlSlBfVkV2eGNaUnpYOA?oc=5",
+   "sort_key": "Sun, 18 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:494dad95055e92e8",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 밸류마크…한화생명 54% '1위', 신한라이프 25% '2위'",
+   "source": "보험저널",
+   "date": "Sun, 18 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JbnNUVWVhU1kwb0RPWUlOV3FVUXZIQTNIeU0tOTVfVHRtM3pfWUd3NWUzQS1CWWNXVXYwTFNMeGxHMzRrb2ZWamRfS3oxa2RvUUJUc3FMLUZoaGYxSGx1NHI2Wlg3cHNnSjcxSnktYw?oc=5",
+   "sort_key": "Sun, 18 Oct 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
