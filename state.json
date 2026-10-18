@@ -1745,15 +1745,12 @@
   "news:7df2960e16e43ae6": 1792278483,
   "news:0459daeea41d6bf6": 1792278484,
   "news:a2c13d47a5de8a80": 1792278484,
-  "news:669d42e774a5ce64": 1792278484
+  "news:669d42e774a5ce64": 1792278484,
+  "news:bcf65119bc216c2a": 1792302676,
+  "news:75757d51a3bc41f8": 1792302676,
+  "news:d30c4eafd5a6a255": 1792302676
  },
  "stories": {
-  "한화생명, 다양한 생애자금 인출 가능한 종신보험 출시": 1792038879,
-  "[특징주] 삼성생명 장중 6%대 급락세…23만원선 밑돌아 : 기업주식정보": 1792038879,
-  "새로고침, 교보생명과 업무협약 체결…상호 협력 강화 추진": 1792038879,
-  "\"M&A·증자엔 6900억, 배당은 0원\"…한화생명 '밸류업 딜레마' [fn마켓워치]": 1792038879,
-  "[9월 생보사 GA M/S] 삼성생명, 지에이코리아 14.2% '1위 수성'…지에이스타 7계단 뛰어 '4위'": 1792038879,
-  "[한화금융 확장 셈법] ④한화생명, 투자금 절반 아꼈지만...돌아올 '청구서'": 1792038879,
   "한화생명, 상반기 순익 96% 급증…3분기에도 성장세 이어갈까": 1792056313,
   "[9월 생보사 GA M/S] 한화생명...피플라이프 10.5%로 1위, '상위 5개사' 점유율 42.1%": 1792056313,
   "[9월 생보사 GA M/S] 교보생명, '스타리치' 9.6%로 선두 유지…'스카이블루' 10계단 뛰어 3위": 1792056313,
@@ -1816,9 +1813,21 @@
   "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677,
   "삼성 생명·화재, 상반기 순익·CSM 동": 1792278484,
   "[9월 GA 생보사 실적 M/S] 메가인포에셋… 한화생명 64.4% '독주', 푸폰현대 25.6% '2위', 이하 '한 자릿수' 점유율": 1792278484,
-  "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료": 1792278484
+  "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료": 1792278484,
+  "교보생명, 수소차 활용한 체험 중심 환경교육 확대": 1792302676
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:d30c4eafd5a6a255",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 수소차 활용한 체험 중심 환경교육 확대",
+   "source": "화이트페이퍼",
+   "date": "Fri, 16 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUN1NQV0drRTZOTEhQbVpYXzhrR1NHU1o2WUpER3o0SnNNWEtIdXhEQXU4dVlFeUN3bDZyN0RkYjJFdi1oWjVsNDNUM3dzd05TbmxtNDRWNG02a1lUNlJCS3FWMzVBVXNVU1ZRQzYzZ2hNVHfSAXNBVV95cUxQVDdTUFdHa0U2TkxIUG1aWF84a0dTR1NaNllKREd6NEpzTVhLSHV4REF1OHVZRXlDd2w2cjdEZGIyRXYtaFo1bDQzVDN3c3dOU25sbTQ0VjRtNmtZVDZSQktxVjM1QVVzVVNWUUM2M2doTVR3?oc=5",
+   "sort_key": "Fri, 16 Oct 2026 05:57:36 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-18"
 }
