@@ -1764,18 +1764,11 @@
   "news:4b89a50fb00697d1": 1792405030,
   "news:477d0d4414e88b58": 1792405030,
   "news:9a00b0ddf54e9729": 1792405030,
-  "news:92f63280f18e4489": 1792405030
+  "news:92f63280f18e4489": 1792405030,
+  "news:73c5e79270bea868": 1792429340,
+  "news:01a32a366284b36b": 1792429340
  },
  "stories": {
-  "[현장체크] 교보생명, 신한라이프, 농협생명, ABL생명": 1792158886,
-  "실적 개선한 한화생명…증권·캐피탈에 눈 돌린 이유": 1792158886,
-  "교보생명, 이동환경교실 학교 밖으로 확대…연말까지 2만5000명 교육": 1792158886,
-  "한화생명 주가 70원 상승 후 장마감": 1792158886,
-  "AI 우려 완화, 코스피 '활짝'...삼성생명·미래에셋증권 '껑충'": 1792158886,
-  "교보생명, 수소차 환경교실 학교 밖으로... 돌봄기관·축제로 확대": 1792158886,
-  "아시아 골프유망주 108명 지원…일동후디스, 한화생명 인비테이셔널 후원": 1792158886,
-  "신창재 교보생명 회장, 금리상승 부담에 ALM·재보험 병행 [보험사 금리상승 여파]": 1792158886,
-  "코스피, 2%대 상승에 5600선 회복...현대차, 삼성생명, 삼성바이오로직스 등 상승": 1792158886,
   "[오늘의 보험] 신한EZ손해보험·ABL생명·AXA손해보험·교보생명": 1792173253,
   "'한화생명볼파크 스카이박스 무상이용 의혹' 대전 경찰관 입건": 1792183592,
   "지난달 24일 서울 중구 더 플라자 호텔에서 열린 '2026 초록우산 기업사회공헌(CSR) 포럼'에서 교보생명 관계자가 보호대상아동 성장·자립 지원사업 '교보다솜이 꿈도깨비 사업'의 운영 성과와 사례를 발표하고 있다.(사진=교보생명)": 1792183592,
@@ -1801,7 +1794,9 @@
   "[한화금융 확장 셈법] ⑤배당 막힌 한화생명, 코인·캐피탈 비싼 확장...왜?": 1792405030,
   "한화생명, 시장위험액 1조 늘어도 '자본여력' 확장 기조 잇는다": 1792405030,
   "삼성생명, 신한은행 제치고 퇴직연금 1위 되찾았다": 1792405030,
-  "삼성생명, 美 장기채 급락에 ‘복잡한 속내’": 1792405030
+  "삼성생명, 美 장기채 급락에 ‘복잡한 속내’": 1792405030,
+  "재무록｜교보생명은 얼마인가? 가치평가에 달린 수백억행방": 1792429340,
+  "한화생명 플레이-인 운명은?⋯키움 DR": 1792429340
  },
  "news_queue": [
   {
@@ -1873,6 +1868,26 @@
    "date": "Mon, 19 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41WWpUNXlBWFpZd1VBMUs0VHBZakVUeXB6N09kcEhHNUhYVzdEc3JWaDdyV2tGUU5Id0tac3k0aWhUa1RZTW9yS2JZZGhPX1Rva3JNTmk0Q0VyVzBNZzltWnBYeTkyOWxCangyT0pGaXdpdllwNFHSAXZBVV95cUxONVlqVDV5QVhaWXdVQTFLNFRwWWpFVHlwejdPZHBIRzVIWFc3RHNyVmg3cldrRlFOSHdLWnN5NGloVGtUWU1vcktiWWRoT19Ub2tyTU5pNENFclcwTWc5bVpwWHk5MjlsQmp4Mk9KRml3aXZZcDRR?oc=5",
    "sort_key": "Mon, 19 Oct 2026 08:15:54 GMT"
+  },
+  {
+   "id": "news:73c5e79270bea868",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "재무록｜교보생명은 얼마인가? 가치평가에 달린 수백억행방",
+   "source": "브런치",
+   "date": "Mon, 19 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FblpqNmxURzcwS09ENWFzZHJZbGJYU044MmxPcnlSSG9Vb2lVUmZCMUs3SEZmX2kwb3dNZTFPc2haY0MtU21QdE5yYjVRR3ZBM1E?oc=5",
+   "sort_key": "Mon, 19 Oct 2026 00:00:35 GMT"
+  },
+  {
+   "id": "news:01a32a366284b36b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 플레이-인 운명은?⋯키움 DR",
+   "source": "이투데이",
+   "date": "Mon, 19 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91QnhSQjlYMUtXUzM4REEtVkcxR3Y5a0h1N2RHTmdLbnptV241V2RUR1hTbkYxYkE4eWw2U01lY0NmaXB3a0VHc194d1hSa0pPd1A3eVdncnFsdm9IamNRc0NYRnViMEVN?oc=5",
+   "sort_key": "Mon, 19 Oct 2026 06:20:05 GMT"
   }
  ],
  "initialized": true,
