@@ -1841,7 +1841,12 @@
   "news:772934a4309a6ea6": 1792509246,
   "news:7b90fcf667729b25": 1792509246,
   "news:73915fa064668faf": 1792509246,
-  "news:2fff1a2e4ba64767": 1792509246
+  "news:2fff1a2e4ba64767": 1792509246,
+  "news:e19a20a828d7314b": 1792535588,
+  "news:eab6e03e740f7624": 1792535588,
+  "news:dc1015d7183c71ec": 1792535589,
+  "news:f5fc362e4553c7c9": 1792535589,
+  "news:c937ef2bde751931": 1792535589
  },
  "stories": {
   "삼성 생명·화재, 상반기 순익·CSM 동": 1792278484,
@@ -1910,7 +1915,10 @@
   "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다": 1792509246,
   "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]": 1792509246,
   "교보생명, 청각장애 아동 치료부터 청소년 진로 탐색까지 지원": 1792509246,
-  "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'": 1792509246
+  "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'": 1792509246,
+  "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'": 1792535589,
+  "한화생명금융서비스, 10대 GA 중 보험 계약유지율 '꼴찌'…청약철회도 4만4000건 최다": 1792535589,
+  "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가": 1792535589
  },
  "news_queue": [
   {
@@ -2282,6 +2290,36 @@
    "date": "Tue, 20 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaEtaekt1dFl2UkdTYk5NRjJ0S3IxMEdZOWhMUjl3ZGxya0s5NlNMWF8wbDF6N2ZzbTNlRi0tTDRVYUlQZTRiNmRXQ2ZxRXZVQmJOYTlPZkdTUi1mVVhQTUlPOEVvSjFHV3JXTGZTWk5nVzjSAXNBVV95cUxQS2hLWnpLdXRZdlJHU2JOTUYydEtyMTBHWTloTFI5d2RscmtLOTZTTFhfMGwxejdmc20zZUYtLUw0VWFJUGU0YjZkV0NmcUV2VUJiTmE5T2ZHU1ItZlVYUE1JTzhFb0oxR1dyV0xmU1pOZ1c4?oc=5",
    "sort_key": "Tue, 20 Oct 2026 13:54:38 GMT"
+  },
+  {
+   "id": "news:dc1015d7183c71ec",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'",
+   "source": "보험저널",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZFQ0R0VpU0VONzFZQWlGTjhqWmRWMEtXa0FsVDhaNVVjYlJOMmJsMzROYlpCYnJ0TThhendTang3RzZfbDB3TU5sc0ZkSmJtYVk2V1ItSGtQUEZTYnFFMGJyM01JUS00aWhrZElzTQ?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:f5fc362e4553c7c9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명금융서비스, 10대 GA 중 보험 계약유지율 '꼴찌'…청약철회도 4만4000건 최다",
+   "source": "소비자가 만드는 신문",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xVE54ZDc4Rnhab3hQb3pTbjNmTUdjeC0wY3FLbDY1SEs4S2ZYS2RjWWFfeFlobHJUSGh2VGZUYWd6SzNqY0t6NGVURTJmaWo5NGpaei1FdWRObm9xM0g2aVcxNmFBZWp3dXluOTBZR3BjVXc?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 21:10:00 GMT"
+  },
+  {
+   "id": "news:c937ef2bde751931",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가",
+   "source": "CEO스코어데일리",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wejk2NHBScVZDZG9ZYzRZYkJ4ZU9MMlQwOHRPeS00cFFjOUJmRzI1S2dUblJQakczMGRwSGFJUDZwRHFkRXV5N0Raa0NjQm9hTmcxV2pvQU51V2E3NndLQzNpb21OZ0E3cWYw?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
