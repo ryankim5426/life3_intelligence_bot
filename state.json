@@ -1769,12 +1769,19 @@
   "news:01a32a366284b36b": 1792429340,
   "news:53aca69227340964": 1792445455,
   "news:3f25029b98c9ff29": 1792445455,
-  "news:d1cfe46ff44372c3": 1792445455
+  "news:d1cfe46ff44372c3": 1792445455,
+  "news:94adc895724800fc": 1792456724,
+  "news:e991c270a4812336": 1792456724,
+  "news:19d8157c33ee5dfb": 1792456726,
+  "news:a329297e690fa659": 1792456726,
+  "news:6195ed71a5678525": 1792456726,
+  "news:0444045c33599b39": 1792456726,
+  "news:73f47db208be647c": 1792456726,
+  "news:8a54501b17f0f326": 1792456726,
+  "news:079cc458fe9a33ad": 1792456726,
+  "news:20bc30d6e002d69d": 1792456726
  },
  "stories": {
-  "[이달의 신상품] 삼성생명, ‘골든종신보험’ 개정…인출 시점 단축": 1792191842,
-  "[9월 GA 생보사 실적 M/S] 굿리치… 한화생명 18% '1위', DGB생명 8.2% '4계단 껑충'": 1792191842,
-  "[9월 GA 생보사 실적 M/S] 디비금융서비스… 신한라이프 30% '1위', 한화생명 18%, 메트라이프 15% 순": 1792191842,
   "[9월 GA 생보사 실적 M/S] 케이지에이에셋… 한화생명 18.7% '선두' 지속, 동양생명 17%, 신한 21%, '상위 3사' 48%": 1792215751,
   "한화생명, 사망보험금 키우고 보험료 100% 돌려받는다": 1792230270,
   "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677,
@@ -1799,130 +1806,17 @@
   "한화생명 플레이-인 운명은?⋯키움 DR": 1792429340,
   "조대규 교보생명 대표, 본업 성장에 지주사 전환까지⋯'교보맨'의 승부수 [보험 CEO 연임 레이스 ②]": 1792445455,
   "퇴직연금 적립금, 3분기 11.8조 감소…삼성생명 다시 1위": 1792445455,
-  "[9월 GA 생보사 실적 M/S] 에이치케이금융, 한화생명 25%, 하나생명 22%...상위 '3개사' 61%": 1792445455
+  "[9월 GA 생보사 실적 M/S] 에이치케이금융, 한화생명 25%, 하나생명 22%...상위 '3개사' 61%": 1792445455,
+  "사랑의달팽이·교보생명, 청각장애 청소년 진로·직업 체험 지원": 1792456726,
+  "삼성생명, 시니어 건강보험 개편…폐렴·로봇 관절수술 보장": 1792456726,
+  "삼성생명, 시니어보험 보장 강화": 1792456726,
+  "삼성생명, '삼성 시니어대표건강보험' 개정 출시": 1792456726,
+  "\"온라인 도박·불법대출 막아라\"… 한화생명, 인니에 'K-금융교육' 심는다": 1792456726,
+  "한화생명, 인도네시아 '청소년 금융경제교육 생태계 구축사업' 추진": 1792456726,
+  "삼성생명, 시니어 건강보험 보장 확대…폐렴·장기요양 치료비 강화": 1792456726,
+  "금융교육도 국경 넘는다…한화생명, 인니 청소년 700여명 지원": 1792456726
  },
- "news_queue": [
-  {
-   "id": "news:7e30516b82e3cfc3",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 대산문화재단, 데이먼 갤것 초청 ‘세계 작가와의 대화’",
-   "source": "글로벌이코노믹",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTURMa015SmVXcE9kX2F5TzE0M3E5NkdEZ2hCUkZWWTV2bVBlRVdsdmxRM2hsNnJwUFFMczczZzIyQjRrWXVEdVFfVlFPWm5WTjB0eUo1cGcwSzhMUzVGU01qWHpRb2kzUEhDTzJSYUlFdGlyTEZPQzhIWHg3QmxsMFY2cjM?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 01:26:37 GMT"
-  },
-  {
-   "id": "news:a2193f0ca8335376",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 전속설계사 1년 새 3천명 넘게 순증...건강·종신보험 확대 핵심채널 자리매김",
-   "source": "녹색경제신문",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DS1lrV0hQSUN2OEMtbGJGdjdMOTI3cHFmT0xTa2ZsWDhxekQtUDB2SzU2bVpxSEdNM2VpZHhDN2ZDZXdIZDFJeWpOMTVteFlaSkg1b3c1Ml9PcUU4Uzd4Z2NlaE5fNUdo?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 02:11:00 GMT"
-  },
-  {
-   "id": "news:7ac06bbec865fdf2",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[특징주] 한화생명, 장중 약세 보이며 4690원대 거래 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DeWYwcFRKdG1kVkN0c0NtUXBsU2xFQW53OE5HZEhQX3RlMXFreENkNDRVUnpSTVFMWldsSWFYNmpyTTNNUEVZM2Yxdw?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 01:41:07 GMT"
-  },
-  {
-   "id": "news:4b89a50fb00697d1",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[한화금융 확장 셈법] ⑤배당 막힌 한화생명, 코인·캐피탈 비싼 확장...왜?",
-   "source": "뷰어스",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELThKNlhxdjBraWUza1pxc2dwTlNlcDRlTmFXTVB3WUpwdW81aS10bDdWR3RYMkRoczJTaWRNVFFJakM4b3pnWnJDaUdnVDdPMmtEMGVUa2E?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 05:00:11 GMT"
-  },
-  {
-   "id": "news:477d0d4414e88b58",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 시장위험액 1조 늘어도 '자본여력' 확장 기조 잇는다",
-   "source": "블로터",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eFlNRkhrbkUtcUdQQnE1ZkxrbjZWZ2hMSnNPR19ZZGRGWWg1RFNuMGFmVEx5THI2MmZqTGx2SllGTDgxNlUtYUxTcjlKOWd4NXdIWlJ5R29nR0NXOFFOdTQweXRYYWs1cTZsNdIBbEFVX3lxTFB2eFlNRkhrbkUtcUdQQnE1ZkxrbjZWZ2hMSnNPR19ZZGRGWWg1RFNuMGFmVEx5THI2MmZqTGx2SllGTDgxNlUtYUxTcjlKOWd4NXdIWlJ5R29nR0NXOFFOdTQweXRYYWs1cTZsNQ?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 07:05:09 GMT"
-  },
-  {
-   "id": "news:9a00b0ddf54e9729",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 신한은행 제치고 퇴직연금 1위 되찾았다",
-   "source": "한국경제",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41NWd4a1haYWRhNU4yM3RiSkJzQThDY1ZxQ2dXbmNRbDVITEFHYXh4U1BqeFZCT0FScUtKekVheWlkWFFyS0FVYzVhVkUzaENpcnZTanZDVmR4UQ?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 07:37:18 GMT"
-  },
-  {
-   "id": "news:92f63280f18e4489",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 美 장기채 급락에 ‘복잡한 속내’",
-   "source": "시사저널e",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41WWpUNXlBWFpZd1VBMUs0VHBZakVUeXB6N09kcEhHNUhYVzdEc3JWaDdyV2tGUU5Id0tac3k0aWhUa1RZTW9yS2JZZGhPX1Rva3JNTmk0Q0VyVzBNZzltWnBYeTkyOWxCangyT0pGaXdpdllwNFHSAXZBVV95cUxONVlqVDV5QVhaWXdVQTFLNFRwWWpFVHlwejdPZHBIRzVIWFc3RHNyVmg3cldrRlFOSHdLWnN5NGloVGtUWU1vcktiWWRoT19Ub2tyTU5pNENFclcwTWc5bVpwWHk5MjlsQmp4Mk9KRml3aXZZcDRR?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 08:15:54 GMT"
-  },
-  {
-   "id": "news:73c5e79270bea868",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "재무록｜교보생명은 얼마인가? 가치평가에 달린 수백억행방",
-   "source": "브런치",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FblpqNmxURzcwS09ENWFzZHJZbGJYU044MmxPcnlSSG9Vb2lVUmZCMUs3SEZmX2kwb3dNZTFPc2haY0MtU21QdE5yYjVRR3ZBM1E?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 00:00:35 GMT"
-  },
-  {
-   "id": "news:01a32a366284b36b",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 플레이-인 운명은?⋯키움 DR",
-   "source": "이투데이",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91QnhSQjlYMUtXUzM4REEtVkcxR3Y5a0h1N2RHTmdLbnptV241V2RUR1hTbkYxYkE4eWw2U01lY0NmaXB3a0VHc194d1hSa0pPd1A3eVdncnFsdm9IamNRc0NYRnViMEVN?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 06:20:05 GMT"
-  },
-  {
-   "id": "news:53aca69227340964",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "조대규 교보생명 대표, 본업 성장에 지주사 전환까지⋯'교보맨'의 승부수 [보험 CEO 연임 레이스 ②]",
-   "source": "이투데이",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KSkJGR2MyUU1vU3M3QTEtdmo2TE9TS0FvT3VYMmZ5Rl9CWDg5N3pocnhQWUNxYkFBQjBxRU5EdDJIMFZSRVdpSVVKd2lka3pEc3plN1EwYmtadlVOc3BhODBtSkxpejhaUC02d3FoZTRWREZN?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "id": "news:3f25029b98c9ff29",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "퇴직연금 적립금, 3분기 11.8조 감소…삼성생명 다시 1위",
-   "source": "뉴스1",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tWDFWWjBjR3podXIzeGdqd093bWM1R3NON1NUdmZlaHBSWGtZRW0yZjl6bUs2SVphQ3l6dUFkM0tFMlpLLUw3MDA5dHBoakRzdjZ3?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "id": "news:d1cfe46ff44372c3",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[9월 GA 생보사 실적 M/S] 에이치케이금융, 한화생명 25%, 하나생명 22%...상위 '3개사' 61%",
-   "source": "보험저널",
-   "date": "Mon, 19 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5QTNoMUxfWWxwYWJjSzZrSU5YaGRqNlBFUGtRR3NndWFXOE4tNlVnM2NBX2I2d0x4enFCMFhzOXFSbmFnSFN1VEMxcDdKaTkwTkhEOHBTZVkzUmJLSlNFSTlKUkRqWG5TMGxqQnZ4NA?oc=5",
-   "sort_key": "Mon, 19 Oct 2026 21:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-19"
+ "last_digest": "2026-10-20"
 }
