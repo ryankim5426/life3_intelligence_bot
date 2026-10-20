@@ -1828,7 +1828,20 @@
   "news:7e1e00d4d05a6337": 1792491596,
   "news:bf002b85f423d756": 1792491596,
   "news:1895116d2703d55a": 1792491596,
-  "news:ca997d7338ed7292": 1792491596
+  "news:ca997d7338ed7292": 1792491596,
+  "news:6df9e1e8dab749b5": 1792509245,
+  "news:fcb7aea870ff1a85": 1792509245,
+  "news:94c898fcf95d4b12": 1792509245,
+  "news:6ceb6f0d7d645a31": 1792509245,
+  "news:3056a1311739fa67": 1792509245,
+  "news:61a63c724136510d": 1792509245,
+  "news:3458e8318ce867a1": 1792509245,
+  "news:c6f6838562ad570b": 1792509245,
+  "news:3744fb1481c42ecb": 1792509246,
+  "news:772934a4309a6ea6": 1792509246,
+  "news:7b90fcf667729b25": 1792509246,
+  "news:73915fa064668faf": 1792509246,
+  "news:2fff1a2e4ba64767": 1792509246
  },
  "stories": {
   "댓글 : 삼성생명 역대급 해외 조달…2조 자본확충의 의미": 1792254677,
@@ -1893,7 +1906,12 @@
   "한화생명, 최대 8000억원 규모 국내 후순위채 발행 결정": 1792491596,
   "삼성생명 최초 버그바운티 시행 1년여…CISO 책무 범위 늘었나": 1792491596,
   "[보험사 풍향계] 교보생명, 청각장애 아동·청소년 소통 돕는다 外": 1792491596,
-  "권혁웅·이경근 한화생명 대표, 대량해지 재보험 출재로 추가 금리 변동 대응 병행 [보험사 금리상승 여파]": 1792491596
+  "권혁웅·이경근 한화생명 대표, 대량해지 재보험 출재로 추가 금리 변동 대응 병행 [보험사 금리상승 여파]": 1792491596,
+  "삼성생명, 금리상승기 해외조달 나선 이유": 1792509246,
+  "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다": 1792509246,
+  "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]": 1792509246,
+  "교보생명, 청각장애 아동 치료부터 청소년 진로 탐색까지 지원": 1792509246,
+  "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'": 1792509246
  },
  "news_queue": [
   {
@@ -2215,6 +2233,56 @@
    "date": "Tue, 20 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzWEhtRnRZemlyRGVDWTVwaTEwZVUzcVFRdXNDTUhSTEFubDFYZklrbDFkWnFUTzRYQ3RUVkpjbE9SX1ZxWjM2ZkQ4a1NQb2NHbzQ0b0VxWXdiX0tFcjZLdm43WUwzdHhpY1JYSDY2dEhHcE92Q2VpOTA3bTQ?oc=5",
    "sort_key": "Tue, 20 Oct 2026 09:11:47 GMT"
+  },
+  {
+   "id": "news:3744fb1481c42ecb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 금리상승기 해외조달 나선 이유",
+   "source": "DealSite경제TV",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12OHQ5U3JoVUF4ZldXNjVQQ2JpMHZWSEY0akk4S28xaTlsOEF5MU1xajRHX2RsYzZUYXdTUHFJYlJOcVZueFZFZVQ4Wmp0eHN3U2Jhekl3?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 00:00:23 GMT"
+  },
+  {
+   "id": "news:772934a4309a6ea6",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다",
+   "source": "데일리한국",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52QkJsZzRpWW5QRlRNQVpaOHVOS2s1TEN6MU92QmJRa2UtdmNRRUdiMDUyZ2xtSHlGclBsSFJLNEpHSTYzLWw4Ml9yN2JvR1hXcWZuNmdXWF9WV2dJc3QxNzFWbkJhNGM0ZFRJUlMwM293MzTSAXNBVV95cUxOdkJCbGc0aVluUEZUTUFaWjh1TktrNUxDejFPdkJiUWtlLXZjUUVHYjA1MmdsbUh5RnJQbEhSSzRKR0k2My1sODJfcjdib0dYV3FmbjZnV1hfVldnSXN0MTcxVm5CYTRjNGRUSVJTMDNvdzM0?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 10:00:40 GMT"
+  },
+  {
+   "id": "news:7b90fcf667729b25",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]",
+   "source": "서울신문",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03RzNjRmVGWk5ZSzBnWjJuSWRTUnJ0dEdyR3FvaUpMMWxVVGp6Y3NYanBoNFZrdWtScXo3ZUtGNWQweGRXaF9aNTNuQ19zWjhoTXYxVENHeGpvU09INWNxWGRJM3BtcVUzNFZmcjlKTFNmY1hORWpSaTBn?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 12:49:51 GMT"
+  },
+  {
+   "id": "news:73915fa064668faf",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 청각장애 아동 치료부터 청소년 진로 탐색까지 지원",
+   "source": "코리아리포트",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZWRZQ203bXRBUXkzUUxYbDJEbWZhRVh5Z3FCakRSaEUwSUhIWUZVdV9PaERSTmk0WlVZREJmZ0M3eDkwb1lBRGJIeDZkbzB4QVY0bmtzbkFFZmx4aXhGNUx5R0dQSV9QZ0Z4Y096SDY?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 13:11:31 GMT"
+  },
+  {
+   "id": "news:2fff1a2e4ba64767",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'",
+   "source": "세이프타임즈",
+   "date": "Tue, 20 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaEtaekt1dFl2UkdTYk5NRjJ0S3IxMEdZOWhMUjl3ZGxya0s5NlNMWF8wbDF6N2ZzbTNlRi0tTDRVYUlQZTRiNmRXQ2ZxRXZVQmJOYTlPZkdTUi1mVVhQTUlPOEVvSjFHV3JXTGZTWk5nVzjSAXNBVV95cUxQS2hLWnpLdXRZdlJHU2JOTUYydEtyMTBHWTloTFI5d2RscmtLOTZTTFhfMGwxejdmc20zZUYtLUw0VWFJUGU0YjZkV0NmcUV2VUJiTmE5T2ZHU1ItZlVYUE1JTzhFb0oxR1dyV0xmU1pOZ1c4?oc=5",
+   "sort_key": "Tue, 20 Oct 2026 13:54:38 GMT"
   }
  ],
  "initialized": true,
