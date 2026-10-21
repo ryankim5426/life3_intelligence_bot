@@ -1846,12 +1846,22 @@
   "news:eab6e03e740f7624": 1792535588,
   "news:dc1015d7183c71ec": 1792535589,
   "news:f5fc362e4553c7c9": 1792535589,
-  "news:c937ef2bde751931": 1792535589
+  "news:c937ef2bde751931": 1792535589,
+  "news:7348330cb4588f57": 1792544173,
+  "news:125f70357c4282ea": 1792544173,
+  "news:af7a64fe338350e0": 1792544173,
+  "news:c88fd1546163a606": 1792544173,
+  "news:39ba32aa3d06ac68": 1792544173,
+  "news:80bdb8d4c874a520": 1792544173,
+  "news:1308528712e822c0": 1792544173,
+  "news:78b1fc50dab677de": 1792544173,
+  "news:217766e0ce346441": 1792544173,
+  "news:b1babfe6823b8c6a": 1792544173,
+  "news:db3e9f51523e96ab": 1792544173,
+  "news:064500d22ba9b648": 1792544173,
+  "news:c6a3ad19932d4e85": 1792544173
  },
  "stories": {
-  "삼성 생명·화재, 상반기 순익·CSM 동": 1792278484,
-  "[9월 GA 생보사 실적 M/S] 메가인포에셋… 한화생명 64.4% '독주', 푸폰현대 25.6% '2위', 이하 '한 자릿수' 점유율": 1792278484,
-  "한화생명 GA, 1분기 부진 딛고 반등…새 변수는 수수료": 1792278484,
   "교보생명, 수소차 활용한 체험 중심 환경교육 확대": 1792302676,
   "“환경교육도 배달합니다”…교보생명, 수소차로 학교·지역사회 누빈다": 1792320191,
   "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369,
@@ -1918,410 +1928,22 @@
   "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'": 1792509246,
   "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'": 1792535589,
   "한화생명금융서비스, 10대 GA 중 보험 계약유지율 '꼴찌'…청약철회도 4만4000건 최다": 1792535589,
-  "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가": 1792535589
+  "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가": 1792535589,
+  "iM證 “한화생명, 투자손실에 3분기 적자 전망…목표가↓”": 1792544173,
+  "[코스피·코스닥,S-Oil 한화생명 HD현대중공업 에이플러스에셋 사람인·다우기술 엠로 엑세스바이오 LS에코에너지 SNT모티브등 20일 주요공시]": 1792544173,
+  "한화생명, 3분기 보험손익 흑자전환 전망 - iM증권": 1792544173,
+  "iM증권, 한화생명 목표가↓…\"금리·환율 영향 투자 손실 악화\"": 1792544173,
+  "“한화생명, 3분기 순이익 하회 전망으로 배당확보가 관건”…목표가↓": 1792544173,
+  "웅진프리드·삼성생명, 건강케어서비스 협업한다": 1792544173,
+  "[버핏 리포트] 한화생명, 3분기 투자손익 부진에 적자전환 전망...’700종신' 중단·배당이 관건 - iM": 1792544173,
+  "삼성생명 공익재단, '2026 삼성 행복대상' 서은국 교수 등 선정": 1792544173,
+  "한화생명, 3분기 755억 적자 전망…투자손실 직격탄": 1792544173,
+  "웅진프리드라이프, 삼성생명과 맞손…상조 넘어 ‘건강·돌봄’까지": 1792544173,
+  "삼성생명, 웅진프리드라이프와 '건강케어서비스' MOU": 1792544173,
+  "[특징주] 3분기 적자 전망에 주력상품 판매 중단까지…한화생명 7% 하락 - 조선비즈": 1792544173,
+  "\"한화생명, 3분기 투자손익 급감에 적자전환 전망\"": 1792544173
  },
- "news_queue": [
-  {
-   "id": "news:7a16b050bfe01e26",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 금융교육 노하우 인도네시아로 확장",
-   "source": "한국경제",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhcDNuWDdaQjBFM2g4dGRVOU9wTkJ1V0JuVGo5SVNtQnhqLXJ1RUw1STJHN2lDaFpjVmNsTDVGUEJBdjczVHlWS2tJUDlpOEN6WDdtUHAyZy1rZw?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 00:09:30 GMT"
-  },
-  {
-   "id": "news:e9a5a68bc43c92ee",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 인니 청소년 온라인 사기·불법대출 예방…금융교육 생태계 구축",
-   "source": "뉴스1",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5UHpjblFsek94ZUcybGx4V043NGxsRkEzSDlfWHpaTy1faGE2RnlRV3VzamZXSklUZkNfSXJycjdkYzl1eG9oaXJZVXU3M2hZUHpGQllVMlR1TnU4YU9zRA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 00:46:07 GMT"
-  },
-  {
-   "id": "news:72f391aacaca310d",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[기업들] 문화·산업 현장에서 펼쳐진 '상생과 체험'…교보생명·신한라이프·컴투스 등 고객 접점 넓히며 가치 전달 집중",
-   "source": "데일리팝",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Rb2UzTXBRc1hoWlRjU1JaQkFWOVNldkZ1SnlJaTlYODdUOWpZQ0RzSnJsYTZUZTBXcWhXNkdoMlgwVFZmcFhOZWVwNy1wN3hxWlNhbWhydW1nelNFOXNVdHVKYzdVU1N4?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 00:51:00 GMT"
-  },
-  {
-   "id": "news:2b9e908e358d79a3",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "\"466명에 되찾아준 소리\"…교보생명, 청각장애 아동 성장에 온정 쏟는다",
-   "source": "더페어",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUzdOTmxVTWxYQTN3WUlRZC03N0NINnpYUWRwWmZKRTRsWUprSTdRempqc2ZhUE5IVWtfX2p6Z3cxTlhrUWtadmt2MjR3Tm5pckJpX2V5aHpNdjlVOFBHZFd5VUhocG1sZXdxVjRUWlg?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:06:09 GMT"
-  },
-  {
-   "id": "news:52232721ff250431",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, ‘시니어 보장’ 전면 재편…폐렴·관절 로봇수술까지 확 넓혔다",
-   "source": "글로벌에픽",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nel9CZHo2VFZKZ19VX1dTbGNaT05ENm83aTN1V2p0MGdBck5wWm9peUNjN3BOWlg0V1B6Zll0SzY0bm1mNXFaanBuamVTamRvV1NQRU43MHJtR1FBc0Z6WF9neVBLdjV5dmcyZkRRYzhDN0Rscmw1WmktN1I?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:16:08 GMT"
-  },
-  {
-   "id": "news:a06a9f6e55dfdd8b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[금융계 동향] 신한투자증권·미래에셋자산운용·삼성생명",
-   "source": "민주신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQOEg3a0Zmejc0LUdtZURJS01ObE9rTHpNejFOY0szTVRiSnF4eVk5ZzVYeEZqaWVkd3dzY2REWUh6NTFXZy1XV0hSTWFkd1pOeEVhQi1oZE1STVNTWlhGdkZwX0Y0RzjSAWtBVV95cUxOaGtBZjFpQTNCMGpFRm1xOERxOEwzZkhTaWc2RkstRVhYVlFqZHdEUnN0cDUwRTZzekxaNF9NcWVSNkI3V3JGVHRGRU9KVUQxU2k3VUpxNndUTzQ1VTFXZFN3TGhNNS02bTIxRQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:16:47 GMT"
-  },
-  {
-   "id": "news:2bce1e9dd2d2765c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 인니 청소년 금융교육 확대…현지인 강사로 육성",
-   "source": "포쓰저널",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jRm5wN1hqM3pDaGxUcTNXMWdONXh3UG9mSkdCeDdhYzZMdFAxOW9rcHFNZXpVbGJfSnp5SkVQR1k4M1N3blFHNVZWTDVCVWlMbEZzNGJmM1dtUjVjRmI4ck1DcE8?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:21:25 GMT"
-  },
-  {
-   "id": "news:f7c262a4adb21d89",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "“목소리 찾은 아이들의 미소가 곧 기적”… 교보생명, 청각장애 아동 466명에 평생의 희망 선물",
-   "source": "스마트경제",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3eTNYTWtxNWlJcW5RZ0lnQUJSaklUYTBYcWhfUFE3UENILTUweGx2Z3IxQ2VkYXFFU3lvbko1Qk1nYi1zblJZTmplWDR6blZkUGdSem1acU1SYjZuUC0wN2hMNzZJMWFZeUZLbTlVQVQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:21:31 GMT"
-  },
-  {
-   "id": "news:245dafca5bd415c7",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 들리는 세상 너머 꿈까지… 청각장애 아동 성장 동행",
-   "source": "한국보험신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5UExjczF1aWZfSUJBNVFyT3F1TXptbldqYmpzc1FCWEpSVlpOTFJZUkdqWHMyYUllcGJUTXdvemsxT0FYY0Q3NHZjR1dCaHZqeGFLMDFlUThpRG5sdllvWko5Q00wSXVOVEh30gFvQVVfeXFMUFlLQkZ4b0w4dFExUnNfSFhaQW84bThUeEI5Z0dfdXlWMU1RVGE5cEx0ZFhtOTBtcmJWWUxyWEdNeWxzVHBnQlprUjVuQk1HT00wNmFBUy1WWDZsUmpBYkU2aGt1ay16Q3dzbUN3d2ZR?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 01:40:01 GMT"
-  },
-  {
-   "id": "news:ba42d25497e3c340",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 인니 청소년에 금융경제교육… 우수학생 한국초청",
-   "source": "글로벌이코노믹",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NTVFY4QWc2Nmo1M3Z5ckdqN25Ncmt5VnV5UEUyeGJWTGpfd1hLek5iTWdoSTAtSzJTZ3lKVHNQeG9MTThKVFktOUhzXzVYV0M2WkpreUhTTnFmZzhYYjFpNk9tMkJqbzFBcnl6SklGVmVBNUR5NVgyWTVCNGg2bjhwejA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:00:22 GMT"
-  },
-  {
-   "id": "news:09db5d84cfbc8c45",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 아동 466명에 소리 선물…의료지원 넘어 자립 돕는다",
-   "source": "글로벌에픽",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mMi1tbnlSWlhBbmtJcVJ3N1d5aWJhZzVBTXJ5aDA1emZSZ1ZwVGt5dHJtbFJQcHc4QVpEd2QyMkZmdG5HYXExcHlVRHIxUW45bzlvRl93NkdhcmM2YUNCOWFsQzUwS1VjSERucHpwTkFwbG5IZjlXb094Y3g?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:03:05 GMT"
-  },
-  {
-   "id": "news:3bf038f99809e774",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 청소년 멘토링 결산 ‘꿈톡쇼’ 개최",
-   "source": "보험신보",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVjlHVklrZmFuYUN2M3FGSkh3VVVaZFVsQUE4NTRwdDdZUE9nWV91djZab29YbGx4bmEyQU1vQmd6OTJYRldrVTZ5WmxBdTJ1dHg2cWt0cFpCYl92UHRTTkRfbzhMc3NlMVBZ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:04:29 GMT"
-  },
-  {
-   "id": "news:de1ba48f72a1bf8d",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 금융교육 인도네시아로 확대…청소년 등 700명 참여",
-   "source": "뉴스핌",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzZVZvVFlMaWpUSUdqcndNZmQxSHhGT0kyOHhFanU0NG1VX1JBa01QVHZpVnNZOFZJbEFxUGZScTlnWUV4YkNpMkpwbTc4REFOT2ZyYnVnUVVvVFJQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:17:00 GMT"
-  },
-  {
-   "id": "news:5b18dd79c36f53ee",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험업계 동향] 삼성생명ㆍ한화생명ㆍ신한라이프 (10.20)",
-   "source": "위클리오늘",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xZU1UMk16a0dscHZIX2Q5QVRkbTZlalpBTU9oaGpoVjhwWTFyY0czckNESVVIbUk0X2pwcVlVclQyQ3FwLTJKWlVVNVBNQUNHUW1ZU25nZFgyRXdUbVlEMDFKV1BjLUlfU2gyU21pdw?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:22:23 GMT"
-  },
-  {
-   "id": "news:dac393046311ec54",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "폐렴부터 로봇 인공관절·재활까지…삼성생명, 시니어 보험 보장 넓혔다",
-   "source": "매일경제",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aY2tUYU12UFJ2OVEycUVsbVhRYm5UMjVHcG02SVoyRXZaZHVqaXlGS2pMTm05NkZ2RGdjWnNRcmxaYXhoR3hwdzRycEtfdEZQR2I4VA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:25:26 GMT"
-  },
-  {
-   "id": "news:06e61bbb54cf64ef",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 아동 466명 지원…수술·재활 넘어 진로 멘토링까지",
-   "source": "뉴스핌",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyS3dVTGpUVk9mZzExOWdCNzQ3MDF0QUZwNDJJdkkzMW95NUFtNUF6cGpLNzNDNEt5S09qMEZ6WGFiZHdNdnIwYXR3aTZvcFJxZl9WU3JLSmRycklm?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:28:00 GMT"
-  },
-  {
-   "id": "news:badd4d89d8f1bb7d",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 인도네시아 청소년 대상 금융교육 노하우 전수",
-   "source": "스타뉴스",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KbUk0X3ZSck9GRWNZdnVucmJQN1oxX1lXNTJKT1drdXQ4b1BtSlBpajlJdUt0RTZJY3NXbkRtRWY2c2dFQnRPXzN4YlJhZWR0eVdYRzB6cWZRSnVldUE0bllzbnE2ckRRM253ZVFMb0NPZlJXeHlTUGI0cTZGNnc?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 02:39:10 GMT"
-  },
-  {
-   "id": "news:e0468f10e1b35382",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 아동 466명 수술 등 지원",
-   "source": "이뉴스투데이",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RV1l0ME4yVHZnaG5YWnNubG1IeE94Q1dJQk5yckF6X0JiSEJ2Zjc5bzl3M3NEOW8tNUllc3B5OGowT3ZjWVBHVWs1bXhEZll3SXlEUkcwQ19ReHdXQTRNLTBJTHRtRm9kQkQwUThsNWTSAXRBVV95cUxOWjg4cjRhdndOaU8yaDRjdkNxVFd2TjlTdmwwLTI5dGJwU2ZjbjNLNmVEdElzYno1cTFjWGFUYXY2Y3hQeXg2LWRLRlZOMEU1Z0VRRzRRUFZreFROSFRoVlNFaXVIaVhqSnBZTFp5dkExNnBETA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 04:57:05 GMT"
-  },
-  {
-   "id": "news:9d899d072a48766a",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[오늘의 보험] 삼성생명·메트라이프생명·교보생명",
-   "source": "파이낸셜리뷰",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zYlV6cHd4eUZLZWhCMk5BdER5T2Jhemk2QVFwMHdheGd2eWhpZmt2NUVGRWt1VDNfbjc3Z0dGWERlek5pY1N6Q3ozMXN3TXNmbWcxSXY4dGQ2eTJnanVUMDhLWF9qcUVGN3p4YmRrczB0ckxG?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 06:19:41 GMT"
-  },
-  {
-   "id": "news:7534bee7d0d2763e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "인니 금융시장 넓히는 한화생명…청소년 금융교육도 본격화",
-   "source": "라이센스뉴스",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53TkE1MEhJYjNiS1hfbThHbWZsbGRBRjFjOWpEUXlRZGFnT21vSnNwWHU4bHNMdERxUmZLSmRCanlaUnJqM0EzZG4xTEZ2MEFoQ1BZLThPdTZqMm1TeGl5ei11Z2dQTklvYmNR?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 06:35:00 GMT"
-  },
-  {
-   "id": "news:c82f84466fb949de",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 간호사 직접 채용…병원 동행 서비스 전문성 높인다 - 머니투데이",
-   "source": "머니투데이",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSFNPM2pJMVU1UkpiWUV2MVRjU0R5R2dVTkRNZS12VTB0UUVUUjEyaDRjN3B5eV81cWQya1lfX1IwOGtidGxTRkVOWnU1azdHeUFQZXN6ZjNDSzhLNnhuMlN4V09rYWFaQk0tZlU4M1fSAXBBVV95cUxOWkhTTzNqSTFVNVJKYllFdjFUY1NEeUdnVU5ETWUtdlUwdFFFVFIxMmg0YzdweXlfNXFkMmtZX19SMDhrYnRsU0ZFTlp1NWs3R3lBUGVzemYzQ0s4SzZ4bjJTeFdPa2FhWkJNLWZVODNX?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 06:43:13 GMT"
-  },
-  {
-   "id": "news:c69e5cd92cc5b0ff",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "\"466명에 소리 선물\"…교보생명, 국경 넘은 나눔",
-   "source": "경제타임스",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkRUFzZTJUWE9lU25fblRZdHd4Nm1pSm8ybXlvNi00TTJ5TlcxSWRBQlpMdEZ0M084Qk1seXJDTFNKakI5TVEyVXlQajJLNkF0bHVB?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 06:48:06 GMT"
-  },
-  {
-   "id": "news:8fe1da47b52e75c3",
-   "kind": "news",
-   "company": "교보생명 · 한화생명",
-   "title": "[더밸류 브리핑] 오늘의 보험 소식…한화생명·교보생명· 신한라이프",
-   "source": "더밸류뉴스",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84UFFndXhicV9yVVd0TlFTenNzU2kzcHRZSlphLWM5eElOMk1XSmkxU0hzSG5PMzFNY3B3UE5OZHlsQ1J4X1ZVcDEwMlYxQ1BqOGdkVA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 06:55:10 GMT"
-  },
-  {
-   "id": "news:accdea195a31ac8b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 퇴직연금 전체 1위 재탈환…적립금 57.5조",
-   "source": "메디컬투데이",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40SEp6aG5FV0RhbDdPM2w4OEV2RHZMUlQ2X0JSMC0zZVJNZnZKTzVac0Y4YlZSN2NxV0k2Q0dOUEZUSGZnQ0I2eGpkVEF5ZGZqUlAwUFVVZzZrZENTRUNnN19aVEhZdWhVWFE0Ng?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:16:18 GMT"
-  },
-  {
-   "id": "news:4461ab803371ea2a",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험브리핑]삼성생명·NH농협손보·메트라이프생명",
-   "source": "메트로신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZktIRktyWjhfdVJhSW5HMkVBOTZQd3BEdEEwMkk2dnhZTUo3Tl92VEdwZzJUYjFxMnFvY2dIczNzTHdCdkpaTFlIWjdXRWZxUUFfUF91OFVVblFYOXFyXw?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:17:55 GMT"
-  },
-  {
-   "id": "news:8275b4bc6dc0eace",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "'700종신' 막히자 '생애자금' 카드…한화생명, CSM 성장 이어간다",
-   "source": "인사이트코리아",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xd1RFMUpGNnNZSF9FcDJYbC1ob056UXR0Tno5LW9Kd0s1MFJlTXRsTkd3dmhidHp0Y21udWx3MFdGSFpMRUJfLVFScjUxRFd2NHNOcjBOdVE1N0pTaUVRVG1ZWS03cEhpc1hHSXNWdUVNWWfSAXdBVV95cUxQTnBlcG5CYjhIUFJfTnFpTmg4OE5OcE9Hc1JIWTM5bkFrWHE3X21fNHBUYlBLcUxqU0FUdU5rejVsWGpLdHpHV0xSaV9RZ1BIYmFoakNhanBCa3NmUVVTYUpIWGp6MUluT0p4YUhYZzRueWR1N2FyTQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:41:47 GMT"
-  },
-  {
-   "id": "news:523144453e8edead",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 금융교육으로 인니 청소년 불법도박 근절 나선다",
-   "source": "재외동포신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5YUlkcmR5MlF3a29oek5wRVhrQ3hUTnlCZjBRV3F4ZnN2RnUzMEtCMnZnY2drcEl0dmFybkpfSFV6TF91YnhzY2pqN01GQklNaWFfMTZzUFlaZWt5T3ozOWFuVHY4cmRrY0tKMQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:44:09 GMT"
-  },
-  {
-   "id": "news:0d07dd2df3a3e54c",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "주전 의전도 줄인 BNK, 박신자컵보다 좋아진 삼성생명",
-   "source": "점프볼",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMU05KVXlMeFF6MllXeERRbVFDb1dYNXBacFRCZEJnNndFRFZpMjZ6aTVFb1BaSy1renlEYmhraVhBdFk0RnZ3ZWNZeUxULUtwclpDcTNHd2RYZDlHMG1fSmhaME9WMWtIOVU5YjFxclJRNlBz?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:58:00 GMT"
-  },
-  {
-   "id": "news:7e1e00d4d05a6337",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 최대 8000억원 규모 국내 후순위채 발행 결정",
-   "source": "데이터투자",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbFJnVUMyUE5tWmtEeWVhSnk3YWNXMVItZWlIZ1N0MUhhQzE1WnJHMWtYTWN2Zi1tUjVqUVluR01TakRvWkh1VnBMTUdPVVhKYzZfN1VsZF9lSl81TkFOeWVhckpZRnAzc2pWUmRsUWhlOGs?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 07:59:14 GMT"
-  },
-  {
-   "id": "news:bf002b85f423d756",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 최초 버그바운티 시행 1년여…CISO 책무 범위 늘었나",
-   "source": "블로터",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUDNkOEp1MlN1VGRGNXhETFQwbkZmMFh0V1dfN0ttU21UVmdDRzZIcTBFU2pjeWw2NDJTVzQ3RFNrX2lwem5yclh6TnA2dmdhQXF6ai1Ra2s0UG1RekoxQTh4MjJtQW52b05PQdIBbEFVX3lxTFBKUDNkOEp1MlN1VGRGNXhETFQwbkZmMFh0V1dfN0ttU21UVmdDRzZIcTBFU2pjeWw2NDJTVzQ3RFNrX2lwem5yclh6TnA2dmdhQXF6ai1Ra2s0UG1RekoxQTh4MjJtQW52b05PQQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 08:01:18 GMT"
-  },
-  {
-   "id": "news:1895116d2703d55a",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[보험사 풍향계] 교보생명, 청각장애 아동·청소년 소통 돕는다 外",
-   "source": "에너지경제신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WS2ZpVmdtUEg3c3Viemk3RjVwRGxzOFZlMi1fSHEtNmdzWWl6UVFhWmVDclljLWFpRUIybEtNUG1Bb25wbnctRUdBakI0OVNOWXZFV0RaMEU4aDBFdjJ2SzdlNA?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 08:13:04 GMT"
-  },
-  {
-   "id": "news:ca997d7338ed7292",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "권혁웅·이경근 한화생명 대표, 대량해지 재보험 출재로 추가 금리 변동 대응 병행 [보험사 금리상승 여파]",
-   "source": "한국금융신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzWEhtRnRZemlyRGVDWTVwaTEwZVUzcVFRdXNDTUhSTEFubDFYZklrbDFkWnFUTzRYQ3RUVkpjbE9SX1ZxWjM2ZkQ4a1NQb2NHbzQ0b0VxWXdiX0tFcjZLdm43WUwzdHhpY1JYSDY2dEhHcE92Q2VpOTA3bTQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 09:11:47 GMT"
-  },
-  {
-   "id": "news:3744fb1481c42ecb",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 금리상승기 해외조달 나선 이유",
-   "source": "DealSite경제TV",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12OHQ5U3JoVUF4ZldXNjVQQ2JpMHZWSEY0akk4S28xaTlsOEF5MU1xajRHX2RsYzZUYXdTUHFJYlJOcVZueFZFZVQ4Wmp0eHN3U2Jhekl3?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 00:00:23 GMT"
-  },
-  {
-   "id": "news:772934a4309a6ea6",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다",
-   "source": "데일리한국",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52QkJsZzRpWW5QRlRNQVpaOHVOS2s1TEN6MU92QmJRa2UtdmNRRUdiMDUyZ2xtSHlGclBsSFJLNEpHSTYzLWw4Ml9yN2JvR1hXcWZuNmdXWF9WV2dJc3QxNzFWbkJhNGM0ZFRJUlMwM293MzTSAXNBVV95cUxOdkJCbGc0aVluUEZUTUFaWjh1TktrNUxDejFPdkJiUWtlLXZjUUVHYjA1MmdsbUh5RnJQbEhSSzRKR0k2My1sODJfcjdib0dYV3FmbjZnV1hfVldnSXN0MTcxVm5CYTRjNGRUSVJTMDNvdzM0?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 10:00:40 GMT"
-  },
-  {
-   "id": "news:7b90fcf667729b25",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]",
-   "source": "서울신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03RzNjRmVGWk5ZSzBnWjJuSWRTUnJ0dEdyR3FvaUpMMWxVVGp6Y3NYanBoNFZrdWtScXo3ZUtGNWQweGRXaF9aNTNuQ19zWjhoTXYxVENHeGpvU09INWNxWGRJM3BtcVUzNFZmcjlKTFNmY1hORWpSaTBn?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 12:49:51 GMT"
-  },
-  {
-   "id": "news:73915fa064668faf",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 청각장애 아동 치료부터 청소년 진로 탐색까지 지원",
-   "source": "코리아리포트",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZWRZQ203bXRBUXkzUUxYbDJEbWZhRVh5Z3FCakRSaEUwSUhIWUZVdV9PaERSTmk0WlVZREJmZ0M3eDkwb1lBRGJIeDZkbzB4QVY0bmtzbkFFZmx4aXhGNUx5R0dQSV9QZ0Z4Y096SDY?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 13:11:31 GMT"
-  },
-  {
-   "id": "news:2fff1a2e4ba64767",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'",
-   "source": "세이프타임즈",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaEtaekt1dFl2UkdTYk5NRjJ0S3IxMEdZOWhMUjl3ZGxya0s5NlNMWF8wbDF6N2ZzbTNlRi0tTDRVYUlQZTRiNmRXQ2ZxRXZVQmJOYTlPZkdTUi1mVVhQTUlPOEVvSjFHV3JXTGZTWk5nVzjSAXNBVV95cUxQS2hLWnpLdXRZdlJHU2JOTUYydEtyMTBHWTloTFI5d2RscmtLOTZTTFhfMGwxejdmc20zZUYtLUw0VWFJUGU0YjZkV0NmcUV2VUJiTmE5T2ZHU1ItZlVYUE1JTzhFb0oxR1dyV0xmU1pOZ1c4?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 13:54:38 GMT"
-  },
-  {
-   "id": "news:dc1015d7183c71ec",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'",
-   "source": "보험저널",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZFQ0R0VpU0VONzFZQWlGTjhqWmRWMEtXa0FsVDhaNVVjYlJOMmJsMzROYlpCYnJ0TThhendTang3RzZfbDB3TU5sc0ZkSmJtYVk2V1ItSGtQUEZTYnFFMGJyM01JUS00aWhrZElzTQ?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 21:00:00 GMT"
-  },
-  {
-   "id": "news:f5fc362e4553c7c9",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명금융서비스, 10대 GA 중 보험 계약유지율 '꼴찌'…청약철회도 4만4000건 최다",
-   "source": "소비자가 만드는 신문",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xVE54ZDc4Rnhab3hQb3pTbjNmTUdjeC0wY3FLbDY1SEs4S2ZYS2RjWWFfeFlobHJUSGh2VGZUYWd6SzNqY0t6NGVURTJmaWo5NGpaei1FdWRObm9xM0g2aVcxNmFBZWp3dXluOTBZR3BjVXc?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 21:10:00 GMT"
-  },
-  {
-   "id": "news:c937ef2bde751931",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가",
-   "source": "CEO스코어데일리",
-   "date": "Tue, 20 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wejk2NHBScVZDZG9ZYzRZYkJ4ZU9MMlQwOHRPeS00cFFjOUJmRzI1S2dUblJQakczMGRwSGFJUDZwRHFkRXV5N0Raa0NjQm9hTmcxV2pvQU51V2E3NndLQzNpb21OZ0E3cWYw?oc=5",
-   "sort_key": "Tue, 20 Oct 2026 22:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-20"
+ "last_digest": "2026-10-21"
 }
