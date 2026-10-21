@@ -1903,12 +1903,13 @@
   "news:f49910058d10bcc0": 1792598684,
   "news:efaa21ca8a3d99bd": 1792598685,
   "news:526810ec1873e6d3": 1792613234,
-  "news:e2243068b4111504": 1792613234
+  "news:e2243068b4111504": 1792613234,
+  "news:da0e6738f4f5c450": 1792624672,
+  "news:510d4e78e60ce41b": 1792624672,
+  "news:9d0aa67f5d03bf55": 1792624672,
+  "news:d276bad42a06242d": 1792624672
  },
  "stories": {
-  "홍원학 삼성생명 대표, 보험 밖으로 넓힌 성장판⋯첫 연임 도전 [보험 CEO 연임 레이스 ①]": 1792360333,
-  "[9월 GA 생보사 실적 M/S] 스카이블루에셋, 한화생명 34%, DB생명 30%… 교보생명 6계단 '껑충'": 1792360333,
-  "[9월 GA 생보사 실적 M/S] 밸류마크…한화생명 54% '1위', 신한라이프 25% '2위'": 1792360333,
   "삼성생명 등, 삼성FN리츠 지분 43.70%로 확대": 1792368104,
   "교보생명 대산문화재단, 데이먼 갤것 초청 ‘세계 작가와의 대화’": 1792384459,
   "삼성생명, 전속설계사 1년 새 3천명 넘게 순증...건강·종신보험 확대 핵심채널 자리매김": 1792384459,
@@ -2008,7 +2009,8 @@
   "[오늘 뭐했니?] 삼성생명": 1792582173,
   "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"": 1792582173,
   "한화생명 '주주환원 청사진' 부재와 고질적 기업가치 저평가 : 캐피탈회사 인수하며 사업확장 속도 내도 시장 평가는 싸늘": 1792598685,
-  "삼성생명, 퇴직연금 적립금 전체 '1위 탈환'…보험사 점유율 54%·보장형 DC·IRP 수익률 '1위'": 1792613234
+  "삼성생명, 퇴직연금 적립금 전체 '1위 탈환'…보험사 점유율 54%·보장형 DC·IRP 수익률 '1위'": 1792613234,
+  "[9월 GA 생보사 실적 M/S] 한화피플라이프, 한화생명 73%대 '독주'...이하 '한 자릿 수' 점유율": 1792624672
  },
  "news_queue": [
   {
@@ -2270,6 +2272,16 @@
    "date": "Wed, 21 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DeThDeWRZTjhPYWRvN3pYaWhKbzZTWDA5cXNFQUhPblVsWDFrR3hmM2dXbHl2amR5NFhKYTlzcDZkWXYyVk84NHdROXZtS25GM2V3?oc=5",
    "sort_key": "Wed, 21 Oct 2026 06:32:58 GMT"
+  },
+  {
+   "id": "news:d276bad42a06242d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[9월 GA 생보사 실적 M/S] 한화피플라이프, 한화생명 73%대 '독주'...이하 '한 자릿 수' 점유율",
+   "source": "보험저널",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5djJ1VWd6Z1FYLXg1MGtzU3pBcTFDTDdOZ3M0MUo2aS0xOTdzaWt0MVNraWJuc0ZZNnRxd09GNkZiNVluRWd2bXgxek5tTEZpOEVvWWFGc0lUNU5WanBlSGhqcWVFRmNmal9KYXotQQ?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
