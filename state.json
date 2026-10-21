@@ -1897,7 +1897,11 @@
   "news:309b653bf0521cdb": 1792582173,
   "news:2e762a0ae7d1df76": 1792582173,
   "news:145608323bd09d3b": 1792582173,
-  "news:3b264f34b4e9cd85": 1792582173
+  "news:3b264f34b4e9cd85": 1792582173,
+  "news:9bfa649b4e3c15db": 1792598684,
+  "news:ac332a66db1858a4": 1792598684,
+  "news:f49910058d10bcc0": 1792598684,
+  "news:efaa21ca8a3d99bd": 1792598685
  },
  "stories": {
   "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369,
@@ -2001,7 +2005,8 @@
   "삼성생명 웅진프리드라이프와 협업, \"라이프케어 복합금융 플랫폼 구축 본격화\"": 1792582173,
   "홍원학 삼성생명 대표, 퇴직연금 1위 사업자 탈환…신한 2위로": 1792582173,
   "[오늘 뭐했니?] 삼성생명": 1792582173,
-  "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"": 1792582173
+  "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"": 1792582173,
+  "한화생명 '주주환원 청사진' 부재와 고질적 기업가치 저평가 : 캐피탈회사 인수하며 사업확장 속도 내도 시장 평가는 싸늘": 1792598685
  },
  "news_queue": [
   {
@@ -2243,6 +2248,16 @@
    "date": "Wed, 21 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15dG5PM1hWc0RhdzFsa212Y0xLbVJjM29VN3l4VmRjVjh2NHhyVzI4UXhUbXpla1Jxa1RNZ0puZExlX0J1VHZ6Wi1uSmpFMzgyY3RDR185RXE2R0d6MkJFVg?oc=5",
    "sort_key": "Wed, 21 Oct 2026 08:20:33 GMT"
+  },
+  {
+   "id": "news:efaa21ca8a3d99bd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 '주주환원 청사진' 부재와 고질적 기업가치 저평가 : 캐피탈회사 인수하며 사업확장 속도 내도 시장 평가는 싸늘",
+   "source": "허프포스트코리아",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96eWROQjRESFRMVXlEWDFsR3JreEJRYjZuc3BaaS1WbVQwbWg5dTM0bDh1M1BXN3BSMXhQY0ctVFdJWXJZdGZUaVFmSnl1TFNmQjZMRVBqQQ?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 06:46:57 GMT"
   }
  ],
  "initialized": true,
