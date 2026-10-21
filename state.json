@@ -1901,10 +1901,11 @@
   "news:9bfa649b4e3c15db": 1792598684,
   "news:ac332a66db1858a4": 1792598684,
   "news:f49910058d10bcc0": 1792598684,
-  "news:efaa21ca8a3d99bd": 1792598685
+  "news:efaa21ca8a3d99bd": 1792598685,
+  "news:526810ec1873e6d3": 1792613234,
+  "news:e2243068b4111504": 1792613234
  },
  "stories": {
-  "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369,
   "홍원학 삼성생명 대표, 보험 밖으로 넓힌 성장판⋯첫 연임 도전 [보험 CEO 연임 레이스 ①]": 1792360333,
   "[9월 GA 생보사 실적 M/S] 스카이블루에셋, 한화생명 34%, DB생명 30%… 교보생명 6계단 '껑충'": 1792360333,
   "[9월 GA 생보사 실적 M/S] 밸류마크…한화생명 54% '1위', 신한라이프 25% '2위'": 1792360333,
@@ -2006,7 +2007,8 @@
   "홍원학 삼성생명 대표, 퇴직연금 1위 사업자 탈환…신한 2위로": 1792582173,
   "[오늘 뭐했니?] 삼성생명": 1792582173,
   "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"": 1792582173,
-  "한화생명 '주주환원 청사진' 부재와 고질적 기업가치 저평가 : 캐피탈회사 인수하며 사업확장 속도 내도 시장 평가는 싸늘": 1792598685
+  "한화생명 '주주환원 청사진' 부재와 고질적 기업가치 저평가 : 캐피탈회사 인수하며 사업확장 속도 내도 시장 평가는 싸늘": 1792598685,
+  "삼성생명, 퇴직연금 적립금 전체 '1위 탈환'…보험사 점유율 54%·보장형 DC·IRP 수익률 '1위'": 1792613234
  },
  "news_queue": [
   {
@@ -2258,6 +2260,16 @@
    "date": "Wed, 21 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96eWROQjRESFRMVXlEWDFsR3JreEJRYjZuc3BaaS1WbVQwbWg5dTM0bDh1M1BXN3BSMXhQY0ctVFdJWXJZdGZUaVFmSnl1TFNmQjZMRVBqQQ?oc=5",
    "sort_key": "Wed, 21 Oct 2026 06:46:57 GMT"
+  },
+  {
+   "id": "news:e2243068b4111504",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 퇴직연금 적립금 전체 '1위 탈환'…보험사 점유율 54%·보장형 DC·IRP 수익률 '1위'",
+   "source": "더밸류뉴스",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DeThDeWRZTjhPYWRvN3pYaWhKbzZTWDA5cXNFQUhPblVsWDFrR3hmM2dXbHl2amR5NFhKYTlzcDZkWXYyVk84NHdROXZtS25GM2V3?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 06:32:58 GMT"
   }
  ],
  "initialized": true,
