@@ -1881,10 +1881,25 @@
   "news:1092d8a4b4c9615c": 1792561997,
   "news:b42314d52b3c31df": 1792561997,
   "news:989e85bf771559f0": 1792561997,
-  "news:dc9ed9095c7d2493": 1792561997
+  "news:dc9ed9095c7d2493": 1792561997,
+  "news:04c1d221b9bd4b24": 1792582171,
+  "news:43e440cf546b398f": 1792582171,
+  "news:a8656c10a5a5a314": 1792582171,
+  "news:135f0b4938f3214b": 1792582171,
+  "news:4ff5d9869fd838d0": 1792582171,
+  "news:722425e2032ae7d4": 1792582173,
+  "news:a6c410f93ab4eccd": 1792582173,
+  "news:86461212bcdbc874": 1792582173,
+  "news:5e34e025782677cf": 1792582173,
+  "news:5f20871c22fe6899": 1792582173,
+  "news:34b34ff898682d55": 1792582173,
+  "news:765599f2cc95ad72": 1792582173,
+  "news:309b653bf0521cdb": 1792582173,
+  "news:2e762a0ae7d1df76": 1792582173,
+  "news:145608323bd09d3b": 1792582173,
+  "news:3b264f34b4e9cd85": 1792582173
  },
  "stories": {
-  "“환경교육도 배달합니다”…교보생명, 수소차로 학교·지역사회 누빈다": 1792320191,
   "교보생명, 디지털 금융·건강관리 사업 확대…스타트업 육성도 강화": 1792344369,
   "홍원학 삼성생명 대표, 보험 밖으로 넓힌 성장판⋯첫 연임 도전 [보험 CEO 연임 레이스 ①]": 1792360333,
   "[9월 GA 생보사 실적 M/S] 스카이블루에셋, 한화생명 34%, DB생명 30%… 교보생명 6계단 '껑충'": 1792360333,
@@ -1975,7 +1990,18 @@
   "삼성생명, 퇴직연금 적립금 늘리며 1위 탈환": 1792561997,
   "LG유플러스 고객 경험 혁신·골프존 이웃사랑·교보생명 청각장애 아동 지원...사회적 가치 창출 '박차'": 1792561997,
   "반도체 대형주에 자금 집중… 형지엘리트는 상한가·한화생명 7% 급락": 1792561997,
-  "[카드] 교보생명 대산농촌재단, '2027 대산장학생' 선발": 1792561997
+  "[카드] 교보생명 대산농촌재단, '2027 대산장학생' 선발": 1792561997,
+  "[보험브리핑]삼성화재·KB라이프·삼성생명·DB손보": 1792582173,
+  "\"한화생명, 투자손익 부진에 3분기 적자?…목표주가 5400원으로 하향\" -iM證": 1792582173,
+  "한화생명 주가 315원 하락 후 장마감": 1792582173,
+  "[ET특징주]한화생명, 3분기 적자 전망에 하락세": 1792582173,
+  "'저PBR 낙인' 피할 방법은…한화손보 밸류업 내놨지만 한화생명 고심": 1792582173,
+  "[리포트 브리핑]한화생명, '보험 Up, 투자 Down. 관건은 신계약, 배당' 목표가 5,400원 - iM증권": 1792582173,
+  "[업앤다운]보험주 약세…에이플러스에셋↑·한화생명↓": 1792582173,
+  "삼성생명 웅진프리드라이프와 협업, \"라이프케어 복합금융 플랫폼 구축 본격화\"": 1792582173,
+  "홍원학 삼성생명 대표, 퇴직연금 1위 사업자 탈환…신한 2위로": 1792582173,
+  "[오늘 뭐했니?] 삼성생명": 1792582173,
+  "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"": 1792582173
  },
  "news_queue": [
   {
@@ -2107,6 +2133,116 @@
    "date": "Wed, 21 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN3VHRHdmd0VzR002Y1FiNHF1U216TzRvbUQ1TDNTODFDN0psbmU3SXZYd21QbVMwdkRicFlZUkRELXNDRGoxZUhYaHBwdF9HNTd5bmhTeVNjNTVYVmt5dA?oc=5",
    "sort_key": "Wed, 21 Oct 2026 05:25:10 GMT"
+  },
+  {
+   "id": "news:722425e2032ae7d4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[보험브리핑]삼성화재·KB라이프·삼성생명·DB손보",
+   "source": "메트로신문",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03Zkkta3JZVXNOaVhsRWtneVZ2MldKZUJnazJQV1BHT01Ra0Y4bnE1Q3lqamlpQnRRdlY4T3ZveGFpSEZHT3hVNGZ3UXVTenJuMVhjeTFydmJtRjZfWVRjYw?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 05:25:12 GMT"
+  },
+  {
+   "id": "news:a6c410f93ab4eccd",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "\"한화생명, 투자손익 부진에 3분기 적자?…목표주가 5400원으로 하향\" -iM證",
+   "source": "비즈트리뷴",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zS3BYdGo3cm5lM2NXZWs2enpSS0cwdUhvbmN6YldGZVFvTEpNZHVmaGlqV0dscHlILWFkUWp6RjJaUG9zZGxZakZqSldfa0pya3JSZVlLTHlBb0ExVEFPcUtGMGhaNkRxRDN1YjB2MHg?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 06:01:12 GMT"
+  },
+  {
+   "id": "news:86461212bcdbc874",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 315원 하락 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QUFhUV1BNdXBwdjRWOGdSWHItRjFFZ3FnOUgzUnhXZDZSUm9JMWpwbThVSFp1Vlp4cU9qNFQ1NWZpMWt3di1wWFlISmdaY1hxZHhjRlNxR3JxejBO?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 06:36:13 GMT"
+  },
+  {
+   "id": "news:5e34e025782677cf",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[ET특징주]한화생명, 3분기 적자 전망에 하락세",
+   "source": "전자신문",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQM0l5Q1BXZThqVGtUSDdESHVCOUE4RXRJVXppM2FDT01ENFZudUJ5S3lQSUtCYkJrWEJmUENyUEhZbTVGenBqS0FXUmNaclY3cFE4UGtwN3R5NFVUREZEY2lXZVVBRjQyUFNBb2Z4ZXRPRHZ0dTBkbTRJSjZWcWVocm53SzBPLS1Jck5zYTg5S2U4cUc3aFhUZktNTUNCa2RyZFZBWjZBaDJOQjV2ZHU0WnRORUNVV2ppNjBySm1mZkZWcU1NamFKUHA3c1BLVFVzRjJvazBYaXZuZk9XaURRMmdlZFRKRF9PZGRYWmlyY3lITXRuNDhnY2o4TEhzR0tjaVBzMERaMHcwNFd5TE5tdnFWTlhhZXpFYVVVempEMzhacTkzc2FtNG95S3M3WVYyS2xDNWJzRFFGbUswM2JmMjJoSTFTa3pDU0FwOTFuTFByY1dhZ1NUQ2NVOGJ5SW44ZE5KYjlrX2JDd3VNSmNKWHQ0UU11cUEyYy1VRV8wTmN3RUIybGI0WkdFRFdOVnFtLUR5YkpaeHM5SHpZaXlCY1U5OWdFVFdBSXhmRWJ6bXVoNzNXRi0zbHU4RnJTbGk4Sk4zUFRfejJQOFUtMWl6SkUtdnAwRjRKYXlpdXF3d2JkUHNUTGwyLW10Q2E2VGZiVlFTQWZkVk4zdVpiZmdjdjk1UzlFa21GZXlzZzJjTkRMTzlLTTNrTXBwdXdSdmJWcE5qY0Z1XzdtRjdHTEw3N0F0UUxsRHNrWDJ2NzJRYkJrUDdQdUNIbDBVcEMzZ1d4YVA3WFhGc1hueTliNkEtR1NjYlR6alhvR2lJeFRLWXpxeDAtR0k2eGVnOG1PNEZBbUFOTUZJdHFMcmJxT0JoQmhZZjZsSUh4Z3lGUmRTYndlcnM2YjJPZkR5U3dwN2VRd184R3d4T19ibEFkMlZRVA?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 06:48:52 GMT"
+  },
+  {
+   "id": "news:5f20871c22fe6899",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'저PBR 낙인' 피할 방법은…한화손보 밸류업 내놨지만 한화생명 고심",
+   "source": "뉴스핌",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBabU1SZFVETFc0OEVlWFNoZjlzQ0o4eTFoQnEtckRWOG1zMzN5VHRLbE1KcmxPOXpuc0RFOWxqTUhrLW5qRVVFZmI4TzBiT0poTVJXRlBNekZ0Y1Vf?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 07:01:00 GMT"
+  },
+  {
+   "id": "news:34b34ff898682d55",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[리포트 브리핑]한화생명, '보험 Up, 투자 Down. 관건은 신계약, 배당' 목표가 5,400원 - iM증권",
+   "source": "뉴스핌",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ra0NTTWR4OEFXZTgzSmRCbTlZRWM3TklaYzUwRlFXdnhRUnJ5SE1lOVJvSkNMSENfUzJhYk03a0x6VlBFUkV6WFBHamhtMzFaSTNfTDFqeG9hZDJm?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 07:08:00 GMT"
+  },
+  {
+   "id": "news:765599f2cc95ad72",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[업앤다운]보험주 약세…에이플러스에셋↑·한화생명↓",
+   "source": "NSP통신",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2elplWjVYWEFpVmMwSkgxeFBtUVVwZUlDdl9yUjQ0RTQ2TTg3ZUdOUkllUlhPNHB4bUg1MEFfbG5xNmRRRWN1R1ZmSUpoT0NKV3ZDMEZ1Z1RzWjdZNks0VzFNMA?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 07:34:57 GMT"
+  },
+  {
+   "id": "news:309b653bf0521cdb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 웅진프리드라이프와 협업, \"라이프케어 복합금융 플랫폼 구축 본격화\"",
+   "source": "비즈니스포스트",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QWmtFYTdhX1VWS0x0S0RRR3E5SzVpMndvSm9meTBmTjQ5WFZpYlRKSHRYWnFFN3ZGSTh2TjVwOXNJaGFMdF9RaVhNLVdsYVNoZnNEeFZaV2JId3BNcVlqTC0xeGZXdDdxZFA2cWNIRmxHQXM?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 07:36:34 GMT"
+  },
+  {
+   "id": "news:2e762a0ae7d1df76",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "홍원학 삼성생명 대표, 퇴직연금 1위 사업자 탈환…신한 2위로",
+   "source": "인사이트코리아",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HTjl3OUVINTFSUlNmSmJXaUhoc3RGUlBBRVcwaW5lY1k5MElRQmVkeGxlcm5BeC1Sak51S1JOOFZRVHJpTWl4NlhDSXlNR1BJVjl0TWRVUW9HOEpqWXllRWFqcWx3aXloUkJyLWpic1RCX2fSAXdBVV95cUxQX0RNMHlkM2xuVmZVVzJVa1BROGR2X1FjMldkLW5EcXhIMjUtYTNjNFE0MzlHblFuNkIxdWZIWlkwRmpkX1lJc3pJNlBzYjY3Qm5QbHNBcFBFWlJwQ0d6Sl9lQzMwTVJXYXlTOExCXzJIOXR2OUdWbw?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 08:00:44 GMT"
+  },
+  {
+   "id": "news:145608323bd09d3b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[오늘 뭐했니?] 삼성생명",
+   "source": "파이낸셜리뷰",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kejQtNmdGdkgxNGpIb1NMTTlHa2FIR2RxdThEY2JqNl8wOC1VcTNpTDBFNVBtSk44MUxnb01VbzVfR25iOFkzaUZ4dG0xZmkweVN4RjF4QzNaRC15RVZacE5WOU9aei1qZmowajF6SGZUVDJ5?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 08:20:23 GMT"
+  },
+  {
+   "id": "news:3b264f34b4e9cd85",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "(단독)금감원 \"삼성생명, 삼성전자 지분 처분 가능성 반영해야\"",
+   "source": "뉴스토마토",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15dG5PM1hWc0RhdzFsa212Y0xLbVJjM29VN3l4VmRjVjh2NHhyVzI4UXhUbXpla1Jxa1RNZ0puZExlX0J1VHZ6Wi1uSmpFMzgyY3RDR185RXE2R0d6MkJFVg?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 08:20:33 GMT"
   }
  ],
  "initialized": true,
