@@ -1921,7 +1921,9 @@
   "news:329952566ad185d2": 1792671881,
   "news:2d1fb66f8bf3ee8b": 1792671881,
   "news:dbfed713908e0440": 1792671881,
-  "news:8ffd32598c11bb31": 1792671881
+  "news:8ffd32598c11bb31": 1792671881,
+  "news:7229c5433ef36b07": 1792702071,
+  "news:1b5fa1c8a0bf9fef": 1792702071
  },
  "stories": {
   "조대규 교보생명 대표, 본업 성장에 지주사 전환까지⋯'교보맨'의 승부수 [보험 CEO 연임 레이스 ②]": 1792445455,
@@ -2025,7 +2027,9 @@
   "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”": 1792671881,
   "[22일 마감시황] 코스피 3.52% 급락…에이플러스에셋 '이틀 연속 상승' 3.64%↑· 한화생명 4.52%": 1792671881,
   "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'": 1792671881,
-  "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전": 1792671881
+  "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전": 1792671881,
+  "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"": 1792702071,
+  "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]": 1792702071
  },
  "news_queue": [
   {
@@ -2117,6 +2121,26 @@
    "date": "Thu, 22 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nMGJhNVNfcFBNYXd6S3Z3R1o3MzVLRjRiN2RoX0owSTU5VWdPQnNpYnRmbTB3anBKVERNWTZsOW10WkUtdEJSMzVLZk81WjlrTkFmRE5PVmROUk1aVDR1NWJ4UEfSAWdBVV95cUxOa3I5V01jRHVCX05Kc19kWldveC1IUUxjcmtnWEw1aXJGS010MmxaVzJDZ25ad0xNaWlJU1lIREpKUjQzQ0dTeDdwU3lUQWYxOFp2VEpkenhCWko5SHQyRUI0MUdFa0xz?oc=5",
    "sort_key": "Thu, 22 Oct 2026 07:52:58 GMT"
+  },
+  {
+   "id": "news:7229c5433ef36b07",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"",
+   "source": "오늘경제",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SVBxMmRJR0Y4RjFQNnpnSEVOeUE0UURWd1NCQTlhck5heHZTR0RWemVSMzVLSXNnSW9ETnQzdm9rcmxsbFNoYV92eDBlTXV0NWFqV1dFQ3h2dGpBTzhlcEdDWUlvLWwzOEE1N2tfaXhRVUE?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 20:00:00 GMT"
+  },
+  {
+   "id": "news:1b5fa1c8a0bf9fef",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]",
+   "source": "쿠키뉴스",
+   "date": "Wed, 21 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53RzFqbF8zdkUzVmJibFFNUjFpelBZQ2Mtc1FOWndmUk1tYzZTNkQyMlFDZ213bzRVc0NYb1BuTk1ha1FlWlFyaktnNW1QUjRvVldOekdFTmYxOUVaTndOd29HQQ?oc=5",
+   "sort_key": "Wed, 21 Oct 2026 23:50:09 GMT"
   }
  ],
  "initialized": true,
