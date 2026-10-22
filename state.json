@@ -1910,11 +1910,13 @@
   "news:d276bad42a06242d": 1792624672,
   "news:f2f503591c4ef77e": 1792633088,
   "news:61a4afd7e0b479c0": 1792633089,
-  "news:d388276e2c78dfa3": 1792633089
+  "news:d388276e2c78dfa3": 1792633089,
+  "news:d6d3cd8b098dc40c": 1792650924,
+  "news:254fc494150ba27b": 1792650925,
+  "news:ace269b06880f568": 1792650925,
+  "news:9d97b8b5a64703d9": 1792650925
  },
  "stories": {
-  "교보생명 대산문화재단, 데이먼 갤것 초청 ‘세계 작가와의 대화’": 1792384459,
-  "삼성생명, 전속설계사 1년 새 3천명 넘게 순증...건강·종신보험 확대 핵심채널 자리매김": 1792384459,
   "[특징주] 한화생명, 장중 약세 보이며 4690원대 거래 : 기업주식정보": 1792405030,
   "[한화금융 확장 셈법] ⑤배당 막힌 한화생명, 코인·캐피탈 비싼 확장...왜?": 1792405030,
   "한화생명, 시장위험액 1조 늘어도 '자본여력' 확장 기조 잇는다": 1792405030,
@@ -2014,9 +2016,43 @@
   "삼성생명, 퇴직연금 적립금 전체 '1위 탈환'…보험사 점유율 54%·보장형 DC·IRP 수익률 '1위'": 1792613234,
   "[9월 GA 생보사 실적 M/S] 한화피플라이프, 한화생명 73%대 '독주'...이하 '한 자릿 수' 점유율": 1792624672,
   "삼성생명 5거래일 종가 7.3% 상승": 1792633089,
-  "'2년째 배당 제로' 한화생명, 3분기 적자 전망에 주가 와르르": 1792633089
+  "'2년째 배당 제로' 한화생명, 3분기 적자 전망에 주가 와르르": 1792633089,
+  "3x3 대표팀에서 돌아온 삼성생명 최예슬, 장신라인업에서 역할은?": 1792650925,
+  "3점슛 좋아진 삼성생명 이예나, 포스트업이란?": 1792650925,
+  "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세": 1792650925
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:254fc494150ba27b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "3x3 대표팀에서 돌아온 삼성생명 최예슬, 장신라인업에서 역할은?",
+   "source": "점프볼",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSUdrcFltMVg3WWpESnZSaUxIVE5aVHRUbFRzWEcwODd6UVhRZjJ4bmgtTXFlRGh6aVZXdUdSOE9LQ2FjVzkxWDNMbmFZejdYM1dvQlc4VTRNVkF5cmtEcUl2MUY3TXVoS0tCZFNhVWZtNVpD?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 03:20:49 GMT"
+  },
+  {
+   "id": "news:ace269b06880f568",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "3점슛 좋아진 삼성생명 이예나, 포스트업이란?",
+   "source": "점프볼",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWWJVLTd3SFJVR1o2WmdLM3d3NnJDUTVvUjJXeWU5cjdKSDJjMElqQTBnYXE3Y0w3ZlVUTFdFQ1RtZUFNNzF1cmxDSEtEbW5nREIxcWFXUktkNk5yR2syLVVybHRIbFVhQkJqdzROa0NnZGxa?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 05:22:41 GMT"
+  },
+  {
+   "id": "news:9d97b8b5a64703d9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세",
+   "source": "파이낸셜포스트",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lanBMNWJCczhDMUwtR2FfNXRMQ3BNaW5id3Q3WktZSTJkRUt4MWZMRDN1ZTlwa0IwU2o3WER2eTNEdlRlT0V6Zzk2OVlUUkltZ1JGdEd4bW9PSW9BZ0hCdGxjLW1wX25ZUzBDY3IxZFJRQTRN?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 05:55:42 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-22"
 }
