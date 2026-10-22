@@ -1923,12 +1923,12 @@
   "news:dbfed713908e0440": 1792671881,
   "news:8ffd32598c11bb31": 1792671881,
   "news:7229c5433ef36b07": 1792702071,
-  "news:1b5fa1c8a0bf9fef": 1792702071
+  "news:1b5fa1c8a0bf9fef": 1792702071,
+  "news:2f8d361d04191916": 1792712475,
+  "news:8b89503589d77296": 1792712475,
+  "news:c0c948d2415893e0": 1792712475
  },
  "stories": {
-  "조대규 교보생명 대표, 본업 성장에 지주사 전환까지⋯'교보맨'의 승부수 [보험 CEO 연임 레이스 ②]": 1792445455,
-  "퇴직연금 적립금, 3분기 11.8조 감소…삼성생명 다시 1위": 1792445455,
-  "[9월 GA 생보사 실적 M/S] 에이치케이금융, 한화생명 25%, 하나생명 22%...상위 '3개사' 61%": 1792445455,
   "사랑의달팽이·교보생명, 청각장애 청소년 진로·직업 체험 지원": 1792456726,
   "삼성생명, 시니어 건강보험 개편…폐렴·로봇 관절수술 보장": 1792456726,
   "삼성생명, 시니어보험 보장 강화": 1792456726,
@@ -2029,120 +2029,12 @@
   "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'": 1792671881,
   "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전": 1792671881,
   "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"": 1792702071,
-  "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]": 1792702071
+  "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]": 1792702071,
+  "미래에셋자산운용 연금 1위…하나은행·삼성생명보험 2·3위": 1792712475,
+  "다올證 “한화생명, 3분기 400억 적자 전망…목표가 14% 하향” - 조선비즈": 1792712475,
+  "삼성생명 태국법인, 현지 최대 금융 엑스포 참가…영업 확대 박차": 1792712475
  },
- "news_queue": [
-  {
-   "id": "news:254fc494150ba27b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "3x3 대표팀에서 돌아온 삼성생명 최예슬, 장신라인업에서 역할은?",
-   "source": "점프볼",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSUdrcFltMVg3WWpESnZSaUxIVE5aVHRUbFRzWEcwODd6UVhRZjJ4bmgtTXFlRGh6aVZXdUdSOE9LQ2FjVzkxWDNMbmFZejdYM1dvQlc4VTRNVkF5cmtEcUl2MUY3TXVoS0tCZFNhVWZtNVpD?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 03:20:49 GMT"
-  },
-  {
-   "id": "news:ace269b06880f568",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "3점슛 좋아진 삼성생명 이예나, 포스트업이란?",
-   "source": "점프볼",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWWJVLTd3SFJVR1o2WmdLM3d3NnJDUTVvUjJXeWU5cjdKSDJjMElqQTBnYXE3Y0w3ZlVUTFdFQ1RtZUFNNzF1cmxDSEtEbW5nREIxcWFXUktkNk5yR2syLVVybHRIbFVhQkJqdzROa0NnZGxa?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 05:22:41 GMT"
-  },
-  {
-   "id": "news:9d97b8b5a64703d9",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세",
-   "source": "파이낸셜포스트",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lanBMNWJCczhDMUwtR2FfNXRMQ3BNaW5id3Q3WktZSTJkRUt4MWZMRDN1ZTlwa0IwU2o3WER2eTNEdlRlT0V6Zzk2OVlUUkltZ1JGdEd4bW9PSW9BZ0hCdGxjLW1wX25ZUzBDY3IxZFJRQTRN?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 05:55:42 GMT"
-  },
-  {
-   "id": "news:63a1d7e714a4ea22",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, DB형 퇴직연금 비보장 수익률 '마이너스'",
-   "source": "뉴스토마토",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRjlEYzBOSm1HSVNub3JCYWZGTzB1blVzaWJDMlpNVzRBR0VMRHFNWEd4Ymg4Q0VGdXpMWXVyaWh1NFpBRDB5ZnhmU3hZdFEzR2E5MlI1WnFPZVJyRndvaA?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 06:25:47 GMT"
-  },
-  {
-   "id": "news:05154aba83712202",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 주가 3,500원 하락 후 장마감",
-   "source": "아시아뉴스통신",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMGV4am9SMndDWXgwWmtlQkFLRml2RWVVMnpsN0pwWDY0SXVQVHRxQ2hYd2pwY0poekRCTkVHbEx0eTR6SEVfYlR5VTJVdVRBbjlOc0pSSnF6dVU5?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 06:37:59 GMT"
-  },
-  {
-   "id": "news:329952566ad185d2",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”",
-   "source": "점프볼",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pNjctQ0hRTExpOWo4VnoxNHpOdXlwdVNuLWtpN3YzU09VdFNMVks4YVgtak1xbVhBWmxfdFZNUUdBd0lkU3JFYUdVbDdCUmdnMVdUOUpTUENXbWRrcVJWYXBMcTBJRzh4bmQ2dGtMN3k?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 07:06:41 GMT"
-  },
-  {
-   "id": "news:2d1fb66f8bf3ee8b",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[22일 마감시황] 코스피 3.52% 급락…에이플러스에셋 '이틀 연속 상승' 3.64%↑· 한화생명 4.52%",
-   "source": "보험저널",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81R1lScndOd1hjMTJvLTljc3l2SXo3TmRNa1JZcnlXclhuSTdGc0RmM3JEcmtsZDFQS0VTYUZPUG9jckVzejQzaHZuMzloMGY1NDA3RmRoQjVfSzlzYlFKT1FlbmYyWlhER3JoSlZzdw?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 07:09:47 GMT"
-  },
-  {
-   "id": "news:dbfed713908e0440",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'",
-   "source": "데일리팝",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSHIzVmRZVHZHeDBGeV9BcDdORDVSdVBBMlVRbmtnME9wRktYalg0cVZnb3RvdF9aVWMySVc0SUJjOWs3cFZfVVYxU0E1SlpTaGRDQUhmaldJQXdFYnBEMVNfcTlLdTNv?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 07:15:00 GMT"
-  },
-  {
-   "id": "news:8ffd32598c11bb31",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전",
-   "source": "리버티코리아포스트",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nMGJhNVNfcFBNYXd6S3Z3R1o3MzVLRjRiN2RoX0owSTU5VWdPQnNpYnRmbTB3anBKVERNWTZsOW10WkUtdEJSMzVLZk81WjlrTkFmRE5PVmROUk1aVDR1NWJ4UEfSAWdBVV95cUxOa3I5V01jRHVCX05Kc19kWldveC1IUUxjcmtnWEw1aXJGS010MmxaVzJDZ25ad0xNaWlJU1lIREpKUjQzQ0dTeDdwU3lUQWYxOFp2VEpkenhCWko5SHQyRUI0MUdFa0xz?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 07:52:58 GMT"
-  },
-  {
-   "id": "news:7229c5433ef36b07",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"",
-   "source": "오늘경제",
-   "date": "Thu, 22 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SVBxMmRJR0Y4RjFQNnpnSEVOeUE0UURWd1NCQTlhck5heHZTR0RWemVSMzVLSXNnSW9ETnQzdm9rcmxsbFNoYV92eDBlTXV0NWFqV1dFQ3h2dGpBTzhlcEdDWUlvLWwzOEE1N2tfaXhRVUE?oc=5",
-   "sort_key": "Thu, 22 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "id": "news:1b5fa1c8a0bf9fef",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]",
-   "source": "쿠키뉴스",
-   "date": "Wed, 21 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53RzFqbF8zdkUzVmJibFFNUjFpelBZQ2Mtc1FOWndmUk1tYzZTNkQyMlFDZ213bzRVc0NYb1BuTk1ha1FlWlFyaktnNW1QUjRvVldOekdFTmYxOUVaTndOd29HQQ?oc=5",
-   "sort_key": "Wed, 21 Oct 2026 23:50:09 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-22"
+ "last_digest": "2026-10-23"
 }
