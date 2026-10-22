@@ -1914,14 +1914,16 @@
   "news:d6d3cd8b098dc40c": 1792650924,
   "news:254fc494150ba27b": 1792650925,
   "news:ace269b06880f568": 1792650925,
-  "news:9d97b8b5a64703d9": 1792650925
+  "news:9d97b8b5a64703d9": 1792650925,
+  "news:6a115b9343fa652b": 1792671879,
+  "news:63a1d7e714a4ea22": 1792671881,
+  "news:05154aba83712202": 1792671881,
+  "news:329952566ad185d2": 1792671881,
+  "news:2d1fb66f8bf3ee8b": 1792671881,
+  "news:dbfed713908e0440": 1792671881,
+  "news:8ffd32598c11bb31": 1792671881
  },
  "stories": {
-  "[특징주] 한화생명, 장중 약세 보이며 4690원대 거래 : 기업주식정보": 1792405030,
-  "[한화금융 확장 셈법] ⑤배당 막힌 한화생명, 코인·캐피탈 비싼 확장...왜?": 1792405030,
-  "한화생명, 시장위험액 1조 늘어도 '자본여력' 확장 기조 잇는다": 1792405030,
-  "삼성생명, 신한은행 제치고 퇴직연금 1위 되찾았다": 1792405030,
-  "삼성생명, 美 장기채 급락에 ‘복잡한 속내’": 1792405030,
   "재무록｜교보생명은 얼마인가? 가치평가에 달린 수백억행방": 1792429340,
   "한화생명 플레이-인 운명은?⋯키움 DR": 1792429340,
   "조대규 교보생명 대표, 본업 성장에 지주사 전환까지⋯'교보맨'의 승부수 [보험 CEO 연임 레이스 ②]": 1792445455,
@@ -2019,7 +2021,13 @@
   "'2년째 배당 제로' 한화생명, 3분기 적자 전망에 주가 와르르": 1792633089,
   "3x3 대표팀에서 돌아온 삼성생명 최예슬, 장신라인업에서 역할은?": 1792650925,
   "3점슛 좋아진 삼성생명 이예나, 포스트업이란?": 1792650925,
-  "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세": 1792650925
+  "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세": 1792650925,
+  "삼성생명, DB형 퇴직연금 비보장 수익률 '마이너스'": 1792671881,
+  "삼성생명 주가 3,500원 하락 후 장마감": 1792671881,
+  "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”": 1792671881,
+  "[22일 마감시황] 코스피 3.52% 급락…에이플러스에셋 '이틀 연속 상승' 3.64%↑· 한화생명 4.52%": 1792671881,
+  "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'": 1792671881,
+  "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전": 1792671881
  },
  "news_queue": [
   {
@@ -2051,6 +2059,66 @@
    "date": "Thu, 22 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lanBMNWJCczhDMUwtR2FfNXRMQ3BNaW5id3Q3WktZSTJkRUt4MWZMRDN1ZTlwa0IwU2o3WER2eTNEdlRlT0V6Zzk2OVlUUkltZ1JGdEd4bW9PSW9BZ0hCdGxjLW1wX25ZUzBDY3IxZFJRQTRN?oc=5",
    "sort_key": "Thu, 22 Oct 2026 05:55:42 GMT"
+  },
+  {
+   "id": "news:63a1d7e714a4ea22",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, DB형 퇴직연금 비보장 수익률 '마이너스'",
+   "source": "뉴스토마토",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRjlEYzBOSm1HSVNub3JCYWZGTzB1blVzaWJDMlpNVzRBR0VMRHFNWEd4Ymg4Q0VGdXpMWXVyaWh1NFpBRDB5ZnhmU3hZdFEzR2E5MlI1WnFPZVJyRndvaA?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 06:25:47 GMT"
+  },
+  {
+   "id": "news:05154aba83712202",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 주가 3,500원 하락 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMGV4am9SMndDWXgwWmtlQkFLRml2RWVVMnpsN0pwWDY0SXVQVHRxQ2hYd2pwY0poekRCTkVHbEx0eTR6SEVfYlR5VTJVdVRBbjlOc0pSSnF6dVU5?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 06:37:59 GMT"
+  },
+  {
+   "id": "news:329952566ad185d2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”",
+   "source": "점프볼",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pNjctQ0hRTExpOWo4VnoxNHpOdXlwdVNuLWtpN3YzU09VdFNMVks4YVgtak1xbVhBWmxfdFZNUUdBd0lkU3JFYUdVbDdCUmdnMVdUOUpTUENXbWRrcVJWYXBMcTBJRzh4bmQ2dGtMN3k?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 07:06:41 GMT"
+  },
+  {
+   "id": "news:2d1fb66f8bf3ee8b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[22일 마감시황] 코스피 3.52% 급락…에이플러스에셋 '이틀 연속 상승' 3.64%↑· 한화생명 4.52%",
+   "source": "보험저널",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81R1lScndOd1hjMTJvLTljc3l2SXo3TmRNa1JZcnlXclhuSTdGc0RmM3JEcmtsZDFQS0VTYUZPUG9jckVzejQzaHZuMzloMGY1NDA3RmRoQjVfSzlzYlFKT1FlbmYyWlhER3JoSlZzdw?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 07:09:47 GMT"
+  },
+  {
+   "id": "news:dbfed713908e0440",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'",
+   "source": "데일리팝",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSHIzVmRZVHZHeDBGeV9BcDdORDVSdVBBMlVRbmtnME9wRktYalg0cVZnb3RvdF9aVWMySVc0SUJjOWs3cFZfVVYxU0E1SlpTaGRDQUhmaldJQXdFYnBEMVNfcTlLdTNv?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 07:15:00 GMT"
+  },
+  {
+   "id": "news:8ffd32598c11bb31",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전",
+   "source": "리버티코리아포스트",
+   "date": "Thu, 22 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nMGJhNVNfcFBNYXd6S3Z3R1o3MzVLRjRiN2RoX0owSTU5VWdPQnNpYnRmbTB3anBKVERNWTZsOW10WkUtdEJSMzVLZk81WjlrTkFmRE5PVmROUk1aVDR1NWJ4UEfSAWdBVV95cUxOa3I5V01jRHVCX05Kc19kWldveC1IUUxjcmtnWEw1aXJGS010MmxaVzJDZ25ad0xNaWlJU1lIREpKUjQzQ0dTeDdwU3lUQWYxOFp2VEpkenhCWko5SHQyRUI0MUdFa0xz?oc=5",
+   "sort_key": "Thu, 22 Oct 2026 07:52:58 GMT"
   }
  ],
  "initialized": true,
