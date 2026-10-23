@@ -1974,14 +1974,11 @@
   "news:55ba94f51e132085": 1792759716,
   "news:57dedec9b3545ef6": 1792759716,
   "news:c66afd2747b496d2": 1792759716,
-  "news:379955a073bb1241": 1792759716
+  "news:379955a073bb1241": 1792759716,
+  "news:b53207e5cd30e8b2": 1792776724,
+  "news:85230f6bb66d0299": 1792776724
  },
  "stories": {
-  "삼성생명, 금리상승기 해외조달 나선 이유": 1792509246,
-  "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다": 1792509246,
-  "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]": 1792509246,
-  "교보생명, 청각장애 아동 치료부터 청소년 진로 탐색까지 지원": 1792509246,
-  "삼성생명 퇴직연금 1위 탈환 … 계열사 자금 '의존'": 1792509246,
   "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'": 1792535589,
   "한화생명금융서비스, 10대 GA 중 보험 계약유지율 '꼴찌'…청약철회도 4만4000건 최다": 1792535589,
   "증시 후퇴에 퇴직연금 적립금 21조원 감소…삼성생명만 상위권서 증가": 1792535589,
@@ -2077,7 +2074,9 @@
   "삼성생명, 신한은행에 뺏긴 퇴직연금 '왕좌 탈환'…3개월 만에 역전": 1792759716,
   "한화생명은 2026년 베트남에서 가장 수익성이 높은 50대 기업에 선정되어 자랑스럽게 생각합니다.": 1792759716,
   "한화생명, '700종신' 판매중단에 신계약 CSM 감소 우려": 1792759716,
-  "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중": 1792759716
+  "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중": 1792759716,
+  "한화생명 3분기 보험손익 증가에도 순손실 추정 : 다올투자증권 \"과거 판매한 변액종신 관련 헤지비용 증가\"": 1792776724,
+  "홍원학 삼성생명 퇴직연금 선두 굳히기, 고객 자산관리 초격차 위치 올라서나": 1792776724
  },
  "news_queue": [
   {
@@ -2449,6 +2448,26 @@
    "date": "Fri, 23 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12OU4yQ2U4cEN1MmtjZFBBbEtfLVdhZVhlNWVIS0FDc3BqODJOMnFPU1VvZEgzQ2E1eXN6OWQzd3NEMEFrSGxnb1phVEdlM1FyYWpYV09QQXlDTzNReGEwRA?oc=5",
    "sort_key": "Fri, 23 Oct 2026 11:39:25 GMT"
+  },
+  {
+   "id": "news:b53207e5cd30e8b2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 3분기 보험손익 증가에도 순손실 추정 : 다올투자증권 \"과거 판매한 변액종신 관련 헤지비용 증가\"",
+   "source": "허프포스트코리아",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xUG95bWx2NkRfb29uTjdIV3dsQklaZHlNSjUyQ0k0TGJOQTExNmJoTTQySWROTGtFZXAxdXV4V1NJVGdiZ3Y4WFptRjlfc1VpWE1YYnJKYw?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 03:15:33 GMT"
+  },
+  {
+   "id": "news:85230f6bb66d0299",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "홍원학 삼성생명 퇴직연금 선두 굳히기, 고객 자산관리 초격차 위치 올라서나",
+   "source": "비즈니스포스트",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUG5TMGhQR3FvQkh2eTZQek1qTmtPM2trRWdBdE44VFdQWU9vTVFlanpZNW0zUzVORDItWnUzWWJxb3h3Tkg2Q01GR2tCU3dEVWpEZ1kyR1oxVklhdmxPZG55TmFzam1oQU9EbTQyM2Z6UkE?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 05:23:20 GMT"
   }
  ],
  "initialized": true,
