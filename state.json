@@ -1963,23 +1963,20 @@
   "news:2a8d1920978a4a5b": 1792740359,
   "news:9054f5be01ab806d": 1792740359,
   "news:724979964379c579": 1792740359,
-  "news:b4e00be38aaa48ed": 1792740359
+  "news:b4e00be38aaa48ed": 1792740359,
+  "news:4ea33af81cf95772": 1792759714,
+  "news:9c529b0c0d88de6a": 1792759714,
+  "news:a337c61ec1c17ac2": 1792759714,
+  "news:929a20febb9ae3ec": 1792759714,
+  "news:efdfcde3c8b597b9": 1792759714,
+  "news:84cb4002b190a059": 1792759716,
+  "news:85e442fbbc32c850": 1792759716,
+  "news:55ba94f51e132085": 1792759716,
+  "news:57dedec9b3545ef6": 1792759716,
+  "news:c66afd2747b496d2": 1792759716,
+  "news:379955a073bb1241": 1792759716
  },
  "stories": {
-  "[오늘의 보험] 삼성생명·메트라이프생명·교보생명": 1792491596,
-  "인니 금융시장 넓히는 한화생명…청소년 금융교육도 본격화": 1792491596,
-  "삼성생명, 간호사 직접 채용…병원 동행 서비스 전문성 높인다 - 머니투데이": 1792491596,
-  "\"466명에 소리 선물\"…교보생명, 국경 넘은 나눔": 1792491596,
-  "[더밸류 브리핑] 오늘의 보험 소식…한화생명·교보생명· 신한라이프": 1792491596,
-  "삼성생명, 퇴직연금 전체 1위 재탈환…적립금 57.5조": 1792491596,
-  "[보험브리핑]삼성생명·NH농협손보·메트라이프생명": 1792491596,
-  "'700종신' 막히자 '생애자금' 카드…한화생명, CSM 성장 이어간다": 1792491596,
-  "한화생명, 금융교육으로 인니 청소년 불법도박 근절 나선다": 1792491596,
-  "주전 의전도 줄인 BNK, 박신자컵보다 좋아진 삼성생명": 1792491596,
-  "한화생명, 최대 8000억원 규모 국내 후순위채 발행 결정": 1792491596,
-  "삼성생명 최초 버그바운티 시행 1년여…CISO 책무 범위 늘었나": 1792491596,
-  "[보험사 풍향계] 교보생명, 청각장애 아동·청소년 소통 돕는다 外": 1792491596,
-  "권혁웅·이경근 한화생명 대표, 대량해지 재보험 출재로 추가 금리 변동 대응 병행 [보험사 금리상승 여파]": 1792491596,
   "삼성생명, 금리상승기 해외조달 나선 이유": 1792509246,
   "교보생명, 청각장애 아동 치료 넘어 진로 지원까지…사회공헌 보폭 넓힌다": 1792509246,
   "삼성생명, 전국 ‘청년희망터’ 5년간 2801명 지원 [제4회 서울상생금융대상]": 1792509246,
@@ -2074,7 +2071,13 @@
   "[보험사 풍향계] “보험금 지급까지 2시간”...교보생명, 업계 최단 기록 外": 1792740359,
   "[보험 NOW] 교보생명·농협생명·삼성생명·신한라이프": 1792740359,
   "웅진프리드·삼성생명 협력에 상조업계 '지각 변동' 가속화": 1792740359,
-  "\"아플 때 필요한 보험금 더 빨리\"…교보생명, AI로 평균 2시간 만에 지급": 1792740359
+  "\"아플 때 필요한 보험금 더 빨리\"…교보생명, AI로 평균 2시간 만에 지급": 1792740359,
+  "[금융계 동향] 현대카드·NH농협은행·삼성생명": 1792759716,
+  "AI 우려 딛고, 코스피 '상승'...삼성생명·DL이앤씨 '활짝'": 1792759716,
+  "삼성생명, 신한은행에 뺏긴 퇴직연금 '왕좌 탈환'…3개월 만에 역전": 1792759716,
+  "한화생명은 2026년 베트남에서 가장 수익성이 높은 50대 기업에 선정되어 자랑스럽게 생각합니다.": 1792759716,
+  "한화생명, '700종신' 판매중단에 신계약 CSM 감소 우려": 1792759716,
+  "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중": 1792759716
  },
  "news_queue": [
   {
@@ -2386,6 +2389,66 @@
    "date": "Fri, 23 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZXlPdjVtcVBSUzA5aXA3aUstTFFhVTZsSXd5Ri1KeHpGbk5JNndvRGhwbFpQTW9NNHZNME5EYjA2ZS1NcXR2V3pJbzY1ZGRMcjhSd0xfejJKcG9VMlJ3V09oZW1sT1BNajJtNA?oc=5",
    "sort_key": "Fri, 23 Oct 2026 06:56:04 GMT"
+  },
+  {
+   "id": "news:84cb4002b190a059",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[금융계 동향] 현대카드·NH농협은행·삼성생명",
+   "source": "민주신문",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16eW9YMTlrdFoxV2kxcm5WV1h6eU1TcW1hdklpc0wwYjBxWTdaU2R1b093anE0SDNjYTlncG5CeEtjVXdDRUpOdWJjUHlQOFpsdjlReWlSXzhZUkw3clhYcEo0Z0NCUDJjQU9R0gFrQVVfeXFMTXp5b1gxOWt0WjFXaTFyblZXWHp5TVNxbWF2SWlzTDBiMHFZN1pTZHVvT3dqcTRIM2NhOWdwbkJ4S2NVd0NFSk51YmNQeVA4Wmx2OVF5aVJfOFlSTDdyWFhwSjRnQ0JQMmNBT1E?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 06:58:12 GMT"
+  },
+  {
+   "id": "news:85e442fbbc32c850",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "AI 우려 딛고, 코스피 '상승'...삼성생명·DL이앤씨 '활짝'",
+   "source": "초이스경제",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CUzVwRlJyMXZSeGprWlBBb2g1eFRvS1NvX3hkWmdPOWN2NHZzdWVwc3UwWEZhUXh3anZvcm56WURiU2RobzN6Mm9hVDROQzhUbXZmak1aeWdhdzN5R1RGcU5ydXRPSkluSnFWTndUaFHSAXNBVV95cUxNcWJuR0VpWmdEX0lDN05YX3d6ME1aOGpjcVcyWmJieHN0dXNCTHpfX2JxRGg0bUpPaEFJMjBKZWpZU21kZHh4bjRscHcwWWdqejBaZHBzdGhTUzNvM1E4bmtUdkk2YkFsN0tHUG55OXItMFlz?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 07:20:18 GMT"
+  },
+  {
+   "id": "news:55ba94f51e132085",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 신한은행에 뺏긴 퇴직연금 '왕좌 탈환'…3개월 만에 역전",
+   "source": "미래경제",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUkJtS0pEcHY1WjREdjgxSVk3SlJnWl9vMFl4SFpGbXZrOV8xR2swdm14eHdXZDBwZjB4LUkzbDVrN2JTWUd6UEZhdzRCbmhBOG9TOFVEV1UteWkzYWs0RlZlZGFmcUZRRzk0Vg?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 07:30:00 GMT"
+  },
+  {
+   "id": "news:57dedec9b3545ef6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명은 2026년 베트남에서 가장 수익성이 높은 50대 기업에 선정되어 자랑스럽게 생각합니다.",
+   "source": "Vietnam.vn",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWJZWmJEbFRqR0NBZTMtQjE4ZEx2TG1JRWJwb2FCeE1wUkp1YklURDUtN3VPb29sUnVEZjRuLXRQLS1aNHd2Yjc5WFdpVXJoWF81QllfQmJaeE4taklDNVlpQm9vdFpaWk1JX3lQdGxMbDJPTkE4SlZXU1BzT3BYRmM2Z0c4NWQ1VUlKRWVuMnozT2E1bEtvbEEwMm0zLXpHOTY4?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 08:00:02 GMT"
+  },
+  {
+   "id": "news:c66afd2747b496d2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, '700종신' 판매중단에 신계약 CSM 감소 우려",
+   "source": "PRESS9",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUDUzOW5nRllIel96d2QtdXItQ1o5QzZuak0xNG9vQ05RZFpjUXJsRklpcGZBd2x0aUlvVUJZUjNSVTZudjViV0RjM0MxS0gydEMybXZTZTdFTU5OMjE1cHVvZWcwQQ?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 08:02:58 GMT"
+  },
+  {
+   "id": "news:379955a073bb1241",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중",
+   "source": "NSP통신",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12OU4yQ2U4cEN1MmtjZFBBbEtfLVdhZVhlNWVIS0FDc3BqODJOMnFPU1VvZEgzQ2E1eXN6OWQzd3NEMEFrSGxnb1phVEdlM1FyYWpYV09QQXlDTzNReGEwRA?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 11:39:25 GMT"
   }
  ],
  "initialized": true,
