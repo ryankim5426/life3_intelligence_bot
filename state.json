@@ -1976,7 +1976,9 @@
   "news:c66afd2747b496d2": 1792759716,
   "news:379955a073bb1241": 1792759716,
   "news:b53207e5cd30e8b2": 1792776724,
-  "news:85230f6bb66d0299": 1792776724
+  "news:85230f6bb66d0299": 1792776724,
+  "news:99c71121e62b0b51": 1792787904,
+  "news:60e2aef9f7b67dda": 1792787904
  },
  "stories": {
   "[9월 GA 생보사 실적 M/S] 유퍼스트, 동양생명 32% '1위' 등극...한화생명 17% '자리바꿈'": 1792535589,
@@ -2076,7 +2078,8 @@
   "한화생명, '700종신' 판매중단에 신계약 CSM 감소 우려": 1792759716,
   "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중": 1792759716,
   "한화생명 3분기 보험손익 증가에도 순손실 추정 : 다올투자증권 \"과거 판매한 변액종신 관련 헤지비용 증가\"": 1792776724,
-  "홍원학 삼성생명 퇴직연금 선두 굳히기, 고객 자산관리 초격차 위치 올라서나": 1792776724
+  "홍원학 삼성생명 퇴직연금 선두 굳히기, 고객 자산관리 초격차 위치 올라서나": 1792776724,
+  "[금융계 동향] 신한투자증권·Sh수협은행·교보생명": 1792787904
  },
  "news_queue": [
   {
@@ -2468,6 +2471,16 @@
    "date": "Fri, 23 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUG5TMGhQR3FvQkh2eTZQek1qTmtPM2trRWdBdE44VFdQWU9vTVFlanpZNW0zUzVORDItWnUzWWJxb3h3Tkg2Q01GR2tCU3dEVWpEZ1kyR1oxVklhdmxPZG55TmFzam1oQU9EbTQyM2Z6UkE?oc=5",
    "sort_key": "Fri, 23 Oct 2026 05:23:20 GMT"
+  },
+  {
+   "id": "news:60e2aef9f7b67dda",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융계 동향] 신한투자증권·Sh수협은행·교보생명",
+   "source": "민주신문",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVkR3TGJpaGx3OW9kbkVGal84aU5yblFsRS1Ib0tuYS1DTmJaSDByS3J0cmNuVlVxNlQ5X1Y5V1dfTlJzMXk3eHNnZWQwLU5LS2NYTGF4ZmtYR1BBVU1LNFJPM3pWbGxrR2xF0gFrQVVfeXFMTU5WRHdMYmlobHc5b2RuRUZqXzhpTnJuUWxFLUhvS25hLUNOYlpIMHJLcnRyY25WVXE2VDlfVjlXV19OUnMxeTd4c2dlZDAtTktLY1hMYXhma1hHUEFVTUs0Uk8zelZsbGtHbEU?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 06:54:33 GMT"
   }
  ],
  "initialized": true,
