@@ -1985,7 +1985,9 @@
   "news:87fb977a82ad203e": 1792807059,
   "news:c03940cbe9645793": 1792825823,
   "news:8f0f382e309282e4": 1792825823,
-  "news:5dca2df7341abc52": 1792825823
+  "news:5dca2df7341abc52": 1792825823,
+  "news:d11a2f6e454b1fba": 1792891733,
+  "news:95ff4a0a3bcaf0b6": 1792891733
  },
  "stories": {
   "삼성생명 5거래일 종가 7.3% 상승": 1792633089,
@@ -2049,18 +2051,7 @@
   "‘제카’ 17킬 폭발…한화생명, TES 23분 51초 만에 완파...23분 만에 스위스 1승.. : 스포츠": 1792798311,
   "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059
  },
- "news_queue": [
-  {
-   "id": "news:87fb977a82ad203e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠",
-   "source": "재경일보",
-   "date": "Fri, 23 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Va0dYbG5aV2NXcjI1V0lIeU9fMTNZOXg4VVZWZHNvT1M1dHVlLWc3czRQSTNxSU41a2VNcXZtUmlURExLdGNxQlZJRQ?oc=5",
-   "sort_key": "Fri, 23 Oct 2026 19:36:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-24"
+ "last_digest": "2026-10-25"
 }
