@@ -1995,11 +1995,10 @@
   "news:f4d9906e3ca715e4": 1792910635,
   "news:3b257d585557ef44": 1792929961,
   "news:83ab5b3ee1241447": 1792929961,
-  "news:bce681ad575809a4": 1792944742
+  "news:bce681ad575809a4": 1792944742,
+  "news:707d07d930d079ad": 1792964783
  },
  "stories": {
-  "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"": 1792702071,
-  "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]": 1792702071,
   "미래에셋자산운용 연금 1위…하나은행·삼성생명보험 2·3위": 1792712475,
   "다올證 “한화생명, 3분기 400억 적자 전망…목표가 14% 하향” - 조선비즈": 1792712475,
   "삼성생명 태국법인, 현지 최대 금융 엑스포 참가…영업 확대 박차": 1792712475,
@@ -2049,7 +2048,8 @@
   "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059,
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
   "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635,
-  "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742
+  "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
+  "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'": 1792964783
  },
  "news_queue": [
   {
@@ -2081,6 +2081,16 @@
    "date": "Sun, 25 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lZVpweXpJUGlBSTlOVkR5c3FlM0ZYdmxUaDd3NkFNbWYyWDlrMFlvVEg0S21Nb2pfVzBoMHpYY19wd29hMkNkbXFYY3V2VFNGc1VDUlNDeExoWmx1SHVNeDFpQmVUODNBTTE0UERBZ2Jsc0h4aHB4MUpEcTU?oc=5",
    "sort_key": "Sun, 25 Oct 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:707d07d930d079ad",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'",
+   "source": "소비자가 만드는 신문",
+   "date": "Sun, 25 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PZ1JLUFQ4c2ZLcWVhSm4xd0c5aWpwM2FOOThNVEtzVmhmdDRVOU1WSkU2MUp3RHlBN3R2djl2LTlOVVJ0OXZYM2NrWFJjQzd5ZE1hWV9RVGJPdk04T3g3c0JISUQ0bVN5QnFGVDcyaDNTQkk?oc=5",
+   "sort_key": "Sun, 25 Oct 2026 21:11:00 GMT"
   }
  ],
  "initialized": true,
