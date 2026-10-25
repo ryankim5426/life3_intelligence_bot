@@ -1987,14 +1987,14 @@
   "news:8f0f382e309282e4": 1792825823,
   "news:5dca2df7341abc52": 1792825823,
   "news:d11a2f6e454b1fba": 1792891733,
-  "news:95ff4a0a3bcaf0b6": 1792891733
+  "news:95ff4a0a3bcaf0b6": 1792891733,
+  "news:9ee4c6fd58bcd597": 1792910635,
+  "news:e2686eee572d03cb": 1792910635,
+  "news:fa77d2ba95a250ec": 1792910635,
+  "news:b3cc1ef9dc9915d1": 1792910635,
+  "news:f4d9906e3ca715e4": 1792910635
  },
  "stories": {
-  "삼성생명 5거래일 종가 7.3% 상승": 1792633089,
-  "'2년째 배당 제로' 한화생명, 3분기 적자 전망에 주가 와르르": 1792633089,
-  "3x3 대표팀에서 돌아온 삼성생명 최예슬, 장신라인업에서 역할은?": 1792650925,
-  "3점슛 좋아진 삼성생명 이예나, 포스트업이란?": 1792650925,
-  "[금융그룹 꾀하는 교보생명] ③ 교보생명, 전속FP 중심 영업에 '디지털 지원군' 가세": 1792650925,
   "삼성생명, DB형 퇴직연금 비보장 수익률 '마이너스'": 1792671881,
   "삼성생명 주가 3,500원 하락 후 장마감": 1792671881,
   "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”": 1792671881,
@@ -2049,9 +2049,32 @@
   "한화생명, TES 23분 만에 격파⋯1승0패조 합류": 1792798311,
   "여가에서 돌봄까지…삼성생명이 주목한 시니어 주거의 변화": 1792798311,
   "‘제카’ 17킬 폭발…한화생명, TES 23분 51초 만에 완파...23분 만에 스위스 1승.. : 스포츠": 1792798311,
-  "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059
+  "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059,
+  "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
+  "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:b3cc1ef9dc9915d1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고",
+   "source": "데이터투자",
+   "date": "Fri, 23 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdGE3OTZJNWhoSjlTbTJqSWdsTkpzOER6MXVPNkJkYTNCWm1LRTREYUpWM3U2TW1XLVJsakFZZlhkUEI2b2hiRk1DSDZYcU5XeThlN25KLXMyV0RNY3c2b2QwMU54YzdMRzRJY0Q3SWphZw?oc=5",
+   "sort_key": "Fri, 23 Oct 2026 08:35:07 GMT"
+  },
+  {
+   "id": "news:f4d9906e3ca715e4",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가",
+   "source": "FETV",
+   "date": "Sun, 25 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wTTZLQkRSWHdvZFRLTTBYNWdlanBlYjNDQzhtWDZvOWhDQTlTcVZOUWkxRUt0d0o2eVF0dFhIdVphYTkxZzZOdEl5ME1GSlFDV3NmWHpBNkZ2ZXFPM29KV2J5aS1tWXVE?oc=5",
+   "sort_key": "Sun, 25 Oct 2026 03:00:00 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-25"
 }
