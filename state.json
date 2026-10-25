@@ -1994,15 +1994,10 @@
   "news:b3cc1ef9dc9915d1": 1792910635,
   "news:f4d9906e3ca715e4": 1792910635,
   "news:3b257d585557ef44": 1792929961,
-  "news:83ab5b3ee1241447": 1792929961
+  "news:83ab5b3ee1241447": 1792929961,
+  "news:bce681ad575809a4": 1792944742
  },
  "stories": {
-  "삼성생명, DB형 퇴직연금 비보장 수익률 '마이너스'": 1792671881,
-  "삼성생명 주가 3,500원 하락 후 장마감": 1792671881,
-  "삼성생명 유하은 “수비와 파이팅 넘치는 플레이 보여주겠다”": 1792671881,
-  "[22일 마감시황] 코스피 3.52% 급락…에이플러스에셋 '이틀 연속 상승' 3.64%↑· 한화생명 4.52%": 1792671881,
-  "쿠팡풀필먼트서비스 공개채용·현대차그룹 공모전·교보생명 장학 사업...청년 인재 양성 및 미래 역량 강화 '눈길'": 1792671881,
-  "삼성생명, 퇴직연금 1위 탈환... 안정적 자금운용이 이끈 역전": 1792671881,
   "[포커스] 준비금 1.4조 늘어난 삼성생명 \"주주환원율 50% 달성 위하여\"": 1792702071,
   "韓·中 최강 격돌…BLG, 승자조 3라운드서 한화생명 만난다 [MSI]": 1792702071,
   "미래에셋자산운용 연금 1위…하나은행·삼성생명보험 2·3위": 1792712475,
@@ -2053,7 +2048,8 @@
   "‘제카’ 17킬 폭발…한화생명, TES 23분 51초 만에 완파...23분 만에 스위스 1승.. : 스포츠": 1792798311,
   "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059,
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
-  "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635
+  "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635,
+  "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742
  },
  "news_queue": [
   {
@@ -2075,6 +2071,16 @@
    "date": "Sun, 25 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wTTZLQkRSWHdvZFRLTTBYNWdlanBlYjNDQzhtWDZvOWhDQTlTcVZOUWkxRUt0d0o2eVF0dFhIdVphYTkxZzZOdEl5ME1GSlFDV3NmWHpBNkZ2ZXFPM29KV2J5aS1tWXVE?oc=5",
    "sort_key": "Sun, 25 Oct 2026 03:00:00 GMT"
+  },
+  {
+   "id": "news:bce681ad575809a4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]",
+   "source": "한국금융신문",
+   "date": "Sun, 25 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lZVpweXpJUGlBSTlOVkR5c3FlM0ZYdmxUaDd3NkFNbWYyWDlrMFlvVEg0S21Nb2pfVzBoMHpYY19wd29hMkNkbXFYY3V2VFNGc1VDUlNDeExoWmx1SHVNeDFpQmVUODNBTTE0UERBZ2Jsc0h4aHB4MUpEcTU?oc=5",
+   "sort_key": "Sun, 25 Oct 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
