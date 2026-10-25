@@ -1996,7 +1996,8 @@
   "news:3b257d585557ef44": 1792929961,
   "news:83ab5b3ee1241447": 1792929961,
   "news:bce681ad575809a4": 1792944742,
-  "news:707d07d930d079ad": 1792964783
+  "news:707d07d930d079ad": 1792964783,
+  "news:8243bc291074f50f": 1792971444
  },
  "stories": {
   "미래에셋자산운용 연금 1위…하나은행·삼성생명보험 2·3위": 1792712475,
@@ -2049,50 +2050,10 @@
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
   "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635,
   "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
-  "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'": 1792964783
+  "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'": 1792964783,
+  "2년째 '배당 0원' 한화생명, 밸류업 계획도 \"미정\"": 1792971444
  },
- "news_queue": [
-  {
-   "id": "news:b3cc1ef9dc9915d1",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고",
-   "source": "데이터투자",
-   "date": "Fri, 23 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdGE3OTZJNWhoSjlTbTJqSWdsTkpzOER6MXVPNkJkYTNCWm1LRTREYUpWM3U2TW1XLVJsakFZZlhkUEI2b2hiRk1DSDZYcU5XeThlN25KLXMyV0RNY3c2b2QwMU54YzdMRzRJY0Q3SWphZw?oc=5",
-   "sort_key": "Fri, 23 Oct 2026 08:35:07 GMT"
-  },
-  {
-   "id": "news:f4d9906e3ca715e4",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가",
-   "source": "FETV",
-   "date": "Sun, 25 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wTTZLQkRSWHdvZFRLTTBYNWdlanBlYjNDQzhtWDZvOWhDQTlTcVZOUWkxRUt0d0o2eVF0dFhIdVphYTkxZzZOdEl5ME1GSlFDV3NmWHpBNkZ2ZXFPM29KV2J5aS1tWXVE?oc=5",
-   "sort_key": "Sun, 25 Oct 2026 03:00:00 GMT"
-  },
-  {
-   "id": "news:bce681ad575809a4",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]",
-   "source": "한국금융신문",
-   "date": "Sun, 25 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lZVpweXpJUGlBSTlOVkR5c3FlM0ZYdmxUaDd3NkFNbWYyWDlrMFlvVEg0S21Nb2pfVzBoMHpYY19wd29hMkNkbXFYY3V2VFNGc1VDUlNDeExoWmx1SHVNeDFpQmVUODNBTTE0UERBZ2Jsc0h4aHB4MUpEcTU?oc=5",
-   "sort_key": "Sun, 25 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "id": "news:707d07d930d079ad",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'",
-   "source": "소비자가 만드는 신문",
-   "date": "Sun, 25 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PZ1JLUFQ4c2ZLcWVhSm4xd0c5aWpwM2FOOThNVEtzVmhmdDRVOU1WSkU2MUp3RHlBN3R2djl2LTlOVVJ0OXZYM2NrWFJjQzd5ZE1hWV9RVGJPdk04T3g3c0JISUQ0bVN5QnFGVDcyaDNTQkk?oc=5",
-   "sort_key": "Sun, 25 Oct 2026 21:11:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-25"
+ "last_digest": "2026-10-26"
 }
