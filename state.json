@@ -1997,12 +1997,12 @@
   "news:83ab5b3ee1241447": 1792929961,
   "news:bce681ad575809a4": 1792944742,
   "news:707d07d930d079ad": 1792964783,
-  "news:8243bc291074f50f": 1792971444
+  "news:8243bc291074f50f": 1792971444,
+  "news:dc48c8ff2d02eec3": 1792979038,
+  "news:57555f98b18601da": 1792979038,
+  "news:7619c4875d5de5fe": 1792979038
  },
  "stories": {
-  "미래에셋자산운용 연금 1위…하나은행·삼성생명보험 2·3위": 1792712475,
-  "다올證 “한화생명, 3분기 400억 적자 전망…목표가 14% 하향” - 조선비즈": 1792712475,
-  "삼성생명 태국법인, 현지 최대 금융 엑스포 참가…영업 확대 박차": 1792712475,
   "\"제휴 혜택은 거들 뿐, 내 연금 키워줄 통합 라운지가 왔다\"… 삼성생명 'SSUM 라운지' 전면 개편": 1792720902,
   "연금·투자 콘텐츠 한곳에…삼성생명, 퇴직연금 앱 ‘썸라운지’ 개편": 1792720902,
   "교보생명, 2시간 이내 보험금 지급…'가장 빠르게'": 1792720902,
@@ -2051,9 +2051,43 @@
   "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635,
   "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
   "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'": 1792964783,
-  "2년째 '배당 0원' 한화생명, 밸류업 계획도 \"미정\"": 1792971444
+  "2년째 '배당 0원' 한화생명, 밸류업 계획도 \"미정\"": 1792971444,
+  "[머니 취향템 연구소] 손주 미래까지 설계하는 종신보험…교보생명 '손주사랑포에버'": 1792979038,
+  "[장중수급포착] 삼성생명, 기관 6일 연속 순매수행진... 주가 +1.63%": 1792979038,
+  "삼성생명, 웅진프리드라이프와 업무협약 맞손...온라인 '서비스' 관심도↑": 1792979038
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:dc48c8ff2d02eec3",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[머니 취향템 연구소] 손주 미래까지 설계하는 종신보험…교보생명 '손주사랑포에버'",
+   "source": "딜사이트",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hbl9XdnZKMUNIMldPZ3NmQnItTTlqRzMxVGVBSllxNUNwMXd3UVFLT21LMHk2dUhadXdBdlRTd0JieDdLbktzZEpFOENXNmc?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:57555f98b18601da",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[장중수급포착] 삼성생명, 기관 6일 연속 순매수행진... 주가 +1.63%",
+   "source": "뉴스핌",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RZUp6cVB3a3dic2FON0dlVFBmXzBqQjd4Xzc1NFBOZlpvVW05YTVJQmJOMks3aFdRTHZLUXNBR1pwQ1o2VzAzbXczTWFYejg5cURJLXZWQ296WTJF?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 01:15:00 GMT"
+  },
+  {
+   "id": "news:7619c4875d5de5fe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 웅진프리드라이프와 업무협약 맞손...온라인 '서비스' 관심도↑",
+   "source": "빅데이터뉴스",
+   "date": "Sun, 25 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zYW5YN1VOOC13S2JmUHlVN0J4VjFLQVlucmlfUWlWYTZ0anNncnJqSVQ2SzExZXVXVlk4RjN5X3luWVd0TnlWSTVIRXVUVFBkNkRFQW1SbkZ0ZWN6U2xzLUxPelAyY2Nia1Z1LXFld2Itb0Zpc3lKNnpWTno?oc=5",
+   "sort_key": "Sun, 25 Oct 2026 23:11:31 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-26"
 }
