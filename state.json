@@ -2008,30 +2008,14 @@
   "news:18d254904739d7a2": 1792998295,
   "news:99c8e458f3b06575": 1792998295,
   "news:e97dd35f75f8c7a3": 1792998295,
-  "news:3742dbeab8d69cd6": 1792998295
+  "news:3742dbeab8d69cd6": 1792998295,
+  "news:3f51d669b3bb5af2": 1793023967,
+  "news:895ca6b6574ad7f1": 1793023967,
+  "news:91ceb7a6d8e386a8": 1793023967,
+  "news:c32ff9722d5ad00b": 1793023967,
+  "news:427c1fbadfdd9311": 1793023967
  },
  "stories": {
-  "삼성생명, 통합 연금 라운지로 ‘SSUM 라운지’ 새 단장": 1792740359,
-  "교보생명, 상반기 보험금 지급속도 생보업계 1위": 1792740359,
-  "다올證 \"한화생명, 투자손익 발목…주력 상품은 공백\"": 1792740359,
-  "삼성생명, 퇴직연금 가입자 투자·연금 정보 서비스 강화": 1792740359,
-  "전환위 가동 애큐온…한화생명 편입 앞둔 김희상號 수익 회복 '먹구름'": 1792740359,
-  "[뉴스락 주식네비] 한화생명, 헤지비용·환산손실에 3Q 적자 전망… 보험손익은 회복": 1792740359,
-  "보험금 빨리 주는 교보생명…청구부터 송금까지 바꾼 세 가지": 1792740359,
-  "교보생명, 보험금 지급 속도 '생보업계 탑티어'...신창재 의장의 '고객 동행철학' 맞닿아": 1792740359,
-  "우리은행, 사회적경제기업 10곳 지원…교보생명, 보험금 신속지급 생보업계 1위 [금융오늘]": 1792740359,
-  "보험금 지급 가장 빠른 생보사는 교보생명": 1792740359,
-  "보험금 지급까지 약 2시간…교보생명, AI로 처리시간 단축": 1792740359,
-  "[보험사 풍향계] “보험금 지급까지 2시간”...교보생명, 업계 최단 기록 外": 1792740359,
-  "[보험 NOW] 교보생명·농협생명·삼성생명·신한라이프": 1792740359,
-  "웅진프리드·삼성생명 협력에 상조업계 '지각 변동' 가속화": 1792740359,
-  "\"아플 때 필요한 보험금 더 빨리\"…교보생명, AI로 평균 2시간 만에 지급": 1792740359,
-  "[금융계 동향] 현대카드·NH농협은행·삼성생명": 1792759716,
-  "AI 우려 딛고, 코스피 '상승'...삼성생명·DL이앤씨 '활짝'": 1792759716,
-  "삼성생명, 신한은행에 뺏긴 퇴직연금 '왕좌 탈환'…3개월 만에 역전": 1792759716,
-  "한화생명은 2026년 베트남에서 가장 수익성이 높은 50대 기업에 선정되어 자랑스럽게 생각합니다.": 1792759716,
-  "한화생명, '700종신' 판매중단에 신계약 CSM 감소 우려": 1792759716,
-  "교보생명, SBI저축은행 지분 구조 유지 속 자산운용 부문 투자 집중": 1792759716,
   "한화생명 3분기 보험손익 증가에도 순손실 추정 : 다올투자증권 \"과거 판매한 변액종신 관련 헤지비용 증가\"": 1792776724,
   "홍원학 삼성생명 퇴직연금 선두 굳히기, 고객 자산관리 초격차 위치 올라서나": 1792776724,
   "[금융계 동향] 신한투자증권·Sh수협은행·교보생명": 1792787904,
@@ -2054,7 +2038,12 @@
   "루키가 본 한화생명 공격성은 'LPL 팀 같은 느낌'…IG, 2승 1패로 4라운드행": 1792998295,
   "한화생명 베트남, '2026 베트남 50대 우수 수익 기업' 선정... 7년 연속 PROFIT500 등재": 1792998295,
   "한화생명 베트남법인, 현지 '수익성 우수 50대 기업' 첫 선정": 1792998295,
-  "한화생명 주가 25원 하락 후 장마감": 1792998295
+  "한화생명 주가 25원 하락 후 장마감": 1792998295,
+  "\"슈퍼 위크\", 코스피 '하락'...삼성생명 '선방', 우리금융 '3만원 깨져'": 1793023967,
+  "한화생명 3분기 ‘적자’ 전망에도…다올證 “장기적으로 봐야 할 이유 있다”": 1793023967,
+  "한 달 새 영업익 전망 2배 '껑충'…석 달간 20% 빠진 삼성생명, 반등 나설까": 1793023967,
+  "삼성물산, 최대주주 이재용 등 주식 1724주 증가…삼성생명보험(특별계정) 장내매수 영향": 1793023967,
+  "[생보사 3Q 실적 프리뷰] 한화생명, 투자손실에 3Q 적자 전망…보험손익은 회복": 1793023967
  },
  "news_queue": [
   {
@@ -2166,6 +2155,56 @@
    "date": "Mon, 26 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jQ3gyOEd2bzMtckl3X0lIbENjdElPZGhtUE1sT1o1YjhNWi1zWUxFelJ5UjlxczgtZlNrWEl3Q0o0Z2QwZFlBRmdlS2lkODc5NGVJQXppaDg1SjFx?oc=5",
    "sort_key": "Mon, 26 Oct 2026 06:54:50 GMT"
+  },
+  {
+   "id": "news:3f51d669b3bb5af2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "\"슈퍼 위크\", 코스피 '하락'...삼성생명 '선방', 우리금융 '3만원 깨져'",
+   "source": "초이스경제",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqUEtTRFhOcmpJRjhvcV9kMmNEZHZkQUZSSWEweHYyQU5GWVp0THVPems4MlRrQVpPRFUtcFVKeUdFbEo3Ul8tTUtZMUFIMmliR1RLSmZOSmNfTE5YVWNLOTBFcWw5bDRVWWJTTTRSWHM?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 07:17:04 GMT"
+  },
+  {
+   "id": "news:895ca6b6574ad7f1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 3분기 ‘적자’ 전망에도…다올證 “장기적으로 봐야 할 이유 있다”",
+   "source": "S저널",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TdFpkZUtVX0hFQmthQjliM0RZWk4ybUdZVW1RNUltbEprNzhIRmMzRUJmazk2N2kwRHNXWDN0akFiVmN1SHlaZ05aVGtkSlRxTkd3Mkh3YWVENGtZUUttRFpCMkdaZG1jbFlhdThR?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 08:21:44 GMT"
+  },
+  {
+   "id": "news:91ceb7a6d8e386a8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "한 달 새 영업익 전망 2배 '껑충'…석 달간 20% 빠진 삼성생명, 반등 나설까",
+   "source": "이투데이",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fdUg5bFVIN0RTNW9qVHMtT3RiVVhuYW1WUlFLc0Y0Y3RJMXdSVm9EV25BMkxTbUdvdnJSOHVOQW9YSlZmczlCU1FDcWlrcHNnQVkyeQ?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 09:00:00 GMT"
+  },
+  {
+   "id": "news:c32ff9722d5ad00b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성물산, 최대주주 이재용 등 주식 1724주 증가…삼성생명보험(특별계정) 장내매수 영향",
+   "source": "디지털투데이",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kZTVzRHhRZE11ZFJMMlVSSklYVl92eVZVTm12N08yb0VpNFpfWl9ETkdGTXp3V19UVUE3M3Q0b1FaOVRoOVFQZ0xsTkRuUmlBSDlFakpPb3NJdkxmMzBwcmdOUmh2cDZPanNGQ1c0aU5ZS0NUS2pkTUQ4aw?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 09:02:04 GMT"
+  },
+  {
+   "id": "news:427c1fbadfdd9311",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[생보사 3Q 실적 프리뷰] 한화생명, 투자손실에 3Q 적자 전망…보험손익은 회복",
+   "source": "한국금융경제신문",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPN1kzb3R0VTdzdUpkMEd1c3FpUmJxZ29Pd19VR01zQmU4RUtfYkV1MWJyY2ctTnRRNTNFcEhnSDNSTHZoWVFmN1dUaVc3bWpaZjVCNWd5R2Y4cUtLSjZQbzVsaFpndm80NUF6ZkhGSm7SAXBBVV95cUxQTzdZM290dFU3c3VKZDBHdXNxaVJicWdvT3dfVUdNc0JlOEVLX2JFdTFicmNnLU50UTUzRXBIZ0gzUkx2aFlRZjdXVGlXN21qWmY1QjVneUdmOHFLS0o2UG81bGhaZ3ZvNDVBemZIRkpu?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 11:46:49 GMT"
   }
  ],
  "initialized": true,
