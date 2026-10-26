@@ -2000,25 +2000,17 @@
   "news:8243bc291074f50f": 1792971444,
   "news:dc48c8ff2d02eec3": 1792979038,
   "news:57555f98b18601da": 1792979038,
-  "news:7619c4875d5de5fe": 1792979038
+  "news:7619c4875d5de5fe": 1792979038,
+  "news:c6503de005317554": 1792998295,
+  "news:eefd5a326b8180ce": 1792998295,
+  "news:a160f313658d6a54": 1792998295,
+  "news:5ead8f19f5baf2f7": 1792998295,
+  "news:18d254904739d7a2": 1792998295,
+  "news:99c8e458f3b06575": 1792998295,
+  "news:e97dd35f75f8c7a3": 1792998295,
+  "news:3742dbeab8d69cd6": 1792998295
  },
  "stories": {
-  "\"제휴 혜택은 거들 뿐, 내 연금 키워줄 통합 라운지가 왔다\"… 삼성생명 'SSUM 라운지' 전면 개편": 1792720902,
-  "연금·투자 콘텐츠 한곳에…삼성생명, 퇴직연금 앱 ‘썸라운지’ 개편": 1792720902,
-  "교보생명, 2시간 이내 보험금 지급…'가장 빠르게'": 1792720902,
-  "삼성생명, 퇴직연금 부가서비스 앱 SSUM 라운지 개편": 1792720902,
-  "교보생명, 보험금 지급 업계 평균보다 3배 빨라…신창재 고객보장 의지": 1792720902,
-  "'지급까지 단 2시간' 교보생명, AI·OCR로 생보사 지급 속도 1위": 1792720902,
-  "교보생명, 보험금 지급 평균 2시간…업계 1위": 1792720902,
-  "[리포트 브리핑]한화생명, '과거와 미래 그리고 긴 호흡적 접근' 목표가 6,000원 - 다올투자증권": 1792720902,
-  "삼성생명 ‘퇴직연금 앱’ 전면 개편…혜택 멤버십서 연금·투자 정보 플랫폼으로": 1792720902,
-  "삼성생명, 퇴직연금 앱 개편…시장 지표·투자정보 한곳에": 1792720902,
-  "교보생명, AI활용 '보험금 신속지급’ 평균 0.24일": 1792720902,
-  "교보생명, AI로 보험금 지급 속도 높였다…생보업계 최단 기록": 1792720902,
-  "교보생명, 보험금 지급까지 2시간…생보업계 가장 빨라": 1792720902,
-  "[키-리포트] 다올 \"한화생명, 부진한 실적 전망…목표가↓\"": 1792720902,
-  "[최환열 칼럼] 대기업 보호정책과 삼성생명법": 1792720902,
-  "보험업계 해외실적 견인한 한화생명...사회공헌도 글로벌 현지 맞춤형 전략 주효": 1792720902,
   "삼성생명, 통합 연금 라운지로 ‘SSUM 라운지’ 새 단장": 1792740359,
   "교보생명, 상반기 보험금 지급속도 생보업계 1위": 1792740359,
   "다올證 \"한화생명, 투자손익 발목…주력 상품은 공백\"": 1792740359,
@@ -2054,7 +2046,15 @@
   "2년째 '배당 0원' 한화생명, 밸류업 계획도 \"미정\"": 1792971444,
   "[머니 취향템 연구소] 손주 미래까지 설계하는 종신보험…교보생명 '손주사랑포에버'": 1792979038,
   "[장중수급포착] 삼성생명, 기관 6일 연속 순매수행진... 주가 +1.63%": 1792979038,
-  "삼성생명, 웅진프리드라이프와 업무협약 맞손...온라인 '서비스' 관심도↑": 1792979038
+  "삼성생명, 웅진프리드라이프와 업무협약 맞손...온라인 '서비스' 관심도↑": 1792979038,
+  "[파이낸스워치] 증시 급락에 퇴직연금 11조원 감소…DB형 선방 속 삼성생명·NH증권 두각": 1792998295,
+  "홍원학 삼성생명 대표, 역대급 실적에도 연임 안갯속···발목 잡은 보험 본업": 1792998295,
+  "[심층분석] 교보생명, 계약유지율·CSM 동반 '점프'…초고령화 시대 뚫은 '실버 케어' 결실": 1792998295,
+  "삼성생명, 시니어 중심 상품·서비스 재편 '가속'...\"초고령화 사회 든든한 노후 버팀목 구축\"": 1792998295,
+  "루키가 본 한화생명 공격성은 'LPL 팀 같은 느낌'…IG, 2승 1패로 4라운드행": 1792998295,
+  "한화생명 베트남, '2026 베트남 50대 우수 수익 기업' 선정... 7년 연속 PROFIT500 등재": 1792998295,
+  "한화생명 베트남법인, 현지 '수익성 우수 50대 기업' 첫 선정": 1792998295,
+  "한화생명 주가 25원 하락 후 장마감": 1792998295
  },
  "news_queue": [
   {
@@ -2086,6 +2086,86 @@
    "date": "Sun, 25 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zYW5YN1VOOC13S2JmUHlVN0J4VjFLQVlucmlfUWlWYTZ0anNncnJqSVQ2SzExZXVXVlk4RjN5X3luWVd0TnlWSTVIRXVUVFBkNkRFQW1SbkZ0ZWN6U2xzLUxPelAyY2Nia1Z1LXFld2Itb0Zpc3lKNnpWTno?oc=5",
    "sort_key": "Sun, 25 Oct 2026 23:11:31 GMT"
+  },
+  {
+   "id": "news:c6503de005317554",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[파이낸스워치] 증시 급락에 퇴직연금 11조원 감소…DB형 선방 속 삼성생명·NH증권 두각",
+   "source": "이코노미트리뷴",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ubnlDU2pZZDdmNldBQm1oeC1XSWQxVTdGaE5YLWt1N29RdElaX3dPRTVPdGYwbC1wX202bS1uLTBRWWN6VlNIUEg1MDJZaWVWWG4wV2JsMzRoOGF5TEJVdkowZGN5MGZmSVk2NlcwOHROMVdPdnJj?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 01:36:41 GMT"
+  },
+  {
+   "id": "news:eefd5a326b8180ce",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "홍원학 삼성생명 대표, 역대급 실적에도 연임 안갯속···발목 잡은 보험 본업",
+   "source": "스마트비즈",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsUEFYb0lzTzJzVzg3ZzBSYU1qd0VoMjJvSExUTkhmU3FLcGxhUDJMT3ZkV2d5RDlSTmNOQVVSWE1VaXZ2cTBQaldrNGFVMnc1Mkhib0ppdm1LRUJKbHFFUXUxZDJsdUVLb2xqaw?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 02:04:03 GMT"
+  },
+  {
+   "id": "news:a160f313658d6a54",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[심층분석] 교보생명, 계약유지율·CSM 동반 '점프'…초고령화 시대 뚫은 '실버 케어' 결실",
+   "source": "굿모닝경제",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uSzhEbURsaW1ZOU93WVJHenRfZkZVNTBsSVJtdE01VTZjVjdOVXY0SjdHYjBDTXBIeHJkbGhUYkhVeGx6V2JYUGotc3BWTHJ4RDlJOWdyRFFUcC1FV2ViaUpwUTRTSjVzTWdCUg?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 02:12:31 GMT"
+  },
+  {
+   "id": "news:5ead8f19f5baf2f7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 시니어 중심 상품·서비스 재편 '가속'...\"초고령화 사회 든든한 노후 버팀목 구축\"",
+   "source": "녹색경제신문",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYU1qUWdGbGdzMGNJczRNMS1xYkoxR3BNS2xMVDhoV1hYOW1paGt6X3luQkFhd0luamJsZURyVzE4LVdwalFsV1lHVWpJVDFkcWFhclpMRjFMbXVsalZRaE15eTBxZjlX?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 02:47:00 GMT"
+  },
+  {
+   "id": "news:18d254904739d7a2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "루키가 본 한화생명 공격성은 'LPL 팀 같은 느낌'…IG, 2승 1패로 4라운드행",
+   "source": "위키트리",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DWDdjdmV5Ynd3WTNsMkxON2QwQV96cUxxSGZyYm12UW5ib0poajN5M0R4bDBhTWR5U2UxbnNTLW1UM1JqU2RsVS1KZUlBWC11SUNRTURB?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 03:59:00 GMT"
+  },
+  {
+   "id": "news:99c8e458f3b06575",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 베트남, '2026 베트남 50대 우수 수익 기업' 선정... 7년 연속 PROFIT500 등재",
+   "source": "파이낸셜뉴스",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92QXVnMnhRS01TZmFLSXhrNUl6bFhfN3hLRjV5aXNqcEF1V18tS3U5dVNaYWhrR0xwakRzVUtlZE9xbnlIaVZWUWpkTkJmUmNWNTZiTFFmaVkyQQ?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 04:24:26 GMT"
+  },
+  {
+   "id": "news:e97dd35f75f8c7a3",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 베트남법인, 현지 '수익성 우수 50대 기업' 첫 선정",
+   "source": "더구루",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVNUZnYThpTUFNbUVEODZBUW1NX0RQazM1MGFibXhqQnl1ZEVRUFFIVmVZOGlHaDVqZ2stU2FwQnRRWU10bGlvWDFQa2lYN25yRVNHVW9VQUdwUFNtZGc?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 05:27:38 GMT"
+  },
+  {
+   "id": "news:3742dbeab8d69cd6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 25원 하락 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jQ3gyOEd2bzMtckl3X0lIbENjdElPZGhtUE1sT1o1YjhNWi1zWUxFelJ5UjlxczgtZlNrWEl3Q0o0Z2QwZFlBRmdlS2lkODc5NGVJQXppaDg1SjFx?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 06:54:50 GMT"
   }
  ],
  "initialized": true,
