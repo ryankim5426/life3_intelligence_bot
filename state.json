@@ -2016,10 +2016,23 @@
   "news:427c1fbadfdd9311": 1793023967,
   "news:585ffb509139d480": 1793058392,
   "news:61552d35ef7b056b": 1793058392,
-  "news:7ff10f877408049e": 1793058392
+  "news:7ff10f877408049e": 1793058392,
+  "news:edb0258783b42046": 1793068121,
+  "news:fe1d521d55670d79": 1793068121,
+  "news:8bfa76696c72f68f": 1793068121,
+  "news:b86f492f2572446a": 1793068121,
+  "news:3456d37fb937ccc7": 1793068121,
+  "news:9c5a95bd25ee47b4": 1793068121,
+  "news:58971b3b0b1ce759": 1793068121,
+  "news:5264d47489618f80": 1793068121,
+  "news:e40948e98c067807": 1793068121,
+  "news:4082c56b1e2acff7": 1793068121,
+  "news:ac8a829548e49b7b": 1793068121,
+  "news:3556f9c77c190d8e": 1793068121,
+  "news:7d105d3b3f8296c9": 1793068121,
+  "news:bbb646a5141c077a": 1793068121
  },
  "stories": {
-  "한화생명, 제카 18킬 앞세워 TES 23분 만에 제압 : 스포츠": 1792807059,
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
   "[이달의 신상품] 삼성생명, ‘시니어건강보험’ 개정…폐렴 보장 추가": 1792910635,
   "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
@@ -2043,9 +2056,164 @@
   "[생보사 3Q 실적 프리뷰] 한화생명, 투자손실에 3Q 적자 전망…보험손익은 회복": 1793023967,
   "한화생명 인니 자회사 노부은행, 590억 규모 대출 지원 발표": 1793058392,
   "신창재 '페이스메이커' 철학…교보생명, 보험금 지급·안내 강화": 1793058392,
-  "삼성생명, 퇴직연금 앱 ‘SSUM 라운지’ 개편…연금·투자 콘텐츠 강화": 1793058392
+  "삼성생명, 퇴직연금 앱 ‘SSUM 라운지’ 개편…연금·투자 콘텐츠 강화": 1793058392,
+  "삼성생명, 15억 달러 규모 채권 발행…조건서서 확인": 1793068121,
+  "교보생명, 영등포 보건소에 스마일 턱받이 전달…기도폐쇄 응급처치법 담아": 1793068121,
+  "삼성생명, 2조원 규모 해외 신종자본증권 발행…금리 6.875%": 1793068121,
+  "[포토] 교보생명, 임산부의 날 맞아 ‘스마일 턱받이’ 전달": 1793068121,
+  "인니 IBK기업은행·한화생명 계열 은행, 유통주식 비율 7%대 그쳐…현지 당국 \"15%까지 늘려야\"": 1793068121,
+  "아기 목에 음식 걸렸을 때 어떻게?…교보생명, 응급처치 턱받이 기부": 1793068121,
+  "삼성생명, 해외 신종자본증권 2조 발행…자본 확충 속도": 1793068121,
+  "삼성생명, 15억弗 규모 신종자본증권 발행…운영자금 사용": 1793068121,
+  "“석탄 사업에 보험·투자 중단해야”…삼성화재·삼성생명에 공동 서한": 1793068121,
+  "삼성생명, '국내 보험업계 최대' 15억달러 해외 신종자본증권 발행…연 6.875% 확정": 1793068121,
+  "미래에셋생명 3%대 상승…삼성생명·한화생명 동반 강세": 1793068121,
+  "교보생명, 영아 응급처치법 담은 턱받이 880개 영등포구에 기부": 1793068121,
+  "청년채용 앞장 교보생명·케이뱅크 금융위원장 표창": 1793068121,
+  "교보생명, 영등포구 임산부 가정에 ‘응급처치 표기’ 턱받이 전달": 1793068121
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:edb0258783b42046",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 15억 달러 규모 채권 발행…조건서서 확인",
+   "source": "TradingView",
+   "date": "Mon, 26 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhVjFuOXpnYnF5MW92MnpnamJEak1mRE91R29yZUZ2akdtRzFlVTk5QmRid3dmMWttbzV1RVZqLUFLaUdJcmxZLWJ4dEZpRDVwWEc5NVFyTFptZG9qZEdzcHczVklOVVo5bEk3WVpHSS1PUmJlRWlv?oc=5",
+   "sort_key": "Mon, 26 Oct 2026 17:13:46 GMT"
+  },
+  {
+   "id": "news:fe1d521d55670d79",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 영등포 보건소에 스마일 턱받이 전달…기도폐쇄 응급처치법 담아",
+   "source": "전자신문",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HeFJ3aGxpTC1VdkQ2WFEzR2N4WDRhaUtub1UyZ2c3UThJNms3UTFheFNyeGcwQlJzLUYya1FXeUNUbGVOYzlRNVVZX0NaUQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:20:22 GMT"
+  },
+  {
+   "id": "news:8bfa76696c72f68f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 2조원 규모 해외 신종자본증권 발행…금리 6.875%",
+   "source": "연합인포맥스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1leTBWU2NvVE1RWWtCQjhzekZlOE1ha2VvcjNoeWZnLXRoN0FEb0RFc3RDb0RNNE9DTWtiM3g3OTg4YWxxbWdNWE80R0l3TTFCTHA5T25VZzhCaFNzMWZUNkZGSzg3R2xfaGRaQWUzeGnSAXRBVV95cUxQSl8xbUh5WkNSLTJ6SVNtcGI3RklFSm1rLWhSbjVOYlhEUG5BUkRqcGJHWGFYR2p2M0FhNVJrdEJKOXFodWI3QnpOcXpUUG1hZEpUTEE0TTdSOXJXRENWZ01kUzNQci1QOGduSll4dWZzOUNLdw?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:27:15 GMT"
+  },
+  {
+   "id": "news:b86f492f2572446a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[포토] 교보생명, 임산부의 날 맞아 ‘스마일 턱받이’ 전달",
+   "source": "FETV",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jOV9Wd3ozQjMxaXh0Skd4T0hZQXhyOEE5QW1CejlaX0lHcjVkZG5qQk9PX3pwcEdnMEZiZ25vZ2VqQThWeGlyYXlxTlB2bnZfZlc3X2g4VlB0STJSSG9HeGlnWEljTlct?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:28:16 GMT"
+  },
+  {
+   "id": "news:3456d37fb937ccc7",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "인니 IBK기업은행·한화생명 계열 은행, 유통주식 비율 7%대 그쳐…현지 당국 \"15%까지 늘려야\"",
+   "source": "더구루",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxRnlZLUlLbkJhR2J5WUVFVzgtNjlleHF0eVBIYnNHaGwyNUYtZEJVNWkxbUNrS0hmbkVjUmlkQTVOMVpFalhQZjhYczdTOF85SGVvSW92VlRJZllQQWc?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:38:22 GMT"
+  },
+  {
+   "id": "news:9c5a95bd25ee47b4",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "아기 목에 음식 걸렸을 때 어떻게?…교보생명, 응급처치 턱받이 기부",
+   "source": "매경헬스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MlEzd2xpczdUNXd6UHIyLUxUSS10bDBwZ3dHT0VRQTVpYUNpT21GT0JydVlSaHVaU3IzYVJEdE9Td05rWUoycF9ZNERMaGJsZjdfSkpzN1dibzVRSmQ1TnotX1FQNlktRlRkYg?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:48:30 GMT"
+  },
+  {
+   "id": "news:58971b3b0b1ce759",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 해외 신종자본증권 2조 발행…자본 확충 속도",
+   "source": "ER 이코노믹리뷰",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRV9QbDRrN09BY0V2dUxRNlV6VUFVemFndURFLWVmTWtBUGNzTklHb3JVcnZOd1JtbU5vZ3d2NE5NdFZLRmxucFdXdmo1aWd1QzNfc191WjQ5V1k4cTlTWDlXRExBQUY5a3JGRw?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:58:49 GMT"
+  },
+  {
+   "id": "news:5264d47489618f80",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 15억弗 규모 신종자본증권 발행…운영자금 사용",
+   "source": "중앙신문",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTHFLSDM0T2g3M3BzMkREcm82cV9fVlEtOERIZktmTUQ1TFk3ZmRjcHYtTzB4RTgtV2tWeE9vWEVvcHhIWER3akVGbGh4LVJrUTcxYWhEYmQwU2ZwTFJKVzM1U2xZRTlMekt1VTlBWURVcTVPSWRIcEtXTTVlTW9Tc0hGSnl4ZnpBc1JlVXVhUE5hbDd2LUg0ME1fcWNWalc2cGw5WDVOLUg2OFNEaUxTSkQtSTltbUZabjQ3YXhpMlFTa0s5NHhUT0VxVUc2aThNbE5nbHlCd3UzcDd2ZXFzVV9kMml1ekxoTUp0YzY4dUV3ZzJNNm9xcEhtd05EN1dmWE1wY2RwWExPSlBJbGhia2ZGY3laRl9tb05FUkY5UU5odlJIdUVhMm43T0VkNWExdVZGUS1YYTlhbVZJeE9vdDJIa05jeWZKWHd1MzNoR3JLWWhyWnhDY1NXTHNUaWM?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:05:31 GMT"
+  },
+  {
+   "id": "news:e40948e98c067807",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“석탄 사업에 보험·투자 중단해야”…삼성화재·삼성생명에 공동 서한",
+   "source": "더나은미래",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TUd4RlJWU3BlNXI4YkVDNkhfU1JIZUpkZ3VVM2ZEaENhUWhxd2IwZGFUVDdaVDhQUUl5OGR1dUV5MjJ2dkxCM3N6UVVZRGZvdWc?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:09:00 GMT"
+  },
+  {
+   "id": "news:4082c56b1e2acff7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, '국내 보험업계 최대' 15억달러 해외 신종자본증권 발행…연 6.875% 확정",
+   "source": "www.ppss.kr",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZkNjRlg4Q1lSWHdBd3FRcFhOb0VQeVItSF95bk83MERCQjltZEJWc3U5R0ItUW10M0VhdDdZMzExUnkwcjkxWUg4N2JVX1d5cTNWVzhRQzVpY21FSTVEZWdRd1Y?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:12:56 GMT"
+  },
+  {
+   "id": "news:ac8a829548e49b7b",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "미래에셋생명 3%대 상승…삼성생명·한화생명 동반 강세",
+   "source": "CBC뉴스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01Ml9QTlNwb1loWmZWLVN5bGZ4RGtlMkdCbFp1ZmJDd2ltWTV4LVZDMVhQMDVvY2JqQ1NZcGdlV3BxUmY5OExKbmVWN3QyT0RqdnFZN3lDTmZ0cjhyUzR0RmlTbXdEVEpr?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:18:02 GMT"
+  },
+  {
+   "id": "news:3556f9c77c190d8e",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 영아 응급처치법 담은 턱받이 880개 영등포구에 기부",
+   "source": "로이슈",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96WlB5TzdYZjJTOVUxR3pwaWgtMU16VjVFcS1CUlFZeERvN08tOE9INGlhSFMtbHZacVRZV3VyeS1VUXdoMWtEOC1JMnltNzZLUFJzVk9rbnBhbFpyRzNmeGNzOFlwdzFKRmVDXzdDV0dScWRadDBQWmZn?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:18:46 GMT"
+  },
+  {
+   "id": "news:7d105d3b3f8296c9",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "청년채용 앞장 교보생명·케이뱅크 금융위원장 표창",
+   "source": "헤럴드경제",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52djg3N2pkZEc1S1hWa0xGRkhjcXN3dWZEX1BzeFVLZnhRSkhBVE5qNHFrRFRNb0FmN1hkY2Z0S3hGMWtHWGNWZ0R4TlFKTjVFdzFkRlBB?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:30:00 GMT"
+  },
+  {
+   "id": "news:bbb646a5141c077a",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 영등포구 임산부 가정에 ‘응급처치 표기’ 턱받이 전달",
+   "source": "글로벌이코노믹",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlJ0SGF6Z1hrbExYal90SmZvRmFpR09lbFludVY2MF9iX0pWdVBSSEc4T2h0eGNoODlHWmpIYklQLUJET0xZWTRWMFp1aXNBbDhncXY4dDNYRW5ub0JkcmRQbkZkSUk0NjZTSTl3ZUtFcDIxcnhGRGJtMFRPRHNGa1JDdkc?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 02:01:27 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-27"
 }
