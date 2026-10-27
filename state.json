@@ -2030,7 +2030,30 @@
   "news:ac8a829548e49b7b": 1793068121,
   "news:3556f9c77c190d8e": 1793068121,
   "news:7d105d3b3f8296c9": 1793068121,
-  "news:bbb646a5141c077a": 1793068121
+  "news:bbb646a5141c077a": 1793068121,
+  "news:c8a3b1704a74817b": 1793089172,
+  "news:9d8c37c15d82b08f": 1793089172,
+  "news:f63a726062be8aac": 1793089172,
+  "news:7bf1c59c371c03fe": 1793089172,
+  "news:cb49b8f32abbe8a4": 1793089172,
+  "news:efe63706b562dc07": 1793089172,
+  "news:853191118d450e75": 1793089172,
+  "news:593f5bda55e81607": 1793089172,
+  "news:51ec7cf451dd6080": 1793089174,
+  "news:66189005d036c995": 1793089174,
+  "news:0d04bf55b711ff29": 1793089174,
+  "news:acac46b15bf9f825": 1793089174,
+  "news:92f83bca20e0054c": 1793089174,
+  "news:0a36141acfafa9a1": 1793089174,
+  "news:13762750b34e12e8": 1793089174,
+  "news:effaace0491f7876": 1793089174,
+  "news:0ca27aec94479f7c": 1793089174,
+  "news:7beb04f11ebf0d94": 1793089174,
+  "news:612dd89ee6025ac5": 1793089174,
+  "news:e7504138ee9b8163": 1793089174,
+  "news:d564e90ae92ce89e": 1793089174,
+  "news:d8ff996046fa3ebf": 1793089174,
+  "news:fecb3edfddf6d66d": 1793089174
  },
  "stories": {
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
@@ -2070,7 +2093,22 @@
   "미래에셋생명 3%대 상승…삼성생명·한화생명 동반 강세": 1793068121,
   "교보생명, 영아 응급처치법 담은 턱받이 880개 영등포구에 기부": 1793068121,
   "청년채용 앞장 교보생명·케이뱅크 금융위원장 표창": 1793068121,
-  "교보생명, 영등포구 임산부 가정에 ‘응급처치 표기’ 턱받이 전달": 1793068121
+  "교보생명, 영등포구 임산부 가정에 ‘응급처치 표기’ 턱받이 전달": 1793068121,
+  "한화생명, 2026년 베트남에서 가장 수익성 높은 기업 50위권 진입": 1793089174,
+  "이억원, 금융권에 “청년채용 투자 확대” 주문…교보생명·케이뱅크 포상": 1793089174,
+  "달러채 신종자본증권 데뷔전 마친 삼성생명…보험사 외화조달 촉각": 1793089174,
+  "[The Leader] 이경근 한화생명 사장, 보험 본업 키우는 ‘가치성장’": 1793089174,
+  "삼성생명, 15억 달러 첫 해외채권 발행": 1793089174,
+  "[보험브리핑]NH농협생명·교보생명·현대해상·동양생명": 1793089174,
+  "[삼성생명, 고금리 자본확충의 명암①] 삼성생명, 2조원 자본 확충에 연 1365억원 이자 부담": 1793089174,
+  "교보생명, 아기 턱받이에 응급처치법 담아… 영아 안전 지킴이로 일상 안전망 강화": 1793089174,
+  "[이슈] 생보사 해킹 뚫리자 긴급 점검... 삼성생명 \"침입 징후는 없어\"": 1793089174,
+  "[보험 NOW] 현대해상·한화손보·교보생명·동양생명": 1793089174,
+  "[금융소식] 교보생명 ‘스마일 턱받이’·NH농협생명 농촌일손돕기·한화손보 해양 사이버보험 공동사업 MOU·보험연수원 스마트안경 부정행위 적발·생명보험협회 ‘숨은보험금 찾아주기’": 1793089174,
+  "[사진]삼성생명 하상윤 감독과 김아름-이해란, '2026-27 시즌 기대하세요'": 1793089174,
+  "삼성생명, 글로벌 투자자 관심 속 '2조원 실탄' 확보": 1793089174,
+  "삼성생명 '파이팅 포즈'": 1793089174,
+  "[사진]삼성생명 김아름-이해란, '달달하게'": 1793089174
  },
  "news_queue": [
   {
@@ -2212,6 +2250,156 @@
    "date": "Tue, 27 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlJ0SGF6Z1hrbExYal90SmZvRmFpR09lbFludVY2MF9iX0pWdVBSSEc4T2h0eGNoODlHWmpIYklQLUJET0xZWTRWMFp1aXNBbDhncXY4dDNYRW5ub0JkcmRQbkZkSUk0NjZTSTl3ZUtFcDIxcnhGRGJtMFRPRHNGa1JDdkc?oc=5",
    "sort_key": "Tue, 27 Oct 2026 02:01:27 GMT"
+  },
+  {
+   "id": "news:51ec7cf451dd6080",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 2026년 베트남에서 가장 수익성 높은 기업 50위권 진입",
+   "source": "Vietnam.vn",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXQ2cW0wNjdkOVV4VktfLU9pZy0zeGtvaEdpZFVqVUZKN0pVbTJXYlVQaDJEcVJqdW1RcGd4RHVSOUp1R2wzV1dzdlQ1Q0VfZUZUMk9sNUxOUnhybFR2Sm55YnZYeEs5dzVqQjBrTXRNaEFNVmR5OFctZ1BWek5lWEVUZUN1TEpXODE5Y3lqcTZMTXcxa2pOSTBR?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 00:14:43 GMT"
+  },
+  {
+   "id": "news:66189005d036c995",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "이억원, 금융권에 “청년채용 투자 확대” 주문…교보생명·케이뱅크 포상",
+   "source": "딜사이트",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWnd0NHE0SC1NTll4SzdfLWd4OHZRYVYwUGpNX2xneGVMeFFSZFZaS2QtY3dSU2NCamhIQzVEc1F6SDBtRWV6ajFPSzhIUGM?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 01:30:00 GMT"
+  },
+  {
+   "id": "news:0d04bf55b711ff29",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "달러채 신종자본증권 데뷔전 마친 삼성생명…보험사 외화조달 촉각",
+   "source": "연합인포맥스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vV3BGQ20zV1dMWFlfazFaRVFVNHJxWnZGNGp2QV9MbHJQemNKQ1J4ak5XYlU2YngxcHhmN0lveXItSTVlSU1scnRLaE5WbmRnZENFamJrRDZMakxKTlpQbWpJTFl1TGQ1N2RPM2I4U04?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 02:34:18 GMT"
+  },
+  {
+   "id": "news:acac46b15bf9f825",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[The Leader] 이경근 한화생명 사장, 보험 본업 키우는 ‘가치성장’",
+   "source": "파이낸스뉴스 I 파이낸스뉴스TV",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRnAyZHVQUFJEbEFianowRnNJRUhGdHdMTnByNm5uYzF3T0ZRUEZPVU10VmdrQm5NMlF2TXZzakdiYWVCV0FWVmxUaElYSTZjc0tPMEI3SlJILVRnRkJxRlp1MDl3bjI4RXfSAW5BVV95cUxNQkVQQS1vMHdCOTE1akRMeUY2aUZDSHN2bFVCSV92VUhMYzB5ekdHUXY5eUQ0Q0xSeVNNRHFxWWt2LUhuRG5rVTBBQzBkc3lxRnY2RkloN0JBem5Qbk0zUWp3azUtMUxtSE82N1I3UQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 02:42:00 GMT"
+  },
+  {
+   "id": "news:92f83bca20e0054c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 15억 달러 첫 해외채권 발행",
+   "source": "서울경제",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTjROcVhDUEgyVFkzNEdHZU44UzY2b0NaWFQ3Y2VpNjhIVTJSN1l1SnR4cnc1NWZvbGpJTTRhYXFURkV1TlFFdFQ2MzYyWkZnRWfSAVNBVV95cUxOS3BpdFQzM0QtdldNUzFPd0lVSUV5cVhoaFhtMmMzcFpIZGJhV0pxZWs0UWx3djdFM1Q5STlZM2RtazEyUWprSGJvRmlSbFlyOU50QQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 04:52:39 GMT"
+  },
+  {
+   "id": "news:0a36141acfafa9a1",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험브리핑]NH농협생명·교보생명·현대해상·동양생명",
+   "source": "메트로신문",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwUjdrcFpudklJMDNveUVQUmt5TTVhUUx2VmpLZnk0M1NTa21rWVRLZjRmUEZ3bi1HYmMtM295WTc3N2UtZ0FoX3hweUFaZUotOFRlVEFxZVp4RXluMkJ2NQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 05:03:20 GMT"
+  },
+  {
+   "id": "news:13762750b34e12e8",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[삼성생명, 고금리 자본확충의 명암①] 삼성생명, 2조원 자본 확충에 연 1365억원 이자 부담",
+   "source": "경인방송 뉴스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MaVh2N3hjd1dpVkdLTG81ODdJQl9kT3JSUGVlWUxlLWRndVFLcWJhTXBqeHRFN0Q0VW1SN3dHMS1jczFSVWJPYmJKam9zSHRDckhpRWZ5ZEdHTzItS1F5aUt6STLSAWhBVV95cUxQMWVGekdXbmc3bE52QW9NWmpjNDFwd3Vka285dC1lNTNVZjFlZDUwMHdJSWotMk1UcTF0UXI1RlJQcndpWm45VkktOGZWWE5oM2t2dG1MbGdmeDZVdTN2c2NZTUxFSG5lMg?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 05:30:38 GMT"
+  },
+  {
+   "id": "news:effaace0491f7876",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 아기 턱받이에 응급처치법 담아… 영아 안전 지킴이로 일상 안전망 강화",
+   "source": "한국보험신문",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXTEsyZFpnbnZWWHpaOGlTYVllcDlPR3ZfVk55elMyejlTR3pSOEdpbG9lSWR5R1BoTWd2UHdxT2NUelNLWDl3RnBDVGRyVkVGTGJHNjhJc3JPTDFhbWxGVlp4SGxhOWFfS3FLOUtlVdIBb0FVX3lxTFBXTEsyZFpnbnZWWHpaOGlTYVllcDlPR3ZfVk55elMyejlTR3pSOEdpbG9lSWR5R1BoTWd2UHdxT2NUelNLWDl3RnBDVGRyVkVGTGJHNjhJc3JPTDFhbWxGVlp4SGxhOWFfS3FLOUtlVQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 05:40:39 GMT"
+  },
+  {
+   "id": "news:0ca27aec94479f7c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[이슈] 생보사 해킹 뚫리자 긴급 점검... 삼성생명 \"침입 징후는 없어\"",
+   "source": "오늘경제",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNE5mRHVJUjBvWEhVclhOTHg2c0Z2OEozdktDdXlRVHhzUXJwRXVZTUNqY2lRVS1KQlMxZWVpWlhlNHFSa0UwMWJHU3dCTFRuSjl5NnNVdU1pOTZqV25WZEMxUktIZEhzbnZ1UUtGTnYtbXM?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:19:01 GMT"
+  },
+  {
+   "id": "news:7beb04f11ebf0d94",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험 NOW] 현대해상·한화손보·교보생명·동양생명",
+   "source": "위키리크스한국",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PRHA4TkdzM3l6UzNweGRfcklScXpERTJCNHpyWENmRXFLbkY5MWJ1Q3hMcWxaWm15MnN1NWY4WmxDZzFUMWM0NmpBckZBU0g1aVNKUUdEem9sRnBNbEEwTUFXTkY1ckdjRmJNTmhEUQ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:35:40 GMT"
+  },
+  {
+   "id": "news:612dd89ee6025ac5",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융소식] 교보생명 ‘스마일 턱받이’·NH농협생명 농촌일손돕기·한화손보 해양 사이버보험 공동사업 MOU·보험연수원 스마트안경 부정행위 적발·생명보험협회 ‘숨은보험금 찾아주기’",
+   "source": "천지일보",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSVkxNW9FN1FpbVRMd3U4ODh3c241S3M0V0taZnZOUkVwZkZ0VE1pOVRBRDlGcWMwRHNXeER6Zy02SWotNTNVeHRGQzQ3cF9NOUIyVElxMFlkS0JEdi1iV0g4ck1kRXlvR1E?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:37:17 GMT"
+  },
+  {
+   "id": "news:e7504138ee9b8163",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[사진]삼성생명 하상윤 감독과 김아름-이해란, '2026-27 시즌 기대하세요'",
+   "source": "Chosunbiz",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXh3MzZvN2haejZ1cnAxcHJZcmJ4NFQtRW1iZVdQZkR6N2xzbHd2TktwZXVSX1RqQ29ONS01WU5wakozWXVxTmRfaDJNQ0c2SGlfczlBR2x0SGl3eWtSQ2VXMGUyRmxBUnpBS29QMmQyY2s4WjA2aWN1dl9yc0dBWC0tREVNek9p0gGcAUFVX3lxTFBOb1RVMUVnVC1ELXRwM0VhbUwzMnRNUHMzb1l4YWh1UVFhaF93Z1VxMzIxTGhMNVBZTUNSN09BWEpsWmdJdkM0RUdudUx1aUhjTjQ0anpxYzdsMXVveFlDN1o5Z19pUE9zejBfc25aQTljcFJvLTZqQkpBamszWW9oTGFpYjZmeUtmZmFTU3Jzb041R0QtajAzR3NxdA?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:39:00 GMT"
+  },
+  {
+   "id": "news:d564e90ae92ce89e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 글로벌 투자자 관심 속 '2조원 실탄' 확보",
+   "source": "파이낸셜포스트",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPWXBOSXFoc29ORTRENmt2b1d4WGJ3QkVRbFBURjFCNUFBSVJOekZQOEZsOHk0cldkYkc5eURZX0Nua1BEUXdoSUZJa2pMTGdfNHJaWEgtVldXU2JmeUUyeVlwdEZRTzNudExkbWs3WFlTaGRN?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:39:43 GMT"
+  },
+  {
+   "id": "news:d8ff996046fa3ebf",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 '파이팅 포즈'",
+   "source": "데일리안",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUhkS2tvb2Z0SGVPT09Nd25FMThnNlZaOWFTVGVwQmVvaW00UGZNNFVvVUY1Vk5NZEVCckF0XzAyMFp6c2xnU1VwOUc3X3BLanU1a2tZbmhqMVl0ay0zVjRZWmV3dnBBVjRlMUt4VFh0ai1FMUpIeVZtTEhSNUtQOGI1ZmRMZ29FeERtUmRmSkViU0Ria19tdnhIdEFDa2hCQ1c2WVVCNXNFeE5waUk3TWU2T2lUd0VpamNVWGt1ODA0MGN5SDFyb3p6eGo?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 07:30:00 GMT"
+  },
+  {
+   "id": "news:fecb3edfddf6d66d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[사진]삼성생명 김아름-이해란, '달달하게'",
+   "source": "Chosunbiz",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWhjMk1sU3BQSENicjJ3RXhONjBCSEJXYjhkSjRtY1Mta192RDFuand1U3pqQWVDekNHS2IyNUxLTlZZMG9TM19TODlEV09VeTM0U3VtRnZRajk3SEh1aVozMnNVbTVqVEN4SlYzZlhId0dXUDJJM3RrMWtXNUlnT3hxa1BkalZn0gGcAUFVX3lxTE1zRHhQQ0FsOHFvTDF4WVhCczRQVDJCMFM0cFZaVFdpRU5xZlNuT2NkSWJzR3dORTFISFpMaG5TZ0tiUFl4T3BxS3R0MzdZR3l4TUdCT0ZsMEZLdmlSOTFSMzhFZmZsS24tNi0xZi1LUHBrSnFvNTlKVUNhcjkxaXN5MEp5VUl4NVZSWW9TRXBmQUZZMVlldE10aDIwZw?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 07:56:00 GMT"
   }
  ],
  "initialized": true,
