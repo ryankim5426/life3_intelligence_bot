@@ -2053,7 +2053,17 @@
   "news:e7504138ee9b8163": 1793089174,
   "news:d564e90ae92ce89e": 1793089174,
   "news:d8ff996046fa3ebf": 1793089174,
-  "news:fecb3edfddf6d66d": 1793089174
+  "news:fecb3edfddf6d66d": 1793089174,
+  "news:cd37044ce18d52c6": 1793112270,
+  "news:1781ef6f5c1e6998": 1793112270,
+  "news:6aba906ba1b7c4ee": 1793112270,
+  "news:328f45dc3e8577bd": 1793112270,
+  "news:989a422d33224546": 1793112270,
+  "news:162e10ab6e12c675": 1793112272,
+  "news:7a3867374642a038": 1793112272,
+  "news:2916cd512e23f5eb": 1793112272,
+  "news:a5892871cc88ba32": 1793112272,
+  "news:cdfc7670cf489720": 1793112272
  },
  "stories": {
   "삼성물산 등, 삼성생명 지분 43.56% 보유, 담보계약 변경 보고": 1792910635,
@@ -2108,7 +2118,12 @@
   "[사진]삼성생명 하상윤 감독과 김아름-이해란, '2026-27 시즌 기대하세요'": 1793089174,
   "삼성생명, 글로벌 투자자 관심 속 '2조원 실탄' 확보": 1793089174,
   "삼성생명 '파이팅 포즈'": 1793089174,
-  "[사진]삼성생명 김아름-이해란, '달달하게'": 1793089174
+  "[사진]삼성생명 김아름-이해란, '달달하게'": 1793089174,
+  "출사표 말하는 하상윤 삼성생명 감독": 1793112272,
+  "앤트로픽 훈풍, 코스피 '급등'...삼전닉스 · 삼성생명 '껑충'": 1793112272,
+  "[업앤다운]보험주 ‘상승’…삼성생명↑·에이플러스에셋↓": 1793112272,
+  "교보생명·한화비전·농협, 영아 응급처치 턱받이 기부부터 휠체어럭비 금메달·우리 쌀 축제 홍보까지": 1793112272,
+  "교보생명, 금융위원회 위원장 표창 수상···청년 채용 확대 기여 공로": 1793112272
  },
  "news_queue": [
   {
@@ -2400,6 +2415,56 @@
    "date": "Tue, 27 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWhjMk1sU3BQSENicjJ3RXhONjBCSEJXYjhkSjRtY1Mta192RDFuand1U3pqQWVDekNHS2IyNUxLTlZZMG9TM19TODlEV09VeTM0U3VtRnZRajk3SEh1aVozMnNVbTVqVEN4SlYzZlhId0dXUDJJM3RrMWtXNUlnT3hxa1BkalZn0gGcAUFVX3lxTE1zRHhQQ0FsOHFvTDF4WVhCczRQVDJCMFM0cFZaVFdpRU5xZlNuT2NkSWJzR3dORTFISFpMaG5TZ0tiUFl4T3BxS3R0MzdZR3l4TUdCT0ZsMEZLdmlSOTFSMzhFZmZsS24tNi0xZi1LUHBrSnFvNTlKVUNhcjkxaXN5MEp5VUl4NVZSWW9TRXBmQUZZMVlldE10aDIwZw?oc=5",
    "sort_key": "Tue, 27 Oct 2026 07:56:00 GMT"
+  },
+  {
+   "id": "news:162e10ab6e12c675",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "출사표 말하는 하상윤 삼성생명 감독",
+   "source": "뉴시스",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PN3VMelU0SklFd0lBLThYQ1VaNldYQmRZWlBySUNXcElzVU5JXy1BN2h4WGlkV28tZjV3WGs0VVlzTlU5S0ZGQ3ZhdzhnM29VNUM0MVhFc0FDMFIyTzI4X0dRT2hZalFjaUNIY2pDN2YzZUpCeXdOeNIBeEFVX3lxTE1PN3VMelU0SklFd0lBLThYQ1VaNldYQmRZWlBySUNXcElzVU5JXy1BN2h4WGlkV28tZjV3WGs0VVlzTlU5S0ZGQ3ZhdzhnM29VNUM0MVhFc0FDMFIyTzI4X0dRT2hZalFjaUNIY2pDN2YzZUpCeXdOeA?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 06:58:07 GMT"
+  },
+  {
+   "id": "news:7a3867374642a038",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "앤트로픽 훈풍, 코스피 '급등'...삼전닉스 · 삼성생명 '껑충'",
+   "source": "초이스경제",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNExLSW1DR2xHbDlZdWxJMzltcDd4U2lKWW5GVFVITnFHdUtJcEIyNjRPSzUxbmd2dFhPZEMzRE5XSEVtY1FDcUVSbmdtc2dlM1VrTWlxWkZ6OFduNU9vQVFjYVRSR0VVM1JYa2draUfSAXNBVV95cUxQUjN2b1B4RzZzbWtXcTZVRDgxZDMyNlVyM1U4cDlfUEJUSzBJbzFUWmNpMFBsdVN3Mmc4ZEhKUTFGNFZIdmFYQ3hKSTRtRWUwMXAzR19Ua2t1cWpRdW8xckdMeDBldzhveGxZZTJqcDFHc3dZ?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 07:16:52 GMT"
+  },
+  {
+   "id": "news:2916cd512e23f5eb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[업앤다운]보험주 ‘상승’…삼성생명↑·에이플러스에셋↓",
+   "source": "NSP통신",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqbkNQR1hzRFdoUE42NmlTSy14QlVCcnVRVnZhNE9NQ2I4WmVJNUlTU0g5S1pFakNZN0RhZndqRF85TF9fWjEzVFRxYW1kVVIweXBGS241ck5sOWQtWVRqRg?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 08:28:58 GMT"
+  },
+  {
+   "id": "news:a5892871cc88ba32",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명·한화비전·농협, 영아 응급처치 턱받이 기부부터 휠체어럭비 금메달·우리 쌀 축제 홍보까지",
+   "source": "데일리팝",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VcDZPZUhPamw4QktEVFR1Q1VScVY4b2t0YjhzZGY1MHJzRFg0amhZdUZFX2V5dlJ6bkRzMlhpZ1NJemh0eGJuaTBNYzBtVVdRV25iUjB6VHRwaEx4YW9mUkJIU1dabExv?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 09:05:00 GMT"
+  },
+  {
+   "id": "news:cdfc7670cf489720",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 금융위원회 위원장 표창 수상···청년 채용 확대 기여 공로",
+   "source": "한국NGO신문",
+   "date": "Tue, 27 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OSC0xZV83aWlzM1AzWW9nQ0hYTTRzTmU1b2o5Q0R2ZEYtdmxDM0FCTFM5SFNkVG5paDQ3WnY2VC1KUTFVVTRTSW1tbkw1YndDRG9XT0ZWdE5aQlZfM0U2WnhrNHlpWTQw?oc=5",
+   "sort_key": "Tue, 27 Oct 2026 12:48:55 GMT"
   }
  ],
  "initialized": true,
