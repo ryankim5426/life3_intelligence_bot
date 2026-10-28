@@ -2099,10 +2099,10 @@
   "news:e59d4c45bf0e68ac": 1793202621,
   "news:53057bc393186f7d": 1793202621,
   "news:d19d9a71ce51c5f1": 1793202621,
-  "news:e7655312d330f9dc": 1793202621
+  "news:e7655312d330f9dc": 1793202621,
+  "news:e2315f954bb4c10f": 1793220122
  },
  "stories": {
-  "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
   "주가 반토막·PBR 0.19 꼴찌·배당 외면...'저PBR 낙인' 임박한 한화생명, 주주환원은 '깜깜이'": 1792964783,
   "2년째 '배당 0원' 한화생명, 밸류업 계획도 \"미정\"": 1792971444,
   "[머니 취향템 연구소] 손주 미래까지 설계하는 종신보험…교보생명 '손주사랑포에버'": 1792979038,
@@ -2186,7 +2186,8 @@
   "교보생명, 금융의 날 금융위원장상 수상…채용연계형 인턴 전 직무로 확대한 성과 인정 받아": 1793177645,
   "[28일 보험주 마감시황] 미래에셋생명 11.72% 급등·삼성생명 8.82%↑…상장 GA도 반등": 1793177645,
   "[보험사 풍향계] 교보생명, ‘청년채용 확대’ 포상 1호기업으로 선정 外": 1793177645,
-  "교보생명, 청년 취업·장애인 고용 지원 공로로 금융위원장 표창": 1793202621
+  "교보생명, 청년 취업·장애인 고용 지원 공로로 금융위원장 표창": 1793202621,
+  "“스펙 넘어 직무 역량으로”…교보생명, 청년·취약계층 고용 지평 넓혔다": 1793220122
  },
  "news_queue": [
   {
@@ -2458,6 +2459,16 @@
    "date": "Wed, 28 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WN3BOTk5NbUVmdnhWZFZ3T09OUmRTVmI4U0RpZlRYMlVRWWs0U3ZnaU5tZGZzY0QybW1lLTI1WDRsUHNwdUtFWlZmVG1uVHBBa3BvRU94aFlvVTNmOWlfelQ2RGxfc0Q2YW82bDlJejc?oc=5",
    "sort_key": "Wed, 28 Oct 2026 09:10:00 GMT"
+  },
+  {
+   "id": "news:e2315f954bb4c10f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "“스펙 넘어 직무 역량으로”…교보생명, 청년·취약계층 고용 지평 넓혔다",
+   "source": "더페어",
+   "date": "Wed, 28 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MMEZoLUVYekIwZ2duU1R0RU9rT1FYaUpPd1Y5c2ltekZhSkR1UzMwY3dMLWJjbVRlYVc4NXBoSVFnVTZ0YkhzY1dOSWx5QlEtY1FQeXlHV0tWN0pPRXZFYmN0bWFWLWRsbnZTV3RzZC3SAXRBVV95cUxQZWpUWDZyRDdZeDlicER3ME5VVjRFSEtna3FmNWl5TzFUeWttRE5QYUdtNnlmZXotd19RdEdxQlNtSnRDeHlQMnlUblUtMkIwdzJtRmFObXZ3aTBmejdpakdjMGdKQlBKWUNyYXZrNkY5ZGhheA?oc=5",
+   "sort_key": "Wed, 28 Oct 2026 00:50:54 GMT"
   }
  ],
  "initialized": true,
