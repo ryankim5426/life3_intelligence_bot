@@ -2094,7 +2094,12 @@
   "news:77123f97fe0118ad": 1793177645,
   "news:963d21c21585f5b5": 1793177645,
   "news:263fb79a5d0062c1": 1793177645,
-  "news:a0ed7aecd6e81077": 1793177645
+  "news:a0ed7aecd6e81077": 1793177645,
+  "news:c0116d3f1609964c": 1793202621,
+  "news:e59d4c45bf0e68ac": 1793202621,
+  "news:53057bc393186f7d": 1793202621,
+  "news:d19d9a71ce51c5f1": 1793202621,
+  "news:e7655312d330f9dc": 1793202621
  },
  "stories": {
   "권혁웅·이경근 한화생명 대표, 보험망으로 시니어 자산관리 확대 [보험사 시니어 전략]": 1792944742,
@@ -2180,7 +2185,8 @@
   "교보생명, 청년 일자리 확대 성과…금융위원장 표창": 1793177645,
   "교보생명, 금융의 날 금융위원장상 수상…채용연계형 인턴 전 직무로 확대한 성과 인정 받아": 1793177645,
   "[28일 보험주 마감시황] 미래에셋생명 11.72% 급등·삼성생명 8.82%↑…상장 GA도 반등": 1793177645,
-  "[보험사 풍향계] 교보생명, ‘청년채용 확대’ 포상 1호기업으로 선정 外": 1793177645
+  "[보험사 풍향계] 교보생명, ‘청년채용 확대’ 포상 1호기업으로 선정 外": 1793177645,
+  "교보생명, 청년 취업·장애인 고용 지원 공로로 금융위원장 표창": 1793202621
  },
  "news_queue": [
   {
@@ -2442,6 +2448,16 @@
    "date": "Wed, 28 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50RF9DS01Kd1VXSFdndExkU1hVSnJGMXFrUExfTXd5dE1nSjVMQk40WUMwb2pNa2xCQnA1YkdBd2M3UkhUOUhPWWVzMWhNR3oxdFB4dkROVDRabjg?oc=5",
    "sort_key": "Wed, 28 Oct 2026 08:19:38 GMT"
+  },
+  {
+   "id": "news:e7655312d330f9dc",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 청년 취업·장애인 고용 지원 공로로 금융위원장 표창",
+   "source": "비즈트리뷴",
+   "date": "Wed, 28 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WN3BOTk5NbUVmdnhWZFZ3T09OUmRTVmI4U0RpZlRYMlVRWWs0U3ZnaU5tZGZzY0QybW1lLTI1WDRsUHNwdUtFWlZmVG1uVHBBa3BvRU94aFlvVTNmOWlfelQ2RGxfc0Q2YW82bDlJejc?oc=5",
+   "sort_key": "Wed, 28 Oct 2026 09:10:00 GMT"
   }
  ],
  "initialized": true,
