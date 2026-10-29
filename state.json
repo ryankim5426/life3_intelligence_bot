@@ -2104,12 +2104,19 @@
   "news:b8c11ab17ae6e9a5": 1793233680,
   "news:783bb7f46bfca46a": 1793233680,
   "news:b4f61a6e1e634824": 1793233680,
-  "news:bc5b2e1d61b21606": 1793233680
+  "news:bc5b2e1d61b21606": 1793233680,
+  "news:c493a43a987880a7": 1793254919,
+  "news:38dd7940506b6d3e": 1793254919,
+  "news:6495997df6c6f7ee": 1793254919,
+  "news:39612dddf0631d76": 1793254919,
+  "news:48988f837f33c24f": 1793254919,
+  "news:199f7c434147857c": 1793254919,
+  "news:1abfe84878e7b710": 1793254919,
+  "news:4e14fb69aa2b1ddd": 1793254919,
+  "news:ef454583852d793d": 1793254919,
+  "news:57fbb862fdd13083": 1793254919
  },
  "stories": {
-  "[머니 취향템 연구소] 손주 미래까지 설계하는 종신보험…교보생명 '손주사랑포에버'": 1792979038,
-  "[장중수급포착] 삼성생명, 기관 6일 연속 순매수행진... 주가 +1.63%": 1792979038,
-  "삼성생명, 웅진프리드라이프와 업무협약 맞손...온라인 '서비스' 관심도↑": 1792979038,
   "[파이낸스워치] 증시 급락에 퇴직연금 11조원 감소…DB형 선방 속 삼성생명·NH증권 두각": 1792998295,
   "홍원학 삼성생명 대표, 역대급 실적에도 연임 안갯속···발목 잡은 보험 본업": 1792998295,
   "[심층분석] 교보생명, 계약유지율·CSM 동반 '점프'…초고령화 시대 뚫은 '실버 케어' 결실": 1792998295,
@@ -2193,9 +2200,120 @@
   "삼성생명도 6%대 자본조달…중소사 부담 커질까": 1793233680,
   "[교보금융 지배력의 대가] ②값싼 증자의 승자, 교보생명 2천억 '잭팟'": 1793233680,
   "삼성전자 주가에 \"명운\"...삼성생명, 넉달 새 지분가치 '46조' 증발": 1793233680,
-  "교보생명, 웹3 금융 인력 채용...스테이블코인 사업 검토": 1793233680
+  "교보생명, 웹3 금융 인력 채용...스테이블코인 사업 검토": 1793233680,
+  "삼성생명, 태국 직원들과 맹그로브 숲 조성…글로벌 사회공헌 앞장": 1793254919,
+  "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 1%대 약세 : 기업주식정보": 1793254919,
+  "삼성생명·화재, 전자 통 큰 배당에 3조원대 수혜 전망": 1793254919,
+  "교보생명 대산농촌재단, 제35회 대산농촌상 3명 시상": 1793254919,
+  "[금융-라운지] KB국민은행 / 교보생명 공익재단인 대산농촌재단 / 신한은행 / NH농협은행 / 미래에셋증권 / IBK기업은행 / 하나금융그룹": 1793254919,
+  "삼성중공업, 삼성생명공익재단 등 7곳에 기부금 8억4500만원 출연": 1793254919,
+  "교보생명·유한양행·삼성전자 등 수상·순위 평가 잇따라…금융위원장 표창부터 브랜드가치 세계 5위까지": 1793254919,
+  "교보생명 대산농촌재단, 첫 의료인 수상자 선정…박건희 원장": 1793254919,
+  "[금융계 9월 동향] 한화생명, 글로벌 금융 생태계 확장···디지털 경쟁력 강화": 1793254919,
+  "[더밸류 브리핑] 오늘의 보험계 소식…한화손보·교보생명· 교보라이프플래닛생명": 1793254919
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:c493a43a987880a7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 태국 직원들과 맹그로브 숲 조성…글로벌 사회공헌 앞장",
+   "source": "더구루",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLNFZnRTk4VkJQRzhUYWVCMlY2OE9XOF8waEhWYk5Hc20tMGV6VUxpNEFVSlJ4XzJxWC1pTm9yNlhOZzlhZ192RTRNNnFaRTZlM2xMUml4RUs3bGJQVlE?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 01:18:57 GMT"
+  },
+  {
+   "id": "news:38dd7940506b6d3e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 1%대 약세 : 기업주식정보",
+   "source": "재경일보",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90ZkhjaXBCXzFjQlZLTlJ2bEVselNXZnN4X2h3VGh3UVR4TVdLVGF5MkhwcThVX0RObGtHUU54X1FQZlc0SzhmV2hTVQ?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 01:22:53 GMT"
+  },
+  {
+   "id": "news:6495997df6c6f7ee",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재, 전자 통 큰 배당에 3조원대 수혜 전망",
+   "source": "보험매일",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNUdJZEg2aFhIQko3d2JWR1dGeGxtVUU2UTVGbnpXWkNjTENZVXVoaXRfT2RYZlJ1eUJUUFItZ3JOa1dnSUx5NGMxVmZobHFxQnhIQjIzeVh5eTd6dGQxbFVXdkxkNXRP?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 02:07:55 GMT"
+  },
+  {
+   "id": "news:39612dddf0631d76",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 대산농촌재단, 제35회 대산농촌상 3명 시상",
+   "source": "핀포인트뉴스",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tc0JVNU9ONVk3Uy1YZjBfNkV0blNLOVV0aFhwUTd5YnRjOE4wZ3g5cG1PVDM5LUZ5b1laS0Zza2RPeGJQbDZ3ZkZpcmI2WVpYcnA1SGdHUE83QzZQemZILWJPbEhzNzJZdWtSRHhBay1Ua0V5VVh30gF3QVVfeXFMTm1zQlU1T041WTdTLVhmMF82RXRuU0s5VXRoWHBRN3lidGM4TjBneDlwbU9UMzktRnlvWVpLRnNrZE94YlBsNndmRmlyYjZZWlhycDVIZ0dQTzdDNlB6ZkgtYk9sSHM3Mll1a1JEeEFrLVRrRXlVWHc?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 02:08:33 GMT"
+  },
+  {
+   "id": "news:48988f837f33c24f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융-라운지] KB국민은행 / 교보생명 공익재단인 대산농촌재단 / 신한은행 / NH농협은행 / 미래에셋증권 / IBK기업은행 / 하나금융그룹",
+   "source": "비즈니스리포트",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6QWE2NHVObEZjQktBaXdORHNWTmZsbm5fSW90dDJYemhpSVlKUTlfRkFpamw2MWZtNmRMUU9PYW5BaEMwM2N2Q0lXcDJtaWtqVy1QQ2djUDltWlJSU1lqSEgyUWE1X3VSMnMwRFJ4VQ?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 03:16:06 GMT"
+  },
+  {
+   "id": "news:199f7c434147857c",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성중공업, 삼성생명공익재단 등 7곳에 기부금 8억4500만원 출연",
+   "source": "디지털투데이",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtWDdoXzVocDc4Y1EzOUVGYnl5YWFCNW9ObXNab3F2WlcyNXFDcVFHcW0tWi1ueVMwOHlxcmpUQkdpQVVZXy0xTjRsZzE1N3pmcjM4TzVXWV9jWW9Ec3ZibWlTZGJhd3JQNlpheUw4NkJsVWI2YkpyN0Q1TQ?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 04:50:04 GMT"
+  },
+  {
+   "id": "news:1abfe84878e7b710",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명·유한양행·삼성전자 등 수상·순위 평가 잇따라…금융위원장 표창부터 브랜드가치 세계 5위까지",
+   "source": "데일리팝",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GMjJreDE2T1Z1SF9DNS1TMFBiWVliTnBXZldDeF92X29PeXBibTd2V3hFNkxNUFJ3bjVZb0NZVExvUmg0Q3JGUnZIOTlyWVg5ZzlkOGF2NFB1czUyWFpVSmw3YnFGTk5Z?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 05:31:17 GMT"
+  },
+  {
+   "id": "news:4e14fb69aa2b1ddd",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명 대산농촌재단, 첫 의료인 수상자 선정…박건희 원장",
+   "source": "이지경제",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tM0p4cGl6UnJxRDZNM0J4cFhKa1VGY0lhYUpwclZCUEttcUQwU3VwV1pTVWY3anlIdXdfRkh6dk15S1VXU3MxWi1kZHhvR0dvSWt6MjFrRlZycmVpMUFGNEkzc2t3V21LSjEycFVn?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 05:42:34 GMT"
+  },
+  {
+   "id": "news:ef454583852d793d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[금융계 9월 동향] 한화생명, 글로벌 금융 생태계 확장···디지털 경쟁력 강화",
+   "source": "여성소비자신문",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nMWdEVnA3SWtZSWU2TWx5SFhsMTQ5c1JhVm43V2dDSjFKSVViVXlIT3VSRnZ2MS1PMEtEcDlSeE5TLVZfb0lfY2NaM0pYRDVvTmRxZm5ldGp5ZFd2ODhfQURFMjdiZw?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 05:49:57 GMT"
+  },
+  {
+   "id": "news:57fbb862fdd13083",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 보험계 소식…한화손보·교보생명· 교보라이프플래닛생명",
+   "source": "더밸류뉴스",
+   "date": "Wed, 28 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQTZvNjZHeWhfVURxTXRQQ2J0NEdZakJmMHpZNWhRQ2IxTlk4RmhDc0lWQ2dlQXRKdXQtNHBBNk5LcjhhWXRaUVZmZTdmRUhlcGZ6WA?oc=5",
+   "sort_key": "Wed, 28 Oct 2026 07:55:53 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-29"
 }
