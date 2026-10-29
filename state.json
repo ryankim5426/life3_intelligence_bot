@@ -2132,7 +2132,12 @@
   "news:fcec206f23616ade": 1793280811,
   "news:52327a1fd8fc8917": 1793280811,
   "news:abc783828a319f07": 1793280811,
-  "news:c9f4c633908909eb": 1793280811
+  "news:c9f4c633908909eb": 1793280811,
+  "news:6a15deb294cba993": 1793316207,
+  "news:b8304410e1230738": 1793316207,
+  "news:71ae41fcf90c013d": 1793316207,
+  "news:aea0ff2981c28c19": 1793316207,
+  "news:e241e310bd97f85b": 1793316207
  },
  "stories": {
   "한화생명 인니 자회사 노부은행, 590억 규모 대출 지원 발표": 1793058392,
@@ -2228,7 +2233,12 @@
   "교보생명 \"'농촌으로 간 의사' 박건희 원장, 대산농촌상 '농촌공헌' 첫 수상\"": 1793280811,
   "삼성전자, 삼성바이오로직스 신주 6662억원 취득… 삼성생명 저축성 보험 5조원 가입": 1793280811,
   "법무법인 해율-삼성생명 강남법인지역단,기업 법률자문 업무협약 체결": 1793280811,
-  "한화생명, 벼랑 끝서 G2와 스위스 승부⋯관건은 소통 개선": 1793280811
+  "한화생명, 벼랑 끝서 G2와 스위스 승부⋯관건은 소통 개선": 1793280811,
+  "[진단_보험업계 ②한화생명] 금융사업 확장 속 수익성 검증 과제... 대규모 투자에 주주환원 공백 우려": 1793316207,
+  "보험사기 무더기 적발..현대해상·DB손보·KB손보·한화생명 등 설계사 제재": 1793316207,
+  "삼성생명 퇴직연금 3.1조 싹쓸이하며 홀로 '독주'…대형 보험사 10곳 중 7곳은↓": 1793316207,
+  "초고령사회 \"진단금 넘어 돌봄까지\"…한화생명, 치매·간병보험 '판도' 바꾼다": 1793316207,
+  "[단독] 삼전닉스 통큰 배당에 지분 보유한 계열사들 7조 배당금 '잭팟'...SK스퀘어 2.9조 삼성생명 2.3조": 1793316207
  },
  "news_queue": [
   {
@@ -2460,6 +2470,56 @@
    "date": "Thu, 29 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UaUI1a1VlaVJCczRTdXpvWG02WjRmMWNudnBjcHVzSTlZdDY1Q1ZNTHg3SWY5cDFPVlktbTNaZ21JMnVfbVlzOGczX1FoZTRvTTBLRWVPRlo?oc=5",
    "sort_key": "Thu, 29 Oct 2026 12:58:16 GMT"
+  },
+  {
+   "id": "news:6a15deb294cba993",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[진단_보험업계 ②한화생명] 금융사업 확장 속 수익성 검증 과제... 대규모 투자에 주주환원 공백 우려",
+   "source": "뉴스워커 인사이트",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FMXoxSGg2TEo2RnFzaENDMkRmaE9MZWs3OXRwdE5tSjh0bjh4ZWRZNmhSTkVlSElFd1FBVkN5dzhoSGt4TmlZSXBCbWNxbldreXBIQmdNMk1vTTZDLURhTElmY19fT2d4SHVhRWQ3TkxoWjFO?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 02:02:42 GMT"
+  },
+  {
+   "id": "news:b8304410e1230738",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "보험사기 무더기 적발..현대해상·DB손보·KB손보·한화생명 등 설계사 제재",
+   "source": "포쓰저널",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kelpWTklCeHF6ZEJyOF9vQW9YLTdoUjMzNnY3cUVKU3RJNmF0X1A2YTZUbml0M0ttODJRaUlLSFdoYk4wRUo5ZEdlZUlxMmVOVEh3NkNOYzdEN1Nramt2cTVlMA?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 08:02:33 GMT"
+  },
+  {
+   "id": "news:71ae41fcf90c013d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 퇴직연금 3.1조 싹쓸이하며 홀로 '독주'…대형 보험사 10곳 중 7곳은↓",
+   "source": "소비자가 만드는 신문",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85X1NXdWRVeUQ2QnN5R1g2Y292WTdJZmFUWUk5ZFk1NXJFSkNpR0RyVHBHeGN6NE5XX29saVRGVEJoQ1dZQ2dnVjctOTlaLVpMWmFCeVJKWWNJNkZVU2RYaHg5NlRMWHZ0UDdBWm8zOGpxdGc?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 21:10:00 GMT"
+  },
+  {
+   "id": "news:aea0ff2981c28c19",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "초고령사회 \"진단금 넘어 돌봄까지\"…한화생명, 치매·간병보험 '판도' 바꾼다",
+   "source": "뉴스저널리즘",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yNHFob0lSa1gzZFlvLUZRUnJUTDBvdnBXSTk5YlFqVWNzRV9QbkZxRVMwa0V6aGluOXp3TUlVSE5FS2hISTAxSlpfczhSV19aa2dseGswZGFBVk0wbUFNT0oyY3cxTDU5VUtF?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 21:10:00 GMT"
+  },
+  {
+   "id": "news:e241e310bd97f85b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[단독] 삼전닉스 통큰 배당에 지분 보유한 계열사들 7조 배당금 '잭팟'...SK스퀘어 2.9조 삼성생명 2.3조",
+   "source": "소비자가 만드는 신문",
+   "date": "Thu, 29 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZHZ1a2plQll3ajhGSl9md0RxOVVWSGU4bXlUQmJrZmQ4YndDWFdzVHVQbWxwUGg0THJJamlXNVh2X05NSmRqWjM3NFBoNWN0dmNDc19hMWgya2lOb1J5SWF2SHk1Y2FmbmFLQXlYQzFlNXM?oc=5",
+   "sort_key": "Thu, 29 Oct 2026 21:11:00 GMT"
   }
  ],
  "initialized": true,
