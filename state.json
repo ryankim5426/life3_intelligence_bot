@@ -2172,7 +2172,8 @@
   "news:b1e6f855f8424f49": 1793377033,
   "news:45fe2c1daaf5e9f8": 1793377033,
   "news:a9ddd9be6554b043": 1793377033,
-  "news:bacb58993f13ba5e": 1793377033
+  "news:bacb58993f13ba5e": 1793377033,
+  "news:186ecc9faa6f6f56": 1793393646
  },
  "stories": {
   "ROE 3% 삼성생명, 역마진 감수 '비싼 데뷔'...자본효율성 제고 '숙제'": 1793142909,
@@ -2265,7 +2266,8 @@
   "삼성자산운용, 계열사 삼성생명보험과 4400억원 규모 수익증권 거래": 1793377033,
   "교보생명, 변액보험에 AI 모닝브리핑 도입…일일 시황 분석 제공": 1793377033,
   "[재무이슈] 한번에 5조짜리 삼성생명 일시납 저축성보험 가입한 삼성전자.....무슨 일?": 1793377033,
-  "삼성생명 中 합작사 신임 총경리 취임…상반기 1370억 흑자 전환": 1793377033
+  "삼성생명 中 합작사 신임 총경리 취임…상반기 1370억 흑자 전환": 1793377033,
+  "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적": 1793393646
  },
  "news_queue": [
   {
@@ -2457,6 +2459,16 @@
    "date": "Fri, 30 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CczQ0Zk9FR3hQWkVjYXRUVmhGU2JLVjIxQUNtNGxEeHZwa21vSnZtRFdwdXVBaTBqNUFKREdpMmI0dmc0dzdiYlF1NHJUTllwNENmZk5KbTdkQk1lYlFubEI5eFlxdkVDdlJZ?oc=5",
    "sort_key": "Fri, 30 Oct 2026 14:25:00 GMT"
+  },
+  {
+   "id": "news:186ecc9faa6f6f56",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적",
+   "source": "금융신문",
+   "date": "Fri, 30 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94MUs3MmJhZ0Z6QlA0cXNqc0c0Z1JnRnQwdnlyY0lVUVpJRmhnZElXQ3Rxb25BaXRiM0J2SzJGcWRKRVJqWTJnbTc1NWRySEJXTF9rcmdhSl9fWUt0a2FucElJNmpqNk5ZYkpFMWw4YkNXUWQ4Mkx0M2JZdDE?oc=5",
+   "sort_key": "Fri, 30 Oct 2026 18:55:03 GMT"
   }
  ],
  "initialized": true,
