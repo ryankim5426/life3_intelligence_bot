@@ -2176,7 +2176,17 @@
   "news:186ecc9faa6f6f56": 1793393646,
   "news:60b73ef507f4baaa": 1793406913,
   "news:01cbc43f918b73d9": 1793406913,
-  "news:60bf0a60982844dc": 1793406913
+  "news:60bf0a60982844dc": 1793406913,
+  "news:0a39401805a67af3": 1793427379,
+  "news:77e198518124a302": 1793427379,
+  "news:ea974d750cd84440": 1793427379,
+  "news:b90574abf70117f8": 1793427379,
+  "news:b90747c5f739c611": 1793427381,
+  "news:6eb2221e0d65b95f": 1793427381,
+  "news:ecf884db4abe66df": 1793427381,
+  "news:5f44fd17b9e28fdc": 1793427381,
+  "news:6dc312149ce9d9d9": 1793427381,
+  "news:a8c97976cf5203af": 1793427381
  },
  "stories": {
   "삼성생명, 생보업계 최대 2조원 달러채 '흥행'…美 자산운용사 지분 인수 탄력": 1793177645,
@@ -2271,9 +2281,76 @@
   "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적": 1793393646,
   "제일기획, 최대주주 삼성전자 등 주식 1693주 증가…계열사 삼성생명보험 장내매수 영향": 1793406913,
   "'제우스' 크산테의 거침없는 돌진⋯한화생명, G2에 1세트 승리": 1793406913,
-  "한화생명, 8,000억 원 후순위채 효과 자회사 출자에 증발": 1793406913
+  "한화생명, 8,000억 원 후순위채 효과 자회사 출자에 증발": 1793406913,
+  "‘제카’ 김건우 “BLG? 한화생명이 훨씬 잘해…도현이 형, 집으로 보내겠다” [쿠키인터뷰]": 1793427381,
+  "'제카' 스웨인의 끈질긴 버티기⋯한화생명, G2 2-0 완파ㆍ8강 진출전으로": 1793427381,
+  "한화생명 '제우스' 최우제 \"G2 안쓰러웠다⋯저희 팀을 만나게 돼서\"": 1793427381,
+  "한화생명, 1-3 열세 뒤집고 G2 2-0 완승…2승 2패로 BLG와 8강 길목 승부": 1793427381,
+  "한화생명, 유럽 최강 G2 잡고 최종 라운드行…中 강호 BLG 만난다": 1793427381,
+  "한화생명, BLG와 8강 티켓 놓고 1일 스위스 최종전": 1793427381
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:b90747c5f739c611",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘제카’ 김건우 “BLG? 한화생명이 훨씬 잘해…도현이 형, 집으로 보내겠다” [쿠키인터뷰]",
+   "source": "쿠키뉴스",
+   "date": "Fri, 30 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwa1Fwck5oa3dmZ0dPUXpVWlVqNmNuZVJFUW52Vl9NUmtyWXFqOHhoNzJSRTNHcDdjVklRcTBLU1QzRGRYX0dDb29lMHhURS16TGZ1VkNLenU4NjlYTnpSdjdWaw?oc=5",
+   "sort_key": "Fri, 30 Oct 2026 16:24:58 GMT"
+  },
+  {
+   "id": "news:6eb2221e0d65b95f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "'제카' 스웨인의 끈질긴 버티기⋯한화생명, G2 2-0 완파ㆍ8강 진출전으로",
+   "source": "이투데이",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44MnRqbmZTZ1U4dnEzSjhBRERfaXlqQkpBQkxnXzZGTy1KNmNwbXpaT2Jnd0NacUMySGE2eHlhQ3JRVW5EYVpQbE85ZlRLWm80VHViaQ?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 00:42:00 GMT"
+  },
+  {
+   "id": "news:ecf884db4abe66df",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 '제우스' 최우제 \"G2 안쓰러웠다⋯저희 팀을 만나게 돼서\"",
+   "source": "이투데이",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySU5LNGY5akV5TVN1SzZEYXRjLXptNkRpTUxINEdXdmdCS3k0QlJIZk9aVU5UQmFHVGlkLWhtYjljNG8zUFFUZWNvM2l4NzFDR0VRQQ?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 00:57:00 GMT"
+  },
+  {
+   "id": "news:5f44fd17b9e28fdc",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 1-3 열세 뒤집고 G2 2-0 완승…2승 2패로 BLG와 8강 길목 승부",
+   "source": "위키트리",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5R0RvcFhtbVpsc0VUTk85WFFQSlMtbGxDX2kxTHd6WXN2Ti1LNi0zdDJ0LS1WLVJydDRzcGpIRnBLTV9VNXJuSFEyWkUxUVVsdlBwOUlB?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 04:05:00 GMT"
+  },
+  {
+   "id": "news:6dc312149ce9d9d9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 유럽 최강 G2 잡고 최종 라운드行…中 강호 BLG 만난다",
+   "source": "디지털데일리",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UdDdsTlY1MlNhV2UwdDNmdzAySXlCT3h4aDRTVjZlVFljaHJaU0VxNVFqWkxEbjhFelNvY09EU1FsbXV2ZHcxQ0NDWTFGMV9faXN6VTNsNnRlV0t6dlQ5eVZB?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 04:21:59 GMT"
+  },
+  {
+   "id": "news:a8c97976cf5203af",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, BLG와 8강 티켓 놓고 1일 스위스 최종전",
+   "source": "국민일보",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMjM5ckhJeURGOFFBM0tEVG16dHU5blk5Ujl4ZTdVT0VSS3lCeFZaRWZNQllyWlhWSTZTdHdTUkRXbUFkX1hTR2kyTW9NeElQQnRxY200TkY?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 05:12:58 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-10-31"
 }
