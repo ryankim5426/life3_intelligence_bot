@@ -2198,10 +2198,10 @@
   "news:f3dd7461d7aa5314": 1793467476,
   "news:7e03dac92f8140a3": 1793467476,
   "news:da6a08b7267d2585": 1793479058,
-  "news:312ecfd05ad5bf4b": 1793479058
+  "news:312ecfd05ad5bf4b": 1793479058,
+  "news:016cf3c7b29cb1fc": 1793490343
  },
  "stories": {
-  "“스펙 넘어 직무 역량으로”…교보생명, 청년·취약계층 고용 지평 넓혔다": 1793220122,
   "삼성생명도 6%대 자본조달…중소사 부담 커질까": 1793233680,
   "[교보금융 지배력의 대가] ②값싼 증자의 승자, 교보생명 2천억 '잭팟'": 1793233680,
   "삼성전자 주가에 \"명운\"...삼성생명, 넉달 새 지분가치 '46조' 증발": 1793233680,
@@ -2279,7 +2279,8 @@
   "[오!쎈 인터뷰] 4R 충격 탈락...LEC 황제 '캡스'의 소회, \"한화생명 공격성 못 넘어\"": 1793450924,
   "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!": 1793467476,
   "한화생명 후순위채 4000억원 수요예측 11월 3일": 1793467476,
-  "한화생명 '딜라이트' 유환중, “G2 만났을 때, '아, 다들 빨리 빨리 가는구나' 생각했습니다.”": 1793479058
+  "한화생명 '딜라이트' 유환중, “G2 만났을 때, '아, 다들 빨리 빨리 가는구나' 생각했습니다.”": 1793479058,
+  "한화생명 '비상'⋯BLG, '나이트' 오리아나 쿼드라킬로 1세트 선취": 1793490343
  },
  "news_queue": [
   {
@@ -2411,6 +2412,16 @@
    "date": "Sat, 31 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzc2Tk9tRU0wVHNPWVowbHBtcW9ZaVl2Z3puNV9mT0wxV0FZZ2tyZnBqWGV1YWZnOV9EeW9rNnJDOXowNXZxTXJhOVFydF85OTN1QkswbGQxNmxzTHBGTHVKSGp5cTUzMVhQXzNGMGhIVTZJckMwMzVfcUZzSm9FajdJVHRGNGdVSnZGbWptQjdLTW42QXdtRWY5RlZZdjNGSU1NMTlEWTUwSlU1NmFz?oc=5",
    "sort_key": "Sat, 31 Oct 2026 06:25:00 GMT"
+  },
+  {
+   "id": "news:016cf3c7b29cb1fc",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 '비상'⋯BLG, '나이트' 오리아나 쿼드라킬로 1세트 선취",
+   "source": "이투데이",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1scGlLZmtTUWtkQzZfQlBQUzh2QmpiWjUtTEh0dmRMVFpxczdMYkZSOTZocnNuRE1jWkcxV09zTGtlaU5DNzRQZWppUWlVLUVOaTh6cA?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 22:56:00 GMT"
   }
  ],
  "initialized": true,
