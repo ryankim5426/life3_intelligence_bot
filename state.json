@@ -2193,10 +2193,12 @@
   "news:475b4cc19c20127f": 1793450924,
   "news:fb1aff3bebe76efd": 1793450924,
   "news:44a2fddf6eb77ced": 1793450924,
-  "news:4a2759cb57a2eb14": 1793450924
+  "news:4a2759cb57a2eb14": 1793450924,
+  "news:2b7fcc114fdd15a4": 1793467476,
+  "news:f3dd7461d7aa5314": 1793467476,
+  "news:7e03dac92f8140a3": 1793467476
  },
  "stories": {
-  "교보생명, 청년 취업·장애인 고용 지원 공로로 금융위원장 표창": 1793202621,
   "“스펙 넘어 직무 역량으로”…교보생명, 청년·취약계층 고용 지평 넓혔다": 1793220122,
   "삼성생명도 6%대 자본조달…중소사 부담 커질까": 1793233680,
   "[교보금융 지배력의 대가] ②값싼 증자의 승자, 교보생명 2천억 '잭팟'": 1793233680,
@@ -2272,7 +2274,9 @@
   "한화생명, G2 2-0 완파 ‘기사회생’…내일 8강 진출 놓고 5R 나서": 1793450924,
   "'테크볼 AG금메달' 이준석 시투한다...용인 삼성생명 홈 개막전 초대박 이벤트 - 머니투데이": 1793450924,
   "삼성생명, 2일 하나은행과 홈 개막전…세부 리조트 숙박권 등 경품 마련": 1793450924,
-  "[오!쎈 인터뷰] 4R 충격 탈락...LEC 황제 '캡스'의 소회, \"한화생명 공격성 못 넘어\"": 1793450924
+  "[오!쎈 인터뷰] 4R 충격 탈락...LEC 황제 '캡스'의 소회, \"한화생명 공격성 못 넘어\"": 1793450924,
+  "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!": 1793467476,
+  "한화생명 후순위채 4000억원 수요예측 11월 3일": 1793467476
  },
  "news_queue": [
   {
@@ -2374,6 +2378,26 @@
    "date": "Sat, 31 Oct 2026",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JcGhjc3ZmaE02VkhzZmZiS2FteDUzajNRQ0E0Uk1nMl9xWFByaEh3YW14N1gzN3doem83WjR1Wjk1RmI4c1JIeWlOTkFxVEN3U1ZjXw?oc=5",
    "sort_key": "Sat, 31 Oct 2026 11:04:00 GMT"
+  },
+  {
+   "id": "news:f3dd7461d7aa5314",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!",
+   "source": "스포츠경향",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kUE1aN1A2NF9nRHZzZUVXcGxUaVVQajhuSVI0MU9DQ2NYZkNUeFFPOEJhNzRuSXVHN0NJeEhKbDBZdmx1TzE4WVBkM2tWckp1d21hdlRCcEVxX3JzMmc?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 00:57:00 GMT"
+  },
+  {
+   "id": "news:7e03dac92f8140a3",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 후순위채 4000억원 수요예측 11월 3일",
+   "source": "비건뉴스",
+   "date": "Sat, 31 Oct 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YQWlGSkpfYXh2c0tCZ3RjaGFnRVBXRlk3VFVUMTJ5RUpndnBiUDI3amtwdEk4QmRHVVFRbk9UZ1BhSzhWMlBlVDJIOVFOejdhaHpzN0dRS0RQZGh3OTYzOFA0RVVDZw?oc=5",
+   "sort_key": "Sat, 31 Oct 2026 15:54:03 GMT"
   }
  ],
  "initialized": true,
