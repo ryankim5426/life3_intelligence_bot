@@ -2173,11 +2173,12 @@
   "news:45fe2c1daaf5e9f8": 1793377033,
   "news:a9ddd9be6554b043": 1793377033,
   "news:bacb58993f13ba5e": 1793377033,
-  "news:186ecc9faa6f6f56": 1793393646
+  "news:186ecc9faa6f6f56": 1793393646,
+  "news:60b73ef507f4baaa": 1793406913,
+  "news:01cbc43f918b73d9": 1793406913,
+  "news:60bf0a60982844dc": 1793406913
  },
  "stories": {
-  "ROE 3% 삼성생명, 역마진 감수 '비싼 데뷔'...자본효율성 제고 '숙제'": 1793142909,
-  "[W미디어데이] “8연승 기운 받기 위해” 삼성과 똑같은 포즈? 삼성생명 입장 퍼포먼스에 담긴 의미": 1793142909,
   "삼성생명, 생보업계 최대 2조원 달러채 '흥행'…美 자산운용사 지분 인수 탄력": 1793177645,
   "삼성생명, 위험도 측정해 보험상품 안전성 상시 모니터링": 1793177645,
   "증시 상승 타고 삼성생명 8% 급등, 미래에셋생명도 6%대 강세[종목NOW]": 1793177645,
@@ -2267,210 +2268,12 @@
   "교보생명, 변액보험에 AI 모닝브리핑 도입…일일 시황 분석 제공": 1793377033,
   "[재무이슈] 한번에 5조짜리 삼성생명 일시납 저축성보험 가입한 삼성전자.....무슨 일?": 1793377033,
   "삼성생명 中 합작사 신임 총경리 취임…상반기 1370억 흑자 전환": 1793377033,
-  "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적": 1793393646
+  "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적": 1793393646,
+  "제일기획, 최대주주 삼성전자 등 주식 1693주 증가…계열사 삼성생명보험 장내매수 영향": 1793406913,
+  "'제우스' 크산테의 거침없는 돌진⋯한화생명, G2에 1세트 승리": 1793406913,
+  "한화생명, 8,000억 원 후순위채 효과 자회사 출자에 증발": 1793406913
  },
- "news_queue": [
-  {
-   "id": "news:e756cdf3782ace78",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[보험 소식] 현대해상, AI 보험설계 지원…교보생명, 변액보험 시황정보 제공",
-   "source": "토요경제",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyYjlfQ3FXOTdPUEtQYzlob3ZKWEZ4UlZFdWthU284bUp6UkRKMUMyNlZ5VkxfUjJkbWNPeWNjVDJIQTc2TDR0SUJvY3Vjc1Y3Vi14c1hya0dVU19BNUNVMHhiX0ViNlpDbVZLQmpPb9IBb0FVX3lxTFAyYjlfQ3FXOTdPUEtQYzlob3ZKWEZ4UlZFdWthU284bUp6UkRKMUMyNlZ5VkxfUjJkbWNPeWNjVDJIQTc2TDR0SUJvY3Vjc1Y3Vi14c1hya0dVU19BNUNVMHhiX0ViNlpDbVZLQmpPbw?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 04:49:03 GMT"
-  },
-  {
-   "id": "news:bf69c230d6c3a512",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "“삼성화재·삼성생명, 석탄 퇴출 경로 제시해야”",
-   "source": "환경일보",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UUWNIU3NtLUtuOC1rcktUT0pWU0lxNEtzUEdMWmtsZ3dRY2gzeUZzYmRoX1VhYjlDUmMxWnRvSzloWXhvU0FkRmhCYlJKWFBPWUpPc3ZGdHczOUk1YXhOOFNGdXRQVWxL?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 04:59:54 GMT"
-  },
-  {
-   "id": "news:0aede97775655d26",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 11월 2일 하나은행과 홈 개막전…아시안게임 테크볼 금메달리스트 이준석 시투",
-   "source": "점프볼",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRElTMEFRc0xlVVVVV25mOWJ4RG9IcjY3VXQ5YVNqb2tmTU5QbW5VczRBZGYxbFJBR2I2TXdsNjFxYm1uQkI4VkFTNnZ0MEQ1VDlTMlhhX0QtM0pQbnYteVY1OW5EZmRJRnpOS2hRSW8?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 05:19:06 GMT"
-  },
-  {
-   "id": "news:6c7e7a7a79cc5203",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'배혜윤 은퇴' 맞이한 삼성생명에 절실한 것",
-   "source": "오마이스타",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KYzZlcU9VQXpVaFRrb21LaV9QUlFpSnYyMGN6NUpaLXB5Q19Bd1FUWG5SUE1fV2J0ZkJoZUZlQ0VVdXJIWFpTZTlRamhDc1oxWnBLSHZSX0VBNzRDWVVmeXpsVmJFdmlrNmJlcF9uYUk1WnhyTzJIaTVUdktHdw?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 05:40:00 GMT"
-  },
-  {
-   "id": "news:974ae038f9ce2ca4",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·은행권, 미소금융에 8000억원 추가 출연…농협도 재단 신설",
-   "source": "www.ebn.co.kr",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tREl1cjJ4VFMzOW1NZk1saGg3SXU3SjZxTXFhZTRkemYyTkhHcXEtelhJaGxVNGRMYXdoTXZNWWVteENtaGpaT1VNaUdIYW5Uem5jdjF3TVpxblNmMDVNd1R0Ym8xTmk4?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:05:21 GMT"
-  },
-  {
-   "id": "news:fa1090ed07f10d5e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 GA 자회사, 모회사 상품 97.9% ‘몰빵’",
-   "source": "뉴스토마토",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMlVNX25SVTM2UFF4UmxRekxtVURNXzRMUXU5bUlEWWpQaVUtSXlLSFBvMU1EMXhJdE5jY2JBRGtmSXFpME1jRkdUN01HQktmT2xPXzhpdWtmZHBQai1xMg?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:16:16 GMT"
-  },
-  {
-   "id": "news:80bed5a6ea00239e",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, AI 로보어드바이저에 매일 시황 분석 추가…변액보험 관리 디지털화",
-   "source": "이코노미사이언스",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwWVhPT1UzbEtualRQRmhZV1pybkQ2M3J5QzRJMWlQVElmT3c3UWkzUUJmaEozUXhpRUlxc09xVHlneGtkYUo1MWtJa1k3M0pWcTd0b1p3bk0yRlJtZmh6dWN5clZ4T21mNEZISVZiMA?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:39:29 GMT"
-  },
-  {
-   "id": "news:455fe81ccf1141b4",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[30일 보험주 마감시황] 대형 손보 3사 동반 상승…삼성생명 2.70%↓·상장 GA 엇갈림",
-   "source": "보험저널",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FZW55clZISWVkLVJiTksySkxsSGlyS011MUJXZkl4YW1fbXRhdG1KLWRvN1REZThkVGEwTklZVG51ci1CYjBzejV3Y0g1YVVrMjEtZWo2alZpdzF5cmJLNUpJMUx0WTFDdjdwWEU3QQ?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 07:00:44 GMT"
-  },
-  {
-   "id": "news:b523cecef4db338c",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 변액보험도 아침 9시마다 '시황 체크'",
-   "source": "PRESS9",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CRElRWDdrSmdQaFRSSkxOSlh0WkdjZjNjX2I0Z25LZzZZOVFKeWgzb3pkVXhnTWc1LWtFWjhlRDJmTlFJQUl2Qld1bU9LZk9uM2xoVG9HYmtvNW1admZDc2xzMUY?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 07:07:10 GMT"
-  },
-  {
-   "id": "news:a6036251258cbe1c",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[업앤다운]보험주 약세…현대해상↑·삼성생명↓",
-   "source": "NSP통신",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xYW1ZSTBTc3E5OVlGRHRkVy1yX0VXc0J0WU9wYlZLckR6NjUtN3ItSUtoUzVlY01FQWZtcHdfUWpkOExVSDN1NWNlWEFxSTI0ekJkR3lYdXROemNfRFVmTg?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 07:57:42 GMT"
-  },
-  {
-   "id": "news:916863f9af20794e",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 변액보험 펀드 관리에 AI 활용 확대",
-   "source": "한국금융경제신문",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qQVlxYmpfSGVOa0dfU1ZHVGtJRVl3aFhJTE5WekF4QlR4ZWUwaVlsdjZHeWtqeDRsYVk4YVhqV3h4MGU4dXZxc3dTc3h6YUJPODh1SHhfdVFYa2lxYXZPVmlFckZfdkRrMjhmUzhMM1HSAXBBVV95cUxPakFZcWJqX0hlTmtHX1NWR1RrSUVZd2hYSUxOVnpBeEJUeGVlMGlZbHY2R3lrang0bGFZOGFYald4eDBlOHV2cXN3U3N4emFCTzg4dUh4X3VRWGtpcWF2T1ZpRXJGX3ZEazI4ZlM4TDNR?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 08:12:10 GMT"
-  },
-  {
-   "id": "news:176575a9751e1d15",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험 소식] 삼성화재, 클래식카 축제 개최…삼성생명, 보험 가입 이벤트",
-   "source": "토요경제",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzS24zWDFWb25PMUt2Rlh2dUN0WURBSUNVRVE3U2ZuRlhwWk1qNnJZbXJ5b2NPSHpUcDNneTNMYmN0V0M4UnhvNi1vNEctZ0xGVlI5MWdsRWF4N2tlN1NZckxGb25jeVdGUmo1OFpnc9IBb0FVX3lxTFBzS24zWDFWb25PMUt2Rlh2dUN0WURBSUNVRVE3U2ZuRlhwWk1qNnJZbXJ5b2NPSHpUcDNneTNMYmN0V0M4UnhvNi1vNEctZ0xGVlI5MWdsRWF4N2tlN1NZckxGb25jeVdGUmo1OFpncw?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 04:58:54 GMT"
-  },
-  {
-   "id": "news:216bfd5bed8a1ea5",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 다이렉트 보험 가입 시 포인트 제공",
-   "source": "세이프머니",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKeFljeG5mamJsT3dzMUtIZ2NOcVJ1S2lQQzVBdGNFdFprMDA3VFJQQURtTWRtZjBqdmJKOFBlWHdDR2Z1UXV2elVaZDY1MS13MlNwd1B0Nml5M0FJc3hzNWZtbnp2d1k4T2RpcXV3?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:21:23 GMT"
-  },
-  {
-   "id": "news:1b9c3da877ab7ced",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ현대해상 (10.30)",
-   "source": "위클리오늘",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pV1ZhVVRpdkpPb2RkbzA5WXJuZVF4eTdObFY2bU9ieG11YVJQbFEwRVZ2SXRhUF9rOERNSXVURUQ5eUJyQ2tDVmlNRTJVdFZPUVYxcEI0Ulg3amFLZGU4RG42V2M2TTBFNWk2WDZn?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:23:38 GMT"
-  },
-  {
-   "id": "news:93c5f5677c70ab0d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[마감분석] 삼성생명 2.70% 하락 마감 27만 500원에 거래 종료 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JX0RHWmZ4Q0ZkZXdTMnN1bmpXNVdfUFpKaXI2OEx4RUhPOHZHellESXljblRkVkJyU2RuUUw5VFRPcFFtOWxPMkcyWQ?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 06:47:45 GMT"
-  },
-  {
-   "id": "news:b1e6f855f8424f49",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성자산운용, 계열사 삼성생명보험과 4400억원 규모 수익증권 거래",
-   "source": "디지털투데이",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxOEFGelRYRk5jaEFZOVA5RUdvT0E5RzJqVTF0dXA4dzVZbDlOcjUtTnRmcFhzbDh1VDFWVGg5eFRDUG05dkJHSXVSMERTcm1pZmRiLVNRVGhUc2JCbnQyQ0xfWnR1T0Fzdmhyc3h6QU45MjZxZFYyTjBBdw?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 10:02:04 GMT"
-  },
-  {
-   "id": "news:45fe2c1daaf5e9f8",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 변액보험에 AI 모닝브리핑 도입…일일 시황 분석 제공",
-   "source": "컨슈머치",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsd25mMlZBbDJfMFdCajJPVWFLZ1hrbXlZVmVGWjd1WF80ZnMwRmVSYXBBa0pRRDFpNlBYb25yeEpFNnpNRkpPX2tyOVNIeTlrVm1oUEoxdXQ1Tl9feU9PMW9wOXRjam41NDBV?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 10:18:32 GMT"
-  },
-  {
-   "id": "news:a9ddd9be6554b043",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[재무이슈] 한번에 5조짜리 삼성생명 일시납 저축성보험 가입한 삼성전자.....무슨 일?",
-   "source": "https://www.moneystorm.kr/",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wTWtpMkEwUWVRQjlWUUU0SFdBNXdVZ2VaRVVYeHlMRW5OSHZKSDRWejRBV1l1eG53X2prV054RHhKN3NWV0xZWFNuNURFbzIxYXJTMEJ0WHFWMHprajhiM2dXWDBxcTJMWnc?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 11:24:47 GMT"
-  },
-  {
-   "id": "news:bacb58993f13ba5e",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 中 합작사 신임 총경리 취임…상반기 1370억 흑자 전환",
-   "source": "한국신용신문",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CczQ0Zk9FR3hQWkVjYXRUVmhGU2JLVjIxQUNtNGxEeHZwa21vSnZtRFdwdXVBaTBqNUFKREdpMmI0dmc0dzdiYlF1NHJUTllwNENmZk5KbTdkQk1lYlFubEI5eFlxdkVDdlJZ?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 14:25:00 GMT"
-  },
-  {
-   "id": "news:186ecc9faa6f6f56",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적",
-   "source": "금융신문",
-   "date": "Fri, 30 Oct 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94MUs3MmJhZ0Z6QlA0cXNqc0c0Z1JnRnQwdnlyY0lVUVpJRmhnZElXQ3Rxb25BaXRiM0J2SzJGcWRKRVJqWTJnbTc1NWRySEJXTF9rcmdhSl9fWUt0a2FucElJNmpqNk5ZYkpFMWw4YkNXUWQ4Mkx0M2JZdDE?oc=5",
-   "sort_key": "Fri, 30 Oct 2026 18:55:03 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-10-30"
+ "last_digest": "2026-10-31"
 }
