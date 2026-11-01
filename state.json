@@ -2206,19 +2206,23 @@
   "news:12e0b93c2309111a": 1793500809,
   "news:15df2993fc9f0135": 1793500809,
   "news:09858d859319ebf2": 1793500809,
-  "news:8d2d2fbf8d1fff3c": 1793500809
+  "news:8d2d2fbf8d1fff3c": 1793500809,
+  "news:45550a09fc5f05fd": 1793526395,
+  "news:766ad44e9be25930": 1793526395,
+  "news:6151d9437f79014e": 1793526395,
+  "news:b4afadf53754391c": 1793526395,
+  "news:de5003f5677951e9": 1793526398,
+  "news:add34850eff01662": 1793526398,
+  "news:e02a5b57de9a7e16": 1793526398,
+  "news:ed6ce683de814649": 1793526398,
+  "news:a84d4d0fd641e76e": 1793526398,
+  "news:e878bdbf2dd90391": 1793526398,
+  "news:d7d161aacf829bb3": 1793526398,
+  "news:ff8a36c0c0def010": 1793526398,
+  "news:8b20ab2640b8c06f": 1793526398,
+  "news:f72bb21880786482": 1793526398
  },
  "stories": {
-  "삼성생명, 태국 직원들과 맹그로브 숲 조성…글로벌 사회공헌 앞장": 1793254919,
-  "[특징주] 삼성생명, 뚜렷한 악재 없이 장중 1%대 약세 : 기업주식정보": 1793254919,
-  "삼성생명·화재, 전자 통 큰 배당에 3조원대 수혜 전망": 1793254919,
-  "교보생명 대산농촌재단, 제35회 대산농촌상 3명 시상": 1793254919,
-  "[금융-라운지] KB국민은행 / 교보생명 공익재단인 대산농촌재단 / 신한은행 / NH농협은행 / 미래에셋증권 / IBK기업은행 / 하나금융그룹": 1793254919,
-  "삼성중공업, 삼성생명공익재단 등 7곳에 기부금 8억4500만원 출연": 1793254919,
-  "교보생명·유한양행·삼성전자 등 수상·순위 평가 잇따라…금융위원장 표창부터 브랜드가치 세계 5위까지": 1793254919,
-  "교보생명 대산농촌재단, 첫 의료인 수상자 선정…박건희 원장": 1793254919,
-  "[금융계 9월 동향] 한화생명, 글로벌 금융 생태계 확장···디지털 경쟁력 강화": 1793254919,
-  "[더밸류 브리핑] 오늘의 보험계 소식…한화손보·교보생명· 교보라이프플래닛생명": 1793254919,
   "[삼성생명, 고금리 자본확충의 명암②] 상반기 1.9조 번 삼성생명, 2조원 고금리 조달…자본운용 딜레마": 1793280811,
   "[마감분석] 삼성생명 보합권 강세 27만8000원 거래 마쳐 : 기업주식정보": 1793280811,
   "한화생명 주가 30원 상승 후 장마감": 1793280811,
@@ -2289,9 +2293,120 @@
   "한화생명, BLG에 0-2 완패⋯월즈 8강 진출 좌절": 1793500809,
   "'바이퍼' 박도현 \"한화생명과 함께 8강 가고 싶었다⋯운명의 장난 같아\"": 1793500809,
   "한화생명, 암경험청년 일상 복귀 응원…'위케어리셋' 운동회 개최": 1793500809,
-  "한화생명, “암경험청년, 운동하며 함께 회복해요”": 1793500809
+  "한화생명, “암경험청년, 운동하며 함께 회복해요”": 1793500809,
+  "한화생명·현대제철·롯데케미칼·롯데쇼핑·이마트…‘저PBR 기업’ 꼬리표 붙는다": 1793526398,
+  "당국, 현대제철·영풍·한화생명 등 저PBR기업 151개사 지정": 1793526398,
+  "한화생명·현대제철 등 151곳 ‘저PBR’ 꼬리표…밸류업 압박 커진다": 1793526398,
+  "코스피 저PBR 기업 명단..한화생명 등 96개사": 1793526398,
+  "이서현, 삼성생명 주식 84만8000주 추가 담보 제공": 1793526398,
+  "롯데쇼핑·이마트·한화생명도 ’저PBR’…저평가 기업 151곳 첫 공개 By EBN": 1793526398,
+  "저PBR 상장사 151곳 공개…현대제철·한화생명 등 포함": 1793526398,
+  "시총 1조 넘는 현대제철에 한화생명까지 … 거래소, 저PBR 151개사 명단 첫 공개": 1793526398,
+  "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등": 1793526398,
+  "한화생명, 대한암협회와 암경험청년 응원 운동회 개최": 1793526398
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:de5003f5677951e9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·현대제철·롯데케미칼·롯데쇼핑·이마트…‘저PBR 기업’ 꼬리표 붙는다",
+   "source": "매일경제 마켓",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWnhTa1ZhMDdKckY4d1hqaFVSbHctUjJfUWZDbkRqREt0Zk5LNE9Ic0VFQ3NvQnY0V01IRE5ndG1hMVh0MlMtNU9uSnhPMm9aTnc?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:00:00 GMT"
+  },
+  {
+   "id": "news:add34850eff01662",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "당국, 현대제철·영풍·한화생명 등 저PBR기업 151개사 지정",
+   "source": "뉴스로드",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcm00OHNnWkRYUl9sSnB3OUhVWkNLOWJOMGtFX0JkUUFRY1NjYlRTQ01YUTRoLUR6SUpEaU1GRk1EVmxsemtEY3pSQ1V1YWpvMWJPNk9DSXFHR1h0TFNkYnJpMGZOM3RfT1FV0gFvQVVfeXFMUHQ4cmd1YnJoN3Nna1pETlI0c2dMY21JcWZmQ0s3ZUdOanBXaW5MYVJUZ2U3ZFBaQWRoUlZNUTBnSmJDVk5IaXVQcWc2c01Gazk0a242eHhhQUNJVVdsS0JBdHc2SXQzemlHX1V1UnU4?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:00:00 GMT"
+  },
+  {
+   "id": "news:e02a5b57de9a7e16",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·현대제철 등 151곳 ‘저PBR’ 꼬리표…밸류업 압박 커진다",
+   "source": "이데일리",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVVfRHlUTDEtUURqRXh4WnUwNFljMnl0Z1I5NVZOSUw0XzE5bzF6VFF1UnM2X00zV25PV0FGQlgtT3JXdXY5TG11enNLMnJTY01IMXZ3ZFRqb1ZuenVWRjZPd1M5YkdaMlA3eDlLaXFBNmgxVGZjT01yXzZySWYzaA?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:00:06 GMT"
+  },
+  {
+   "id": "news:ed6ce683de814649",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "코스피 저PBR 기업 명단..한화생명 등 96개사",
+   "source": "스마트투데이",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zWjd6dVo0Z19QVUhPWDFDRXQ4V0hUb3hMeFlCeXFkYzNOT1ZaSngwRHd4VHhWbUl0d2xLdUxtbW1VakQ1LVVhQzlWeVp2SXpocGkyU04zVndFdDdqdGZB?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:00:44 GMT"
+  },
+  {
+   "id": "news:a84d4d0fd641e76e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "이서현, 삼성생명 주식 84만8000주 추가 담보 제공",
+   "source": "비건뉴스",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Fc2ZpY0hRUndHRjlsbjJhOUpEcHFYQ2JJbzRCUHVtQld3Tm1jeDV1NmFxZTE4Rzhta0gtMXhNc1VDZy1fcXYyc21yVlRJdEI3SEJ5cnM3UEZqdUZjdTZNSnpXazFxUQ?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:21:41 GMT"
+  },
+  {
+   "id": "news:e878bdbf2dd90391",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "롯데쇼핑·이마트·한화생명도 ’저PBR’…저평가 기업 151곳 첫 공개 By EBN",
+   "source": "Investing.com 한국어",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMjJxT2FfN1NCOWZuTmVWa1hoS2o3Mnp3Zzd3Z3AtSG9iT21Vc1JtNEc4OWdhbUc3ZjZuY0dBeWVNVmdBOVFrSTNiVmU1R2d2SGoteFFwVk5SN1V6TmFCUUFNSlN2LUlBQjBRRkFFVUY?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 03:24:00 GMT"
+  },
+  {
+   "id": "news:d7d161aacf829bb3",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "저PBR 상장사 151곳 공개…현대제철·한화생명 등 포함",
+   "source": "브릿지경제",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWTYtdFl5RWUtUFZ6VHZlTEVRVzlWOHJUNTMzQVNCcUNzYm1UODNmT3A3V2lxbFdzekhJLU54MlEtTU9zU2lla1oyTFRMZ1RQdW51U3Rna2N4dw?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 04:24:00 GMT"
+  },
+  {
+   "id": "news:ff8a36c0c0def010",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "시총 1조 넘는 현대제철에 한화생명까지 … 거래소, 저PBR 151개사 명단 첫 공개",
+   "source": "뉴데일리",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bWRLanY5XzNfM3pHcFlzejUyOXNxNXdIdHV3cTRlQkxsdDJER1A0XzkwNlcyM2Niallya2QwbGVkc255akRvY1p6MUlSSkMtRW5keXdtQnN2RFU1Q0djaHBxRnlZbUZqTEF2emt5ek10TWJ6UjFIdjBKRdIBgAFBVV95cUxOemhsd1pBRWRfNFNnRjVyTGotUjRhNHlUbnRPRm9ISG9oZEdGQS1CWkU2NnZPVlRMajJrbGFEQWU4Zm44aXp4UFhTeG40b2lNRDRVVmhPVUVhY0llVmpIeUJldFA5c1ZzUl9SRXVwNnJyaWwyUndjVW5CQmt6WThUTA?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 04:48:00 GMT"
+  },
+  {
+   "id": "news:8b20ab2640b8c06f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등",
+   "source": "동아일보",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KY3l3cUk1ZEFzY1dzcnVLVXc3RUYtSHNvbDJURGljSlljd1B4REU1c250bXB6M0s1WVFZWlJrZzZVbF9PaGhPeGRsNXhIR1R0V3MyOVotVE5XZWJYWTdRYTV1QXl0OVllaVZ2Z2NOLTl0TkZFc0HSAWZBVV95cUxOd3M4bTR5Q3MzUEdzUGhqaDBvOUdacmtuRVVLdTVtUjNPWVhoODlIOXUxTDh3QWtUX25QVXI1RDUtcFFVSVpzcHVzS2hXbmY2NU5IbE50bE5hRUpaeHVvUzlkbzdtQlE?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 05:05:00 GMT"
+  },
+  {
+   "id": "news:f72bb21880786482",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 대한암협회와 암경험청년 응원 운동회 개최",
+   "source": "파이낸셜신문",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oN04yWDk5RzFQYVVNYUMzMlVZTndZRTg1NGdnZ3ItT2ROanVwMEh4Q2FSYzlBajNPLUlNUW5XczVucTZxeUVzRlA1OEpWRVROdDNHN2k4dEduODNsQmkyWWt1ZzdLUDJtYm5B?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 05:24:20 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-01"
 }
