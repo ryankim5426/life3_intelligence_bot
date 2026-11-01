@@ -2228,14 +2228,21 @@
   "news:b45e28130a915bc7": 1793566030,
   "news:e0ec0be651d1f3f2": 1793566031,
   "news:a9243b7e99821dcc": 1793566031,
-  "news:f758f95d76959fe5": 1793566031
+  "news:f758f95d76959fe5": 1793566031,
+  "news:110bbb313432c290": 1793577486,
+  "news:16a2cb217164a0be": 1793577486,
+  "news:6cdfad7e0187414f": 1793577486,
+  "news:1c46250854fdaca1": 1793577486,
+  "news:0d15fc2cb71ab302": 1793577486,
+  "news:237fd663c0269e08": 1793577486,
+  "news:b6226749050608aa": 1793577487,
+  "news:a3c705949e0d2283": 1793577487,
+  "news:fb520803fd5471d7": 1793577487,
+  "news:56c0bc6e785892fd": 1793577487,
+  "news:f03859342e5d8c12": 1793577487,
+  "news:a82e406284010382": 1793577487
  },
  "stories": {
-  "[진단_보험업계 ②한화생명] 금융사업 확장 속 수익성 검증 과제... 대규모 투자에 주주환원 공백 우려": 1793316207,
-  "보험사기 무더기 적발..현대해상·DB손보·KB손보·한화생명 등 설계사 제재": 1793316207,
-  "삼성생명 퇴직연금 3.1조 싹쓸이하며 홀로 '독주'…대형 보험사 10곳 중 7곳은↓": 1793316207,
-  "초고령사회 \"진단금 넘어 돌봄까지\"…한화생명, 치매·간병보험 '판도' 바꾼다": 1793316207,
-  "[단독] 삼전닉스 통큰 배당에 지분 보유한 계열사들 7조 배당금 '잭팟'...SK스퀘어 2.9조 삼성생명 2.3조": 1793316207,
   "“삼성생명 다이렉트 신규 가입 고객에 네이버페이 포인트”": 1793328622,
   "삼성생명, 신규 고객 대상 '다이렉트 보험 이벤트' 실시": 1793328622,
   "교보생명, AI에 FP더해 변액보험 ‘상시관리’ 강화": 1793328622,
@@ -2301,140 +2308,15 @@
   "한화생명, 대한암협회와 암경험청년 응원 운동회 개최": 1793526398,
   "거래소, '기업가치 저평가' 151개사 명단 첫 공개…한화생명·롯데케미칼 등": 1793566031,
   "교보생명, ‘FP 전용 뉴스룸’ 가동": 1793566031,
-  "한화생명, ‘한화생명 필요할때 쓰는 종신보험’ 생애주기 맞춤형": 1793566031
+  "한화생명, ‘한화생명 필요할때 쓰는 종신보험’ 생애주기 맞춤형": 1793566031,
+  "준우승팀이 꼴찌 후보라니… ‘젊은피’ 삼성생명, 반란 꿈꾼다": 1793577487,
+  "삼성생명 특별계정, 제일기획 주식 1693주 순증": 1793577487,
+  "[삼성생명, 고금리 자본확충의 명암③] 삼성생명, K-ICS 208% 최고인데 조달금리도 최고…연 6.875% 득실 짚어보니": 1793577487,
+  "저평가된 기업 공개, 투자 기회 잡으세요—현대제철, 한화생명 포함": 1793577487,
+  "\"증명하겠다\" 예상은 꼴찌, 목표는 반전…삼성생명의 유쾌한 도전": 1793577487,
+  "삼성생명·화재, 삼전 30조원 배당 수혜…소각엔 긴장": 1793577487
  },
- "news_queue": [
-  {
-   "id": "news:de5003f5677951e9",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명·현대제철·롯데케미칼·롯데쇼핑·이마트…‘저PBR 기업’ 꼬리표 붙는다",
-   "source": "매일경제 마켓",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWnhTa1ZhMDdKckY4d1hqaFVSbHctUjJfUWZDbkRqREt0Zk5LNE9Ic0VFQ3NvQnY0V01IRE5ndG1hMVh0MlMtNU9uSnhPMm9aTnc?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:00:00 GMT"
-  },
-  {
-   "id": "news:add34850eff01662",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "당국, 현대제철·영풍·한화생명 등 저PBR기업 151개사 지정",
-   "source": "뉴스로드",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcm00OHNnWkRYUl9sSnB3OUhVWkNLOWJOMGtFX0JkUUFRY1NjYlRTQ01YUTRoLUR6SUpEaU1GRk1EVmxsemtEY3pSQ1V1YWpvMWJPNk9DSXFHR1h0TFNkYnJpMGZOM3RfT1FV0gFvQVVfeXFMUHQ4cmd1YnJoN3Nna1pETlI0c2dMY21JcWZmQ0s3ZUdOanBXaW5MYVJUZ2U3ZFBaQWRoUlZNUTBnSmJDVk5IaXVQcWc2c01Gazk0a242eHhhQUNJVVdsS0JBdHc2SXQzemlHX1V1UnU4?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:00:00 GMT"
-  },
-  {
-   "id": "news:e02a5b57de9a7e16",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명·현대제철 등 151곳 ‘저PBR’ 꼬리표…밸류업 압박 커진다",
-   "source": "이데일리",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVVfRHlUTDEtUURqRXh4WnUwNFljMnl0Z1I5NVZOSUw0XzE5bzF6VFF1UnM2X00zV25PV0FGQlgtT3JXdXY5TG11enNLMnJTY01IMXZ3ZFRqb1ZuenVWRjZPd1M5YkdaMlA3eDlLaXFBNmgxVGZjT01yXzZySWYzaA?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:00:06 GMT"
-  },
-  {
-   "id": "news:ed6ce683de814649",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "코스피 저PBR 기업 명단..한화생명 등 96개사",
-   "source": "스마트투데이",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zWjd6dVo0Z19QVUhPWDFDRXQ4V0hUb3hMeFlCeXFkYzNOT1ZaSngwRHd4VHhWbUl0d2xLdUxtbW1VakQ1LVVhQzlWeVp2SXpocGkyU04zVndFdDdqdGZB?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:00:44 GMT"
-  },
-  {
-   "id": "news:a84d4d0fd641e76e",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "이서현, 삼성생명 주식 84만8000주 추가 담보 제공",
-   "source": "비건뉴스",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Fc2ZpY0hRUndHRjlsbjJhOUpEcHFYQ2JJbzRCUHVtQld3Tm1jeDV1NmFxZTE4Rzhta0gtMXhNc1VDZy1fcXYyc21yVlRJdEI3SEJ5cnM3UEZqdUZjdTZNSnpXazFxUQ?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:21:41 GMT"
-  },
-  {
-   "id": "news:e878bdbf2dd90391",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "롯데쇼핑·이마트·한화생명도 ’저PBR’…저평가 기업 151곳 첫 공개 By EBN",
-   "source": "Investing.com 한국어",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMjJxT2FfN1NCOWZuTmVWa1hoS2o3Mnp3Zzd3Z3AtSG9iT21Vc1JtNEc4OWdhbUc3ZjZuY0dBeWVNVmdBOVFrSTNiVmU1R2d2SGoteFFwVk5SN1V6TmFCUUFNSlN2LUlBQjBRRkFFVUY?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 03:24:00 GMT"
-  },
-  {
-   "id": "news:d7d161aacf829bb3",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "저PBR 상장사 151곳 공개…현대제철·한화생명 등 포함",
-   "source": "브릿지경제",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWTYtdFl5RWUtUFZ6VHZlTEVRVzlWOHJUNTMzQVNCcUNzYm1UODNmT3A3V2lxbFdzekhJLU54MlEtTU9zU2lla1oyTFRMZ1RQdW51U3Rna2N4dw?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 04:24:00 GMT"
-  },
-  {
-   "id": "news:ff8a36c0c0def010",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "시총 1조 넘는 현대제철에 한화생명까지 … 거래소, 저PBR 151개사 명단 첫 공개",
-   "source": "뉴데일리",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bWRLanY5XzNfM3pHcFlzejUyOXNxNXdIdHV3cTRlQkxsdDJER1A0XzkwNlcyM2Niallya2QwbGVkc255akRvY1p6MUlSSkMtRW5keXdtQnN2RFU1Q0djaHBxRnlZbUZqTEF2emt5ek10TWJ6UjFIdjBKRdIBgAFBVV95cUxOemhsd1pBRWRfNFNnRjVyTGotUjRhNHlUbnRPRm9ISG9oZEdGQS1CWkU2NnZPVlRMajJrbGFEQWU4Zm44aXp4UFhTeG40b2lNRDRVVmhPVUVhY0llVmpIeUJldFA5c1ZzUl9SRXVwNnJyaWwyUndjVW5CQmt6WThUTA?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 04:48:00 GMT"
-  },
-  {
-   "id": "news:8b20ab2640b8c06f",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등",
-   "source": "동아일보",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KY3l3cUk1ZEFzY1dzcnVLVXc3RUYtSHNvbDJURGljSlljd1B4REU1c250bXB6M0s1WVFZWlJrZzZVbF9PaGhPeGRsNXhIR1R0V3MyOVotVE5XZWJYWTdRYTV1QXl0OVllaVZ2Z2NOLTl0TkZFc0HSAWZBVV95cUxOd3M4bTR5Q3MzUEdzUGhqaDBvOUdacmtuRVVLdTVtUjNPWVhoODlIOXUxTDh3QWtUX25QVXI1RDUtcFFVSVpzcHVzS2hXbmY2NU5IbE50bE5hRUpaeHVvUzlkbzdtQlE?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 05:05:00 GMT"
-  },
-  {
-   "id": "news:f72bb21880786482",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 대한암협회와 암경험청년 응원 운동회 개최",
-   "source": "파이낸셜신문",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oN04yWDk5RzFQYVVNYUMzMlVZTndZRTg1NGdnZ3ItT2ROanVwMEh4Q2FSYzlBajNPLUlNUW5XczVucTZxeUVzRlA1OEpWRVROdDNHN2k4dEduODNsQmkyWWt1ZzdLUDJtYm5B?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 05:24:20 GMT"
-  },
-  {
-   "id": "news:e0ec0be651d1f3f2",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "거래소, '기업가치 저평가' 151개사 명단 첫 공개…한화생명·롯데케미칼 등",
-   "source": "포쓰저널",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSnp4MER0aE5ydUZ0cktaTHYxU0EyWTNfcnpGX3ZQaWxtNTRiU1J0UTdjbnh6NGpoaWtLTU1CNXJSTHUyMDhiY2Z4eFJ0dFVpelRHODNKcVp1dFExMkpsUHNYdF8?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 09:43:41 GMT"
-  },
-  {
-   "id": "news:a9243b7e99821dcc",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, ‘FP 전용 뉴스룸’ 가동",
-   "source": "보험신보",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QcWljU3Vra0QtNnA2RXlkbnBlUXdoN01KSko5ZmM3U0tFc09ZM1BnM2VJNE52QmJwMlQ2d2M0UkdyT2Vid3JXbWxtZHN6dnZ0Y3hQLW9XeUczamxINXllQ3l4aXN5cmtGWlpF?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 15:00:00 GMT"
-  },
-  {
-   "id": "news:f758f95d76959fe5",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, ‘한화생명 필요할때 쓰는 종신보험’ 생애주기 맞춤형",
-   "source": "보험신보",
-   "date": "Sun, 01 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KTHNZcXdVZWlVRjZmdmVkTERyQl9hNWFvbHdvM2txTFVFdzlHSFl1enhjcXNjZHdPWGl3WGh4V1dWNm0zaVNjbWM3aW1reVRYOU9RRTZKNV9oVGxsUFBCVlExR2FScld4WHR3?oc=5",
-   "sort_key": "Sun, 01 Nov 2026 15:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-01"
+ "last_digest": "2026-11-02"
 }
