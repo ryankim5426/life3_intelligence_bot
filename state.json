@@ -2220,7 +2220,15 @@
   "news:d7d161aacf829bb3": 1793526398,
   "news:ff8a36c0c0def010": 1793526398,
   "news:8b20ab2640b8c06f": 1793526398,
-  "news:f72bb21880786482": 1793526398
+  "news:f72bb21880786482": 1793526398,
+  "news:7222ba516be4fce5": 1793566030,
+  "news:31e0c7008d9d8270": 1793566030,
+  "news:edb206dfea821b76": 1793566030,
+  "news:1ac2a9724e1bf0cc": 1793566030,
+  "news:b45e28130a915bc7": 1793566030,
+  "news:e0ec0be651d1f3f2": 1793566031,
+  "news:a9243b7e99821dcc": 1793566031,
+  "news:f758f95d76959fe5": 1793566031
  },
  "stories": {
   "[진단_보험업계 ②한화생명] 금융사업 확장 속 수익성 검증 과제... 대규모 투자에 주주환원 공백 우려": 1793316207,
@@ -2290,7 +2298,10 @@
   "저PBR 상장사 151곳 공개…현대제철·한화생명 등 포함": 1793526398,
   "시총 1조 넘는 현대제철에 한화생명까지 … 거래소, 저PBR 151개사 명단 첫 공개": 1793526398,
   "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등": 1793526398,
-  "한화생명, 대한암협회와 암경험청년 응원 운동회 개최": 1793526398
+  "한화생명, 대한암협회와 암경험청년 응원 운동회 개최": 1793526398,
+  "거래소, '기업가치 저평가' 151개사 명단 첫 공개…한화생명·롯데케미칼 등": 1793566031,
+  "교보생명, ‘FP 전용 뉴스룸’ 가동": 1793566031,
+  "한화생명, ‘한화생명 필요할때 쓰는 종신보험’ 생애주기 맞춤형": 1793566031
  },
  "news_queue": [
   {
@@ -2392,6 +2403,36 @@
    "date": "Sun, 01 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oN04yWDk5RzFQYVVNYUMzMlVZTndZRTg1NGdnZ3ItT2ROanVwMEh4Q2FSYzlBajNPLUlNUW5XczVucTZxeUVzRlA1OEpWRVROdDNHN2k4dEduODNsQmkyWWt1ZzdLUDJtYm5B?oc=5",
    "sort_key": "Sun, 01 Nov 2026 05:24:20 GMT"
+  },
+  {
+   "id": "news:e0ec0be651d1f3f2",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "거래소, '기업가치 저평가' 151개사 명단 첫 공개…한화생명·롯데케미칼 등",
+   "source": "포쓰저널",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSnp4MER0aE5ydUZ0cktaTHYxU0EyWTNfcnpGX3ZQaWxtNTRiU1J0UTdjbnh6NGpoaWtLTU1CNXJSTHUyMDhiY2Z4eFJ0dFVpelRHODNKcVp1dFExMkpsUHNYdF8?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 09:43:41 GMT"
+  },
+  {
+   "id": "news:a9243b7e99821dcc",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, ‘FP 전용 뉴스룸’ 가동",
+   "source": "보험신보",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QcWljU3Vra0QtNnA2RXlkbnBlUXdoN01KSko5ZmM3U0tFc09ZM1BnM2VJNE52QmJwMlQ2d2M0UkdyT2Vid3JXbWxtZHN6dnZ0Y3hQLW9XeUczamxINXllQ3l4aXN5cmtGWlpF?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:f758f95d76959fe5",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, ‘한화생명 필요할때 쓰는 종신보험’ 생애주기 맞춤형",
+   "source": "보험신보",
+   "date": "Sun, 01 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KTHNZcXdVZWlVRjZmdmVkTERyQl9hNWFvbHdvM2txTFVFdzlHSFl1enhjcXNjZHdPWGl3WGh4V1dWNm0zaVNjbWM3aW1reVRYOU9RRTZKNV9oVGxsUFBCVlExR2FScld4WHR3?oc=5",
+   "sort_key": "Sun, 01 Nov 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
