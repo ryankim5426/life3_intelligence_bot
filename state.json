@@ -2240,19 +2240,24 @@
   "news:fb520803fd5471d7": 1793577487,
   "news:56c0bc6e785892fd": 1793577487,
   "news:f03859342e5d8c12": 1793577487,
-  "news:a82e406284010382": 1793577487
+  "news:a82e406284010382": 1793577487,
+  "news:c61d4137bcc4bc98": 1793598538,
+  "news:7710872db37e6cf6": 1793598538,
+  "news:302bee3da89792e8": 1793598538,
+  "news:2c384a0aa89e5ac4": 1793598538,
+  "news:f3ad93f748adbb94": 1793598538,
+  "news:f3c102fb7e92bac8": 1793598538,
+  "news:85384bb83c40be9e": 1793598539,
+  "news:4efdbc14c6bf1800": 1793598539,
+  "news:8769365ab7332c88": 1793598539,
+  "news:4b88511386755304": 1793598539,
+  "news:c2a505e273084bda": 1793598539,
+  "news:e5c98d1c4cbd3a26": 1793598539,
+  "news:ba3a5e71fbfa8028": 1793598539,
+  "news:a0dcb162cb8c46e5": 1793598539,
+  "news:18c47bce9d1a130d": 1793598539
  },
  "stories": {
-  "“삼성생명 다이렉트 신규 가입 고객에 네이버페이 포인트”": 1793328622,
-  "삼성생명, 신규 고객 대상 '다이렉트 보험 이벤트' 실시": 1793328622,
-  "교보생명, AI에 FP더해 변액보험 ‘상시관리’ 강화": 1793328622,
-  "[금융-라운지] KB국민은행 / NH농협은행 / 교보생명 / (재)iM뱅크장학문화재단, ‘2026년 고등학생 해외문화탐방사업’": 1793328622,
-  "교보생명, 로보어드바이저 ‘모닝브리핑’ 개시…변액보험 관리 지원": 1793328622,
-  "교보생명, AI 활용 변액보험 사후관리 강화…매일 금융시황 제공": 1793328622,
-  "교보생명, 변액보험 '가입 후 관리' 강화…AI로 매일 시장 점검": 1793328622,
-  "삼성생명, 12일 3분기 경영실적 발표": 1793328622,
-  "\"건강·노후 든든하게 챙기고 혜택까지\"…삼성생명 다이렉트, 11월 가입 이벤트": 1793328622,
-  "삼성생명, 11월 다이렉트 보험 가입 이벤트…최대 3만원 혜택": 1793328622,
   "[보험 소식] 현대해상, AI 보험설계 지원…교보생명, 변액보험 시황정보 제공": 1793353628,
   "“삼성화재·삼성생명, 석탄 퇴출 경로 제시해야”": 1793353628,
   "삼성생명, 11월 2일 하나은행과 홈 개막전…아시안게임 테크볼 금메달리스트 이준석 시투": 1793353628,
@@ -2314,9 +2319,109 @@
   "[삼성생명, 고금리 자본확충의 명암③] 삼성생명, K-ICS 208% 최고인데 조달금리도 최고…연 6.875% 득실 짚어보니": 1793577487,
   "저평가된 기업 공개, 투자 기회 잡으세요—현대제철, 한화생명 포함": 1793577487,
   "\"증명하겠다\" 예상은 꼴찌, 목표는 반전…삼성생명의 유쾌한 도전": 1793577487,
-  "삼성생명·화재, 삼전 30조원 배당 수혜…소각엔 긴장": 1793577487
+  "삼성생명·화재, 삼전 30조원 배당 수혜…소각엔 긴장": 1793577487,
+  "[뉴스 앤 데이터] 생보사 여성 독립이사 28.6%…삼성생명 절반, DB생명 0명": 1793598539,
+  "삼성생명, 11월 다이렉트 보험 이벤트…“건강보장·노후준비 함께” 추진": 1793598539,
+  "동탄시티병원, 삼성생명·대웅제약과 ‘AI 의료의 미래’ 선보인다": 1793598539,
+  "한화금융·한화생명, 4개사 ‘퇴직연금 2030 비전’ 선포·암경험청년 응원 운동회 개최": 1793598539,
+  "이경근 한화생명 대표 \"고객 장기 이익 최우선…퇴직연금 경쟁력 강화\"": 1793598539,
+  "한화생명, 암경험청년들과 운동회… 회복은 함께": 1793598539,
+  "자금 소요 커진 한화생명, 최대 8000억 후순위채 발행": 1793598539,
+  "‘저PBR 낙인’ 금융사 5곳...면제 불발 DB·현대차증권, 침묵 택한 한화생명·흥국화재": 1793598539,
+  "SBI저축은행, 교보생명 품에서 새 출발…‘교보SBI’로 사명 변경": 1793598539
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:85384bb83c40be9e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[뉴스 앤 데이터] 생보사 여성 독립이사 28.6%…삼성생명 절반, DB생명 0명",
+   "source": "서울타임즈뉴스",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoV01uRnFETlhwZXczWV9QQ0MxYTd2dy1VeDJUMlF5elpkZ2ljanZkR1dRN2R1ZHBWV2MzcTNFazMtS09hZkNOd1FCNzlzbFVoSjE3d0hwdzB3VFUwczZxRmF3TTVoWEdmZnE4?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 00:00:01 GMT"
+  },
+  {
+   "id": "news:4efdbc14c6bf1800",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 11월 다이렉트 보험 이벤트…“건강보장·노후준비 함께” 추진",
+   "source": "파이낸셜포스트",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zeGVmNng0Z0QyTi1XbkNqbjlhbHRJYVJlRWowWW1PQ09HcEhSbWR2ZnV6cUpsWHRCZm1EVWY0WFpZVVhZbHJENVNTUS1tWU5tZThTMU5PX3c0SGs5Q29wNF80dmtZUzJkME44OVRSMW9iN2t0?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 01:50:15 GMT"
+  },
+  {
+   "id": "news:8769365ab7332c88",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "동탄시티병원, 삼성생명·대웅제약과 ‘AI 의료의 미래’ 선보인다",
+   "source": "www.dt.co.kr",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01bkVaYWFVVzZwc2hiNTdXemRQLWowem5adEdOQ3NFblV4a05GUFMtTVRIbE9tTlE5U0QyR3d3dWhCVGItSk91UmRncEp4QQ?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 02:30:01 GMT"
+  },
+  {
+   "id": "news:4b88511386755304",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화금융·한화생명, 4개사 ‘퇴직연금 2030 비전’ 선포·암경험청년 응원 운동회 개최",
+   "source": "여성소비자신문",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OVk9POFZ2VEhyMmJIQlEzdHkwMVVhdG40V0hyMEZ2XzVlUkNsQ1AzcGYyX0k0SndpaWItUGRldjh0bHhFQVVRSjQ4bTVjRjhrYlBCaDZuaV91dEpxSjV2alJ6V3J5QQ?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 02:35:07 GMT"
+  },
+  {
+   "id": "news:c2a505e273084bda",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "이경근 한화생명 대표 \"고객 장기 이익 최우선…퇴직연금 경쟁력 강화\"",
+   "source": "ER 이코노믹리뷰",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WanFFcG9sRVBXM0JGOXZVMW5KVEh4LV9YUnhrTTQ0cngwWk1vNGEwdVo5cG1aTkYyNGUycXoyWjlsM0R6OTJOZjlGc3ktT0hWVkFUWGo1VGFGSlJLdUNmaXBZNExYREl2aW1yag?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 02:51:38 GMT"
+  },
+  {
+   "id": "news:e5c98d1c4cbd3a26",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 암경험청년들과 운동회… 회복은 함께",
+   "source": "천지일보",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBONjNibFdDa1RuUzhCTFRpcm50Y3NoQ3dSRGphQWpPZUxyYmVxd3V2Y2VjUXBZdGtNdjBLdDdiWm94UjRobXM3RmhzbHF0eTJtczdUdGhyUHRDVUpyblJnOHlPcUpYQWpXQkE?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 04:16:27 GMT"
+  },
+  {
+   "id": "news:ba3a5e71fbfa8028",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "자금 소요 커진 한화생명, 최대 8000억 후순위채 발행",
+   "source": "뉴스톱",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZWcwTnVJeUNBUkFqMWxIdXlIVHFUTXBfZXlNenkweUo5SjNCZWs3RlZzTjFtNF9sTW1DNmxZdl9FOVloYzR3QTZ0b3psc0ctLWJyaFcwQUVBOWZjWjAyNkFRbmxvYjRzRE9jQjVVVQ?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 04:19:36 GMT"
+  },
+  {
+   "id": "news:a0dcb162cb8c46e5",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘저PBR 낙인’ 금융사 5곳...면제 불발 DB·현대차증권, 침묵 택한 한화생명·흥국화재",
+   "source": "주주경제신문",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0ZXhwcUFsYS13ZHhrX3lNU3dhdUo0QnpTLWxETk1nLUIyZy1oX3hPblEtN29fcVNfZmNjNUhXT0dyVFVRZ3F3N0h4Sk5JbWZ6ZVAyeVFnWldremZFYW52YmY2YkdjUWlW?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 04:37:41 GMT"
+  },
+  {
+   "id": "news:18c47bce9d1a130d",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "SBI저축은행, 교보생명 품에서 새 출발…‘교보SBI’로 사명 변경",
+   "source": "마이데일리",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWEIxWUtkdWt1TVdlOVVIUVFERVo4MWRLOEdpS1VydzZQMFBfT0g5SjdEMkpVSGFpb0ZZNGhtaWhZVmtoOU02d1hZMmFvWFc5VFVKT0g2dU01ckFRYnFqdg?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 05:24:55 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-02"
 }
