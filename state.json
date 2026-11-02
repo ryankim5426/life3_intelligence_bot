@@ -2277,18 +2277,20 @@
   "news:ae4d02d99bb1c433": 1793627967,
   "news:01e06fe5a6846325": 1793627967,
   "news:f27ee8fab8ca7c2c": 1793627967,
-  "news:9aa39e0a3fe2fb0b": 1793627967
+  "news:9aa39e0a3fe2fb0b": 1793627967,
+  "news:1a9640c1ce08765d": 1793659398,
+  "news:5edd6329065aef07": 1793659398,
+  "news:1f1eb52cc467fb51": 1793659401,
+  "news:7ebae24ebd353758": 1793659401,
+  "news:c86949f36ae691fe": 1793659401,
+  "news:7046fea29c8cd539": 1793659401,
+  "news:9ffe36a0fc4a1e05": 1793659401,
+  "news:fcd4e1231744a137": 1793659401,
+  "news:dec6308021feb3d5": 1793659401,
+  "news:7e00046ba1d534d3": 1793659401,
+  "news:784584cf34d9233d": 1793659401
  },
  "stories": {
-  "[보험 소식] 삼성화재, 클래식카 축제 개최…삼성생명, 보험 가입 이벤트": 1793377033,
-  "삼성생명 다이렉트 보험 가입 시 포인트 제공": 1793377033,
-  "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ현대해상 (10.30)": 1793377033,
-  "[마감분석] 삼성생명 2.70% 하락 마감 27만 500원에 거래 종료 : 기업주식정보": 1793377033,
-  "삼성자산운용, 계열사 삼성생명보험과 4400억원 규모 수익증권 거래": 1793377033,
-  "교보생명, 변액보험에 AI 모닝브리핑 도입…일일 시황 분석 제공": 1793377033,
-  "[재무이슈] 한번에 5조짜리 삼성생명 일시납 저축성보험 가입한 삼성전자.....무슨 일?": 1793377033,
-  "삼성생명 中 합작사 신임 총경리 취임…상반기 1370억 흑자 전환": 1793377033,
-  "[DCM] 한화생명, 후순위채 4000억 발행…자본 확충 효과는 제한적": 1793393646,
   "제일기획, 최대주주 삼성전자 등 주식 1693주 증가…계열사 삼성생명보험 장내매수 영향": 1793406913,
   "'제우스' 크산테의 거침없는 돌진⋯한화생명, G2에 1세트 승리": 1793406913,
   "한화생명, 8,000억 원 후순위채 효과 자회사 출자에 증발": 1793406913,
@@ -2359,7 +2361,16 @@
   "삼성생명, 모모나 3점포 앞세워 첫 승…하나은행에 18점 차 완승": 1793627967,
   "삼성생명, '꼴찌 후보' 평가 뒤집었다…두 아시아쿼터 앞세워 개막전에서 하나은행 압도": 1793627967,
   "“기대보다 더 잘해줬네요” 삼성생명 하상윤 감독, 20점 + 3점슛 6개 모모나에 엄지 척": 1793627967,
-  "‘더블더블 맹활약’ 삼성생명 첫승 이끈 이해란 “꼴찌 후보? 우린 그렇게 생각 안 했어”": 1793627967
+  "‘더블더블 맹활약’ 삼성생명 첫승 이끈 이해란 “꼴찌 후보? 우린 그렇게 생각 안 했어”": 1793627967,
+  "중소형사 틈 낀 '4조' 한화생명…'저PBR 낙인'에 상속세 뇌관": 1793659401,
+  "'꼴찌 후보' 삼성생명, 시즌 첫 경기 18점 차 대승": 1793659401,
+  "’이해란 더블더블’ 삼성생명, 하나은행 84-66 격파": 1793659401,
+  "삼성생명, 개막전 84-66 완승…미야사카 20점·이해란 더블더블": 1793659401,
+  "“이제 우리 차례” 삼성생명도 웃었다... 하나은행 84대66 제압": 1793659401,
+  "누가 삼성생명을 무시했나! 모모나 개인 최다 20점 폭발…3시즌 만에 개막 첫 경기 승리 [SD 용인 스타]": 1793659401,
+  "[2026 ESG 브랜드] 삼성생명, 금융권 ESG 브랜드 1위…장기 신뢰 기반 보험업권 강세": 1793659401,
+  "삼성생명 개막전서 하나은행 제압…84대66 승리 : 스포츠": 1793659401,
+  "미래에셋생명 변액보험 브랜드평판 1위…삼성생명·교보생명 順": 1793659401
  },
  "news_queue": [
   {
@@ -2651,6 +2662,96 @@
    "date": "Mon, 02 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aT2FnbXZvcXUwbmNEVjlfT2UzMzBXMXd4Z2Rsd2VDRkY3ZE9HdUE2WS1uak10TjhydjNPaGpCN3o0TjBGNm85SHZmeXIyREkyNm1kQmNDWU1PWGxic01jYU40SUhMdnZxUE5ZVTdJRm5WRnBN?oc=5",
    "sort_key": "Mon, 02 Nov 2026 13:55:33 GMT"
+  },
+  {
+   "id": "news:1f1eb52cc467fb51",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "중소형사 틈 낀 '4조' 한화생명…'저PBR 낙인'에 상속세 뇌관",
+   "source": "인베스트조선",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMm9fMmdka0x1TUwtX1ZEQkl3OVBBd09feHVjYkdjSkwzOGhzTFdaQzFKcjN3Y25nRUdoeEc3anNZdDVBOGE3MVJOenZHZlBIVEh3dTFoUm1HQjRwSDR5M1UtZTJ0U0pSN1NrX3BjQjNzSXZfMHdpRmtqbGNxc2syM09Wcw?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 06:29:00 GMT"
+  },
+  {
+   "id": "news:7ebae24ebd353758",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'꼴찌 후보' 삼성생명, 시즌 첫 경기 18점 차 대승",
+   "source": "YTN",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nbFJzS0dadE1kYXo5WVF0ZWloVTlqeXRjQlBTMDZzUDdhOUp1U19CQ29FRTlOMGJJc0JmNDhDWktRQzljTlBXVXBKbjYyMHFidExUZ1pIa0FTSGJZTVE?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 12:32:00 GMT"
+  },
+  {
+   "id": "news:c86949f36ae691fe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "’이해란 더블더블’ 삼성생명, 하나은행 84-66 격파",
+   "source": "연합뉴스TV",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55Nm1JTno4VXJTdFBCUEdJWmVHNF84YVBCYXBkNl9mS1oyaHBRT1FSWWdlZ2lWOGExYXp0M1BzZS1GQTh2YWd5a2xSMXNXWm1YakNfMmhUX0NxMFY5NVFBLVZNcHQwMDg?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 14:31:00 GMT"
+  },
+  {
+   "id": "news:7046fea29c8cd539",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 개막전 84-66 완승…미야사카 20점·이해란 더블더블",
+   "source": "국제뉴스",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYbURLV21DSVJQd0xFNlFlT28xOUFNYzR0aXpGMlVNMFNSZXlKYlVaeHVDbWdnUnpUWVlsbENKaTcxeUZwX1pYdnNaZXlkWDVmS1gySGZrNjJIdzYwUHgxNWhDUC1uR195aGRQVTdR?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 14:48:12 GMT"
+  },
+  {
+   "id": "news:9ffe36a0fc4a1e05",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "“이제 우리 차례” 삼성생명도 웃었다... 하나은행 84대66 제압",
+   "source": "STN SPORTS",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcjI3NGQ0N0NyemJKZUE5WHE1aVFrbzJxUWxCN2tCVktXSGN6cXM2NkxkaklaZUV2bmtmdUxPRE1HVkFvcUNMQU5Edm8xS3FtU0xFaGw1c2hlN1ZLZV83N1BPYTh3b0o3X3JGS2x6Yw?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 18:22:41 GMT"
+  },
+  {
+   "id": "news:fcd4e1231744a137",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "누가 삼성생명을 무시했나! 모모나 개인 최다 20점 폭발…3시즌 만에 개막 첫 경기 승리 [SD 용인 스타]",
+   "source": "스포츠동아",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xZFVoaGFXdTNGSVF0aW0zLWI5UGhVTWdYbU00bGxPd1BGY0wyOU40STlMaXZVeWVSZlYxdkI3eWVwZXZKcFNxclNJd19MM1JXLV9vV2xWZk9XUnBvYThOOHZ5WUJDN1ZMdjlFOEQ2d3NXUQ?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 20:48:00 GMT"
+  },
+  {
+   "id": "news:dec6308021feb3d5",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[2026 ESG 브랜드] 삼성생명, 금융권 ESG 브랜드 1위…장기 신뢰 기반 보험업권 강세",
+   "source": "한국경제",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NU82NTJOZGc1T1VLa3VGaWJySG5ZeS13bFJwWVVOZ201ejJEdWw5TFprZ2Z0eGx6SjJCRGJDT1FpelRxOW5Rbkt2SXJJbmV1Szhwb0g2LUxsZw?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 21:01:08 GMT"
+  },
+  {
+   "id": "news:7e00046ba1d534d3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 개막전서 하나은행 제압…84대66 승리 : 스포츠",
+   "source": "재경일보",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wVWlyNmFYR3c1anRGWW9UZWJuREEyMzFneWJnTlFZQmxQWUhILU5MOFktWndFbWxGYy1RR3gxQUpBSS1GbFdzTDNwRQ?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 21:41:00 GMT"
+  },
+  {
+   "id": "news:784584cf34d9233d",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "미래에셋생명 변액보험 브랜드평판 1위…삼성생명·교보생명 順",
+   "source": "핀포인트뉴스",
+   "date": "Mon, 02 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41T3pMbktRTl9jaG5VT3Iwc0FESFZjcFpwRjg3a3c5eU5tRUtKVDhVZWgtT3dMdWlTWHVDQW1FRjRqRWdDWVJYVFdrSVFlbURHeVVQdGVUVXNxN0ptQUlULU5kUmR1RTN6SHV5bHFlMHgtclHSAXdBVV95cUxPaW5SNjgtLVp4VnNTZlM5bUpzeFBqX25Fc2Q5aGphTkZTTEFyRXVTaWloUFdvcVdsQ192U2EwcjFjSmdvNFZxMjQ0NlJGM0FRVDlOT1hsYUwybHFJc3VfRDZpR18zT3hVbUlWal85d25BQ1VsS1V1NA?oc=5",
+   "sort_key": "Mon, 02 Nov 2026 22:17:43 GMT"
   }
  ],
  "initialized": true,
