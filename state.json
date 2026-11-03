@@ -2327,15 +2327,12 @@
   "news:d7a7bff03d2f1e75": 1793705088,
   "news:f81e53f939df7f86": 1793705088,
   "news:601c26b503cdbc1b": 1793705088,
-  "news:eba0266fa928e61e": 1793705088
+  "news:eba0266fa928e61e": 1793705088,
+  "news:b98769e45a71a8e5": 1793731045,
+  "news:6c714c5f03f21be4": 1793731046,
+  "news:78a285914eecce78": 1793731046
  },
  "stories": {
-  "한화생명, G2 2-0 완파 ‘기사회생’…내일 8강 진출 놓고 5R 나서": 1793450924,
-  "'테크볼 AG금메달' 이준석 시투한다...용인 삼성생명 홈 개막전 초대박 이벤트 - 머니투데이": 1793450924,
-  "삼성생명, 2일 하나은행과 홈 개막전…세부 리조트 숙박권 등 경품 마련": 1793450924,
-  "[오!쎈 인터뷰] 4R 충격 탈락...LEC 황제 '캡스'의 소회, \"한화생명 공격성 못 넘어\"": 1793450924,
-  "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!": 1793467476,
-  "한화생명 후순위채 4000억원 수요예측 11월 3일": 1793467476,
   "한화생명 '딜라이트' 유환중, “G2 만났을 때, '아, 다들 빨리 빨리 가는구나' 생각했습니다.”": 1793479058,
   "한화생명 '비상'⋯BLG, '나이트' 오리아나 쿼드라킬로 1세트 선취": 1793490343,
   "[더밸류 브리핑] 오늘의 보험계 소식…삼성생명·교보생명· 카카오페이손해보험": 1793500809,
@@ -2438,7 +2435,9 @@
   "[현장] 삼성생명, 집에서 하는 웰니스 ‘커넥티드케어’ 선보여": 1793705088,
   "삼성생명, 금산법 위반 우려 속 에스원 주식 13만7000주 매각": 1793705088,
   "삼성생명, 에스원 지분 5% 아래로 낮춘다…135억 매각": 1793705088,
-  "삼성생명, 에스원 지분 135억원어치 매각…금산법 위반 우려 해소": 1793705088
+  "삼성생명, 에스원 지분 135억원어치 매각…금산법 위반 우려 해소": 1793705088,
+  "한화생명, 4000억 후순위채 구상…\"차환 수요에 선제 대응\"": 1793731046,
+  "윤동욱 한화생명 상무, 보통주 7600주 장내매수": 1793731046
  },
  "news_queue": [
   {
@@ -2750,6 +2749,26 @@
    "date": "Tue, 03 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnhaVE83R3otcVpxanBHQUZOYWZ2bUI0ZE5FZzEzMEtjUm44bHpzeTBTY2k3VlpocGpEQ1MzeFBRNE8xOGxPZmVManEwSHZCQ1FxN2tYSkxiUmhOQ1BUV2RMdDhwa2NPS0dmYkNwQkhVT2xOQndkbjVZQ0cwWHl6TdIBlAFBVV95cUxQUVp6M0xTWXlRejY5S2gzRGRtSkgtSXlkaTlwRjJHaUxfc2gxMjN5VHZ5YlVpTlJsdmxseEZpMW5DZUdIRjBKZThraHRTa2VWUVZ1emtJUTctRHBMSUxOMHdfcWNRWnNlYUQ0dmpnX25yVnpqTFVZZUVJRW9UVG9WMWhqbW50NUdTZkM4dWxKX1hPUUhJ?oc=5",
    "sort_key": "Tue, 03 Nov 2026 10:39:00 GMT"
+  },
+  {
+   "id": "news:6c714c5f03f21be4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 4000억 후순위채 구상…\"차환 수요에 선제 대응\"",
+   "source": "Daum",
+   "date": "Tue, 03 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52Nm90UnNHejlzbG81NnBpUU9SVlp5MVZiNkhpbVRKX3BlQWRrTVFmaFdnTkxxZi15czFsT3cyZ3kwV2FmRDcydVpCaw?oc=5",
+   "sort_key": "Tue, 03 Nov 2026 07:15:45 GMT"
+  },
+  {
+   "id": "news:78a285914eecce78",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "윤동욱 한화생명 상무, 보통주 7600주 장내매수",
+   "source": "비건뉴스",
+   "date": "Tue, 03 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOYksxTkdVZGZSdnNJSEt1cTg2MnpmMXdIWWdOTG9HQURXbFlxbnZPYmhDMTVKRGY2bFpJOU1nX0J2cDZyOTYxR3hQQXRMSnFkMmlpRHFicUdrWkoxOXVOWXY5VnFEQQ?oc=5",
+   "sort_key": "Tue, 03 Nov 2026 15:40:47 GMT"
   }
  ],
  "initialized": true,
