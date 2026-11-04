@@ -2377,7 +2377,10 @@
   "news:7b546d6bc1711142": 1793791601,
   "news:7fb606d5bb884949": 1793791601,
   "news:16dcb6bb75b42de3": 1793791601,
-  "news:8ca6b8a547478e0d": 1793791601
+  "news:8ca6b8a547478e0d": 1793791601,
+  "news:4d5022f461fbaac8": 1793818073,
+  "news:7e80e800dab75f2b": 1793818073,
+  "news:5424ee5d920246fa": 1793818073
  },
  "stories": {
   "거래소, '기업가치 저평가' 151개사 명단 첫 공개…한화생명·롯데케미칼 등": 1793566031,
@@ -2503,7 +2506,10 @@
   "한화생명 ‘필요 종신보험’ 가입자 3명 중 1명 2030세대": 1793791601,
   "삼성생명, 초고령사회 맞춤형 '시니어 케어' 모델 제시": 1793791601,
   "[보험 NOW] 삼성생명·한화생명·현대해상": 1793791601,
-  "[오늘의 보험] 삼성생명·AXA손해보험·ABL생명·신한EZ손해보험·현대해상": 1793791601
+  "[오늘의 보험] 삼성생명·AXA손해보험·ABL생명·신한EZ손해보험·현대해상": 1793791601,
+  "교보생명, 퇴직연금 원리금비보장 적립금 55% 증가…3조1700억원 돌파": 1793818073,
+  "한화생명 “종신보험 신상품 2030 가입률 높아…자신 위한 보장에 호응”": 1793818073,
+  "[더밸류 브리핑] 오늘의 보험계 소식…삼성생명·한화생명·ABL생명": 1793818073
  },
  "news_queue": [
   {
@@ -2855,6 +2861,36 @@
    "date": "Wed, 04 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbGV0bXZtQ0xad25kZExlVW5tNmM5c01ybUdYQkpWbHZtZGUxbFVMaWY5UXU3bW84Q0NNSEI1MHl6bDJvTVFWQUI3OG51RFpGTTJUdlpoT1FaQXJ5aUQ2RVVYRVExUk91LU5CSGltZklIV0F6?oc=5",
    "sort_key": "Wed, 04 Nov 2026 08:46:22 GMT"
+  },
+  {
+   "id": "news:4d5022f461fbaac8",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 퇴직연금 원리금비보장 적립금 55% 증가…3조1700억원 돌파",
+   "source": "토요경제",
+   "date": "Wed, 04 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LSXVZRkFTb3N6cW1uTFowQkx3UG1FbDk2QXVrdEpUNTMzTFJ6QXgzc3dqdzZINUtNdHZ4U1cxeWowWlRiaU8taGJlOFI3SVM1QjZabzEzOVh1ZVoxSXJ4RFJmUjA5eTVZS01EQTZLZ9IBb0FVX3lxTE1LSXVZRkFTb3N6cW1uTFowQkx3UG1FbDk2QXVrdEpUNTMzTFJ6QXgzc3dqdzZINUtNdHZ4U1cxeWowWlRiaU8taGJlOFI3SVM1QjZabzEzOVh1ZVoxSXJ4RFJmUjA5eTVZS01EQTZLZw?oc=5",
+   "sort_key": "Wed, 04 Nov 2026 06:25:37 GMT"
+  },
+  {
+   "id": "news:7e80e800dab75f2b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 “종신보험 신상품 2030 가입률 높아…자신 위한 보장에 호응”",
+   "source": "인더뉴스",
+   "date": "Wed, 04 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SG96YkNkOVhwRzZFUkU2S3pBVnRnazI5VzFOeWRXZW82ck0xWW1WRXp5RmY2SzNZb3BPVWk0dHJ0YjduZDB1QnRkelBNSE1mVzBPTkFBNnZhSUwwZnRtbFFpZHk?oc=5",
+   "sort_key": "Wed, 04 Nov 2026 07:56:50 GMT"
+  },
+  {
+   "id": "news:5424ee5d920246fa",
+   "kind": "news",
+   "company": "삼성생명 · 한화생명",
+   "title": "[더밸류 브리핑] 오늘의 보험계 소식…삼성생명·한화생명·ABL생명",
+   "source": "더밸류뉴스",
+   "date": "Wed, 04 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MazNRQUlsSE1RYlFxNTZiamV2eFQxTGlXVVVEQWdlb2E5cGxrZHdqWWk4d2tMdF9sSTVvcmQyZ3dtRF9Dei1mTEc1ODVOekttd2c0?oc=5",
+   "sort_key": "Wed, 04 Nov 2026 07:59:41 GMT"
   }
  ],
  "initialized": true,
