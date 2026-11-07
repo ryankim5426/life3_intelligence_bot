@@ -2463,11 +2463,11 @@
   "news:1d694ba48bc27224": 1793981800,
   "news:f740896cce9bd72f": 1793981800,
   "news:729fc602e398c9ab": 1793981800,
-  "news:06e969de4374caa4": 1793981800
+  "news:06e969de4374caa4": 1793981800,
+  "news:bdca4f109bc0d0d8": 1794014098,
+  "news:fa48919199049570": 1794014098
  },
  "stories": {
-  "삼성생명, 삼성FN리츠 증자에 176억원 출자 예정": 1793749325,
-  "삼성생명, 서민금융진흥원 통해 157억원 지원": 1793749325,
   "삼성생명, 지역 통합돌봄 모델 ‘시니어 커넥티드 케어’ 공개": 1793762560,
   "저축은행·자산운용 품은 교보생명, 악사손보 인수 앞두고 '멈칫' - 머니투데이": 1793762560,
   "삼성생명, AI로 일상부터 병원까지 연결…'시니어 통합돌봄' 공개": 1793762560,
@@ -2566,160 +2566,10 @@
   "한화생명·흥국화재 ‘저PBR’… 배당 재원·기본자본에 발목": 1793981800,
   "교보생명, 민원 처리 근거까지 공개…소비자보호 모범사례 선정": 1793981800,
   "‘김동원 체제’ 한화생명, 국내 첫 베트남 생보사 진출 17년차 성적은?": 1793981800,
-  "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어": 1793981800
+  "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어": 1793981800,
+  "한화생명, 설계사용 'AI 비서' 도입…생·손보사 전방위 확산": 1794014098
  },
- "news_queue": [
-  {
-   "id": "news:a6e94a5533fbe966",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 삼성전자서 10조원 가까이 받나…11조원 유배당 결손에 '배당 딜레마'",
-   "source": "금융경제신문",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PR1c3OTh2SHNFb1NSWTFZNk1aZ2RxRFd5aFFkbHZuOW56WV8zbEpaTUQwc0MtSHdscGFtR0ZlR0dxLTdoMjR3NjlpMXNrVUZTLW1DazRfLTA2XzhlVGJyY0poMzNFVWxtTkYyadIBb0FVX3lxTFB5bUJjRC1wR19PTUYtTnZnWDctSjRxVUhpOTZDcUNKRUF6YzF6RU5MZUVvelJjZDRKVzVTTUtBXzNYX3N4cFNZd3JLV3Zld2xILXFnMnVfYjR2bmRQa0pBb1NtOTVTUWFrMGltMTN3Zw?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 01:30:00 GMT"
-  },
-  {
-   "id": "news:8185260571001bbb",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "\"죽어서 남기는 보험은 옛말\"...한화생명, '살아서 쓰는 종신보험'에 2030 몰렸다",
-   "source": "소비자경제",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5VU1tcmE2a3lLUXB5LWVjc25tSzJNcnMwcnRzS2RNNVJSOWxPY0FrYVVILWxfOUVFaDFqWEtBUnNoOEJ0eTFJSGo4c2pKRk9Rbnh5UmlOR0FVMlVvSkZPeUZQY1NoRk44WGI0?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 01:53:06 GMT"
-  },
-  {
-   "id": "news:61c07b2830ab67cd",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[금융계 동향] NH농협은행·우리금융·교보생명",
-   "source": "민주신문",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pMkVta0NyQUJFSHdkbkFrTzh5ZlIzeDd3N3Y0ODJFU0RBQTdxWW5EMWozMzNmWUQyd3FsYUNKT292MXFRczZoZzAwTy1CcG15NGVWSGZHSnZ0LWJFYktBODhNNzltaGPSAWtBVV95cUxPOUVUNVhBMjRfRmxsR1lnRU1fRGRJLWdVNG9lblJIemZoSi02emRFa0x0VUFLN1EzNllaQ0l6NFM4eF9Bcm1HR3JWOFpyZjZCbVp5M1QxZDBieVhZa3Z5VUowakl5UkZFaE02SQ?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 05:18:18 GMT"
-  },
-  {
-   "id": "news:69f1323ccfa1bdda",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "호텔신라, 최대주주 삼성생명보험 등 주식 1250주 감소…삼성생명 특별계정 장내매도 영향",
-   "source": "디지털투데이",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14Z1ZVcWstb0ZYTGdqRDNMTENmZ1JweVNrZnA2NzRhVV9nblNET2Qzb3FnZFlraV9CUndpU3RCeGRtTkJwWkxxMnZKTW9WRHBYbG9WWkVtN3VBcGljMWZfTnl4M0ZNQl9aSkRvdXJvcHZnaW9TbDBDcDJNUQ?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 05:41:06 GMT"
-  },
-  {
-   "id": "news:aa59207abd91f7a5",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 교보교육재단, 청소년 대상 AI 윤리교육 실시",
-   "source": "화이트페이퍼",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZU96NHlUc3ZDcG5GNEtHcm9zdk9fYnowY255cXp2MmVtQkZWbnNaYndsb3o2WlFoUWJYMUNqOEU0eS1PY2RocDROQlFaS2xCM05EMlRBQk94SkNMYnF3WlVTNExiME14WnJzMEJScU3SAXNBVV95cUxOTnNGOE84WnQ3cC1rX2F5Qzg5N0J6QnEzVXpyblh0NWgzeF80M3M3S3BDSF9EbWNweUJ2dlBCdDFyTUNhUC05UnFmMmc2QkxRTk5PSDRXUm13cnVpMUdqQmFKSnBIak1FS2lZd29RRjlNYlN3?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 06:46:36 GMT"
-  },
-  {
-   "id": "news:fcddf627058553ff",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 주가 180원 하락 후 장마감",
-   "source": "아시아뉴스통신",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sdnJUdVJQWXZYR3QwV09qczNQdmVYREhwMlFHRDNwOVJFWXpSZ2E2T1ppNnpwT0o4dTRMWGNSa2FINmVTZmJvc3hWXzZHaW44ZTVYQUl0cDhoc3Nh?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 06:50:14 GMT"
-  },
-  {
-   "id": "news:ed0c849271aed924",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 배당 불확실성에 밸류업 계획도 '안갯속' [저PBR 꼬리표]",
-   "source": "MTN 머니투데이방송",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uUDVkUlVPT1BrWVE1WkVzUFVtc3dTUVJwMTVTWHpMWXBJR3V1VkhsajlsY3FzdjJxS3NKdkUyc1JwOS1NZFJrSFo3Qy04eXVaRFZucmNiWGVRQUlzZl9n?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 06:54:39 GMT"
-  },
-  {
-   "id": "news:b3a0bcbaf9fe8f23",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[ESG경영] 교보생명·이지스자산운용·유한양행 등, 고객 보호·사회공헌 활동 이어가",
-   "source": "데일리팝",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10cm5aUC1UdHhvNDQ2Snl1NE9sSGw5VTVnX3c3amJ6RVg4VTlLY2ZKeTdBakY0VzhpbW51eUZjSzN6TGxCRVJlY1dDMjUxMjl2a1JWZmZhZG4zVzhDMmRSakQ5V2Z0V1V5?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 07:17:00 GMT"
-  },
-  {
-   "id": "news:c1c6e2d947cdc0e3",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[특징주] 삼성생명, 장중 5%대 하락세… 24만6000원선 기록 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Thu, 05 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMS1OWTNRNFdTUVF5ZlZNRGhYZm41Y01ydWZCM0preWpzOHgyM1dMQzBEUDhlMHR6eDJ2LWxLNWJUYW83OHZseXFYMA?oc=5",
-   "sort_key": "Thu, 05 Nov 2026 01:22:26 GMT"
-  },
-  {
-   "id": "news:e29069402c92025a",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[마감분석] 삼성생명 4%대 하락 마감 23만4500원 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xT0Qtczg0RnVSYTVVTENwWlVlSkxkMUdzdFgyYjJuU1IySUJ2RUNiQ3pJUkNpa2h4SmNuY2c0R1AtUkd1TDM5RGw4cw?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 06:47:43 GMT"
-  },
-  {
-   "id": "news:f27b8b2c5db860ac",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "김동원 한화생명 부회장, 자본확충 직진…‘금융 영토 확장’ 실탄 채웠다",
-   "source": "인사이트코리아",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wdHM4eWVyakVOay1CcVhFV0syamtlUWxJelZJVDhJMVhvNXZncjVHNXE2emhOOWtYX3Q1WkNIZTBrbjA1Y2tXQndBSTY0UndGczRsZG9OY1BxR21rUDg2SFZSbDJnQ2JhY2RrQnhWSG9RbmvSAXdBVV95cUxOV1ZMcVV2djBfRk92NzNyZEZ4QV90eUpJQWtqaHA1cW5XWmhLZk9HUWh4TF9Rak9aZTg2UGt5Y0hoXzdRZHdwN3pONDdWQWFGREkxWldhd0FmNUlFMjV4Rjl0NUlrQnd2Z1JrMV95VElSTHZjbFU3UQ?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 08:05:46 GMT"
-  },
-  {
-   "id": "news:1d694ba48bc27224",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명·흥국화재 ‘저PBR’… 배당 재원·기본자본에 발목",
-   "source": "핀포인트뉴스",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HTGhXbFhjN3I2c3F5VXBfSHZZeDJCWGZQRGYwMVZQVEJBVmRjbFpFdHNhT0xJZTZwX3h1cjJIQnRiQ2cyMWV5M1BqeHNzTER1bW5fcE9wbk12V1BNRG1MelJGT2YzMGNOVUJmRW5zSFA5aDhxaXRB0gF3QVVfeXFMT0dMaFdsWGM3cjZzcXlVcF9Idll4MkJYZlBEZjAxVlBUQkFWZGNsWkV0c2FPTEllNnBfeHVyMkhCdGJDZzIxZXkzUGp4c3NMRHVtbl9wT3BuTXZXUE1EbUx6UkZPZjMwY05VQmZFbnNIUDloOHFpdEE?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 08:21:49 GMT"
-  },
-  {
-   "id": "news:f740896cce9bd72f",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 민원 처리 근거까지 공개…소비자보호 모범사례 선정",
-   "source": "뉴스포스트",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yeGFxdG1TVVg1eFR5Rkp1SDh0YXc5RUJOQUMxMEswdUIxZ2g1VzR3NUhGN2hzNE5lN1BfbHU0a2g0cWpJbEFSV0lxUjBFMHkxMVVuTFFCczZrazktZXlSXzgyWEZ1d09O?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 08:38:12 GMT"
-  },
-  {
-   "id": "news:729fc602e398c9ab",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "‘김동원 체제’ 한화생명, 국내 첫 베트남 생보사 진출 17년차 성적은?",
-   "source": "인사이드비나",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEYkowRUgzVVJBeWl4b1BFS0V1TEFOekx6bnlmLXhiM0ZiSGVhTDRYV0VRV1ljck5CbUNxMVNjQTNsTC1ZbGFrdDZjM08xSGRGUUFrcUhYRklsQVVXalBNT0IzQWwtTHdXcDBucw?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 09:08:46 GMT"
-  },
-  {
-   "id": "news:06e969de4374caa4",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어",
-   "source": "토요경제",
-   "date": "Fri, 06 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RGQ3LXh6a01vRWxPSk0yc3o4RG12N3FzQVJWVllDZ2FIaFNYUVZFU1N1ZVp2TldQandRbExMLVJvckpFRkVPOExPN0xDc3ZkZmhpc09GZk1acDhYVHhUY9IBb0FVX3lxTE9kMlB6dmhsRUZUWGJNa3lNRzVsX1RUNEtYWmZ4bnkySUVjVVJfT2hVbjRObW1NN2lITDl6OHdMRmtVM0F1OUNON18wa0NFRVR2dnMybnJrSUdOcVZMSk1lQ2VDRm5iTFVJSDhDR3BUWQ?oc=5",
-   "sort_key": "Fri, 06 Nov 2026 13:04:19 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-06"
+ "last_digest": "2026-11-07"
 }
