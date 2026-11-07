@@ -2473,7 +2473,8 @@
   "news:eb4cd39e9ddbba12": 1794035952,
   "news:13748af734eb599d": 1794060865,
   "news:9c26d1288aae21e8": 1794060865,
-  "news:99bcb4815042d187": 1794077544
+  "news:99bcb4815042d187": 1794077544,
+  "news:c10f1490471155fd": 1794090973
  },
  "stories": {
   "삼성생명, 동탄서 ‘시니어 돌봄’ 실증 착수…“비용 체계·건보 연계는 미확정”": 1793836701,
@@ -2544,7 +2545,8 @@
   "한화생명 종신보험에 2030 몰렸다…가입 비중 2배": 1794035952,
   "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리": 1794060865,
   "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
-  "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544
+  "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544,
+  "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]": 1794090973
  },
  "news_queue": [
   {
@@ -2616,6 +2618,16 @@
    "date": "Sat, 07 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa0hmODN4NC15MXdqSzA5bGZIMGR1bDM0X2xqV0llQU1TdVc1S0gyQ1NNb2dfQmdKZGJhcHN6SExaalBrMEczRzNUVUprbkIxeUVUUFVHWkJwRUgzQ2dBVW1IRzFQdUp6UDcwUzNaQmItSEth?oc=5",
    "sort_key": "Sat, 07 Nov 2026 09:12:23 GMT"
+  },
+  {
+   "id": "news:c10f1490471155fd",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]",
+   "source": "금융신문",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yM1c4MXpLekM5Ykxmd1ktNndEajRiY3oya05ZeG4waGdfd3pnWndobnJwc3p3QkgwYkh5S2Z1dkZLVk1KbHdLVkxrY0lIWjRYbmhXNE9fM1FrMG41WWptQ2VicUF6NFZFUENCeV9OclVWZllYcm9TaGlpOW8?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
