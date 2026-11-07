@@ -2465,27 +2465,14 @@
   "news:729fc602e398c9ab": 1793981800,
   "news:06e969de4374caa4": 1793981800,
   "news:bdca4f109bc0d0d8": 1794014098,
-  "news:fa48919199049570": 1794014098
+  "news:fa48919199049570": 1794014098,
+  "news:4bcf72d78107203b": 1794035951,
+  "news:2d37676aaf400b8d": 1794035952,
+  "news:e093978dfef4e4d3": 1794035952,
+  "news:4a6083471346b160": 1794035952,
+  "news:eb4cd39e9ddbba12": 1794035952
  },
  "stories": {
-  "삼성생명, 지역 통합돌봄 모델 ‘시니어 커넥티드 케어’ 공개": 1793762560,
-  "저축은행·자산운용 품은 교보생명, 악사손보 인수 앞두고 '멈칫' - 머니투데이": 1793762560,
-  "삼성생명, AI로 일상부터 병원까지 연결…'시니어 통합돌봄' 공개": 1793762560,
-  "삼성생명, 생활정보로 병원·지역돌봄 잇는 모델 공개": 1793762560,
-  "한화생명, '생애자금형 종신보험' 2030세대 비중 31%…일반 종신 두배": 1793762560,
-  "삼성생명, AI로 고령자 일상 돌본다…지역 의료기관까지 연계": 1793762560,
-  "다올證 “삼성생명 '에스원 지분' 처분, 금산법 위반 위험 해소 차원”": 1793762560,
-  "한화생명, '꺼내 쓰는 종신보험' 2030 비중 31%": 1793762560,
-  "삼성생명, ‘일상부터 지역 의료 연계’ 시니어 서비스 코엑스 전시": 1793762560,
-  "삼성생명, 초고령사회 대응 속도…AI 기반 통합돌봄 모델 공개": 1793762560,
-  "한화생명 \"'필요할때 인출' 종신보험 2030 가입 비중 31%\"": 1793762560,
-  "삼성생명, 지역 통합돌봄 모델 공개…화성 동탄서 12월까지 실증": 1793762560,
-  "\"살아있을 때 꺼내 쓴다\"…한화생명 달라진 종신보험에 2030 호응, 가입 비중 31%": 1793762560,
-  "삼성생명, AI 기반 ‘시니어 통합돌봄 모델’ 선보여": 1793762560,
-  "삼성생명, AI로 시니어 일상 돌본다…화성 동탄서 통합케어 실증": 1793762560,
-  "삼성생명, 통합돌봄에 팔 걷었다...AI 접목한 모델, 동탄서 실증": 1793762560,
-  "삼성생명, 에스원 13.7만주 선제 매각…'금산법 위반' 사전 차단": 1793762560,
-  "한화생명 NEW ' 종신보험'에 2030세대도 호응": 1793762560,
   "교보생명, 창업주 신용호 교육철학 잇는다…제28회 교보교육대상 수상자 선정": 1793791601,
   "삼성생명, 에스원 지분 완전 매각 가능성 낮아": 1793791601,
   "한화생명 \"2030, 종신보험 변화에 가입↑\"": 1793791601,
@@ -2567,9 +2554,54 @@
   "교보생명, 민원 처리 근거까지 공개…소비자보호 모범사례 선정": 1793981800,
   "‘김동원 체제’ 한화생명, 국내 첫 베트남 생보사 진출 17년차 성적은?": 1793981800,
   "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어": 1793981800,
-  "한화생명, 설계사용 'AI 비서' 도입…생·손보사 전방위 확산": 1794014098
+  "한화생명, 설계사용 'AI 비서' 도입…생·손보사 전방위 확산": 1794014098,
+  "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"": 1794035952,
+  "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명": 1794035952,
+  "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진": 1794035952,
+  "한화생명 종신보험에 2030 몰렸다…가입 비중 2배": 1794035952
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:2d37676aaf400b8d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"",
+   "source": "뉴스펭귄",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMHNpWlRHT1VvUGRyYW95VWpUSTkxa3IwaUdJeHNKT0gzQ2c2M1pLejdUY290aWMwaWxaUE9yYWgwOHFlWDlld01ramZCVG5CazJoM3JOSGRiNFpCUGo4bUppLVFiWGlLYTYzYUZMRkVKd9IBckFVX3lxTFBTMHNpWlRHT1VvUGRyYW95VWpUSTkxa3IwaUdJeHNKT0gzQ2c2M1pLejdUY290aWMwaWxaUE9yYWgwOHFlWDlld01ramZCVG5CazJoM3JOSGRiNFpCUGo4bUppLVFiWGlLYTYzYUZMRkVKdw?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "id": "news:e093978dfef4e4d3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명",
+   "source": "바스켓코리아",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUThONWZ6dm9UOHViZUhLY0FKbUxHUDNua3VQYVpBczlab3NxQ0JlejVaeTJ2X2E5U3J4aG5vMktzYVQ2RFdpdHBfSEhoZkVXVnotdnFubGU1cUxZMy1IODU2Z2k4cVVNQWVnUzZyNFNDTjFnakhJ?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 05:41:40 GMT"
+  },
+  {
+   "id": "news:4a6083471346b160",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진",
+   "source": "웹이코노미",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZklCWTk0UUg2YlRlcG1tT1hHN3Z1cWN6d2JRcVlpYkhFeHNaWW5ZVWtrSUNnb3ZrUDRBTkFha21XajNVYndfRFAyMU90d0tvQ3pUUkNmOTkyUVdndkpXM05IejdDZHpUS2RVSXVHN1ZoZw?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 06:22:49 GMT"
+  },
+  {
+   "id": "news:eb4cd39e9ddbba12",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 종신보험에 2030 몰렸다…가입 비중 2배",
+   "source": "스페셜경제",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16bU1MQzNZT1A3M25ZTDJpZ1haQUJWVEdHdlVxdzVjTE1JOEVYMEpvMjZOLWRSMmpQd0ZoTmtvckR1TjdHRUwzcUVqaXo0M2k3cGFrUjBveVVWSlN1TWo0bDNlc0YzUVA1TG5SaQ?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 06:24:07 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-07"
 }
