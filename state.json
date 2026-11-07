@@ -2472,12 +2472,10 @@
   "news:4a6083471346b160": 1794035952,
   "news:eb4cd39e9ddbba12": 1794035952,
   "news:13748af734eb599d": 1794060865,
-  "news:9c26d1288aae21e8": 1794060865
+  "news:9c26d1288aae21e8": 1794060865,
+  "news:99bcb4815042d187": 1794077544
  },
  "stories": {
-  "교보생명, 퇴직연금 원리금비보장 적립금 55% 증가…3조1700억원 돌파": 1793818073,
-  "한화생명 “종신보험 신상품 2030 가입률 높아…자신 위한 보장에 호응”": 1793818073,
-  "[더밸류 브리핑] 오늘의 보험계 소식…삼성생명·한화생명·ABL생명": 1793818073,
   "삼성생명, 동탄서 ‘시니어 돌봄’ 실증 착수…“비용 체계·건보 연계는 미확정”": 1793836701,
   "김동욱 한화생명 부사장, 보통주 3660주 매수": 1793836701,
   "한화생명, 사망보장에 ‘생애자금’ 더해…2030 가입률 31%": 1793860100,
@@ -2545,7 +2543,8 @@
   "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진": 1794035952,
   "한화생명 종신보험에 2030 몰렸다…가입 비중 2배": 1794035952,
   "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리": 1794060865,
-  "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865
+  "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
+  "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544
  },
  "news_queue": [
   {
@@ -2607,6 +2606,16 @@
    "date": "Sat, 07 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3JNQkVodGxvNmFSZ1pCcW1wa1FKZDZLRktORG0yUmFiZ0I3MHQyZlcyYlh2bGVLdkVzQnQ0Q2VqU1RLMDdaOTRMUDh2eTExOUY4OWxzZVJBd1c2Wi1SeUtGX2E1WkwzN200?oc=5",
    "sort_key": "Sat, 07 Nov 2026 09:02:50 GMT"
+  },
+  {
+   "id": "news:99bcb4815042d187",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)",
+   "source": "점프볼",
+   "date": "Sat, 07 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa0hmODN4NC15MXdqSzA5bGZIMGR1bDM0X2xqV0llQU1TdVc1S0gyQ1NNb2dfQmdKZGJhcHN6SExaalBrMEczRzNUVUprbkIxeUVUUFVHWkJwRUgzQ2dBVW1IRzFQdUp6UDcwUzNaQmItSEth?oc=5",
+   "sort_key": "Sat, 07 Nov 2026 09:12:23 GMT"
   }
  ],
  "initialized": true,
