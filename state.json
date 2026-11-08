@@ -2475,34 +2475,12 @@
   "news:9c26d1288aae21e8": 1794060865,
   "news:99bcb4815042d187": 1794077544,
   "news:c10f1490471155fd": 1794090973,
-  "news:bd55703cfcbc1391": 1794102594
+  "news:bd55703cfcbc1391": 1794102594,
+  "news:3b37d3aa9ec870da": 1794125930,
+  "news:c43ff15b8761306c": 1794125930,
+  "news:64e32dc16d0b0491": 1794125930
  },
  "stories": {
-  "한화생명, 사망보장에 ‘생애자금’ 더해…2030 가입률 31%": 1793860100,
-  "교보생명, 고객 안내부터 민원 해결까지…소비자보호 체계 강화": 1793860100,
-  "한화생명, 암경험청년 100여명 응원 운동회": 1793860100,
-  "교보생명, 민원·보험금 안내 체계 개선…고객 응대 강화": 1793860100,
-  "삼성생명, 화성시와 돌봄 실증… 문 개방과 동시에 ‘보안’은?": 1793860100,
-  "교보생명, ‘20초 응대’ 90%…고객 민원 안내체계 손질": 1793860100,
-  "교보생명, 고객 중심 보험 안내·민원 처리 개선": 1793860100,
-  "교보생명, 고객 전화 10건 중 9건 20초 내 신속 응대": 1793860100,
-  "“삼성생명도 GA채널 목표 20~30% 줄인다는데”… 2027년 생보 GA시장 위축 신호인가": 1793860100,
-  "한화생명, 호실적에도 법정준비금 규제…배당 여력 '안갯속'[저PBR 기업분석⑥]": 1793860100,
-  "교보생명, 소비자보호 체계 강화… 상담·민원 처리 절차 개선": 1793860100,
-  "교보생명, 고객 상담부터 보험금 지급까지 '손질'…금감원도 호평": 1793860100,
-  "교보생명, 고객센터 응대 개선...90%가 20초 내 연결": 1793860100,
-  "교보생명, 민원 대응 체계 손질…소비자보호 강화": 1793860100,
-  "교보생명, 소비자보호 체계 고도화…금감원 모범사례 선정": 1793860100,
-  "\"보험금 지급내역 더 쉽게 확인\"…교보생명, 고객 상담·안내 개선": 1793860100,
-  "“일상 케어부터 의료 연계까지”…삼성생명, 지역 통합돌봄 모델 화성서 실증": 1793860100,
-  "교보생명, 고객 상담·보험금 안내 개선… 소비자보호 강화": 1793860100,
-  "교보생명, 고객센터 '20초 내 응대율' 90%로…소비자보호 강화": 1793860100,
-  "교보생명, 표준 회신문 44종 운영…신속한 민원 응대, 쉽고 상세한 지급 등 민원 대응 체계 강화": 1793860100,
-  "[금융-라운지] 교보생명 / IBK기업은행 / 우리은행 / 하나금융그룹 / 한국투자증권 / NH농협은행": 1793860100,
-  "[금융계 동향] 교보생명·두나무·IBK기업은행": 1793860100,
-  "삼성생명 주가 5%대 급락…한화생명·미래에셋생명·코리안리도 약세": 1793860100,
-  "DB손해보험·현대해상 상승, 삼성생명·한화생명 하락…보험주 희비 엇갈려": 1793860100,
-  "교보생명, 금감원 민생·분쟁 모범관행 설명회서 모범사례 선정": 1793860100,
   "\"필요한 순간, 연결되는 전문 케어\"...삼성생명, ‘AI Expo MARS 2026’서 비대면 진료 연계·무자각 센서 등 선보여": 1793890484,
   "침실에서 병원까지 원스톱…삼성생명, 시니어 돌봄에 AI 접목 [현장+]": 1793890484,
   "교보생명, 상담은 빠르게·안내는 쉽게…소비자보호 체계 개선": 1793890484,
@@ -2546,9 +2524,43 @@
   "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
   "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544,
   "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]": 1794090973,
-  "김동원도 '예의주시'…한화생명, 日 거점에 전무급 전진 배치": 1794102594
+  "김동원도 '예의주시'…한화생명, 日 거점에 전무급 전진 배치": 1794102594,
+  "[BK포토] 우리 VS 삼성생명 경기화보": 1794125930,
+  "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다": 1794125930,
+  "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓": 1794125930
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:3b37d3aa9ec870da",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[BK포토] 우리 VS 삼성생명 경기화보",
+   "source": "바스켓코리아",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBweDI3eHZ4MjNTRVhoZ3pocVpyZTNfQ1NzXzhDdmNpOTEzZjZsX2NFeHB4WTlpNUtMWE1YZ244WThZbkN0Ung5dG5HVk9vRWlFSFJxem5yYmdqYnFuOWhHNV9ZaUdqMF9RR0FWdGdlSC1BOG5vdWlN?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 01:45:28 GMT"
+  },
+  {
+   "id": "news:c43ff15b8761306c",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다",
+   "source": "블로터",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vVFZDWVQ2emhoUTc5UFFlMi1xbmx2dHg1WGcwR05rVlZjSHBrWmVURmlxR1pTbi1ILTZhMGh2OWRGNHlZNFNtam9lS3pCS00xU2NGcWFsUUFVMHVaRTFfMk9VMUYwTHJH0gFsQVVfeXFMUHlzVWhHVFUwRElCNzFzSFhhQmI4dEdEV0NxQ0s3RnRxbENERzlHWThGNnVla01oT29GbzlUTzRsVXY2cHhueEh1eU90QV9TZzh3RUZITlF3YjVfUk1naTZlLVhBdkVXdXVkalFp?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 02:37:35 GMT"
+  },
+  {
+   "id": "news:64e32dc16d0b0491",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓",
+   "source": "서울경제",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pc3N6c2d5eWNsbExuUU5naE5xRWpES25SNnIyMmxuVEZjZjJVQTZlNTgxVzhRTVk0aU5YQ2puaXNFTTJpUWdzeW9vbjQtLXlkSUww0gFTQVVfeXFMT2lzc3pzZ3l5Y2xsTG5RTmdoTnFFakRLblI2cjIybG5URmNmMlVBNmU1ODFXOFFNWTRpTlhDam5pc0VNMmlRZ3N5b29uNC0teWRJTDA?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 05:20:37 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-08"
 }
