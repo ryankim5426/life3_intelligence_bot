@@ -2474,11 +2474,10 @@
   "news:13748af734eb599d": 1794060865,
   "news:9c26d1288aae21e8": 1794060865,
   "news:99bcb4815042d187": 1794077544,
-  "news:c10f1490471155fd": 1794090973
+  "news:c10f1490471155fd": 1794090973,
+  "news:bd55703cfcbc1391": 1794102594
  },
  "stories": {
-  "삼성생명, 동탄서 ‘시니어 돌봄’ 실증 착수…“비용 체계·건보 연계는 미확정”": 1793836701,
-  "김동욱 한화생명 부사장, 보통주 3660주 매수": 1793836701,
   "한화생명, 사망보장에 ‘생애자금’ 더해…2030 가입률 31%": 1793860100,
   "교보생명, 고객 안내부터 민원 해결까지…소비자보호 체계 강화": 1793860100,
   "한화생명, 암경험청년 100여명 응원 운동회": 1793860100,
@@ -2546,90 +2545,10 @@
   "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리": 1794060865,
   "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
   "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544,
-  "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]": 1794090973
+  "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]": 1794090973,
+  "김동원도 '예의주시'…한화생명, 日 거점에 전무급 전진 배치": 1794102594
  },
- "news_queue": [
-  {
-   "id": "news:2d37676aaf400b8d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"",
-   "source": "뉴스펭귄",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMHNpWlRHT1VvUGRyYW95VWpUSTkxa3IwaUdJeHNKT0gzQ2c2M1pLejdUY290aWMwaWxaUE9yYWgwOHFlWDlld01ramZCVG5CazJoM3JOSGRiNFpCUGo4bUppLVFiWGlLYTYzYUZMRkVKd9IBckFVX3lxTFBTMHNpWlRHT1VvUGRyYW95VWpUSTkxa3IwaUdJeHNKT0gzQ2c2M1pLejdUY290aWMwaWxaUE9yYWgwOHFlWDlld01ramZCVG5CazJoM3JOSGRiNFpCUGo4bUppLVFiWGlLYTYzYUZMRkVKdw?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 01:00:00 GMT"
-  },
-  {
-   "id": "news:e093978dfef4e4d3",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명",
-   "source": "바스켓코리아",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUThONWZ6dm9UOHViZUhLY0FKbUxHUDNua3VQYVpBczlab3NxQ0JlejVaeTJ2X2E5U3J4aG5vMktzYVQ2RFdpdHBfSEhoZkVXVnotdnFubGU1cUxZMy1IODU2Z2k4cVVNQWVnUzZyNFNDTjFnakhJ?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 05:41:40 GMT"
-  },
-  {
-   "id": "news:4a6083471346b160",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진",
-   "source": "웹이코노미",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZklCWTk0UUg2YlRlcG1tT1hHN3Z1cWN6d2JRcVlpYkhFeHNaWW5ZVWtrSUNnb3ZrUDRBTkFha21XajNVYndfRFAyMU90d0tvQ3pUUkNmOTkyUVdndkpXM05IejdDZHpUS2RVSXVHN1ZoZw?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 06:22:49 GMT"
-  },
-  {
-   "id": "news:eb4cd39e9ddbba12",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 종신보험에 2030 몰렸다…가입 비중 2배",
-   "source": "스페셜경제",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16bU1MQzNZT1A3M25ZTDJpZ1haQUJWVEdHdlVxdzVjTE1JOEVYMEpvMjZOLWRSMmpQd0ZoTmtvckR1TjdHRUwzcUVqaXo0M2k3cGFrUjBveVVWSlN1TWo0bDNlc0YzUVA1TG5SaQ?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 06:24:07 GMT"
-  },
-  {
-   "id": "news:13748af734eb599d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리",
-   "source": "바스켓코리아",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IQmxoM0k3NV9YVmtKWHF0ZVRZYkZ3VFNQMXItT2RjcWx4bFI3UmdYZ2RVdTR5TmNoVGxybmpOV3FMNHlTc2FnWmhkMU9hd1BEbXN0ZE00VmhSYk5PcWxsYXpkVEsta1NXNDZ0MklKN1loWGRrTWtv?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 08:47:06 GMT"
-  },
-  {
-   "id": "news:9c26d1288aae21e8",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고",
-   "source": "루키",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3JNQkVodGxvNmFSZ1pCcW1wa1FKZDZLRktORG0yUmFiZ0I3MHQyZlcyYlh2bGVLdkVzQnQ0Q2VqU1RLMDdaOTRMUDh2eTExOUY4OWxzZVJBd1c2Wi1SeUtGX2E1WkwzN200?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 09:02:50 GMT"
-  },
-  {
-   "id": "news:99bcb4815042d187",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)",
-   "source": "점프볼",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYa0hmODN4NC15MXdqSzA5bGZIMGR1bDM0X2xqV0llQU1TdVc1S0gyQ1NNb2dfQmdKZGJhcHN6SExaalBrMEczRzNUVUprbkIxeUVUUFVHWkJwRUgzQ2dBVW1IRzFQdUp6UDcwUzNaQmItSEth?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 09:12:23 GMT"
-  },
-  {
-   "id": "news:c10f1490471155fd",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]",
-   "source": "금융신문",
-   "date": "Sat, 07 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yM1c4MXpLekM5Ykxmd1ktNndEajRiY3oya05ZeG4waGdfd3pnWndobnJwc3p3QkgwYkh5S2Z1dkZLVk1KbHdLVkxrY0lIWjRYbmhXNE9fM1FrMG41WWptQ2VicUF6NFZFUENCeV9OclVWZllYcm9TaGlpOW8?oc=5",
-   "sort_key": "Sat, 07 Nov 2026 21:00:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-07"
+ "last_digest": "2026-11-08"
 }
