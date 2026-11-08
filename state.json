@@ -2479,7 +2479,8 @@
   "news:3b37d3aa9ec870da": 1794125930,
   "news:c43ff15b8761306c": 1794125930,
   "news:64e32dc16d0b0491": 1794125930,
-  "news:abe91b59d08ec533": 1794151494
+  "news:abe91b59d08ec533": 1794151494,
+  "news:da42841f39295f00": 1794180655
  },
  "stories": {
   "“혼자가 아닌 함께 뛰며 일상 되찾는다”… 한화생명, 암경험청년 응원 ‘위케어리셋 운동회’ 성황": 1793929471,
@@ -2515,50 +2516,10 @@
   "[BK포토] 우리 VS 삼성생명 경기화보": 1794125930,
   "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다": 1794125930,
   "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓": 1794125930,
-  "한화생명, 12일 오후 4시 실적 설명회": 1794151494
+  "한화생명, 12일 오후 4시 실적 설명회": 1794151494,
+  "교보생명까지 퍼진 배당 먹구름": 1794180655
  },
- "news_queue": [
-  {
-   "id": "news:3b37d3aa9ec870da",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[BK포토] 우리 VS 삼성생명 경기화보",
-   "source": "바스켓코리아",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBweDI3eHZ4MjNTRVhoZ3pocVpyZTNfQ1NzXzhDdmNpOTEzZjZsX2NFeHB4WTlpNUtMWE1YZ244WThZbkN0Ung5dG5HVk9vRWlFSFJxem5yYmdqYnFuOWhHNV9ZaUdqMF9RR0FWdGdlSC1BOG5vdWlN?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 01:45:28 GMT"
-  },
-  {
-   "id": "news:c43ff15b8761306c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다",
-   "source": "블로터",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vVFZDWVQ2emhoUTc5UFFlMi1xbmx2dHg1WGcwR05rVlZjSHBrWmVURmlxR1pTbi1ILTZhMGh2OWRGNHlZNFNtam9lS3pCS00xU2NGcWFsUUFVMHVaRTFfMk9VMUYwTHJH0gFsQVVfeXFMUHlzVWhHVFUwRElCNzFzSFhhQmI4dEdEV0NxQ0s3RnRxbENERzlHWThGNnVla01oT29GbzlUTzRsVXY2cHhueEh1eU90QV9TZzh3RUZITlF3YjVfUk1naTZlLVhBdkVXdXVkalFp?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 02:37:35 GMT"
-  },
-  {
-   "id": "news:64e32dc16d0b0491",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓",
-   "source": "서울경제",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pc3N6c2d5eWNsbExuUU5naE5xRWpES25SNnIyMmxuVEZjZjJVQTZlNTgxVzhRTVk0aU5YQ2puaXNFTTJpUWdzeW9vbjQtLXlkSUww0gFTQVVfeXFMT2lzc3pzZ3l5Y2xsTG5RTmdoTnFFakRLblI2cjIybG5URmNmMlVBNmU1ODFXOFFNWTRpTlhDam5pc0VNMmlRZ3N5b29uNC0teWRJTDA?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 05:20:37 GMT"
-  },
-  {
-   "id": "news:abe91b59d08ec533",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 12일 오후 4시 실적 설명회",
-   "source": "비건뉴스",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rZ3dWR0xTeXVpUVZLM0tKLU9nSmNzVHlXejV0VHRCcU14X182V3hXVFRuUGVpNXpjaDRUSzB1OHhBOWFOTXhITFVGcDU2UU9JaUMzNjlmU2tFTnVSVjhOTDl5Z29Odw?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 11:44:33 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-08"
+ "last_digest": "2026-11-09"
 }
