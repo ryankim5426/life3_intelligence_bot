@@ -2480,14 +2480,13 @@
   "news:c43ff15b8761306c": 1794125930,
   "news:64e32dc16d0b0491": 1794125930,
   "news:abe91b59d08ec533": 1794151494,
-  "news:da42841f39295f00": 1794180655
+  "news:da42841f39295f00": 1794180655,
+  "news:c75972e08017f9a3": 1794193095,
+  "news:232d5d25a1190231": 1794193095,
+  "news:2f4947a8af6bdc0f": 1794193095,
+  "news:f6749e56eb66af5d": 1794193095
  },
  "stories": {
-  "“혼자가 아닌 함께 뛰며 일상 되찾는다”… 한화생명, 암경험청년 응원 ‘위케어리셋 운동회’ 성황": 1793929471,
-  "소비자중심경영에 두 팔 걷은 생보사...신한라이프·한화생명·교보생명, '현장중심·사전예방' 실천 가속": 1793929471,
-  "[이코노 브리핑] 교보생명, 콜센터 2분기 응대율 개선 외": 1793929471,
-  "삼전 배당 2.3조 안은 삼성생명…1.5조 국채 직행, 주주환원 '안갯속'": 1793929471,
-  "삼성생명, 부채 넷 중 하나는 6% 이상 고금리…'역마진 리스크'": 1793929471,
   "삼성생명, 삼성전자서 10조원 가까이 받나…11조원 유배당 결손에 '배당 딜레마'": 1793954055,
   "\"죽어서 남기는 보험은 옛말\"...한화생명, '살아서 쓰는 종신보험'에 2030 몰렸다": 1793954055,
   "[금융계 동향] NH농협은행·우리금융·교보생명": 1793954055,
@@ -2517,9 +2516,54 @@
   "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다": 1794125930,
   "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓": 1794125930,
   "한화생명, 12일 오후 4시 실적 설명회": 1794151494,
-  "교보생명까지 퍼진 배당 먹구름": 1794180655
+  "교보생명까지 퍼진 배당 먹구름": 1794180655,
+  "삼성생명 퇴직연금 54%가 계열사 자금…기금형 도입에 '그룹 금고' 논란": 1794193095,
+  "[장중수급포착] 삼성생명, 기관 16일 연속 순매수행진... 주가 +1.07%": 1794193095,
+  "한화생명 '비상'⋯BLG, '나이트' 오리": 1794193095,
+  "[디깅노트] 삼성생명 가세에 재조명받는 'ALM'": 1794193095
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:c75972e08017f9a3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 퇴직연금 54%가 계열사 자금…기금형 도입에 '그룹 금고' 논란",
+   "source": "비즈중앙",
+   "date": "Mon, 09 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UkZlaEdudUFfcWRzWXFEZVFSTjFSQjZodE94Z3lDbGZmaXNOZ25hb0t1LWtZQ2NQaVY1OUtMRnBxVEJHM1RwQ285dDhPNzNBeVdKYlNSWXYxSFJPbHQ3OEIxNkd2dFp6Z0pPMEdUNm4?oc=5",
+   "sort_key": "Mon, 09 Nov 2026 00:28:03 GMT"
+  },
+  {
+   "id": "news:232d5d25a1190231",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[장중수급포착] 삼성생명, 기관 16일 연속 순매수행진... 주가 +1.07%",
+   "source": "뉴스핌",
+   "date": "Mon, 09 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMzJleEtoVFRZeHVVSURfRXAxaTlya1B3T2pKRGNnanNCekNYRmZIa1JQMmEyUEhkcjR6dWQ1NVFIcnJvS1NWYkVGRnNyUjJTMjV3ekFxeWRDekdu?oc=5",
+   "sort_key": "Mon, 09 Nov 2026 01:17:00 GMT"
+  },
+  {
+   "id": "news:2f4947a8af6bdc0f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 '비상'⋯BLG, '나이트' 오리",
+   "source": "이투데이",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QeHFxeXhhb3lSUVR1Yjk3ZUFyS3lLZDhxZi13Vi12UjBBcEtrNjRDSElPUXpYM0RMSThjNWh4ZGo3ZktlelZmVVBqa1dmclVEU2FVRW9hclZHcFdMWlFMRDlDaDBKc3R0?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 16:23:06 GMT"
+  },
+  {
+   "id": "news:f6749e56eb66af5d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[디깅노트] 삼성생명 가세에 재조명받는 'ALM'",
+   "source": "블로터",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxblJaZWJQLUFqSi14MGNmNjFWMWxNSFM0N19mbjRFQ0lQN1RYMGhydEtjZ3B1b3FxOTZzT3Zhbl9FVEdONUY3Tm9hZXJPNkJpUE95aUNLcWgyTWxkemVuX0x6ZUItRXJySlpjcNIBbEFVX3lxTFAxblJaZWJQLUFqSi14MGNmNjFWMWxNSFM0N19mbjRFQ0lQN1RYMGhydEtjZ3B1b3FxOTZzT3Zhbl9FVEdONUY3Tm9hZXJPNkJpUE95aUNLcWgyTWxkemVuX0x6ZUItRXJySlpjcA?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 23:34:54 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-09"
 }
