@@ -2493,15 +2493,11 @@
   "news:3c2e6a2e4dfcec5f": 1794223101,
   "news:aaa76674834f697c": 1794223101,
   "news:7b5f7dac0463696f": 1794223101,
-  "news:8702b125636e3ab3": 1794223101
+  "news:8702b125636e3ab3": 1794223101,
+  "news:33b09a8c6f838fc2": 1794259822,
+  "news:034bef9aa8cee5b9": 1794259822
  },
  "stories": {
-  "[마감분석] 삼성생명 4%대 하락 마감 23만4500원 : 기업주식정보": 1793981800,
-  "김동원 한화생명 부회장, 자본확충 직진…‘금융 영토 확장’ 실탄 채웠다": 1793981800,
-  "한화생명·흥국화재 ‘저PBR’… 배당 재원·기본자본에 발목": 1793981800,
-  "교보생명, 민원 처리 근거까지 공개…소비자보호 모범사례 선정": 1793981800,
-  "‘김동원 체제’ 한화생명, 국내 첫 베트남 생보사 진출 17년차 성적은?": 1793981800,
-  "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어": 1793981800,
   "한화생명, 설계사용 'AI 비서' 도입…생·손보사 전방위 확산": 1794014098,
   "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"": 1794035952,
   "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명": 1794035952,
@@ -2529,7 +2525,9 @@
   "한화생명 주가 35원 하락 후 장마감": 1794223101,
   "달라진 보험주 몸값…교보생명 풋옵션 분쟁에도 '훈풍' 불까": 1794223101,
   "젠슨 황 여파, 코스피 '하락'...삼성생명·GS건설은 '선방'": 1794223101,
-  "한화생명, 413억 이자 부담에도 후순위채 증액…지향점은 '건전성'": 1794223101
+  "한화생명, 413억 이자 부담에도 후순위채 증액…지향점은 '건전성'": 1794223101,
+  "[빅데이터로본다] 생명보험 2026년 11월 브랜드평판... 1위 교보생명, 2위 미래에셋생명, 3위 삼성생명": 1794259822,
+  "‘제카’ 김건우 “한화생명, 라인 스왑 없는 구도에서 더 잘할 팀” [쿠키인터뷰]": 1794259822
  },
  "news_queue": [
   {
@@ -2661,6 +2659,26 @@
    "date": "Mon, 09 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQWgwdFhSZHJseFNlazZIczFLMlZlbXVheFhLaGlWUUxRYkdLbjR1NjllQUFFY0t6ZF9GVkx3eTNud1kwTUdqdXBmd2JvVTFOblUzQXJId2hkOUJKNGJ5WWtIZVZORVpIMkVCQ9IBbEFVX3lxTFAtQWgwdFhSZHJseFNlazZIczFLMlZlbXVheFhLaGlWUUxRYkdLbjR1NjllQUFFY0t6ZF9GVkx3eTNud1kwTUdqdXBmd2JvVTFOblUzQXJId2hkOUJKNGJ5WWtIZVZORVpIMkVCQw?oc=5",
    "sort_key": "Mon, 09 Nov 2026 07:55:08 GMT"
+  },
+  {
+   "id": "news:33b09a8c6f838fc2",
+   "kind": "news",
+   "company": "삼성생명 · 교보생명",
+   "title": "[빅데이터로본다] 생명보험 2026년 11월 브랜드평판... 1위 교보생명, 2위 미래에셋생명, 3위 삼성생명",
+   "source": "일간투데이",
+   "date": "Mon, 09 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51a244SnlqbEw3LUhLTGh0clhrSnZBZ0FMcHhhbDA4clJlemhGazh4TFd1Vmo1c3hxeWZxajZ3RzdJa2ZialJtRUlnUmQyRm9hR21KcXZ0cHhGUEx1bnBBX2FtejN1bmdTZzhv?oc=5",
+   "sort_key": "Mon, 09 Nov 2026 21:02:58 GMT"
+  },
+  {
+   "id": "news:034bef9aa8cee5b9",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "‘제카’ 김건우 “한화생명, 라인 스왑 없는 구도에서 더 잘할 팀” [쿠키인터뷰]",
+   "source": "쿠키뉴스",
+   "date": "Sun, 08 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yNEpaWGZWN3lYTjAtYW9PYm9KdkdfT2JmTzN6MUFCNnNPaUtoQ2x2ZS1KaTNsVXBoc2Ixckh4ampHaFY0Q2NhX2ltYkg2bE1PWGVoa3RjU3BuMGUzdXpkc3Vlbw?oc=5",
+   "sort_key": "Sun, 08 Nov 2026 07:13:13 GMT"
   }
  ],
  "initialized": true,
