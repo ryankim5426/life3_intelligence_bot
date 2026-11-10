@@ -2495,10 +2495,21 @@
   "news:7b5f7dac0463696f": 1794223101,
   "news:8702b125636e3ab3": 1794223101,
   "news:33b09a8c6f838fc2": 1794259822,
-  "news:034bef9aa8cee5b9": 1794259822
+  "news:034bef9aa8cee5b9": 1794259822,
+  "news:facbdee215239d2c": 1794282481,
+  "news:f511b38890d53c00": 1794282481,
+  "news:8f54edae13b8fc11": 1794282482,
+  "news:b3e1a2f0b5def2c3": 1794282482,
+  "news:08668be1c7d4f0b7": 1794282482,
+  "news:99565503b104bb4e": 1794282482,
+  "news:a60e7b181714548d": 1794282482,
+  "news:d6bdd7697b8cdada": 1794282482,
+  "news:75645697389ba940": 1794282482,
+  "news:25b3485cc8182f3b": 1794282482,
+  "news:92ee1c6225771fa1": 1794282482,
+  "news:7c9e33bcd99b3237": 1794282482
  },
  "stories": {
-  "한화생명, 설계사용 'AI 비서' 도입…생·손보사 전방위 확산": 1794014098,
   "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"": 1794035952,
   "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명": 1794035952,
   "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진": 1794035952,
@@ -2527,160 +2538,19 @@
   "젠슨 황 여파, 코스피 '하락'...삼성생명·GS건설은 '선방'": 1794223101,
   "한화생명, 413억 이자 부담에도 후순위채 증액…지향점은 '건전성'": 1794223101,
   "[빅데이터로본다] 생명보험 2026년 11월 브랜드평판... 1위 교보생명, 2위 미래에셋생명, 3위 삼성생명": 1794259822,
-  "‘제카’ 김건우 “한화생명, 라인 스왑 없는 구도에서 더 잘할 팀” [쿠키인터뷰]": 1794259822
+  "‘제카’ 김건우 “한화생명, 라인 스왑 없는 구도에서 더 잘할 팀” [쿠키인터뷰]": 1794259822,
+  "교보생명, 베트남 집짓기 봉사 활도...꿈도깨비 아동 함께 참여": 1794282482,
+  "\"보호아동과 베트남 나눔 실천\"…교보생명, '교보다솜이 글로벌봉사단' 베트남서 봉사활동 전개": 1794282482,
+  "교보생명, 동남아 주거·교육 인프라 재건…글로벌 ESG 행보 가속": 1794282482,
+  "9일 서울 종로구 교보생명빌딩에서 열린 '교보다솜이 글로벌봉사단 발대식'에서 조대규 교보생명 대표이사 사장(맨 오른쪽)과 봉사단원들이 기념촬영을 하고 있다.(사진=교보생명)": 1794282482,
+  "교보생명, 베트남 빈곤지역 주거·교육 지원…보호아동도 봉사 참여": 1794282482,
+  "교보생명, 보호아동과 베트남서 주거·교육환경 개선 기여": 1794282482,
+  "[금융계 동향] NH농협은행·교보생명·업비트": 1794282482,
+  "[게시판] 교보생명, 베트남에 '사랑의집' 짓기…보호아동도 참여": 1794282482,
+  "교보생명, 보호아동과 함께 베트남 봉사활동 실시": 1794282482,
+  "베트남 아이들과 희망 나눈다…교보생명, 주거·교육 지원 봉사": 1794282482
  },
- "news_queue": [
-  {
-   "id": "news:c75972e08017f9a3",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 퇴직연금 54%가 계열사 자금…기금형 도입에 '그룹 금고' 논란",
-   "source": "비즈중앙",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UkZlaEdudUFfcWRzWXFEZVFSTjFSQjZodE94Z3lDbGZmaXNOZ25hb0t1LWtZQ2NQaVY1OUtMRnBxVEJHM1RwQ285dDhPNzNBeVdKYlNSWXYxSFJPbHQ3OEIxNkd2dFp6Z0pPMEdUNm4?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 00:28:03 GMT"
-  },
-  {
-   "id": "news:232d5d25a1190231",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[장중수급포착] 삼성생명, 기관 16일 연속 순매수행진... 주가 +1.07%",
-   "source": "뉴스핌",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMzJleEtoVFRZeHVVSURfRXAxaTlya1B3T2pKRGNnanNCekNYRmZIa1JQMmEyUEhkcjR6dWQ1NVFIcnJvS1NWYkVGRnNyUjJTMjV3ekFxeWRDekdu?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 01:17:00 GMT"
-  },
-  {
-   "id": "news:2f4947a8af6bdc0f",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 '비상'⋯BLG, '나이트' 오리",
-   "source": "이투데이",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QeHFxeXhhb3lSUVR1Yjk3ZUFyS3lLZDhxZi13Vi12UjBBcEtrNjRDSElPUXpYM0RMSThjNWh4ZGo3ZktlelZmVVBqa1dmclVEU2FVRW9hclZHcFdMWlFMRDlDaDBKc3R0?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 16:23:06 GMT"
-  },
-  {
-   "id": "news:f6749e56eb66af5d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[디깅노트] 삼성생명 가세에 재조명받는 'ALM'",
-   "source": "블로터",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxblJaZWJQLUFqSi14MGNmNjFWMWxNSFM0N19mbjRFQ0lQN1RYMGhydEtjZ3B1b3FxOTZzT3Zhbl9FVEdONUY3Tm9hZXJPNkJpUE95aUNLcWgyTWxkemVuX0x6ZUItRXJySlpjcNIBbEFVX3lxTFAxblJaZWJQLUFqSi14MGNmNjFWMWxNSFM0N19mbjRFQ0lQN1RYMGhydEtjZ3B1b3FxOTZzT3Zhbl9FVEdONUY3Tm9hZXJPNkJpUE95aUNLcWgyTWxkemVuX0x6ZUItRXJySlpjcA?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 23:34:54 GMT"
-  },
-  {
-   "id": "news:4e315ed5c6c35522",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 퇴직연금 절반이 ‘그룹 돈’…기금형 도입 앞두고 커지는 이해충돌 논란",
-   "source": "뉴스로드",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uczd1cFhJazM1LXJYSjBxb2Q5WWR3ck5xUTBTS012Q1pQenZHQnc0SXZXOG9LcW9wMjVSVFJFR0RuNl9CRW13UUhMMWdpQVVMZ1BYa25PN2lrcG1VOEFrRnBYZzN6el9TVjVN0gFvQVVfeXFMT3pxR3lYR1RjUUdPTWNlSTJwdlg3c0FVM2JISTZKMTFGMk1FdTFXRVZ4ZVJQNFJiLW43NkpEWjdrNWxmblk3MFZUX21Vd2JmZnFOWnphazFBRWlScWxBUkQwamUzMFlYdGlMUjBxR2Zj?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 04:50:25 GMT"
-  },
-  {
-   "id": "news:c0778c3b1ed2a734",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, AI보장분석 이용자 1만5000명 넘었다…누적 36만 건",
-   "source": "시사오늘",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LNTktYnh3RUQ5STlGR2JONkRNVXpWNFlTaDdfblFaQkJNM2xRZGt3RkNabTJ2YzB1aGh3R0YtMGNRZmo4NVZsOXBJU1pCd3g4Y1VXR2syVVR4S21BbHBGaHliR3JicDZlTVdN?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 04:52:06 GMT"
-  },
-  {
-   "id": "news:aec01788cce76c15",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "저PBR 명단 오른 한화생명…배당 불확실성·자본건전성 과제",
-   "source": "한스경제",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QejVLYkpQbFhJWXZFUl9sbU80SXRSczRLemVONXhWRTVfdGZ5T3hYanIyMWlGTXNQQU94V0lScDRSd0dmR1ZFQl84Zi1zaFVYMDVWODNTMUFZQ2RlZ2Z1eDB2N3JPMzdmUFl1b9IBb0FVX3lxTE9sUDlTTGlKVHBQaE5SQ05QVHdfb25wZldydTdocF9ZUHdHTFVwNUJ6R1lGQWJydi1wOFBTUThEWndLcXdwYmVsM1hZZVdIaEc4RkRaUVlMNmU1Tno2MU5mbHJURC1FbzBibmE5RklFVQ?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 05:00:47 GMT"
-  },
-  {
-   "id": "news:1cde18cfcc4de5e8",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성전자 '5조 보험' 납입…삼성생명 실익 가를 운용수익·비용",
-   "source": "메트로신문",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRU0RzMWlCeFZDQVJTTXVRZkxkT1djSnNOOXBTVDBHQVE1Z0xUeXhwcy1JMlJmUEFPZEFNM2xJSTE1djdCbGRCaU9hbTktWDB0cXE2ZzhDbTFETDFpNFBTWg?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 05:28:29 GMT"
-  },
-  {
-   "id": "news:fb9ae79ec4dc155a",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "【공시 모니터링】한화생명, 기후위험 손실 최대 2.2조원 추산…내부탄소가격 공시는 미흡",
-   "source": "임팩트온",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94djBUcW4ydUVuVzdrdVhrdlJ4LWFxNE9KNDZYV05OQzI5SkxPdjNsaTFlY091REFNaTdMenJLX004ZjFLSnZseWtFTThNYndudnJTYkhKNXhJYnlqUmU4Wk1NWVBnU05xdEE?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 05:37:12 GMT"
-  },
-  {
-   "id": "news:3c2e6a2e4dfcec5f",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명 주가 35원 하락 후 장마감",
-   "source": "아시아뉴스통신",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uTjQ3TXNpOWliNm4wTWUzaGFTYVZPd0U0RmdjLTY5TzdYbHFMczFxcWVfS1ZPbWJWcnotQWVPd0N3djJOa3dLMDZrVE1vdVkxQlVkLWVYVF8tcVdE?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 06:43:08 GMT"
-  },
-  {
-   "id": "news:aaa76674834f697c",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "달라진 보험주 몸값…교보생명 풋옵션 분쟁에도 '훈풍' 불까",
-   "source": "파이낸셜포스트",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRTdlV2xqMWxEVzd5UzhWM0J3VUJKZU5vSWpLbEJrUnN3amlDYVdXcVRzWDg5NVFsSzFPNElVSjNXaDJxbTNnMGVIejMyTDhZZmY3VnN4VHpSSzlEOE9lUjJkV2hnWlR0THRrU05GQm1KNUVt?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 06:49:06 GMT"
-  },
-  {
-   "id": "news:7b5f7dac0463696f",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "젠슨 황 여파, 코스피 '하락'...삼성생명·GS건설은 '선방'",
-   "source": "초이스경제",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OM1ZPTTRwalhoWUlfdTVmZkdKaERtbWFRWkwzMjBBZFIxSVhYandVbGZ2NnRTVFN6RFNlUEI3eWMyS3p5STVIdGFxYl9MWjlvUWk5V2UxNXN1Z3JIaE5sSXJMRHZndGVyekRYSzNvMmE?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 07:23:06 GMT"
-  },
-  {
-   "id": "news:8702b125636e3ab3",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 413억 이자 부담에도 후순위채 증액…지향점은 '건전성'",
-   "source": "블로터",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQWgwdFhSZHJseFNlazZIczFLMlZlbXVheFhLaGlWUUxRYkdLbjR1NjllQUFFY0t6ZF9GVkx3eTNud1kwTUdqdXBmd2JvVTFOblUzQXJId2hkOUJKNGJ5WWtIZVZORVpIMkVCQ9IBbEFVX3lxTFAtQWgwdFhSZHJseFNlazZIczFLMlZlbXVheFhLaGlWUUxRYkdLbjR1NjllQUFFY0t6ZF9GVkx3eTNud1kwTUdqdXBmd2JvVTFOblUzQXJId2hkOUJKNGJ5WWtIZVZORVpIMkVCQw?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 07:55:08 GMT"
-  },
-  {
-   "id": "news:33b09a8c6f838fc2",
-   "kind": "news",
-   "company": "삼성생명 · 교보생명",
-   "title": "[빅데이터로본다] 생명보험 2026년 11월 브랜드평판... 1위 교보생명, 2위 미래에셋생명, 3위 삼성생명",
-   "source": "일간투데이",
-   "date": "Mon, 09 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51a244SnlqbEw3LUhLTGh0clhrSnZBZ0FMcHhhbDA4clJlemhGazh4TFd1Vmo1c3hxeWZxajZ3RzdJa2ZialJtRUlnUmQyRm9hR21KcXZ0cHhGUEx1bnBBX2FtejN1bmdTZzhv?oc=5",
-   "sort_key": "Mon, 09 Nov 2026 21:02:58 GMT"
-  },
-  {
-   "id": "news:034bef9aa8cee5b9",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "‘제카’ 김건우 “한화생명, 라인 스왑 없는 구도에서 더 잘할 팀” [쿠키인터뷰]",
-   "source": "쿠키뉴스",
-   "date": "Sun, 08 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yNEpaWGZWN3lYTjAtYW9PYm9KdkdfT2JmTzN6MUFCNnNPaUtoQ2x2ZS1KaTNsVXBoc2Ixckh4ampHaFY0Q2NhX2ltYkg2bE1PWGVoa3RjU3BuMGUzdXpkc3Vlbw?oc=5",
-   "sort_key": "Sun, 08 Nov 2026 07:13:13 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-09"
+ "last_digest": "2026-11-10"
 }
