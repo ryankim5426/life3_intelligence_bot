@@ -2507,13 +2507,20 @@
   "news:75645697389ba940": 1794282482,
   "news:25b3485cc8182f3b": 1794282482,
   "news:92ee1c6225771fa1": 1794282482,
-  "news:7c9e33bcd99b3237": 1794282482
+  "news:7c9e33bcd99b3237": 1794282482,
+  "news:64925946c875f3db": 1794311541,
+  "news:1cb00c3fef20514a": 1794311541,
+  "news:428f23c9d7fefc9a": 1794311541,
+  "news:15266b40b0bf7ca3": 1794311542,
+  "news:5481a3890671854b": 1794311542,
+  "news:1be36142a8f07b12": 1794311542,
+  "news:83ad8b0d1f4a5593": 1794311542,
+  "news:0034caf45a277226": 1794311542,
+  "news:7064d59c827ea120": 1794311542,
+  "news:25af392743e33c5a": 1794311542,
+  "news:6f363ea65b454e48": 1794311542
  },
  "stories": {
-  "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"": 1794035952,
-  "[BK 프리뷰] ‘시즌 첫 승’ 노리는 우리은행 vs ‘2연승’ 원하는 삼성생명": 1794035952,
-  "교보생명, 금융소비자 보호 강화…교육대상 시상·청소년 AI 윤리교육 추진": 1794035952,
-  "한화생명 종신보험에 2030 몰렸다…가입 비중 2배": 1794035952,
   "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리": 1794060865,
   "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
   "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544,
@@ -2548,9 +2555,98 @@
   "[금융계 동향] NH농협은행·교보생명·업비트": 1794282482,
   "[게시판] 교보생명, 베트남에 '사랑의집' 짓기…보호아동도 참여": 1794282482,
   "교보생명, 보호아동과 함께 베트남 봉사활동 실시": 1794282482,
-  "베트남 아이들과 희망 나눈다…교보생명, 주거·교육 지원 봉사": 1794282482
+  "베트남 아이들과 희망 나눈다…교보생명, 주거·교육 지원 봉사": 1794282482,
+  "신한투자증권 \"보험업종 투자의견 '비중 확대', 선호주는 삼성생명 삼성화재 DB손보\"": 1794311542,
+  "[오늘의 금융ESG] 하나금융·우리은행·교보생명·DB생명·현대해상": 1794311542,
+  "M&A 갈증 푼 삼성화재…해외 투자 바통은 삼성생명으로": 1794311542,
+  "한화생명, 실적 발표 앞두고 '이중고'…적자 전망에 저PBR까지": 1794311542,
+  "[더밸류 브리핑] 오늘의 보험 소식…교보생명·현대해상·ABL생명": 1794311542,
+  "한화생명 주가 85원 상승 후 장마감": 1794311542,
+  "삼성생명 퇴직연금 57조…남은 과제는 '계열사 의존도·수수료 벽'": 1794311542,
+  "교보생명, 베트남 빈롱성서 주거·교육 봉사…주택 4채·기자재 지원": 1794311542
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:15266b40b0bf7ca3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "신한투자증권 \"보험업종 투자의견 '비중 확대', 선호주는 삼성생명 삼성화재 DB손보\"",
+   "source": "비즈니스포스트",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTX25FQnBZTU1ZUmpWZzZ1Z0ZkM1FoUnlQS05GQ2Rya1hMYlluRllVRHZkZ2x0T01jZjBtcXFmSFFZZldfTFFlWVMtNkVvYkh1NXpVdDJsTEtGRGlrUFVwSkhjbUJvNmNtMWtmbWZKWUFNa2M?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 00:32:11 GMT"
+  },
+  {
+   "id": "news:5481a3890671854b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[오늘의 금융ESG] 하나금융·우리은행·교보생명·DB생명·현대해상",
+   "source": "파이낸셜리뷰",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40MEtGZkVLU3hjWk9WNW5LVzcyNW9zQTEtNVZvcTBDRW9TMjZGeXdmemxnR01CWFRpNHF5RGV0VVZ2ZTl1VEVJeVp6VUY0RDU4d2dlU2NtcUNicm1ncVk2bkdNU2M4QmNQdHY5dXZaQzR6WTJZ?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 04:57:19 GMT"
+  },
+  {
+   "id": "news:1be36142a8f07b12",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "M&A 갈증 푼 삼성화재…해외 투자 바통은 삼성생명으로",
+   "source": "인베스트조선",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVN2MmM4X3dkZ3FHZVVrRG16UE5NR1VVTkdhczgyenlRTGJNMGZNa2tISldxaTZwWGNGbndkdl9fYnJrMUdZa1A2MEthLVRfd3o1MXc3bEkxcmswWkZTNmlVa0Z4VXVrQlhqdG1tclRPZWp5RGVJQzZ1YVp4cXNXY05Maw?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 05:14:00 GMT"
+  },
+  {
+   "id": "news:83ad8b0d1f4a5593",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 실적 발표 앞두고 '이중고'…적자 전망에 저PBR까지",
+   "source": "스마트투데이",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuaWtQY09tU3A4OHB0YWZGc2xrQVBkb1NiSS1ZaEJOakVNalhnbkxjOENKcGFSZ083UkFCd3RRMTBpd041S2tZOGpmdkVKTVo3eDZoOFFPem54MjJXTVMw?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 06:14:00 GMT"
+  },
+  {
+   "id": "news:0034caf45a277226",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 보험 소식…교보생명·현대해상·ABL생명",
+   "source": "더밸류뉴스",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TbGtNUXliSjEtQTNnQlNIVGg3bFItZXU1RzVTY0xmN2tUWHB5aVZnaDlGQmhkQWV3RlUzbXZzR1otcTVSX3FGQWxKNTNYRDIwd1Fj?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 06:22:17 GMT"
+  },
+  {
+   "id": "news:7064d59c827ea120",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명 주가 85원 상승 후 장마감",
+   "source": "아시아뉴스통신",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hc2JwUGpiajlLZVhmbTFybFZXYVdlSnBkbUpEYUdsa3FCMm1vcjFuQnBXXzFaYTdUYWxEU1RXVk1razZ5ZDFtZ2VqOVVFOF93cHhCcEZ5SWNWMlV6?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 06:43:46 GMT"
+  },
+  {
+   "id": "news:25af392743e33c5a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 퇴직연금 57조…남은 과제는 '계열사 의존도·수수료 벽'",
+   "source": "블로터",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbmp3R01aWF8zeEpLUGVmdVpCa2VwT3RXNjJDWUVNZGRqbUplMEo4YkJEUTd2QTFGYVBRWmF5TGx1MDJYNl84REhONWdGd1hqcDdLVC03TnpxNjhqdmEzcHJLLUdkTUhlaTNZddIBbEFVX3lxTFBkbmp3R01aWF8zeEpLUGVmdVpCa2VwT3RXNjJDWUVNZGRqbUplMEo4YkJEUTd2QTFGYVBRWmF5TGx1MDJYNl84REhONWdGd1hqcDdLVC03TnpxNjhqdmEzcHJLLUdkTUhlaTNZdQ?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 07:38:38 GMT"
+  },
+  {
+   "id": "news:6f363ea65b454e48",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 베트남 빈롱성서 주거·교육 봉사…주택 4채·기자재 지원",
+   "source": "국제뉴스",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4VzkzZVVLWTdpcnN5U0Jtd3RVUU9rTThRSS1QN1VnWXlYTGV3eUdIRlNvRkF1NlBsUkh3cHItLXZ0THpvZXI0UnNpTTYyY2ZhWXFMZkRXMjk0VU5ucUNyYnZMRVhMWThfdzI4Qk5R?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 08:30:46 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-10"
 }
