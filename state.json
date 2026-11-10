@@ -2518,12 +2518,13 @@
   "news:0034caf45a277226": 1794311542,
   "news:7064d59c827ea120": 1794311542,
   "news:25af392743e33c5a": 1794311542,
-  "news:6f363ea65b454e48": 1794311542
+  "news:6f363ea65b454e48": 1794311542,
+  "news:692e59e795b7672d": 1794339047,
+  "news:9abbc909902bdc2e": 1794339047,
+  "news:68c9f67262c365bb": 1794339047,
+  "news:a83f28acf68e3613": 1794339047
  },
  "stories": {
-  "[BK 리뷰] 강이슬 결장? 우리은행엔 김단비 있다... 접전 끝에 삼성생명 꺾고 홈 개막전 승리": 1794060865,
-  "강이슬 결장에도 김단비 있었다! 우리은행, 삼성생명 꺾고 전주원 감독 체제 첫 승 신고": 1794060865,
-  "[JB화보] ′홈에서 시작된 반격′ 우리은행, 삼성생명 꺾고 시즌 첫 승 (우리은행65-54삼성생명)": 1794077544,
   "[DQN] 주식시장 약세에 삼성생명 적립금 규모 1위 재탈환…DC형 비보장 수익률 반토막 [2026년 3분기 퇴직연금 랭킹]": 1794090973,
   "김동원도 '예의주시'…한화생명, 日 거점에 전무급 전진 배치": 1794102594,
   "[BK포토] 우리 VS 삼성생명 경기화보": 1794125930,
@@ -2563,7 +2564,8 @@
   "[더밸류 브리핑] 오늘의 보험 소식…교보생명·현대해상·ABL생명": 1794311542,
   "한화생명 주가 85원 상승 후 장마감": 1794311542,
   "삼성생명 퇴직연금 57조…남은 과제는 '계열사 의존도·수수료 벽'": 1794311542,
-  "교보생명, 베트남 빈롱성서 주거·교육 봉사…주택 4채·기자재 지원": 1794311542
+  "교보생명, 베트남 빈롱성서 주거·교육 봉사…주택 4채·기자재 지원": 1794311542,
+  "교보생명, 베트남 주거 개선 봉사": 1794339047
  },
  "news_queue": [
   {
@@ -2645,6 +2647,16 @@
    "date": "Tue, 10 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4VzkzZVVLWTdpcnN5U0Jtd3RVUU9rTThRSS1QN1VnWXlYTGV3eUdIRlNvRkF1NlBsUkh3cHItLXZ0THpvZXI0UnNpTTYyY2ZhWXFMZkRXMjk0VU5ucUNyYnZMRVhMWThfdzI4Qk5R?oc=5",
    "sort_key": "Tue, 10 Nov 2026 08:30:46 GMT"
+  },
+  {
+   "id": "news:a83f28acf68e3613",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 베트남 주거 개선 봉사",
+   "source": "세계일보",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQ29Nc0JNQkp6NVE4ZXRXakZ0WTVTUlI1ZDlfamh0UEl6RGRsbWUySjJhdzM3bU1yQ3NPWnhDcHRfQ1hHSU1aVi1OV3NaRGtpbDhkNtIBVEFVX3lxTE5vQ29Nc0JNQkp6NVE4ZXRXakZ0WTVTUlI1ZDlfamh0UEl6RGRsbWUySjJhdzM3bU1yQ3NPWnhDcHRfQ1hHSU1aVi1OV3NaRGtpbDhkNg?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 12:26:28 GMT"
   }
  ],
  "initialized": true,
