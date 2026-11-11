@@ -2528,10 +2528,17 @@
   "news:715790f24ef0dd44": 1794356024,
   "news:21290cc0cfcbfd6e": 1794356024,
   "news:6c1cf595ae94a5d7": 1794356024,
-  "news:fafe6ca7592bba53": 1794356024
+  "news:fafe6ca7592bba53": 1794356024,
+  "news:24db975a0e9b877d": 1794379579,
+  "news:e0e73be334e63520": 1794379579,
+  "news:31fc3c6346d33bfe": 1794379581,
+  "news:c162d675fc8b59b0": 1794379581,
+  "news:6722dc524632f952": 1794379581,
+  "news:4151fa50c6d2c25d": 1794379581,
+  "news:3151d4d9b9c22631": 1794379581,
+  "news:2ac8f2af0948126f": 1794379581
  },
  "stories": {
-  "김동원도 '예의주시'…한화생명, 日 거점에 전무급 전진 배치": 1794102594,
   "[BK포토] 우리 VS 삼성생명 경기화보": 1794125930,
   "2030도 찾는 종신보험…한화생명, 생애자금 기능으로 가입층 넓힌다": 1794125930,
   "AI쇼크발 증시하락에...삼성생명·화재, 삼전 지분가치 21조↓": 1794125930,
@@ -2574,9 +2581,76 @@
   "[진단_보험업계 ⑦교보생명보험] 연결 순익 증가에도 보험 본업 부진... 저축은행 인수에 자본건전성 부담 가중": 1794356024,
   "삼성생명, 3Q 보험손익 반등 기대…CSM 성장 탄력": 1794356024,
   "삼성복지재단, 삼성문화재단, 삼성생명공익재단이 함께 하는 서울특별시 어린이병원 《작가의 비밀정원: 꿈의 조각들》 전시": 1794356024,
-  "삼성생명 태국법인, 현지 생보시장 '톱3' 도약 추진…설계사 영업 강화": 1794356024
+  "삼성생명 태국법인, 현지 생보시장 '톱3' 도약 추진…설계사 영업 강화": 1794356024,
+  "삼성생명 의존도 벗어나는 삼성SRA, 라살운용과 3,000억 규모 국내 부동산 담보대출펀드 조성 - SPI": 1794379581,
+  "GA 브랜드평판 순위 엇갈렸다…인카금융서비스 1위, 한화생명금융서비스 4위": 1794379581,
+  "[BK 프리뷰] ‘시즌 전 예상 5·6위의 반란’ 신한은행-삼성생명, 평가 뒤집을 승자는?": 1794379581,
+  "한화생명, 2026년 한국ESG기준원 평가 통합 A등급 획득": 1794379581,
+  "한화생명, 7년 연속 ESG 통합등급 ‘A’…환경·사회 ‘A+’": 1794379581,
+  "교보생명, GA 채널서 종신보험 불완전판매 '급증'...판매품질 관리 '시험대'": 1794379581
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:31fc3c6346d33bfe",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 의존도 벗어나는 삼성SRA, 라살운용과 3,000억 규모 국내 부동산 담보대출펀드 조성 - SPI",
+   "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FR3BfcXhvaW1mOXdXWFRtRWpnVHdhUDlHajBieGYzQll2YUdVZGdRanpKQ2Vtc1dPNjVGYWJlZ2RJMVN2M3FybFpiMWFqbV94WUtTXzlLMDdMSnM?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 14:30:46 GMT"
+  },
+  {
+   "id": "news:c162d675fc8b59b0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "GA 브랜드평판 순위 엇갈렸다…인카금융서비스 1위, 한화생명금융서비스 4위",
+   "source": "핀포인트뉴스",
+   "date": "Tue, 10 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbV9rU0tGOFBPTmxDZEo4R1phVE5fU2NZRHF2cUtJT09oVHhvdFVsVi1DajI2VHVrYzZURUVvaXBJLUg3UHhSZGYyTGdCcDktNjRjWXdDdnN3OXpkOXNvMG50QUNzaVk4SDBWc2JiOG9OY1FpNU4w0gF3QVVfeXFMTV9tX2tTS0Y4UE9ObENkSjhHWmFUTl9TY1lEcXZxS0lPT2hUeG90VWxWLUNqMjZUdWtjNlRFRW9pcEktSDdQeFJkZjJMZ0JwOS02NGNZd0N2c3c5emQ5c28wbnRBQ3NpWThIMFZzYmI4b05jUWk1TjA?oc=5",
+   "sort_key": "Tue, 10 Nov 2026 22:39:20 GMT"
+  },
+  {
+   "id": "news:6722dc524632f952",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[BK 프리뷰] ‘시즌 전 예상 5·6위의 반란’ 신한은행-삼성생명, 평가 뒤집을 승자는?",
+   "source": "바스켓코리아",
+   "date": "Wed, 11 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10bENtX1JhZ3ZhN2hDSklTWFphYzgyNUJsOFpkSjBvTVY3XzFiR3E3Rm9xbElXVlp3ZklUS2hHWnRUSVlkUzMwaFpnYTJvZ2FrUUYtVEk3WVI0UDFjdm8wWXl0YXlRaDNUdkZnMWwwN19LRlN6NllJ?oc=5",
+   "sort_key": "Wed, 11 Nov 2026 03:42:26 GMT"
+  },
+  {
+   "id": "news:4151fa50c6d2c25d",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 2026년 한국ESG기준원 평가 통합 A등급 획득",
+   "source": "데이터투자",
+   "date": "Wed, 11 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yMXI4ckVMTk9XRVFkeEFvWGUySlJOUFpnbjlXLWxrWFZMWVViUlB1UzFqZmJyT3dTREFWMlA4Yl9mLW96OXZ3elFhWFpYeXRuZzN2cXUwSGJyb21OLWU1SGNxOENveFJyQUFVQmJQSUdfejg?oc=5",
+   "sort_key": "Wed, 11 Nov 2026 05:57:15 GMT"
+  },
+  {
+   "id": "news:3151d4d9b9c22631",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 7년 연속 ESG 통합등급 ‘A’…환경·사회 ‘A+’",
+   "source": "www.fetv.co.kr",
+   "date": "Wed, 11 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNDhlVVFHTGM2OGttam53bkNwZ2ZEYm9IdzZrWGpabE9jcXBIbzJhMGlrTDNmLXRWZXl1MVBnTVRlS0Z0T21KMS16OEdYc2VRZjFyQUcwYThJbEtKUXAxZHNBV3FROTcy?oc=5",
+   "sort_key": "Wed, 11 Nov 2026 06:13:33 GMT"
+  },
+  {
+   "id": "news:2ac8f2af0948126f",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, GA 채널서 종신보험 불완전판매 '급증'...판매품질 관리 '시험대'",
+   "source": "녹색경제신문",
+   "date": "Wed, 11 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Bcm5Wc0k5YmJ5MWZyeTlmaVBSTDVZYmVEVTRhV1J0dzhmcG5oMHRINW5oQUhqaGE2c3FTLWx6NUJ1Q09LcUZWNXJadGd5eHVqVGxaLU5hZXV3MkJ0NWx0QmhaWXVLWk9F?oc=5",
+   "sort_key": "Wed, 11 Nov 2026 06:36:20 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-11"
 }
