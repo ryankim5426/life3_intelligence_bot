@@ -2557,10 +2557,13 @@
   "news:32afc5195557069c": 1794408304,
   "news:6e938ab1823d9272": 1794408304,
   "news:1b47f0ee1b44d73b": 1794408304,
-  "news:5f757ebb342aa9c8": 1794408304
+  "news:5f757ebb342aa9c8": 1794408304,
+  "news:428dd8c857b43f78": 1794432964,
+  "news:f1059074bce26242": 1794432964,
+  "news:4b7d6613f6957239": 1794432964,
+  "news:a6bef770d9648eb9": 1794432965
  },
  "stories": {
-  "한화생명, 12일 오후 4시 실적 설명회": 1794151494,
   "교보생명까지 퍼진 배당 먹구름": 1794180655,
   "삼성생명 퇴직연금 54%가 계열사 자금…기금형 도입에 '그룹 금고' 논란": 1794193095,
   "[장중수급포착] 삼성생명, 기관 16일 연속 순매수행진... 주가 +1.07%": 1794193095,
@@ -2626,7 +2629,8 @@
   "[현장리뷰]'이해란 21득점' 부상 악령 용인 삼성생명, 인천 신한은행 개막 3연승 저지…54-51 승리": 1794408304,
   "조수아 '이주연 대체자' 역할 완벽 수행, 삼성생명 하상윤 감독 극찬! \"공백 잘 메워졌다\"...'후반 17득점' 이해란에는 \"이제는 믿고 맡길 수 있어\" [MD인천]": 1794408304,
   "‘이해란 21점’ 삼성생명, 신한은행 3연승 저지하고 공동 1위": 1794408304,
-  "[현장인터뷰]'승장' 하상윤 삼성생명 감독 \"집중력 싸움에서 이긴 것 같다\"": 1794408304
+  "[현장인터뷰]'승장' 하상윤 삼성생명 감독 \"집중력 싸움에서 이긴 것 같다\"": 1794408304,
+  "(K금융, 태국 활로 찾기)④ 삼성생명, 중장년층 공략 성공": 1794432965
  },
  "news_queue": [
   {
@@ -2898,6 +2902,16 @@
    "date": "Wed, 11 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0lSbGxLOVUxRVBtMnc0V19qbEVlMVZ0MURBNXdrTUt4LXBrMU1kVXNjbU5GOHJHLVQ5QTNHeXdlcUd4NFJveEh4NmZTcDZDT2NDSVAtWjdrbEVra254MGdIOGpiYTJ1R0VjMlJiQTB3Wnk5QWwzOC00RXNtV0tvZQ?oc=5",
    "sort_key": "Wed, 11 Nov 2026 14:27:00 GMT"
+  },
+  {
+   "id": "news:a6bef770d9648eb9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "(K금융, 태국 활로 찾기)④ 삼성생명, 중장년층 공략 성공",
+   "source": "뉴스토마토",
+   "date": "Wed, 11 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTU5oT3VaN1hKc2ttcU5HWUZ1NlJuZmVRamFLbmhUcjJqVEp1RFpnbGlwRG9jYkRzbVRaMXJ3UWxLZkpzenJVeVZ4TUtQdThHTi1SOWRsMjlRd0hjVmtCdg?oc=5",
+   "sort_key": "Wed, 11 Nov 2026 21:00:00 GMT"
   }
  ],
  "initialized": true,
