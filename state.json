@@ -2687,10 +2687,13 @@
   "news:a21e83555f5abb60": 1794571305,
   "news:da04182cc805ab25": 1794571305,
   "news:8471cccb07c9d7a0": 1794571305,
-  "news:64c5946965339c80": 1794571305
+  "news:64c5946965339c80": 1794571305,
+  "news:3aa47e31d6fd44f3": 1794598615,
+  "news:7fbad894d0934e80": 1794598616,
+  "news:7acd8e2765401c41": 1794598616,
+  "news:1ba4f7b35d59307d": 1794598616
  },
  "stories": {
-  "교보생명, 베트남 주거 개선 봉사": 1794339047,
   "[진단_보험업계 ⑦교보생명보험] 연결 순익 증가에도 보험 본업 부진... 저축은행 인수에 자본건전성 부담 가중": 1794356024,
   "삼성생명, 3Q 보험손익 반등 기대…CSM 성장 탄력": 1794356024,
   "삼성복지재단, 삼성문화재단, 삼성생명공익재단이 함께 하는 서울특별시 어린이병원 《작가의 비밀정원: 꿈의 조각들》 전시": 1794356024,
@@ -2830,7 +2833,10 @@
   "삼성생명 '고수익' 건강보험, 판매 1.5% 늘 때 신계약 CSM은 9.9% 줄었다": 1794571305,
   "“시장 예상을 19% 웃도는 순이익을 내고도 주가가 떨어지는 아이러니…삼성생명, 주가 발목 잡은 ‘숨은 악재’”": 1794571305,
   "한화생명, 투자손실에도 누적 순익 성장… 보험손익 176% 늘어": 1794571305,
-  "교보생명, 계약을 지키는 경쟁력... 분급제 앞서 쌓은 15년": 1794571305
+  "교보생명, 계약을 지키는 경쟁력... 분급제 앞서 쌓은 15년": 1794571305,
+  "한화생명, 2년간 보험특허권 획득 '최다'...상품 경쟁력 통해 미래이익 기반 '탄탄'": 1794598616,
+  "“대규모 환손실·변액헷지 비용 직격탄…한화생명, 3분기 2174억원 순손실”": 1794598616,
+  "금메달 이어 우승컵 노리는 이해란… 삼성생명 비상 견인": 1794598616
  },
  "news_queue": [
   {
@@ -3302,6 +3308,36 @@
    "date": "Thu, 12 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14aWlwOUNiS2o1ZzlPbXI3bURONlFSV2cxTllMSzhUVHNfQzFrMnVRWnlyelZTUmZlaUlIcUJwdGpqbUM4TTE1elEwM1B2bkdTM210VXlUb1ZZYXpyZ0hWY3pqQdIBZ0FVX3lxTE1FOHlMckJmX1VoUlNFUTdzYzRNYVhpODR1VGRXOVlBRnphRzc2Rm5PVk80emZsNWUtZXRQd3ZHOXNzV3UybjYtdExLSmh6SEdVR2lONTkzbVFiMTh0eHhKOEpoTHZvVUk?oc=5",
    "sort_key": "Thu, 12 Nov 2026 06:40:26 GMT"
+  },
+  {
+   "id": "news:7fbad894d0934e80",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 2년간 보험특허권 획득 '최다'...상품 경쟁력 통해 미래이익 기반 '탄탄'",
+   "source": "녹색경제신문",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jWWZWcFQ4NGRGSnc3M3N3UDRzbWJiVVNBT1NFclVuX3J5U3lJazU0SEhsYzU5OF9OTzU4YkdPVkM4TlotcldVbVV5OVc0UGVERllfMXkzZ3JkNnJjVDFFMkhCQWgtamp5?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "id": "news:7acd8e2765401c41",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“대규모 환손실·변액헷지 비용 직격탄…한화생명, 3분기 2174억원 순손실”",
+   "source": "뉴스퀘스트",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRUk9Sd0l4NkY0SUd3dlVjTXBqTF9wNzhsUjc1MWpyYXpSZ0l3TFZhamRTX3FORll1ZlRhZWFSSWdteDBwaEYtNmxEcFRxdmVaSm1OR3NfdXFoQjdUN2ZwVHBZTm1aYllyckFuQWZ0VQ?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 07:06:37 GMT"
+  },
+  {
+   "id": "news:1ba4f7b35d59307d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "금메달 이어 우승컵 노리는 이해란… 삼성생명 비상 견인",
+   "source": "연합뉴스TV",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTlcta012YXFJd0gzbFRWUHdrdV9ES0JoNDVUQlRuVlN3MGJDcVdGVmRGb3dLZlJCTGE5UEZ1MDNSMHZDR2lhRXI4V09OTjBBWFhidzVDYVdIMU9OV0oxYmh3T3oxN1k?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 14:27:00 GMT"
   }
  ],
  "initialized": true,
