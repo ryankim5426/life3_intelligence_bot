@@ -2725,10 +2725,14 @@
   "news:e81e3bf2cf4f9c0c": 1794664997,
   "news:c15166272f34e8ac": 1794664997,
   "news:3a31c54bd67bbef1": 1794664997,
-  "news:b872f93aebd75a66": 1794664997
+  "news:b872f93aebd75a66": 1794664997,
+  "news:f4e9488e0528f1d7": 1794697098,
+  "news:80d21c3a9bb2d099": 1794697098,
+  "news:eec0f3a56b962916": 1794697098,
+  "news:d7e8fc40a2de560a": 1794697098,
+  "news:e6bab472b1b0dd8e": 1794697098
  },
  "stories": {
-  "(K금융, 태국 활로 찾기)④ 삼성생명, 중장년층 공략 성공": 1794432965,
   "교보생명, 퇴직연금 DC·IRP 수익률 1위…1년 수익률 23% 육박": 1794450670,
   "“변동성 장세 속 완벽한 독주”… 교보생명, 퇴직연금 DC·IRP 수익률 전 구간 ‘전체 1위’ 석권": 1794450670,
   "[개장 전 주요 공시] 한화생명·삼양식품·동부건설·한솔제지·LF 등": 1794450670,
@@ -2866,7 +2870,9 @@
   "'신지현 18점 폭발' 신한은행, 하나은행 87-73 제압...3승 1패로 우리은행·삼성생명과 공동 선두 - 머니투데이": 1794664997,
   "삼성생명, 박지수 돌아온 국민은행 제압…하나은행 개막 4연패 수렁(종합)": 1794664997,
   "‘꼴찌 후보’에서 공동 선두로… 신한은행-삼성생명, 반란은 계속된다": 1794664997,
-  "한화생명, 보험손익 176% 급증에도 3분기 적자…'투자손실'이 발목": 1794664997
+  "한화생명, 보험손익 176% 급증에도 3분기 적자…'투자손실'이 발목": 1794664997,
+  "[BK 프리뷰] 단독 선두 노리는 삼성생명 vs 선두권 노리는 BNK": 1794697098,
+  "삼성·한화생명, 보장성 신계약 건수 줄고 단가는 ↑…중소형사는 외형 확대": 1794697098
  },
  "news_queue": [
   {
@@ -3098,6 +3104,26 @@
    "date": "Thu, 12 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CbDgxeTRMUHpTa1VqcXRkMVVhdHZLbi1hSVlFOC1hdUlaQ0tibkVXdVNGUmx6Y3hpQzNZWEFWa2hEMFJsR2dYVlpkZDNMd1I1cjRoaWZaMXB3OWhQNlVKb3YzTndYMmN0WlRMRm93RQ?oc=5",
    "sort_key": "Thu, 12 Nov 2026 23:51:49 GMT"
+  },
+  {
+   "id": "news:d7e8fc40a2de560a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[BK 프리뷰] 단독 선두 노리는 삼성생명 vs 선두권 노리는 BNK",
+   "source": "바스켓코리아",
+   "date": "Sat, 14 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JX1A4WEtncHV6bFRxR3hVdnN2Q3NwY3FRX1B6elh1M2NTVVNMczc2ZFdVUG4tUEw0TUJFOHNfcmpBbk1kZmJnOERWa0xFYVVVYUxNalRpenlCWjlXbGltams4b1NkOVRZZ3FFOG1xZkVZQ0ZGdXRF?oc=5",
+   "sort_key": "Sat, 14 Nov 2026 20:38:16 GMT"
+  },
+  {
+   "id": "news:e6bab472b1b0dd8e",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "삼성·한화생명, 보장성 신계약 건수 줄고 단가는 ↑…중소형사는 외형 확대",
+   "source": "CEO스코어데일리",
+   "date": "Sat, 14 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kcHNsclRUOGdrR1diZEhMOWJzNm9WRGxRZWFldjN6RE5CWTg4X0RCNDhZNjdGU3BOTGx5eW9mNzJlOVZFdzc0cTVBWGlOVkxsOVRpbnpjWjlCcmxqRnBUS0hTZUN3Ulk?oc=5",
+   "sort_key": "Sat, 14 Nov 2026 22:00:00 GMT"
   }
  ],
  "initialized": true,
