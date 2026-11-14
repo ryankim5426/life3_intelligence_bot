@@ -2698,15 +2698,18 @@
   "news:155adf517b711ccc": 1794616078,
   "news:c2400aa6e20ee847": 1794616078,
   "news:ea9210e2c9cf7184": 1794616078,
-  "news:0584ceb82f5e19b9": 1794616078
+  "news:0584ceb82f5e19b9": 1794616078,
+  "news:dc566565317b638a": 1794639400,
+  "news:a69ab4907ae98f11": 1794639400,
+  "news:90dfc200b9a80b60": 1794639400,
+  "news:7ca0e718a1f2b27c": 1794639400,
+  "news:589c69f107d2114b": 1794639402,
+  "news:6070782779b25941": 1794639402,
+  "news:26fb0f6e80579ee7": 1794639402,
+  "news:5dc93c6ddf8c0c5c": 1794639402,
+  "news:31efbbee02638e50": 1794639402
  },
  "stories": {
-  "삼성생명 의존도 벗어나는 삼성SRA, 라살운용과 3,000억 규모 국내 부동산 담보대출펀드 조성 - SPI": 1794379581,
-  "GA 브랜드평판 순위 엇갈렸다…인카금융서비스 1위, 한화생명금융서비스 4위": 1794379581,
-  "[BK 프리뷰] ‘시즌 전 예상 5·6위의 반란’ 신한은행-삼성생명, 평가 뒤집을 승자는?": 1794379581,
-  "한화생명, 2026년 한국ESG기준원 평가 통합 A등급 획득": 1794379581,
-  "한화생명, 7년 연속 ESG 통합등급 ‘A’…환경·사회 ‘A+’": 1794379581,
-  "교보생명, GA 채널서 종신보험 불완전판매 '급증'...판매품질 관리 '시험대'": 1794379581,
   "삼성생명, 2027년 순익 8조원 전망": 1794408304,
   "[단독] 삼성생명 1200억 中 출자, 4년 8개월째 '제자리'…신고수리마저 실효": 1794408304,
   "교보생명, 베트남 취약가정에 주택 4채 지원…보호아동과 나눔 봉사": 1794408304,
@@ -2843,9 +2846,65 @@
   "삼성생명·화재 3분기 순익 희비 … 엇갈린 이유는": 1794616078,
   "삼성생명은 투자·삼성화재는 보험…실적 성장동력 엇갈려": 1794616078,
   "삼성생명 3Q 순익 8.3% 증가…지주계 생보는 투자손익에 발목": 1794616078,
-  "[BK 프리뷰] ‘기대 이상의 출발’ 삼성생명 vs ‘기대 이하의 출발’ KB": 1794616078
+  "[BK 프리뷰] ‘기대 이상의 출발’ 삼성생명 vs ‘기대 이하의 출발’ KB": 1794616078,
+  "교보생명, 2026 채용연계형 인턴 선발…22일까지 접수": 1794639402,
+  "[부상] 박지수 복귀전 치르나? 14일 삼성생명 원정경기 동행…이채은 독감 결장": 1794639402,
+  "'의외의 초반 성적' 삼성생명 하상윤 감독이 짚은 초반 기세의 요인 \"리바운드와 턴오버\"": 1794639402,
+  "[더밸류 브리핑] 오늘의 보험 소식…현대해상·교보생명·ABL생명": 1794639402,
+  "삼성생명·화재 순익 4.5조…3분기 투자손익은 ‘뚝’": 1794639402
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:589c69f107d2114b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 2026 채용연계형 인턴 선발…22일까지 접수",
+   "source": "잡포스트",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkZVRFOUVsbXJhYm5qV2N4bHBBVGRJcFBqOVBjUEpDNUNzVnlOdFdQSUxmYmtKalVQYVJ0VXVGbVJRTkdxSDdFS3NHM0pvd05QUm1Ddnl1cUMyRFZMVU5BSXN4VmZlekxvcDhUcnN30gFyQVVfeXFMTjJLRWlYeTc3Q1JmUldKcVZic1NrOEd3aDlrZXpMWjFONFYwWU93X1lQRG9QaFk3TkVsejdQemlDajRXOV9uUzhqMFNjYy1VV3d2U0JjVm1NdHN4dGJrQzVGZkN4Zmo0REdNbXdoekJaOUFn?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 02:16:59 GMT"
+  },
+  {
+   "id": "news:6070782779b25941",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[부상] 박지수 복귀전 치르나? 14일 삼성생명 원정경기 동행…이채은 독감 결장",
+   "source": "점프볼",
+   "date": "Sat, 14 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qOVk5blotM2tWQ0c2Q1ZObjNxcVRFTUNkUnU3MmVLX1RZbVJNSkxtbXNlR052ejBjWkVQcnN1MUlmcVp6RE9peHA2d1Bid293TUNPRE9tMUdBdGFQcUVpR0JCeTRuVmxpOTM2OWl1U0I?oc=5",
+   "sort_key": "Sat, 14 Nov 2026 03:12:44 GMT"
+  },
+  {
+   "id": "news:26fb0f6e80579ee7",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'의외의 초반 성적' 삼성생명 하상윤 감독이 짚은 초반 기세의 요인 \"리바운드와 턴오버\"",
+   "source": "m.rookie.co.kr",
+   "date": "Sat, 14 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MTmlSdmxvY0dBTWxrZmZQRnNzZ1U5ZG5VYzF1RV9QQkhWZmZJNzhhbEd5ZERVcnExcHF5VVZoTlRPVUFxdHAxa1ppQ1VMS2h3bE1xVDJsR1ItNzc1NWlJYmZjc1hPa1U?oc=5",
+   "sort_key": "Sat, 14 Nov 2026 05:06:02 GMT"
+  },
+  {
+   "id": "news:5dc93c6ddf8c0c5c",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[더밸류 브리핑] 오늘의 보험 소식…현대해상·교보생명·ABL생명",
+   "source": "더밸류뉴스",
+   "date": "Thu, 12 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IVHI5TFdzaGNuMEpCNS1aVGthbzJTeVFpQm5RYWtpWnMzdlQ0cWZ0NC1LSDFlUmFfcXBKQTl2ZEhCM1ktQ2NZNDdEUGFhYXB5UHExUA?oc=5",
+   "sort_key": "Thu, 12 Nov 2026 07:08:51 GMT"
+  },
+  {
+   "id": "news:31efbbee02638e50",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명·화재 순익 4.5조…3분기 투자손익은 ‘뚝’",
+   "source": "서울경제",
+   "date": "Thu, 12 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WM0NMbFMwYkZoQmRwbDVGWHJkODlyZElLb1FmVzZzTEpUblo1MjU5RjU4cWt0S2o1SEREUUNSQXZyVjZTOTBPN3dVZUhtQ1czLVHSAVNBVV95cUxQZkdoVUhMalJBSGVadFdZSUlpY1VnZHBYVFNoSVdyek42WHlUTnpCWDdOUGVJRlU0TTVraHN3N3dFc0YzSjB6cEg4NTBNZi0zTEpQcw?oc=5",
+   "sort_key": "Thu, 12 Nov 2026 08:36:44 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-14"
 }
