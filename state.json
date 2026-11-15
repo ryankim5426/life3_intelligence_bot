@@ -2770,23 +2770,14 @@
   "news:dbb6be53a6322994": 1794761563,
   "news:717e738bafdcc987": 1794761563,
   "news:4094bc023f6bbe69": 1794761563,
-  "news:2b3aadb0811ca6e0": 1794761563
+  "news:2b3aadb0811ca6e0": 1794761563,
+  "news:0fe0fed99b2a8939": 1794778462,
+  "news:059a73caec55b07f": 1794778462,
+  "news:c649e8a98e96d27b": 1794778462,
+  "news:658d9b6b99fad440": 1794778462,
+  "news:6475ee87c42ec01b": 1794778462
  },
  "stories": {
-  "삼성생명·화재, 3분기 나란히 호실적…이제 해외로 보폭 확대": 1794508009,
-  "한화생명, 누적 순익 12.6%↑…해외법인이 효자": 1794508009,
-  "교보생명, 퇴직연금 원리금비보장형 수익률 1위…DC형·IRP 장단기 모두 선두": 1794508009,
-  "투자 한파에 갈린 보험 형제…삼성생명·한화손보는 웃었다": 1794508009,
-  "삼성생명, M&A '가속페달'…\"이익 5분의 1 해외서 번다\"": 1794508009,
-  "[단독] 교보생명, 악사손보 지분 51% 인수 추진": 1794508009,
-  "삼성생명·화재 순익 1.3조 … 시중은행 맞먹어": 1794508009,
-  "수수료 개편 맞선 한화생명, '건강보험'으로 승부수": 1794508009,
-  "삼성생명, 3Q 누적 순익 2조6859억…50% 환원 로드맵 그린다": 1794508009,
-  "보험손익 176% 급증…한화생명 3분기 순익 8656억": 1794508009,
-  "삼성생명 “10년 내 해외사업 이익 비중 20% 이상 목표”": 1794508009,
-  "한화생명 \"단기납 종신 비중 낮추고 중장기 중심 재편\"": 1794508009,
-  "한화생명, 누적 순익 12.6% 증가…3분기 별도 적자": 1794508009,
-  "한화생명 “내년 상반기 밸류업 계획 발표 추진…배당 방안 검토”": 1794508009,
   "홍원학 삼성생명 대표, 배당·자회사 호조에 순익 성장…상품 다각화 지속 [금융사 2026 3분기 실적]": 1794527357,
   "삼성생명 '웃고' 삼성화재 '울고'…3Q 순익 8.3%의 명암": 1794527357,
   "KB증권 \"한화생명, 투자손익 악화…목표가 4300원 하향\"": 1794527357,
@@ -2904,7 +2895,11 @@
   "삼성생명, BNK 69-63 제압하고 파죽의 3연승… 단독 선두 도약": 1794761563,
   "교보생명 \"3분기말 기준 퇴직연금 DC·IRP 실적배당형 수익률 1위\"": 1794761563,
   "삼성생명, 3연승으로 단독 선두 도약": 1794761563,
-  "한화생명금융서비스, 설계사 영업력 향상교육 진행": 1794761563
+  "한화생명금융서비스, 설계사 영업력 향상교육 진행": 1794761563,
+  "'강유림 21점·미야사카 20점 폭발' 용인 삼성생명, BNK 69-63 제압… 3연승·1라운드 단독 선두 등극": 1794778462,
+  "신창재 교보생명 회장, ‘평생안심신탁ʼ으로 고령층 공략 [보험사 시니어 전략]": 1794778462,
+  "[게임리포트] 백투백 피로 극복한 삼성생명, 강유림 활약에 웃다": 1794778462,
+  "삼성생명, BNK 꺾고 3연승 질주…강유림 21점": 1794778462
  },
  "news_queue": [
   {
@@ -3166,6 +3161,46 @@
    "date": "Sun, 15 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYUFmV0paNWVCdmsxSG1IMG44X2RKSEFNRlprTWNOUnRYWWZjNHplbFVDRW81V0pGandPSF85MzdqRlB2QnFqeFl1MHFwU0hZU1FYVGMxdW1DY3U1ZXlsTUVBLTdIT1VNakZJ?oc=5",
    "sort_key": "Sun, 15 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:059a73caec55b07f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'강유림 21점·미야사카 20점 폭발' 용인 삼성생명, BNK 69-63 제압… 3연승·1라운드 단독 선두 등극",
+   "source": "데일리스포츠한국",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11alVzVEZOYnBqUG1CMVpzcXcyRUpGM0pSM1B6SnhvbDZQTkRKV1ZaUm9fV045cGY0QnVybklYazZfcDlXUXhiSERucVUtZEpBdHNVN2NqVzMwMzRZRVkzQ3ZWeFJiYWtDTGFUenF2T3ppd0tDUzk4Uk5tUdIBf0FVX3lxTFBkVTd2LUZnQWN4ZkxUVGl2aGt4amRGbVk5c0Q5Ync4WUhzaWFfbWstMV91UHVKQ1NLeXh4b01IdkdBc3d6Y0tqWWczWmlWcTd3bGFFcm9WR2xWeS1ZUnA3aEQyY1p5cUw1Q1VmUzI1MHpUeXRaak83VDNUX0tkRlk?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:53:18 GMT"
+  },
+  {
+   "id": "news:c649e8a98e96d27b",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "신창재 교보생명 회장, ‘평생안심신탁ʼ으로 고령층 공략 [보험사 시니어 전략]",
+   "source": "한국금융신문",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1reDlyZGNSRGxsQVo0TGhRWWpnQnFLVU5TM3A3bnEtYmdJc214QTNFTFJFLWNvQVhnWk42X0VXN2FEZDVHT3N3SGdGSjU2NWVrY1l5VXNvNmkzVWxTRTdJVTRHNnlvVkZYcmxkYzluM3ctTE9BX2xRZGxOOHc?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:658d9b6b99fad440",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[게임리포트] 백투백 피로 극복한 삼성생명, 강유림 활약에 웃다",
+   "source": "바스켓코리아",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsRGlrWENoV0lqVlh3TXVGb2ZoWkt2QWRKRjlTMGxjZXM5V1p2WFRyZ3B1WnFRSEQ5ZHJXM3ZPMUlmQWhWbm1lQ0xuZTlrZGE4VE5tNUVST000QmhmbW1sWG1HSXJLbVZIZkxqOFI3NEJoallNWWI0?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 18:33:24 GMT"
+  },
+  {
+   "id": "news:6475ee87c42ec01b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, BNK 꺾고 3연승 질주…강유림 21점",
+   "source": "연합뉴스TV",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTHZDUW5nMlFpTU5iMFg1bHA0NDJ6bmQyTk9rNGU5RXNiRTYyTGk3c1phMTJVeVFlRTRZb0VOVkI0ZFl0QXlpbEs3RkZZcnl0ejdReEEzV1VoRlJ1RzlFc2dUM3JaZjQ?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 21:03:00 GMT"
   }
  ],
  "initialized": true,
