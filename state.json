@@ -2738,7 +2738,24 @@
   "news:e38eb56d89f1b5db": 1794709910,
   "news:b408a10eb73a5cd0": 1794709910,
   "news:310016b7610feb7d": 1794709910,
-  "news:fd5d7981da255187": 1794709910
+  "news:fd5d7981da255187": 1794709910,
+  "news:4f63092a94461adb": 1794736450,
+  "news:ac07406d60ca32ee": 1794736450,
+  "news:2bdc6fef27b365b0": 1794736454,
+  "news:ef598604d9b8606f": 1794736454,
+  "news:56cbf130529a4763": 1794736454,
+  "news:b7139eb2a93cbb7a": 1794736454,
+  "news:d74f2808162a74cb": 1794736454,
+  "news:097dc4ee4b30eaa9": 1794736454,
+  "news:655cfdf06420374b": 1794736454,
+  "news:c1abd30490150a7a": 1794736454,
+  "news:162d92de6dde9d32": 1794736454,
+  "news:f2df0a969cb7c37f": 1794736454,
+  "news:6c52d12b493144a2": 1794736454,
+  "news:a0ec37c307905e3a": 1794736454,
+  "news:78246def54bff3e1": 1794736454,
+  "news:f2d8085c3b2ad492": 1794736454,
+  "news:7a96f1e6a02e9152": 1794736454
  },
  "stories": {
   "[금융-라운지] 신한은행 / 미래에셋증권 / NH농협은행 / 한국투자증권 / 교보생명": 1794478685,
@@ -2883,9 +2900,175 @@
   "‘누가 꼴찌 후보래?’ 신한은행·삼성생명, 초반 순위 경쟁 ‘주도’→선두권 판도 흔든다 [SS포커스]": 1794709910,
   "한화생명, 자립준비·가족돌봄청년 ‘목돈’ 마련 지원": 1794709910,
   "월 8만원 모으면 3년 뒤 1000만원…한화생명, 청년 95명 자립 지원": 1794709910,
-  "[게임 리포트] 돌풍을 일으킨 삼성생명, 핵심 키워드는 ′리바운드 그리고 실책′": 1794709910
+  "[게임 리포트] 돌풍을 일으킨 삼성생명, 핵심 키워드는 ′리바운드 그리고 실책′": 1794709910,
+  "한화투자증권 \"한화생명 배당 다시 시작하나…한화 기업가치 바꿀 핵심 변수\"": 1794736454,
+  "한화證 “한화생명, 환·헤지 손실에 적자 전환…목표가↓”": 1794736454,
+  "“홀로 선 청년들의 자립 마중물”…한화생명, 1천만 원 목돈 마련 돕는다": 1794736454,
+  "투자손익 부진에도 실적 선방…삼성생명 배당 확대 기대 커지나": 1794736454,
+  "한화생명, 월드비전 등과 'WE CARE DREAM 저축보험' 협약": 1794736454,
+  "[웜업터뷰] 이틀 연속 경기 치르는 삼성생명, 하상윤 감독 “안혜지 막는 것이 관건”": 1794736454,
+  "승리하면 단독 1위, 하지만 단호함 보인 삼성생명 하상윤 감독… “신경 쓸 겨를 없다, 매경기 최선 다 할 것”": 1794736454,
+  "한화생명, 저축보험 활용해 자립준비·가족돌봄청년 자산형성 지원": 1794736454,
+  "[BK 리뷰] ‘강유림-모모나 판타스틱 쇼타임’ 삼성생명, BNK 꺾고 4연승 & 단독 선두": 1794736454,
+  "모모나-강유림 41점 합작, 꼴찌후보 삼성생명 3연승...1라운드 공동 1위 확보": 1794736454,
+  "강유림-모모나 '쌍포' 또 터졌다! ‘파죽지세’ 삼성생명, 홈에서 BNK마저 제압하고 단독 1위 수성": 1794736454,
+  "에이스의 부진을 말끔히 지운 강유림과 미야사카 모모나…삼성생명, BNK 잡고 3연승+단독 선두!": 1794736454,
+  "'강유림·미야사카 41점 합작' 삼성생명, BNK 꺾고 3연승…단독 선두": 1794736454,
+  "삼성생명, BNK에 69-63 승리…강유림·미야사카 활약 : 스포츠": 1794736454,
+  "단독 1위 오른 삼성생명 하상윤 감독의 강력 추천 “이해란이 1라운드 MVP”": 1794736454
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:2bdc6fef27b365b0",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화투자증권 \"한화생명 배당 다시 시작하나…한화 기업가치 바꿀 핵심 변수\"",
+   "source": "핀포인트뉴스",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WVWE1bC1Sa09kamFnYnlJUHBLWUF6WlRORnoyVkRFZm1Od2JxcjU5YWpybU1xQi02ZTV5MHhlbW9PSjVVS3RJWlRFS0lkXzF0S3QxaXllOG9GR3ZPMzc4cVFZMXFxMWM5M1o2MkpXRV9xZWs?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 15:10:00 GMT"
+  },
+  {
+   "id": "news:ef598604d9b8606f",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화證 “한화생명, 환·헤지 손실에 적자 전환…목표가↓”",
+   "source": "팝콘뉴스",
+   "date": "Fri, 13 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkWWpSeHRSTUs5QUtrZ3lBdlV1Qng5TUMyVFNiYkIwUHNoR0VSaXFyNU9fZVEyQjF3ZGJvYWlfcHo5YmJSRXJWYXFyQmtUQTdmQjNPaTdYbGlWTUlxeC1YMXlqcTZHUXRRdTRKeC0yWWZwd9IBckFVX3lxTFBkWWpSeHRSTUs5QUtrZ3lBdlV1Qng5TUMyVFNiYkIwUHNoR0VSaXFyNU9fZVEyQjF3ZGJvYWlfcHo5YmJSRXJWYXFyQmtUQTdmQjNPaTdYbGlWTUlxeC1YMXlqcTZHUXRRdTRKeC0yWWZwdw?oc=5",
+   "sort_key": "Fri, 13 Nov 2026 18:40:33 GMT"
+  },
+  {
+   "id": "news:56cbf130529a4763",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "“홀로 선 청년들의 자립 마중물”…한화생명, 1천만 원 목돈 마련 돕는다",
+   "source": "팝콘뉴스",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WaTdrdUtRa1EyM3JJVEZpRkVkdXYtWWkzdGJfa3d6RTRkMENBM3U5alg2SGowWmdRUFd5VFpNS3lnRUwzOWtDWVRGTFJnTGtDNU9WUkl0MVBTZXNsOTRBdm9ma0dUb0hXNmZHUGl30gFyQVVfeXFMUGtja2JCS2xTYnhjc2tpaGU4cmtlY09VR282YjkzU0xTZHhaUGdadV9reV91aFozeGltZ0p1LWxRQ0xxLWZqM29UdlBQMmhCN29tXzdUTlMzRTAzOEpuX3FLd3ItZFFlVjYtLU1SdmxWdWtn?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 00:19:39 GMT"
+  },
+  {
+   "id": "news:b7139eb2a93cbb7a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "투자손익 부진에도 실적 선방…삼성생명 배당 확대 기대 커지나",
+   "source": "핀포인트뉴스",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yaWRhWUtOVHNOQUdYa0R2OUMyNTQ2T0EyRVd1bWZfN05FSnNTVG5BRkdLOGc0R0J2d3NfcWp3VklTRXBfSWpwbVktTDU1OEhDd2VpOGE0dkYxcXZvYlF0a1p6Q2ZZS3Q3VWdrMldYaU44VkHSAXdBVV95cUxPeHdqTndCRFp6WGVya1VLWDA3bklFRjFTLUR4eXhBcHVFZXRyaG03b2ZWczNxd0M0Y2Q4NmF5R2VZei1KZUFnM2l0dU92TE9Hd1pvMDNienhBYndmUkJUVmVEejNQN2tUTmdzSENmLVMteS1lZUpvRQ?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 03:51:07 GMT"
+  },
+  {
+   "id": "news:d74f2808162a74cb",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 월드비전 등과 'WE CARE DREAM 저축보험' 협약",
+   "source": "파이낸셜신문",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tUmtPakJtbjBibXRjMXQ3M0ZyVEUydEtMc1ZacVprVTY3dUl5d0tVS1h0NUlSQ2ZNN19Ba0pIUjdZQnVBVTBDakJxREx4QTJzaDlPZlgwS284MWc5QUhPMmZ1RXZNdWVJZXJr?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 04:44:00 GMT"
+  },
+  {
+   "id": "news:097dc4ee4b30eaa9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[웜업터뷰] 이틀 연속 경기 치르는 삼성생명, 하상윤 감독 “안혜지 막는 것이 관건”",
+   "source": "점프볼",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBia1JCdFZvdGRlWTlxeHY5V1YxQWVtbGxUUFh6cF9hTW95Z3NLNlFyclY4Z0ZtaDhVN3Y4QVVoelBxRHRidEM3ZFVDam0wVjBNYjZiS3Nkb1hXSXplNG5oWU9sQ1FjVnJ2ZmtTVzJrWTI?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 06:35:44 GMT"
+  },
+  {
+   "id": "news:655cfdf06420374b",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "승리하면 단독 1위, 하지만 단호함 보인 삼성생명 하상윤 감독… “신경 쓸 겨를 없다, 매경기 최선 다 할 것”",
+   "source": "루키",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUjUxbWdzeVJJbVNsN0JZVVlKVTA5d2xGbnNBbzgwcVRVeUZyTjRFamNGNl9MLXRSNkJBcG9wMmdxQkZuY0llTFVPSjh5RURyTHF2d0gtNmdkVUFMbWJjcDRoRFRYWlE?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 06:39:29 GMT"
+  },
+  {
+   "id": "news:c1abd30490150a7a",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 저축보험 활용해 자립준비·가족돌봄청년 자산형성 지원",
+   "source": "보험매일",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zeUNmbTdMTndJTXQyVDYya1ZfNEpCT2trcHV1MnZ0UTFpNDlyRDZtSmFsckM0Zzd4M194ODBaUE4yenRGWFBRaVpkREJQTVA1dFlwcnNaVVF3dVBpRVZSR3A3MVhySXVV?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 07:50:04 GMT"
+  },
+  {
+   "id": "news:162d92de6dde9d32",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[BK 리뷰] ‘강유림-모모나 판타스틱 쇼타임’ 삼성생명, BNK 꺾고 4연승 & 단독 선두",
+   "source": "바스켓코리아",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rZVFKQkRzYnlFVEFHbjFwY2dQSThqUW1qcnFzODVNeTEzZHhvaTdyQUdnNm5PSFVFdTJPR3l1VHlUckVJOXpyVWxITE1NVTd2dWJHOWJJR2cycEZlQldTYmdZcV9WQlh0RGJ2V01mYjloQ1cxMHk0?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 08:35:01 GMT"
+  },
+  {
+   "id": "news:f2df0a969cb7c37f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "모모나-강유림 41점 합작, 꼴찌후보 삼성생명 3연승...1라운드 공동 1위 확보",
+   "source": "점프볼",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GUmZpdjdjbkMxRWxXaDVFRzI4elc0TllLc3FiWjRaRVVtQ0I4T2RHb0hwc05SVExzWEtZcDNTZ0RVUzd1ZTB0Q2R0YzA5azhuU0RtVE5TWFYwZGhXV29QY3VNN3JjSDRwSk9rcDR2YTg?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 08:53:55 GMT"
+  },
+  {
+   "id": "news:6c52d12b493144a2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "강유림-모모나 '쌍포' 또 터졌다! ‘파죽지세’ 삼성생명, 홈에서 BNK마저 제압하고 단독 1위 수성",
+   "source": "루키",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95RlZISEIwVnpYTm02RlZjb3pvNUhwM000QVpKaHZjbDdXR0lGV0llcWpIVWdsY0h5QTRQeEh3clRpYzNLakZyZDNPTlJ4WE5jcUNtUG9oSXFxTDVOaEFuMkhxdFlZQUw4M0E?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:04:20 GMT"
+  },
+  {
+   "id": "news:a0ec37c307905e3a",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "에이스의 부진을 말끔히 지운 강유림과 미야사카 모모나…삼성생명, BNK 잡고 3연승+단독 선두!",
+   "source": "스포츠경향",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrSjhxVVR1MUFHcGlrQ0FRdkhFNlNwODBucHpKUHNDREgyakVoT2o5SXE4aTlMR05BX3RhQldJX1R3NzMtLW9FaVptYTBHRDVhYTV2bWRhZ0RodGVTWFHSAWNBVV95cUxPNGNfdm1rcVp4RXEydW5lQzlTMmp2REp3VUhfdW5nZnc3XzJHVENnQ2FoekFLTThCczh2Mnl1WUU3cC1ha2E5WlROM3NQbVhlcDVNbHZNY0dXSlhuTE5UVGpHWjg?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:15:00 GMT"
+  },
+  {
+   "id": "news:78246def54bff3e1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'강유림·미야사카 41점 합작' 삼성생명, BNK 꺾고 3연승…단독 선두",
+   "source": "뉴시스",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdmdmUFprcUZQdVVmQl9XdU5wSlNvZlpxcmg0LVlIY2Z6Z2R1Y3RIUW4xMFIybnpBak9UVThKOHdkOTk0Sy1JeVUxcHJlbnI2anA5MnQydzZHSzRGTldqRA?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:16:29 GMT"
+  },
+  {
+   "id": "news:f2d8085c3b2ad492",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, BNK에 69-63 승리…강유림·미야사카 활약 : 스포츠",
+   "source": "재경일보",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yWENoV1B6U2J3VC1GMWoyUG1OT0E0RG1xUFBzdUNBVUdiV0haVHZxU3ZNMmNzVGFqeHllamd0WWdZNTFKMkdIRnJNMA?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:28:52 GMT"
+  },
+  {
+   "id": "news:7a96f1e6a02e9152",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "단독 1위 오른 삼성생명 하상윤 감독의 강력 추천 “이해란이 1라운드 MVP”",
+   "source": "루키",
+   "date": "Sun, 15 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRE5JV09RQkptb1Y5ZVhqNElBMDlDcC1mdFk1aXFYd3NYNE1qdVowVGk3MEFiYnp3aTY2N1hsU3kwVnhRTlZVTDU5MTlZY3NOV0J6OFdJUHVobktpYWs2TWlsMUp0aVE?oc=5",
+   "sort_key": "Sun, 15 Nov 2026 09:35:51 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-15"
 }
