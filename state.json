@@ -2868,27 +2868,14 @@
   "news:a6b89a67b6eec7ae": 1794913207,
   "news:b7ac58504c387ac3": 1794913207,
   "news:e7cd9e8d794b1c11": 1794913207,
-  "news:1fa5b02b08cc3488": 1794913207
+  "news:1fa5b02b08cc3488": 1794913207,
+  "news:b4ff75d9a051fa3c": 1794944762,
+  "news:a61aa66cfa12e990": 1794944763,
+  "news:ca87bc9b385f868b": 1794944763,
+  "news:25ed9f96a3e7af26": 1794944763,
+  "news:df68bcc8c72ce791": 1794944763
  },
  "stories": {
-  "[더밸류 브리핑] 오늘의 생명보험사 소식…한화생명· 교보생명": 1794664997,
-  "한화생명, 3분기 실적발표": 1794664997,
-  "한화생명, 보험 본업 성장에 3분기 순익 12.6%↑…K-ICS 171%": 1794664997,
-  "[직장 돋보기 분석] 삼성생명, 순이익 26.9% 증가 속 '라이프케어 복합금융 플랫폼' 겨냥": 1794664997,
-  "‘이해란 4쿼터 지배’ 삼성생명, 박지수 돌아온 KB에 재역전극": 1794664997,
-  "[BK 리뷰] ‘돌풍은 계속된다!’ 연승에 성공한 삼성생명, ‘완전체’ KB 잡으며 공동 선두 등극": 1794664997,
-  "돌풍은 계속된다!…‘이해란·김아름 맹활약’ 삼성생명, KB스타즈 꺾고 2연승+공동 선두 등극": 1794664997,
-  "[JB화보] 김아름이 이끈 삼성생명, 박지수 출전한 KB스타즈 꺾고 승리 (삼성생명79-72KB스타즈)": 1794664997,
-  "[승리뷰] 공동 선두로 올라선 하상윤 삼성생명 감독, “흐름을 잘 탄 것 같다”": 1794664997,
-  "‘3점슛 시도 30개 이상’ 버저비터로 할당량 채운 삼성생명, 실책은 과제": 1794664997,
-  "[BK 플레이어] 돌풍 삼성생명의 캡틴 김아름, “우리는 잃을 것이 없으니...”": 1794664997,
-  "김아름·이해란 37점 합작…삼성생명, '박지수' 버티는 KB 제압하고 공동 선두": 1794664997,
-  "“시즌은 길다” 연승에도 차분했던 삼성생명의 캡틴 김아름의 미소": 1794664997,
-  "‘2004년 변연하가 마지막’ 삼성생명의 정규리그 MVP 계보, 이해란이 이을까?": 1794664997,
-  "'신지현 18점 폭발' 신한은행, 하나은행 87-73 제압...3승 1패로 우리은행·삼성생명과 공동 선두 - 머니투데이": 1794664997,
-  "삼성생명, 박지수 돌아온 국민은행 제압…하나은행 개막 4연패 수렁(종합)": 1794664997,
-  "‘꼴찌 후보’에서 공동 선두로… 신한은행-삼성생명, 반란은 계속된다": 1794664997,
-  "한화생명, 보험손익 176% 급증에도 3분기 적자…'투자손실'이 발목": 1794664997,
   "[BK 프리뷰] 단독 선두 노리는 삼성생명 vs 선두권 노리는 BNK": 1794697098,
   "삼성·한화생명, 보장성 신계약 건수 줄고 단가는 ↑…중소형사는 외형 확대": 1794697098,
   "박스아웃·리바운드·토킹 그리고 에너지…’공동 선두’ 돌풍의 삼성생명": 1794709910,
@@ -3005,7 +2992,11 @@
   "한화생명, 신계약 CSM 40% 성장에 보험 수익성 개선세": 1794913207,
   "한화생명, '젊은 부자 보고서' 자산이전 편 발간": 1794913207,
   "삼성생명, 생보업계 실적 한파 속 성장세 지속… 내년 밸류업 구체화 주목": 1794913207,
-  "교보생명·사랑의달팽이, 청각장애아동 ‘소리 찾아주기’ 8년째": 1794913207
+  "교보생명·사랑의달팽이, 청각장애아동 ‘소리 찾아주기’ 8년째": 1794913207,
+  "[보험브리핑]신한라이프·교보생명·푸본현대생명": 1794944763,
+  "한화생명이 분석한 3040 자산가, 다음 세대에 부동산보다 ‘투자상품’ 물려줘": 1794944763,
+  "교보생명, 투자이익 부진에 3Q 누적 순익 20% '뒷걸음' : 네이버 블로그": 1794944763,
+  "[금융소식] 카카오뱅크·케이뱅크·신한카드·신한라이프·교보생명": 1794944763
  },
  "news_queue": [
   {
@@ -3197,6 +3188,46 @@
    "date": "Tue, 17 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02SWhJdnZFeUR5N0FFWDY2ZUxuejlBNU44QXkyTVkwTXVMUDlaRl96UUtjQUE3NHl0bHZ5a0ZjamdkUGdnTHpWNWJQN0RXQVRvODZKN3BR?oc=5",
    "sort_key": "Tue, 17 Nov 2026 09:53:00 GMT"
+  },
+  {
+   "id": "news:a61aa66cfa12e990",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[보험브리핑]신한라이프·교보생명·푸본현대생명",
+   "source": "메트로신문",
+   "date": "Tue, 17 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UGxGQnlkeDc3R05pWHdxd3lKQXpHd3BKN3FReG5RblNJc05qVFZkZXN6eEFsZ1FxNS10VU55Sy1XcHNNSzhoWXozbEZwdHUwUUNiN3l0Ulk2cGt5YWRrVg?oc=5",
+   "sort_key": "Tue, 17 Nov 2026 07:43:11 GMT"
+  },
+  {
+   "id": "news:ca87bc9b385f868b",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명이 분석한 3040 자산가, 다음 세대에 부동산보다 ‘투자상품’ 물려줘",
+   "source": "한국보험신문",
+   "date": "Tue, 17 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jcmJxdVg0U09BaGlqUEttOTNqUmVJcTYtZlI1TEZtLXhqb1M0NGhYa3cxcDk2OEFyU2NuemRzMXQtY3EzTUFGWWlGS2RVRk50ekh3ak9hV2xvRHdNaXRVdjM4VkJCMGIzcUVj0gFvQVVfeXFMTnJXa0xJeWZhSHdOTVozUHBaZU1oOVUtdzMxcDliZ2l2TmRvQ3lwaWw3cWo4c0xSX3dPQlVKVkNfbm1uSFpkMjlkbWE5bG1PX3AzN0lXU01JQWxkSnNtNlZ5dFBBNHF5UHpUeHNqVHpn?oc=5",
+   "sort_key": "Tue, 17 Nov 2026 08:07:27 GMT"
+  },
+  {
+   "id": "news:25ed9f96a3e7af26",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 투자이익 부진에 3Q 누적 순익 20% '뒷걸음' : 네이버 블로그",
+   "source": "Naver Blog",
+   "date": "Tue, 17 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblp3QWY0OUE2WHF6b3FIMkVoVF9JWVctVmRNSmZHMndLSzZKRW5aZGxyWlcxc3ljX3d3elVHZThnNHdid0hWaWwxejlvT0VwN3lmTDllNFo1LTNqZ1VXeDYwVFZfNHJoTDFxYkR5U2tvM3AwUjFCbkhYb19GcEllUXh1b3RRaWthX2YyNC1BRQ?oc=5",
+   "sort_key": "Tue, 17 Nov 2026 12:41:35 GMT"
+  },
+  {
+   "id": "news:df68bcc8c72ce791",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "[금융소식] 카카오뱅크·케이뱅크·신한카드·신한라이프·교보생명",
+   "source": "천지일보",
+   "date": "Tue, 17 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMnJWNzZnYmc0a1lmaUtNTTcxWFpfelcwNlgtZl9KVXNiaklqM2JnZEQtSDNwa1Z2cjdMbVh1VEJ1X285MWRZcmNWTGpKYnlyVE4zc3RkU01wRktqanE2aEtfRmdpejAwdEE?oc=5",
+   "sort_key": "Tue, 17 Nov 2026 13:46:03 GMT"
   }
  ],
  "initialized": true,
