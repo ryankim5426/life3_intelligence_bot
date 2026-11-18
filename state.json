@@ -2918,20 +2918,14 @@
   "news:cc09868cc67da628": 1794995781,
   "news:4fce80a1453df6bd": 1794995781,
   "news:13c8c0dafc0cc4d3": 1794995781,
-  "dart:20261118000261": 1794995782
+  "dart:20261118000261": 1794995782,
+  "news:2e91e12da7a6d726": 1795027560,
+  "news:d0df1a62bbee2840": 1795027560,
+  "news:8db2b51a610c3ea0": 1795027561,
+  "news:28a28368085f9cf2": 1795027561,
+  "news:6c995561a25280de": 1795027561
  },
  "stories": {
-  "[경기 후] ‘1라운드 1위’ 하상윤 삼성생명 감독, “자신감이 생긴 것이 수확”… ‘주전 공백’ 박정은 BNK 감독, “잘하는 부분을 놓쳐”": 1794761563,
-  "LG 마레이 0.6초 남기고 위닝샷, KCC 21점차 뒤집기쇼, 허훈 위닝 3점플레이로 5연승 질주, 소노 이정현 앞세워 3연승 행진, 삼성생명 3연승 대반전 1위": 1794761563,
-  "한화생명, 청년 95명에 3년간 목돈 마련 지원": 1794761563,
-  "해란트 쉬어! 모모나 개인 최다 20점으로 펄펄…삼성생명 ‘단독 1위’ 점프": 1794761563,
-  "삼성생명 돌풍, 태풍으로 변했다. 이번에는 강유림 모모나가 터졌다. BNK 제압, 승부처에서 압도했다.": 1794761563,
-  "누가 삼성생명을 꼴찌 후보라 했나... 에이스 막혀도 BNK까지 꺾었다, 3연승 달리며 단독 선두 - 머니투데이": 1794761563,
-  "[함께가자 우리ESG] 한화생명, 취약 청년 홀로서기 돕는다…'위 케어 드림' 약정": 1794761563,
-  "삼성생명, BNK 69-63 제압하고 파죽의 3연승… 단독 선두 도약": 1794761563,
-  "교보생명 \"3분기말 기준 퇴직연금 DC·IRP 실적배당형 수익률 1위\"": 1794761563,
-  "삼성생명, 3연승으로 단독 선두 도약": 1794761563,
-  "한화생명금융서비스, 설계사 영업력 향상교육 진행": 1794761563,
   "'강유림 21점·미야사카 20점 폭발' 용인 삼성생명, BNK 69-63 제압… 3연승·1라운드 단독 선두 등극": 1794778462,
   "신창재 교보생명 회장, ‘평생안심신탁ʼ으로 고령층 공략 [보험사 시니어 전략]": 1794778462,
   "[게임리포트] 백투백 피로 극복한 삼성생명, 강유림 활약에 웃다": 1794778462,
@@ -3050,7 +3044,10 @@
   "[직장 돋보기 분석] 한화생명, 평균연봉 1억1700만원인 생명보험사...보험 본업 강화와 사업 다각화로 성장동력 확보": 1794995781,
   "교보자산신탁, 교보생명보험 대상 유상증자…800억원 규모": 1794995781,
   "'350조' 운용 KIC 신임 CIO…한화생명 출신 신민식 내정": 1794995781,
-  "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식": 1794995781
+  "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식": 1794995781,
+  "'사쿠라 위닝샷 작렬' 신한은행, KB스타즈에 1점 차 대역전승! 삼성생명과 1R 공동 선두 등극 [인천 리뷰] - 머니투데이": 1795027561,
+  "엔비디아 호실적, 코스피 '활짝'...삼성생명·LG·CJ '껑충'": 1795027561,
+  "KIC 새 CIO에 신민식 한화생명 본부장 내정": 1795027561
  },
  "news_queue": [
   {
@@ -3242,6 +3239,36 @@
    "date": "Wed, 18 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yc2VfaDZxSy04MXk1RkVJbEkyajd1UWpOb0R4eHpxaG1KZ2Q4OFd3MzZQNzdVWldkZjF6eGhTUWx2aVdKZWMzMElxZUFzdEVZZ0FROVRWNjh2clJKR29oaQ?oc=5",
    "sort_key": "Wed, 18 Nov 2026 09:33:56 GMT"
+  },
+  {
+   "id": "news:8db2b51a610c3ea0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'사쿠라 위닝샷 작렬' 신한은행, KB스타즈에 1점 차 대역전승! 삼성생명과 1R 공동 선두 등극 [인천 리뷰] - 머니투데이",
+   "source": "머니투데이",
+   "date": "Wed, 18 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiRi0xbEZQM29JVWp4RFoyTjd6TzNDNThWN3FkTDAyaDRUc0RUVW5WR1pqUzhkc3g2RUdvR2txMno1bFUxUlNPWkQyVlRqZ3FBa2lwc09xdHFtRmp4MWUwTEpFVERFY2lhRFHSAW9BVV95cUxPODZtN1dWa1h2LWpVcnp2UC1sVXM2a0xEamtkNThWa0taRm5yMmZMeTUxQXlKWFpBdkstSlhEeFB1STJLUjktd2xJbTFkS1pkY0FnVnVPUTBNRWtiM2xfZ216SzJlQTNNdG1IbV9EMm8?oc=5",
+   "sort_key": "Wed, 18 Nov 2026 12:11:22 GMT"
+  },
+  {
+   "id": "news:28a28368085f9cf2",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "엔비디아 호실적, 코스피 '활짝'...삼성생명·LG·CJ '껑충'",
+   "source": "초이스경제",
+   "date": "Wed, 18 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4bmJHSjBUV3dmcmRFbzZBN2FPdlo0aXVRMTMxUEd2cUdzNmxhRXYyU3NVVktCSzMzWVpwbkN6YzBGTEJEbTNMeW1QWVk4emhaY1NVa2RSd0hEVFNrbWR0TDMyYk0zdTdGSXNqU1QyTDJ1Z2PSAXNBVV95cUxQeG5iR0owVFd3ZnJkRW82QTdhT3ZaNGl1UTEzMVBHdnFHczZsYUV2MlNzVVZLQkszM1lacG5DemMwRkxCRG0zTHltUFlZOHpoWmNTVWtkUndIRFRTa21kdEwzMmJNM3U3RklzalNUMkwydWdj?oc=5",
+   "sort_key": "Wed, 18 Nov 2026 12:53:22 GMT"
+  },
+  {
+   "id": "news:6c995561a25280de",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "KIC 새 CIO에 신민식 한화생명 본부장 내정",
+   "source": "MTN 머니투데이방송",
+   "date": "Wed, 18 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FVzZyWUJWU3VkUXNBUzFOS1YtRi1pTGpUY2RZVUFzVFBjTkFpWkVhSHRLbndQWkZWV25NMTQ5Zy1jdC1CWlhNV1AwbXdyU2lhNkdBczhaMFY0cWwzOVhV?oc=5",
+   "sort_key": "Wed, 18 Nov 2026 13:22:40 GMT"
   }
  ],
  "initialized": true,
