@@ -2960,24 +2960,23 @@
   "news:b6f2cae7ed9e6161": 1795075285,
   "news:8f50b6cc9e0643ac": 1795075285,
   "news:97b18858e0e0c77c": 1795075285,
-  "dart:20261119000255": 1795075285
+  "dart:20261119000255": 1795075285,
+  "news:6b8f3513a3d5f549": 1795108841,
+  "news:5d41c15b86ca53f9": 1795108841,
+  "news:8e6291e28172127c": 1795108841,
+  "news:09919613635b3e14": 1795108841,
+  "news:027a9063b49ce8eb": 1795108841,
+  "news:2290be21f2676c04": 1795108841,
+  "news:e646202a92d71c3f": 1795108841,
+  "news:13b519b467475c04": 1795108842,
+  "news:26e4d9b2fb4ebb94": 1795108842,
+  "news:518a4cae8c59e4f4": 1795108842,
+  "news:3266c1ce53ff1bd9": 1795108842,
+  "news:7856371a55586505": 1795108842,
+  "news:4095b9a516dac7b6": 1795108842,
+  "news:84fa3497545eca27": 1795108842
  },
  "stories": {
-  "[특징주] 삼성생명, 잠정실적 공시 속 장중 약보합세 : 기업주식정보": 1794817693,
-  "한화생명, 월 8만원 저축에 20만원 지원…청년 95명에 '1000만원 목돈'": 1794817693,
-  "신계약 CSM 40% 늘린 한화생명 … '700종신' 판매 중단에 성장세 시험대": 1794817693,
-  "한화금융, 뉴욕서 글로벌 금융인재 육성…한화생명, 청년 자립 지원 확대": 1794817693,
-  "월드비전, 한화생명과 취약 청년 자산 형성 지원": 1794817693,
-  "계산에 없었던 ‘3강’…삼성생명·신한은행 약진 비결, 기존 전력 성장+새식구 완벽 조화": 1794817693,
-  "한화생명, 종신보험 가입자 ‘2030 비중 31%’": 1794817693,
-  "한화생명 등 한화금융, 뉴욕서 차세대 금융인 육성…AI 인재 확대": 1794817693,
-  "삼성생명, 해외 대체자산 운용사 M&A 추진...\"10년내 비중 20%이상 확대\"": 1794817693,
-  "월드비전·한화생명 청년 199명 자립 지원…최대 1000만원 : 사회": 1794817693,
-  "한화생명, 보험요율 산출·신용정보 관리 위반…과태료 6억5200만원": 1794817693,
-  "한화생명과 월드비전, 청년 경제자립 위한 혁신적 프로그램 출범": 1794817693,
-  "생보는 삼성생명 독주, 손보는 본업 회복…3분기 실적 희비": 1794817693,
-  "한화생명 주가 115원 상승 후 장마감": 1794817693,
-  "삼성생명, 7조 고금리 보험 수익률 딜레마": 1794817693,
   "생보사 3분기 민원 4729건, 삼성생명 줄고 라이나생명 늘고": 1794855051,
   "한화생명 3분기 ‘어닝쇼크’…대규모 적자에도 실적 정상화 기대 나올 것인가": 1794855051,
   "교보생명, 3분기 순이익 34억원·98%↓…투자 손익 부진": 1794855051,
@@ -3107,7 +3106,14 @@
   "교보생명 \"보험료 미납으로 효력 중단된 보험계약 회복하세요\"": 1795075285,
   "한화생명, 청년 95명에 3년 뒤 약 1천만 원 자립 지원…‘WE CARE DREAM 저축보험’ 실시": 1795075285,
   "[보험사 풍향계] 교보생명, 실효 보험계약 회복 지원 外": 1795075285,
-  "교보생명보험, 계열사 교보에이아이엠자산운용 수익증권 2000억원 매입 결정": 1795075285
+  "교보생명보험, 계열사 교보에이아이엠자산운용 수익증권 2000억원 매입 결정": 1795075285,
+  "[1라운드 이슈] 공동 1위 삼성생명·신한은행, 예상한 사람 있나요?": 1795108842,
+  "삼성생명, 차세대 CEO에 10주간 경영 교육": 1795108842,
+  "[줌인] 한화생명, 분기 투자손실 4620억...\"보험으로 번 돈 투자로 날려\"": 1795108842,
+  "삼성생명, 채권 투자수익률 4%대…ALM 매칭 전략 통했다": 1795108842,
+  "[AS 매치레이더] 승리 전망 64% vs 36%…안정감 앞선 삼성생명, 변수는 사키": 1795108842,
+  "한화생명볼파크 증축 돌입…내달 1일 공모 참가 등록": 1795108842,
+  "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"": 1795108842
  },
  "news_queue": [
   {
@@ -3289,6 +3295,76 @@
    "date": "Thu, 19 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fLWdmbnpUVTRpc2pGWk03Qnp5Uk8yUGsycEx5Zm1YN3FmUFpGdVNOZXpPdTliMklpbUZJalppamZLSGxmOGlkTlplRHJOTjYwbnpnbW9YanJxY0dxRnRnQWR2cDFrWGxMczJ4bUUtN3NBM3lVNFU3WjFvMA?oc=5",
    "sort_key": "Thu, 19 Nov 2026 07:32:03 GMT"
+  },
+  {
+   "id": "news:13b519b467475c04",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[1라운드 이슈] 공동 1위 삼성생명·신한은행, 예상한 사람 있나요?",
+   "source": "점프볼",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JaU96SVFnaDEyclYyUU92R0Q2U21ucVdBdW16LS03M0ZweHlCaWYxaWYwNmxFWVNQckk4Sy1GTExZaE1mRGZxNEZlMnc3TVpMM1ItYVR5TFdkOTJZUnJZUTFDQU0wa0NOemNrXzdwdnU?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 01:00:05 GMT"
+  },
+  {
+   "id": "news:26e4d9b2fb4ebb94",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 차세대 CEO에 10주간 경영 교육",
+   "source": "글로벌이코노믹",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamQ2emc3SGRISTNEdVRCcU0zbzVwN3A5eE51TEdSdWQ4aGRUTkFNVWhLLURFeXZIdDNjclIwLUFOQ0hMdjFmOWVZMjMtVlNSeXhkNnNMVGlSMEExSEhvSU5QcE9zTmhrVE83ZU9IS25KdU9NRVFZTmdGeHlqYUlkRFZ5akk?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 01:01:31 GMT"
+  },
+  {
+   "id": "news:518a4cae8c59e4f4",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[줌인] 한화생명, 분기 투자손실 4620억...\"보험으로 번 돈 투자로 날려\"",
+   "source": "데일리브리프",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00aE91U0dleDFkd213cGtfOHdYbGFCd3pXb2hqWmxia3kxRlFWbEtaa0dabFF1eXE2UUYyZnhZb3kzVm5RdHQ3eU9QQXFBTDJJcGUzY0M3cUJDZXQwa05ieUJhVUdscFl2ZVNpNVhR?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 07:01:52 GMT"
+  },
+  {
+   "id": "news:3266c1ce53ff1bd9",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 채권 투자수익률 4%대…ALM 매칭 전략 통했다",
+   "source": "블로터",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mQ21QS09FNXdBc1k0MFZMOE96emNScDU4UnlXRS03WUpaZ2pJMlRCZzJpYmFKajF3ZVhTRHBmbmRIQXhtMVpjclBJeTlZV0YwYUpwRlRDY2VoNzFVbm1JaEdHUlF4b0JTQTh3MdIBbEFVX3lxTE1mQ21QS09FNXdBc1k0MFZMOE96emNScDU4UnlXRS03WUpaZ2pJMlRCZzJpYmFKajF3ZVhTRHBmbmRIQXhtMVpjclBJeTlZV0YwYUpwRlRDY2VoNzFVbm1JaEdHUlF4b0JTQTh3MQ?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 07:43:46 GMT"
+  },
+  {
+   "id": "news:7856371a55586505",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[AS 매치레이더] 승리 전망 64% vs 36%…안정감 앞선 삼성생명, 변수는 사키",
+   "source": "https://www.asportstv.kr/",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WdlpTREd1Q0lOdXRHOTg4ZXdGU0ZjZWNQcTRXUXJhRFpoOFVMQXRsbkhiWURNaWRTTFRDR2pfRlJWUHZ4ZnJkY3dnZzBzNGdwZGdJY3VzUXpPMmlzdHp5ckVmQzJiQVE5?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 08:56:36 GMT"
+  },
+  {
+   "id": "news:4095b9a516dac7b6",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명볼파크 증축 돌입…내달 1일 공모 참가 등록",
+   "source": "대전일보",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzRGRXMHRReUp0X2laMHllMlpfMF9Jc2hCRzZpcDdvVE16Zzl2VDMwNnZaUjlXYVV2QU9wTHVsbHF5RXNZSGxFV0Z4WUoxWUhxQ3I2MmFZSTllOGxDenNjVEhSc1dQUUprbDdNOUNORm03TEXSAXNBVV95cUxQM0RkVzB0UXlKdF9pWjB5ZTJaXzBfSXNoQkc2aXA3b1RNemc5dlQzMDZ2WlI5V2FVdkFPcEx1bGxxeUVzWUhsRVdGeFlKMVlIcUNyNjJhWUk5ZThsQ3pzY1RIUnNXUFFKa2w3TTlDTkZtN0xF?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 10:00:26 GMT"
+  },
+  {
+   "id": "news:84fa3497545eca27",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"",
+   "source": "마일드경제",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xYUV6TWNrQzVHX2tqelVPS0RoNk5WQXRxQWZVMjlTU2RyYW9qU1J1THM2QXZyaklaVFlBbXpkM0FUTGkwX1Z4Q0Y0ajNjUjd5OU44dUhkdWVWcDlYWWt5QWxDUGVtLUF3Wl9J?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 13:45:11 GMT"
   }
  ],
  "initialized": true,
