@@ -2974,31 +2974,15 @@
   "news:3266c1ce53ff1bd9": 1795108842,
   "news:7856371a55586505": 1795108842,
   "news:4095b9a516dac7b6": 1795108842,
-  "news:84fa3497545eca27": 1795108842
+  "news:84fa3497545eca27": 1795108842,
+  "news:89e3e660f89ac2fe": 1795131844,
+  "news:08454138e123e4b8": 1795131846,
+  "news:2f0160652cef8fb6": 1795131846,
+  "news:6eb056b50bf4f088": 1795131846,
+  "news:5fa786bf9d4505d3": 1795131846,
+  "news:0b05e2f7bcdf46e8": 1795131846
  },
  "stories": {
-  "생보사 3분기 민원 4729건, 삼성생명 줄고 라이나생명 늘고": 1794855051,
-  "한화생명 3분기 ‘어닝쇼크’…대규모 적자에도 실적 정상화 기대 나올 것인가": 1794855051,
-  "교보생명, 3분기 순이익 34억원·98%↓…투자 손익 부진": 1794855051,
-  "교보생명, 투자손익 부진 3분기 누적 순익 20%↓…CSM은 첫 7조 돌파 - 머니투데이": 1794855051,
-  "교보생명, 3Q 누적 순익 7082억 전년比 20% 줄어": 1794855051,
-  "교보생명, CSM ‘7조’ 돌파…IFRS17 도입 후 처음": 1794855051,
-  "교보생명, 누적 순익 7082억…투자 부진에 3분기 적자": 1794855051,
-  "교보생명, 보장성보험 성장에 CSM 첫 7조 돌파…보험 수익성 개선": 1794855051,
-  "교보생명, 3분기 누적 순익 7000억…금융비용 증가에 전년比 19%↓": 1794855051,
-  "저축에 금융 멘토링·상호부조 더했다…한화생명, 사각지대 청년 95명 자립 지원": 1794855051,
-  "교보생명도 투자손익 발목…3분기 성적표 부진": 1794855051,
-  "교보생명, 보유 CSM 첫 7조원 돌파…3분기 보험손익 10.8%↑": 1794855051,
-  "삼성생명 14조 독주 속 ‘반전’…보유 CSM 대비 신계약 유입률 1위는 '한화생명'": 1794855051,
-  "교보생명, 3Q CSM 7조 돌파…'보장성' 기반 보험손익 10.8%↑": 1794855051,
-  "교보생명, 3분기 누적 순이익 7천82억원…작년 대비 19.9%↓": 1794855051,
-  "한화생명, 美서 차세대 금융·테크 인재 네트워크 확장": 1794855051,
-  "월드비전, 한화생명·한화생명금융서비스·사회연대은행과 손잡고 청년들의 금융 자립과 미래 응원": 1794855051,
-  "교보생명, 보유계약 CSM 7조원 돌파…전년 대비 10.5% 증가": 1794855051,
-  "교보생명, 3분기 누적 손익 20% 감소한 7082억원": 1794855051,
-  "교보생명, 누적 순익 20% 감소…보유 CSM 첫 7조 돌파": 1794855051,
-  "한화생명 ‘보조기기 지원금특약’ 배타적사용권 획득": 1794855051,
-  "1라운드 1위 확보한 삼성생명 하상윤 감독 “선수들 자신감 얻었다. 나는 아직...”": 1794855051,
   "가족돌봄·자립준비청년 ‘1000만원 목돈 마련’…월드비전·한화생명 손잡다": 1794882201,
   "[K금융 리더] 홍원학, 시니어 시장 4700억 승부수… 삼성생명 ‘평생 돌봄’ 수익 다변화": 1794882201,
   "[K금융 리더] 홍원학號, 3분기 만에 작년 순익 추월…삼성생명 ‘수익·성장’ 두 축 강화": 1794882201,
@@ -3113,260 +3097,14 @@
   "삼성생명, 채권 투자수익률 4%대…ALM 매칭 전략 통했다": 1795108842,
   "[AS 매치레이더] 승리 전망 64% vs 36%…안정감 앞선 삼성생명, 변수는 사키": 1795108842,
   "한화생명볼파크 증축 돌입…내달 1일 공모 참가 등록": 1795108842,
-  "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"": 1795108842
+  "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"": 1795108842,
+  "[금융계 동향] 삼성생명·업비트·한화손해보험": 1795131846,
+  "미래 이익 7조 쌓고 순익 반토막…교보생명 'IPO 딜레마'": 1795131846,
+  "7조 원 실탄 장전한 삼성생명, 글로벌 M&A 정조준": 1795131846,
+  "교보생명, 교보자산신탁에 또 800억원…자회사 차입부채가 자기자본 추월": 1795131846,
+  "교보생명, '고객보장 동행철학' 현장 구체화...신창재 의장 \"보험은 고객 인생 여정 동행\"": 1795131846
  },
- "news_queue": [
-  {
-   "id": "news:61fb62a86f9922b8",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 실효계약 모바일 부활 청약 확대…계약자·피보험자 달라도 가능",
-   "source": "전자신문",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 19 Nov 2026 00:35:23 GMT"
-  },
-  {
-   "id": "news:a376f711d78fcd0f",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "카카오페이 신원근 대표, '사람 살리는 금융 캠페인' 동참…교보생명·핀다 다음 주자로",
-   "source": "비욘드포스트",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 19 Nov 2026 00:40:23 GMT"
-  },
-  {
-   "id": "news:21b081084cc37404",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보험료 미납 고객 계약 복원 지원",
-   "source": "브릿지경제",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NeVFzS0pMYnY2ZU4tekJfaEUybEJrNzJtUzNXNkFsZUs2Y182cjU1Nk1pQnY5OFJsRi01c3BLdzF4Q2tTcGFwUUJxdVhlT0EwVjdoV21meXhpZw?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 00:56:00 GMT"
-  },
-  {
-   "id": "news:64bc44eec9b462fc",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보험료 미납 보험계약 회복 지원",
-   "source": "아주경제",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vR1hKcW9GYmxMT243cXNzTTJ0cDZ6ZXZSWFFzeFlnSFhyUFg4bEtudWZ6ajhqWVdqWU5IUnZTVUJrNVNhNndDWEZmNHlUYzFyMjk2Yk1WZ2HSAVhBVV95cUxPb0dYSnFvRmJsTE9uN3Fzc00ydHA2emV2UlhRc3hZZ0hYclBYOGxLbnVmemo4allXallOSFJ2U1VCazVTYTZ3Q1hGZjR5VGMxcjI5NmJNVmdh?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 01:18:01 GMT"
-  },
-  {
-   "id": "news:eb5074a7fb83dce9",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "보험료 미납에 중단된 고객 보장…교보생명, 보험 부활 문턱 낮춰",
-   "source": "조세일보",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BdzdmR1Z6ZHNmR1NCd0UwYVFtRkk3Zm1rcnE0LXlmd1p2RDJXSF9JZnJJd1MzNUlJMTZyaTgyNzFyaTJnaGFIdzdKcjY5NXl6Z0MyanNNWEhVcllVMVh1U0NEcVdlOTBoNHZCa0EwRQ?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 01:20:00 GMT"
-  },
-  {
-   "id": "news:33cdbc530fe620a5",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 실효 보험계약 되살린다…부활 청약 절차 개선",
-   "source": "더트래커",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 19 Nov 2026 01:26:50 GMT"
-  },
-  {
-   "id": "news:6c34ec6755d0bae0",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "“보험료 미납에도 보장” 교보생명, 실효된 계약 보장 캠페인 마련",
-   "source": "주간한국",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XTHVFRVVYb2lWZUQtWWdDbk5FbXhmY3lrdnZ2SWFLSHlDQlNFT3JZYzExRklVZy1VQTE1a2NXUW1EY1EzY2NuSzk1MFB6SEVYZ1FZQmc0c2pjYzJYbVZrelpCLXBkdjVTMlYwNDFsUU1JdmlD0gF0QVVfeXFMT1dMdUVFVVhvaVZlRC1ZZ0NuTkVteGZjeWt2dnZJYUtIeUNCU0VPclljMTFGSVVnLVVBMTVrY1dRbURjUTNjY25LOTUwUHpIRVhnUVlCZzRzamNjMlhtVmt6WkItcGR2NVMyVjA0MWxRTUl2aUM?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 01:40:27 GMT"
-  },
-  {
-   "id": "news:6c6ef7902f3b0497",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[오피셜] 한화생명, ‘제우스’ 최우제·‘카나비’ 서진혁 동행 마침표",
-   "source": "OSEN",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aT0lBdDNKLVM5cU5fRkdxNmdCR1FGWWstRzgyZkszeXB4cEhjaGhnX19jTFFRbHBVZmxwblREWHpXdDRxcDI0dE1WRUp1U2NUdnVmeQ?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 02:51:00 GMT"
-  },
-  {
-   "id": "news:b62cc8d0baada9c1",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 의료 사각지대 조망…'보험 특허' 6건 생보업계 1위",
-   "source": "Daum",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OZThrVm9TSjhVbVN0c3RKa3A3RXgxYXBzQ21BM0czYjd0dTdsTG5XdWdadUFfMldUVUx6ZEpEbzAydm1yLVE?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 02:54:04 GMT"
-  },
-  {
-   "id": "news:2637f8cb5c418c03",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, ‘효력 중단 보험’ 연말까지 간편 부활해준다",
-   "source": "글로벌이코노믹",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0JLZ29wbnJwV0ZkSFBlLWptenJxTWY0U1c2eUpuVUxUMmtCSDYzWmhqWU5SNXVkLUlxVVFiWkw0NnkxM3VJZU5iYTZwdmFheTJONDN2VjBhVDVhbjZ4WFktQnpueV9TWU9HLVhkaEtPQmw5bWRUWnN1YV83Z1A3eEp0Rnc?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 03:55:06 GMT"
-  },
-  {
-   "id": "news:cb6d8c5f6fa5b260",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보험계약 되살리는 모바일 청약 확대",
-   "source": "인사이트코리아",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44Snd0MS0wV094Ry02NmlRMVVfV3B2VnV2eC1IMTM3dUx2R19ONzZVRUhHN3lOOHowbjM1VzhGLXB4bWRYUW1qZkNpSWVueFpOYl9LT0tUSXZibGlWZVFCMW1QbWlkVFBSdHZhaGVUYk90M05MT2hF0gF3QVVfeXFMTjhKd3QxLTBXT3hHLTY2aVExVV9XcHZWdXZ4LUgxMzd1THZHX043NlVFSEc3eU44ejBuMzVXOEYtcHhtZFhRbWpmQ2lJZW54Wk5iX0tPS1RJdmJsaVZlUUIxbVBtaWRUUFJ0dmFoZVRiT3QzTkxPaEU?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 05:58:28 GMT"
-  },
-  {
-   "id": "news:59dce18ad3b81889",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 실효 보험계약 회복 돕는 '이어드림 캠페인' 진행",
-   "source": "국제뉴스",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMbWlMYnFyYXlXX1RXNTNTSlJ3VkFjc25LYldKSGFITXMyY3Z4aHpBQVRYYnVYczFRZDNsMXBMSDFhMzlqWGNvY2Y2WlNmZ3NpeFhrQjd4VnpzYXJoRnp6bk9NVHkzTV9MSGd5YVRn?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 06:01:27 GMT"
-  },
-  {
-   "id": "news:788cb6cc5830f1dd",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 실효 보험계약 부활 지원…모바일 청약 대상 확대",
-   "source": "보험매일",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 19 Nov 2026 06:03:38 GMT"
-  },
-  {
-   "id": "news:6629e47e97d24041",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 신탁 자회사에 발목… PF 유탄에 7천억 자본 확충 부담",
-   "source": "IT조선",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ3R5N0hNck1oaEdNaTBvUTlBamRrUXNzMVRYLWVJeEwySHNYcFk0M1VSXzRVSjBBNnI4Xy1NNUh3YjkyNXFCZ3ZzcXlIcU5ycmtGaUlOSWlOYi0wR1MtV09MMl9VUm9XQ0lpSFd2Q07SAXRBVV95cUxNQnpFeUVrREVWNzNvY0hmQ2x3cTlFdHBYdDJYVWJybUdFa1ZXUDNEWEJib1lGSE13SEhqOXg1V0tGaUVaejVJQVE5UjFDWW9nNTVpWF9xbzk5NWNLREZmNlNwNHByZUh4ZWQ0SjUyaGZzTGpJUA?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 06:08:37 GMT"
-  },
-  {
-   "id": "news:8bcf61cd617c2642",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 \"보험료 미납으로 효력 중단된 보험계약 회복하세요\"",
-   "source": "한국NGO신문",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13YjZfSkNXZV9TMDFjVlFHZ25UM09RX3ozWkdsS1A4TFRRZldmV3NSQTRhLTFxSkI3Y2NZck5DSzRuVVotTXB6UTJ5ajY0NDEyRnNVX2c1ZkhGVm53WEQyRHhYd3d4cG0w?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 06:36:26 GMT"
-  },
-  {
-   "id": "news:b6f2cae7ed9e6161",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 청년 95명에 3년 뒤 약 1천만 원 자립 지원…‘WE CARE DREAM 저축보험’ 실시",
-   "source": "주간현대",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52QkoxUGhxam82V1ZZMWNGSEFSTWJqN2ZQN1RfaEhZdms3aDBGbG9YYWc3Rk1sdENDajFpSWlVa2ZYbDg?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 06:55:00 GMT"
-  },
-  {
-   "id": "news:8f50b6cc9e0643ac",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[보험사 풍향계] 교보생명, 실효 보험계약 회복 지원 外",
-   "source": "에너지경제신문",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45NUY4MjE4dXFTR25YeXluUnRzMThsVGo4SnZ4V2R6cWpGMkVDY1NJdks4UzhvRGNNY3A5VWxCQkNXTmxUdUo4R3pnMXcwbzB0aW9sNzZCbXdtWnc?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 07:19:31 GMT"
-  },
-  {
-   "id": "news:97b18858e0e0c77c",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명보험, 계열사 교보에이아이엠자산운용 수익증권 2000억원 매입 결정",
-   "source": "디지털투데이",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fLWdmbnpUVTRpc2pGWk03Qnp5Uk8yUGsycEx5Zm1YN3FmUFpGdVNOZXpPdTliMklpbUZJalppamZLSGxmOGlkTlplRHJOTjYwbnpnbW9YanJxY0dxRnRnQWR2cDFrWGxMczJ4bUUtN3NBM3lVNFU3WjFvMA?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 07:32:03 GMT"
-  },
-  {
-   "id": "news:13b519b467475c04",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[1라운드 이슈] 공동 1위 삼성생명·신한은행, 예상한 사람 있나요?",
-   "source": "점프볼",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JaU96SVFnaDEyclYyUU92R0Q2U21ucVdBdW16LS03M0ZweHlCaWYxaWYwNmxFWVNQckk4Sy1GTExZaE1mRGZxNEZlMnc3TVpMM1ItYVR5TFdkOTJZUnJZUTFDQU0wa0NOemNrXzdwdnU?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 01:00:05 GMT"
-  },
-  {
-   "id": "news:26e4d9b2fb4ebb94",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 차세대 CEO에 10주간 경영 교육",
-   "source": "글로벌이코노믹",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamQ2emc3SGRISTNEdVRCcU0zbzVwN3A5eE51TEdSdWQ4aGRUTkFNVWhLLURFeXZIdDNjclIwLUFOQ0hMdjFmOWVZMjMtVlNSeXhkNnNMVGlSMEExSEhvSU5QcE9zTmhrVE83ZU9IS25KdU9NRVFZTmdGeHlqYUlkRFZ5akk?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 01:01:31 GMT"
-  },
-  {
-   "id": "news:518a4cae8c59e4f4",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[줌인] 한화생명, 분기 투자손실 4620억...\"보험으로 번 돈 투자로 날려\"",
-   "source": "데일리브리프",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00aE91U0dleDFkd213cGtfOHdYbGFCd3pXb2hqWmxia3kxRlFWbEtaa0dabFF1eXE2UUYyZnhZb3kzVm5RdHQ3eU9QQXFBTDJJcGUzY0M3cUJDZXQwa05ieUJhVUdscFl2ZVNpNVhR?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 07:01:52 GMT"
-  },
-  {
-   "id": "news:3266c1ce53ff1bd9",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 채권 투자수익률 4%대…ALM 매칭 전략 통했다",
-   "source": "블로터",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mQ21QS09FNXdBc1k0MFZMOE96emNScDU4UnlXRS03WUpaZ2pJMlRCZzJpYmFKajF3ZVhTRHBmbmRIQXhtMVpjclBJeTlZV0YwYUpwRlRDY2VoNzFVbm1JaEdHUlF4b0JTQTh3MdIBbEFVX3lxTE1mQ21QS09FNXdBc1k0MFZMOE96emNScDU4UnlXRS03WUpaZ2pJMlRCZzJpYmFKajF3ZVhTRHBmbmRIQXhtMVpjclBJeTlZV0YwYUpwRlRDY2VoNzFVbm1JaEdHUlF4b0JTQTh3MQ?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 07:43:46 GMT"
-  },
-  {
-   "id": "news:7856371a55586505",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[AS 매치레이더] 승리 전망 64% vs 36%…안정감 앞선 삼성생명, 변수는 사키",
-   "source": "https://www.asportstv.kr/",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WdlpTREd1Q0lOdXRHOTg4ZXdGU0ZjZWNQcTRXUXJhRFpoOFVMQXRsbkhiWURNaWRTTFRDR2pfRlJWUHZ4ZnJkY3dnZzBzNGdwZGdJY3VzUXpPMmlzdHp5ckVmQzJiQVE5?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 08:56:36 GMT"
-  },
-  {
-   "id": "news:4095b9a516dac7b6",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명볼파크 증축 돌입…내달 1일 공모 참가 등록",
-   "source": "대전일보",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzRGRXMHRReUp0X2laMHllMlpfMF9Jc2hCRzZpcDdvVE16Zzl2VDMwNnZaUjlXYVV2QU9wTHVsbHF5RXNZSGxFV0Z4WUoxWUhxQ3I2MmFZSTllOGxDenNjVEhSc1dQUUprbDdNOUNORm03TEXSAXNBVV95cUxQM0RkVzB0UXlKdF9pWjB5ZTJaXzBfSXNoQkc2aXA3b1RNemc5dlQzMDZ2WlI5V2FVdkFPcEx1bGxxeUVzWUhsRVdGeFlKMVlIcUNyNjJhWUk5ZThsQ3pzY1RIUnNXUFFKa2w3TTlDTkZtN0xF?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 10:00:26 GMT"
-  },
-  {
-   "id": "news:84fa3497545eca27",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"",
-   "source": "마일드경제",
-   "date": "Thu, 19 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xYUV6TWNrQzVHX2tqelVPS0RoNk5WQXRxQWZVMjlTU2RyYW9qU1J1THM2QXZyaklaVFlBbXpkM0FUTGkwX1Z4Q0Y0ajNjUjd5OU44dUhkdWVWcDlYWWt5QWxDUGVtLUF3Wl9J?oc=5",
-   "sort_key": "Thu, 19 Nov 2026 13:45:11 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-19"
+ "last_digest": "2026-11-20"
 }
