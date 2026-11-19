@@ -2923,13 +2923,25 @@
   "news:d0df1a62bbee2840": 1795027560,
   "news:8db2b51a610c3ea0": 1795027561,
   "news:28a28368085f9cf2": 1795027561,
-  "news:6c995561a25280de": 1795027561
+  "news:6c995561a25280de": 1795027561,
+  "news:1c4489a54c0e4f75": 1795049185,
+  "news:ff2849b3f70b8568": 1795049185,
+  "news:e88ed202f228dabe": 1795049185,
+  "news:696875544493bb96": 1795049185,
+  "news:7fd6a51eefc62272": 1795049187,
+  "news:5a1d6b72a741e5a7": 1795049187,
+  "news:7129d94dea4ed4f5": 1795049187,
+  "news:93c4efb320a13951": 1795049187,
+  "news:e1a66be17afdaada": 1795049187,
+  "news:41ae84c11ad58b87": 1795049187,
+  "news:d2f2cb9a136e78c5": 1795049187,
+  "news:e7614ed855db94b6": 1795049187,
+  "news:dfe9803e6c8643cf": 1795049187,
+  "news:117e141d1812108f": 1795049187,
+  "news:f4e02efe44911e76": 1795049187,
+  "news:97e25884a8274977": 1795049187
  },
  "stories": {
-  "'강유림 21점·미야사카 20점 폭발' 용인 삼성생명, BNK 69-63 제압… 3연승·1라운드 단독 선두 등극": 1794778462,
-  "신창재 교보생명 회장, ‘평생안심신탁ʼ으로 고령층 공략 [보험사 시니어 전략]": 1794778462,
-  "[게임리포트] 백투백 피로 극복한 삼성생명, 강유림 활약에 웃다": 1794778462,
-  "삼성생명, BNK 꺾고 3연승 질주…강유림 21점": 1794778462,
   "한화생명, ‘WE CARE DREAM’ 지원 확대…가족돌봄청년 자립에 ‘따뜻한 동행’": 1794792168,
   "한화생명 보안관리 또 허점 … 과거 제재도 '무색'": 1794792168,
   "삼성생명, 종신보험 확대로 신계약 CSM 14% 성장": 1794792168,
@@ -3047,230 +3059,21 @@
   "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식": 1794995781,
   "'사쿠라 위닝샷 작렬' 신한은행, KB스타즈에 1점 차 대역전승! 삼성생명과 1R 공동 선두 등극 [인천 리뷰] - 머니투데이": 1795027561,
   "엔비디아 호실적, 코스피 '활짝'...삼성생명·LG·CJ '껑충'": 1795027561,
-  "KIC 새 CIO에 신민식 한화생명 본부장 내정": 1795027561
+  "KIC 새 CIO에 신민식 한화생명 본부장 내정": 1795027561,
+  "한화생명금융서비스, 데이터에 기반해 내부통제…리스크 선제 관리": 1795049187,
+  "한화생명, 20대부터 60대까지 고객패널이 보험 개선점 발굴…상품·서비스 개선에 적극 활용": 1795049187,
+  "웅진프리드라이프, '건강케어 구독서비스' 출시…삼성생명과 맞손": 1795049187,
+  "삼성생명, 차세대 CEO 4기 10주 교육 마무리": 1795049187,
+  "KIC 투자수장에 한화생명 출신 신민식 내정…COO 신용선 유력": 1795049187,
+  "삼성생명, '100년 기업 차세대 CEO 과정' 4기 수료…가업 승계부터 AI까지": 1795049187,
+  "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입": 1795049187,
+  "연말 60% 내걸었던 한화생명…기본자본비율 '뒷걸음'": 1795049187,
+  "7조 쌓아두고 올해도 배당 0원?…김동원 號 한화생명, 3분기 적자 전환": 1795049187,
+  "삼성생명, 뉴욕·런던 운용법인 11년 만에 재인수…해외투자 확대": 1795049187,
+  "삼성생명, 차세대 CEO 육성 과정 4기 교육 성황리 개최": 1795049187,
+  "삼성생명, 차세대 CEO 4기 교육 마무리…기업 승계·AI 대응 역량 강화": 1795049187
  },
- "news_queue": [
-  {
-   "id": "news:9f336474e57572d7",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 설계사 10명 중 2명 “소득 2배 이상 증가”",
-   "source": "FETV",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QcGJkbDkyQzVWTXdTS0JGUjZPbTZpUnNTdXZlMXlfNkNUT0V0TTRWblFWek5MS2dlbWx5T2Uzcm9HUUxWWURUSDJWcHF5LWp3S05veUJBMmhjWFN1WG9RdVFTX1BJNzZO?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 01:45:19 GMT"
-  },
-  {
-   "id": "news:be15dcb79770f8ff",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[리포트 브리핑]한화생명, '확장은 긍정적, 이제는 성과가 필요' 목표가 5,200원 - NH투자증권",
-   "source": "뉴스핌",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwOU9DWk5RNTUwOFdsZTRtTjNNZUVEOUhmUXE1TXZXSXphUmRUQTl2VTRCSjNHNTZBcWgyVXRsYmxxTjJveTN2ZkZaWFRsY1ZIUXFjNzdwbm9wUGhj?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 02:22:00 GMT"
-  },
-  {
-   "id": "news:7e2649e14d44fc38",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "고금리 타고 돌아온 저축성보험...삼성생명, 3분기까지 7조 쓸어담아, 전년비 3배 육박",
-   "source": "굿모닝경제",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XamNqbnJzVzFEcmRHTk1FWlNhQVVaX1k3VW5Cb2RvdVF0cnRMcG5MNzRGZXNxQmU0WDg3ZDdTbzQ1T2lWUmVxN3RMNnk2eXBrcVRaS19KZ2s5dGF0OHRHcTJvUThDWU9ZWFNaXw?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 02:31:39 GMT"
-  },
-  {
-   "id": "news:0cc8b357f144df69",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 컨설턴트 10명 중 7명 “70대에도 일하고파”",
-   "source": "헤럴드경제",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QSE4yZ212c2ZOYXdzcHVSOFZHSmZsUnBRUy1ZbmIxdkFfb1hzSjdJYmxleVU0Ui1oVHlBUndETk9kSVdvNUstVDU0Q2R3ZERiR1ZqX0hB?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 02:32:04 GMT"
-  },
-  {
-   "id": "news:be64ee61c000c246",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 설계사 10명 중 9명 \"AI 시대에도 보험은 사람이\"",
-   "source": "뉴스1",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcjJhSloxNi1oQkdVeldSVGJVSHkxSWM3SzY4RklyZUNUZVR3cTBRWk1aMkhXbGl6SmdPMTk3eGdzcUFaempIMVdOZHU0SEdaSldVWm5ud0xzYl8tZUtKaA?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 02:47:47 GMT"
-  },
-  {
-   "id": "news:c099d38e6418d3df",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 컨설턴트 10명 중 7명 직업에 만족… “일·가정 함께 지키는 평생직업”",
-   "source": "한국보험신문",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wS2FGNmVFb0Q4SWhlaWx3aWFsdGcyWDFCc1BvdXVha1lvclRkVk1wTzhTLV9TS2VGeC1kM1RsWHRXb2tZWjlTUWQwVGg3amRURDR5d0JLbUVJM19uTE55aDRPTEZhMHFmZ2Zn0gFvQVVfeXFMUDFuX3JOMDk1R2dETGJHdDRUNjRBVzJpMUhhR0pKZ0NsZkZOTl8yeGRRTWZFMXRXVkJsVGFWYkhDQ1c4d29JdmFFaFFDN2pYeGpFNGlXNU0xT1FFTlJMaGh3cU9qTFBEYkgwU2NlTTJz?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 03:00:49 GMT"
-  },
-  {
-   "id": "news:d861dbd2b235fbe5",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "K-보험 동남아 성적표 보니···삼성·한화생명 'A+'",
-   "source": "뉴스웨이",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQTN6YmVBRDNaelAwaGY1Qm8xcEVabnFVTWxCRGx1NGNaZmhmWm5ONzVjV1NwRXFSSkNmZHZSSTlVOVdESVJrdFI4VmlDaTRyd3VEREF1U2tsUEhfRnJXSGJlQ3hVQ21DTmc?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 04:15:47 GMT"
-  },
-  {
-   "id": "news:656701d26cb3a0e9",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 3년 만에 설계사 40% 증가하며 영업 기반 확대",
-   "source": "PRESS9",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRmNRZ0VfbVRzWXZIZjQyR0s3dEg3YjJHWnBKMjRaN3d0Rmx5V3lPek5VMHRabmNmMUZYUTVOTDhMMm5YNER5Znp1YTMxTWlPMlY4eWhUb1ZjeGFjQWF5SklHa3E?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 04:58:42 GMT"
-  },
-  {
-   "id": "news:40f3c7a4143b2dec",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 4300억 '장부손실' 대응…손익 변동성 낮추기 '특명'",
-   "source": "블로터",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvbmRvWE96YU0wSDlRN3daLXY2RU9mcVhtYnQ4VDhjeWlaUmp6NkpsWThPSWNrWFVCdjFsWVpTSnlyNks4eWM5cWJzYnN2WjhQb0xfOVByMnd2bWlla2xNWkl2ZTJnMzQ4N2kwZdIBbEFVX3lxTFBvbmRvWE96YU0wSDlRN3daLXY2RU9mcVhtYnQ4VDhjeWlaUmp6NkpsWThPSWNrWFVCdjFsWVpTSnlyNks4eWM5cWJzYnN2WjhQb0xfOVByMnd2bWlla2xNWkl2ZTJnMzQ4N2kwZQ?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 05:52:16 GMT"
-  },
-  {
-   "id": "news:f1a92c5148e40e73",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 컨설턴트 “AI 발전해도 보험은 결국 사람 통해야…고객신뢰 우선”",
-   "source": "인더뉴스",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yb2F1WUI2ZlVlN3I3MmtZRVBsbUtVNkpZN290RWh0di1SYVBnNndSRkJKeU1qd0lEVVZzTUQtWnE1em5xcXp2MjR5eDJNM19zT1VvRVN1aGJVZ0cxVHdpZjlTQTE?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 06:10:18 GMT"
-  },
-  {
-   "id": "news:d084a26a0047a11f",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험사 풍향계] 삼성생명 컨설턴트, 워라밸 ‘굿’…평생직업 기대 外",
-   "source": "에너지경제신문",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfOU5lU3ZjdlB2STNleGJjSFVES1ZVdnVHZjFPUURfcjFZUUlmcTZldkd1UElNODZOUG9PSnA5X00waUh2UWJ3Q3JLaDEzaU4xMnpPNDRQQ3ZTMGQ2SU1icjZKcw?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 06:35:34 GMT"
-  },
-  {
-   "id": "news:bca497592b71fd6e",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[오늘의 보험] 삼성생명·DB생명·신한EZ손해보험",
-   "source": "파이낸셜리뷰",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90QW03WnR4SmxER05CWUREcjVWcHBUZXRsc3ZMQ1NXWV80Sm15b0l1dHR2dmQzYUtHQW5EVUxSU1p0MlluTTd1Q0ROQmlqSUZCLUlPV2FxQ0NJSEgzXzhFSUNVVlR3dzNUT1JrQmdFSFZiZy1i?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 06:41:23 GMT"
-  },
-  {
-   "id": "news:df7b46c70f082598",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 주가 13,000원 상승 후 장마감",
-   "source": "아시아뉴스통신",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yMl90WERTNWRHV08wRE1QdVZEdWpONENMZm5ZMmlqRnpiS2VCQ2V4XzZPZVAxVFZWM1ZqSExVTHRvVDBqYmU3a2x0cEF0WF95WnR4YXVsUlZpcDg4?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 06:48:10 GMT"
-  },
-  {
-   "id": "news:92e06496ddbe0da2",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 컨설턴트 절반 이상 \"전직 후 소득 증가\"",
-   "source": "아시아경제",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMenhaM0hGZ20tazRSLU5ZQnZXVVgyQ2dhSXI2b1VpOS1nSjRlZmk0OUNKN0dHQlZ2c0NTcXI1Q2diZlhDcHMzb2xZaDhZU0dFWTQ1cV80VFJnWTFFTGVNbA?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 06:48:46 GMT"
-  },
-  {
-   "id": "news:ef93561841adfcfd",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 설계사 10명 중 7명 “지금 일에 만족”...선택 이유 살펴보니",
-   "source": "조세일보",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vc0poYnZLaEhUTWx5TUNrMEllQ0dkUnl5ZGhpVE1lQmZ5c1hGc2g5VG5RT3lxaXRhR1BFSnpnTk1RNmZoOXc0ZFpGbl9MYVpWekVTUTVsQURiWDZGNk5ETHYwbHhkQUc2ZDYzOWk4WHRRYndV?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 08:00:00 GMT"
-  },
-  {
-   "id": "news:2d17b928451324fb",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[직장 돋보기 분석] 한화생명, 평균연봉 1억1700만원인 생명보험사...보험 본업 강화와 사업 다각화로 성장동력 확보",
-   "source": "뉴스투데이",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMjdPWmthSExHc1M0Q3RiaWVRcUJZV3UwcW1TWGhNVVc0NkdBN09NSnFhZm83NmFXUkNIVWc2UWRIS1NmUndKbDZZWnZfU0lfbkNBcEQ0T2hMdHlFSHc?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 08:30:00 GMT"
-  },
-  {
-   "id": "news:cc09868cc67da628",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보자산신탁, 교보생명보험 대상 유상증자…800억원 규모",
-   "source": "디지털투데이",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ORDhzYWRSN0NHSUZBMDIyS2o2bjBfd1hhcTc1a0tTSTA3alN4Wk1DSWRJS2lrdWQ4dGlFYVBMTkhsUVd0OWdlNmYyQm9QRWZOSlNtYWhqX2FmTkhtc3dpdDEyTEhqaFM4ZGRCOWZzWEN3dWZLOXhncVdaMA?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 08:32:08 GMT"
-  },
-  {
-   "id": "news:4fce80a1453df6bd",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "'350조' 운용 KIC 신임 CIO…한화생명 출신 신민식 내정",
-   "source": "매일경제 마켓",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Id2VzRmxzV3NYX0NyQXQxUGF2eTU3dTA5R0NNa1NXSTBVSWZraUxzMzAyeGZ3UEtQbXBoVm0zNWxJSk5DZWgxVTU5NDkyVUtfQlE?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 08:34:28 GMT"
-  },
-  {
-   "id": "news:13c8c0dafc0cc4d3",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
-   "source": "아시아경제",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yc2VfaDZxSy04MXk1RkVJbEkyajd1UWpOb0R4eHpxaG1KZ2Q4OFd3MzZQNzdVWldkZjF6eGhTUWx2aVdKZWMzMElxZUFzdEVZZ0FROVRWNjh2clJKR29oaQ?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 09:33:56 GMT"
-  },
-  {
-   "id": "news:8db2b51a610c3ea0",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'사쿠라 위닝샷 작렬' 신한은행, KB스타즈에 1점 차 대역전승! 삼성생명과 1R 공동 선두 등극 [인천 리뷰] - 머니투데이",
-   "source": "머니투데이",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiRi0xbEZQM29JVWp4RFoyTjd6TzNDNThWN3FkTDAyaDRUc0RUVW5WR1pqUzhkc3g2RUdvR2txMno1bFUxUlNPWkQyVlRqZ3FBa2lwc09xdHFtRmp4MWUwTEpFVERFY2lhRFHSAW9BVV95cUxPODZtN1dWa1h2LWpVcnp2UC1sVXM2a0xEamtkNThWa0taRm5yMmZMeTUxQXlKWFpBdkstSlhEeFB1STJLUjktd2xJbTFkS1pkY0FnVnVPUTBNRWtiM2xfZ216SzJlQTNNdG1IbV9EMm8?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 12:11:22 GMT"
-  },
-  {
-   "id": "news:28a28368085f9cf2",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "엔비디아 호실적, 코스피 '활짝'...삼성생명·LG·CJ '껑충'",
-   "source": "초이스경제",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4bmJHSjBUV3dmcmRFbzZBN2FPdlo0aXVRMTMxUEd2cUdzNmxhRXYyU3NVVktCSzMzWVpwbkN6YzBGTEJEbTNMeW1QWVk4emhaY1NVa2RSd0hEVFNrbWR0TDMyYk0zdTdGSXNqU1QyTDJ1Z2PSAXNBVV95cUxQeG5iR0owVFd3ZnJkRW82QTdhT3ZaNGl1UTEzMVBHdnFHczZsYUV2MlNzVVZLQkszM1lacG5DemMwRkxCRG0zTHltUFlZOHpoWmNTVWtkUndIRFRTa21kdEwzMmJNM3U3RklzalNUMkwydWdj?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 12:53:22 GMT"
-  },
-  {
-   "id": "news:6c995561a25280de",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "KIC 새 CIO에 신민식 한화생명 본부장 내정",
-   "source": "MTN 머니투데이방송",
-   "date": "Wed, 18 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FVzZyWUJWU3VkUXNBUzFOS1YtRi1pTGpUY2RZVUFzVFBjTkFpWkVhSHRLbndQWkZWV25NMTQ5Zy1jdC1CWlhNV1AwbXdyU2lhNkdBczhaMFY0cWwzOVhV?oc=5",
-   "sort_key": "Wed, 18 Nov 2026 13:22:40 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-18"
+ "last_digest": "2026-11-19"
 }
