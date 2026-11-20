@@ -1,5 +1,12 @@
 {
  "seen": {
+  "news:99d2159f1e3bd70f": 1795210139,
+  "news:4b1bde1fd10bbfed": 1795210139,
+  "news:2fe6047866b7d13f": 1795210139,
+  "news:14873154e39ac6fb": 1795210139,
+  "news:4df71c6818f049f1": 1795210139,
+  "news:5ae3a09ee82b5416": 1795210139,
+  "news:1d40a925a5ce4201": 1795210139,
   "news:32a992ce7e96b460": 1795181320,
   "news:33853e48c6b573fa": 1795181320,
   "news:88e99f762e626a62": 1795181320,
@@ -2992,20 +2999,9 @@
   "news:5e405c58487c823c": 1788484757,
   "news:1044de3158c5874a": 1788484757,
   "news:bcc7d5d7e6c80723": 1788484757,
-  "news:a064025d77754f07": 1788484757,
-  "news:20c51223cf467c3d": 1788484757,
-  "news:9c32056fe8079a02": 1788484757,
-  "news:52926b44aee473bc": 1788484757,
-  "news:1786a460f1e4b2f7": 1788484757,
-  "news:d48b19154b3f39ff": 1788484757,
-  "news:22d130acfbf92f39": 1788484757,
-  "news:a19ff5852557f18c": 1788484757
+  "news:a064025d77754f07": 1788484757
  },
  "stories": {
-  "[보험브리핑]신한라이프·교보생명·푸본현대생명": 1794944763,
-  "한화생명이 분석한 3040 자산가, 다음 세대에 부동산보다 ‘투자상품’ 물려줘": 1794944763,
-  "교보생명, 투자이익 부진에 3Q 누적 순익 20% '뒷걸음' : 네이버 블로그": 1794944763,
-  "[금융소식] 카카오뱅크·케이뱅크·신한카드·신한라이프·교보생명": 1794944763,
   "삼성생명 그룹 계열사 9조 원 맡게 됐지만 4%대 약정 이자율 부담 : 홍원학 '운용 능력' 시험대 올랐다": 1794966849,
   "‘빅3’ 생보사, 3분기 실적 희비…교보생명 홀로 역성장": 1794966849,
   "[K금융 리더] 신창재號 교보생명, 보험 넘어 종합금융그룹 도약…증권·자산운용·저축은행 ‘외연 확장’": 1794966849,
@@ -3100,7 +3096,14 @@
   "[BK 리뷰] ‘1라운드 돌풍 이어간다’ 삼성생명, 하나은행 꺾고 4연승 질주...단독 선두 등극": 1795181320,
   "`이해란 26점` 승승승승 삼성생명 미쳤다! 단독 1위 등극…하나은행 6위 추락": 1795181320,
   "‘해란트’ 이해란 26점 폭발…삼성생명, 4연승 질주하며 단독 선두": 1795181320,
-  "[AI상보] '이해란 26점' 삼성생명, 하나은행 꺾고 4연승…단독 선두 도약": 1795181320
+  "[AI상보] '이해란 26점' 삼성생명, 하나은행 꺾고 4연승…단독 선두 도약": 1795181320,
+  "‘이해란 MVP 모드’ 삼성생명, 하나은행 완파하며 다시 단독 1위 등극": 1795210139,
+  "‘MVP 위력’ 이해란 26점 삼성생명, 하나은행에 18점 차 승리 : 스포츠": 1795210139,
+  "'1라운드 MVP답네!' 이해란 26점 대폭발…삼성생명, 하나은행 완파하고 4연승 단독 선두 질주 - 머니투데이": 1795210139,
+  "[승리뷰] ‘단독 선두 등극’ 하상윤 삼성생명 감독, “언니들한테 고마운 마음이 크다”": 1795210139,
+  "[B하인드★] 미쳤다 이해란 26점 폭발! 4연승 삼성생명 단독 선두": 1795210139,
+  "'이해란 MVP 파워' 용인 삼성생명, 부천 하나은행 75-57 잡고 '4연승→단독 1위'": 1795210139,
+  "[증권言言] 키움증권 \"한화생명, 투자손익 부진에 실적 불확실성 확대\"": 1795210139
  },
  "news_queue": [
   {
@@ -3262,6 +3265,76 @@
    "date": "Fri, 20 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WeGYtZHhldy1qZTA5YkphODJaaDQ4Qk1LQ21MM0NhQ09menYyTjg0UWxlZWVmenlwbVF5TmYxT3VzcFRvNnpCSDdmdVBUOFZwaGNkcWR0cE1YVXBV?oc=5",
    "sort_key": "Fri, 20 Nov 2026 12:43:00 GMT"
+  },
+  {
+   "id": "news:99d2159f1e3bd70f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘이해란 MVP 모드’ 삼성생명, 하나은행 완파하며 다시 단독 1위 등극",
+   "source": "점프볼",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kT0EzR0xMYUtOWDY2aEllZ2Z6SEw1cTZYQm1IZVhtMnJKSE5MWFprSllfTnFseXdLRVF6Y2hLZ3A2X2dkOUFIMkowOV9jeGhfa2JBd2RHUUJNcUxaNUlQa1RXQk5ncVJMY3k2MnVLMU0?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 11:50:36 GMT"
+  },
+  {
+   "id": "news:4b1bde1fd10bbfed",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "‘MVP 위력’ 이해란 26점 삼성생명, 하나은행에 18점 차 승리 : 스포츠",
+   "source": "재경일보",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zM0MxcWc0TV9BNWdUNFFhMldiRXY2R3hJRW5uM3h6LUZxOG9zUEZFOHJ3dkVESzVqVEZGZTVVSXBFRm1tbmhjU0trNA?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 12:21:57 GMT"
+  },
+  {
+   "id": "news:2fe6047866b7d13f",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'1라운드 MVP답네!' 이해란 26점 대폭발…삼성생명, 하나은행 완파하고 4연승 단독 선두 질주 - 머니투데이",
+   "source": "머니투데이",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sUjVDdGZyLWlldzNuMDgyaHVDSlotUUUxZWduSWQtempOY0V2cGpOUi11QXF0ZlNyYnlla20tUWlNVHh1YVEzNUtWcjR6T3dKalhxNWRZdHJ4YWRRX0ZaTTQ0YVJjekxIV25oUTVaWdIBb0FVX3lxTE1sUjVDdGZyLWlldzNuMDgyaHVDSlotUUUxZWduSWQtempOY0V2cGpOUi11QXF0ZlNyYnlla20tUWlNVHh1YVEzNUtWcjR6T3dKalhxNWRZdHJ4YWRRX0ZaTTQ0YVJjekxIV25oUTVaWQ?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 12:27:00 GMT"
+  },
+  {
+   "id": "news:14873154e39ac6fb",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[승리뷰] ‘단독 선두 등극’ 하상윤 삼성생명 감독, “언니들한테 고마운 마음이 크다”",
+   "source": "바스켓코리아",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMi1SWVFYcS1jNmdCZFJKcFMtT3pOVmE1TUs5TEE5QkxaaTVrWU9jVTJpQmphZ0lCMVU4TF9lamtLUEp6RU1QQ191cjdBR1BQTkRTcjhPLXdZUXkxazRzR2k3VFlwV2YxRWl4OWhmVVlJTmpJZEpJ?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 12:31:10 GMT"
+  },
+  {
+   "id": "news:4df71c6818f049f1",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[B하인드★] 미쳤다 이해란 26점 폭발! 4연승 삼성생명 단독 선두",
+   "source": "스타뉴스",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TLTJNekhzbGpEaUhVZjY4YkQtbDlxcXE1dDFReGhjLWpMN1JxRkNsWmdTNDA2NGhQRHU2d3FXb3FncW5fd2czS1BTTjNwR1JETUVPOXFIcE9Ua1I1RFZ1Q0NVVTYwTHY0ejdRMGVodERwc0tfRnc?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 12:58:24 GMT"
+  },
+  {
+   "id": "news:5ae3a09ee82b5416",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'이해란 MVP 파워' 용인 삼성생명, 부천 하나은행 75-57 잡고 '4연승→단독 1위'",
+   "source": "조선일보",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekV5WlhXdkRrU3N1MTMwT3I0NkRYeE5zQ1l5RVJLZzZDQXBXQzBmeXc1aFdrSnA4bUZVOXpMMW1QMGFoOGFqU1BZbzdaMjVqWThyd1g4SlBpdlIxcGZMVXBYMVJDODZuNHJoQ2NZaHlVU1hsaVFfV1dHUDVTT3dXdXFhVTZkdw?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 14:48:00 GMT"
+  },
+  {
+   "id": "news:1d40a925a5ce4201",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[증권言言] 키움증권 \"한화생명, 투자손익 부진에 실적 불확실성 확대\"",
+   "source": "마일드경제",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KRllvQktsNmJMOG5HbWJUQ0ZjRHYtbzdfZUFRakJxX0hrTDdQYjdGNmlnS1FXVGpobjllUnQxY294NkotRnN0Rm50TW5kY1pFMjZ4ZnFiQ1NKTmxfS3VIZ2NtVGpfTDlObGlB?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 01:13:00 GMT"
   }
  ],
  "initialized": true,
