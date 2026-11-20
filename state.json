@@ -2980,27 +2980,18 @@
   "news:2f0160652cef8fb6": 1795131846,
   "news:6eb056b50bf4f088": 1795131846,
   "news:5fa786bf9d4505d3": 1795131846,
-  "news:0b05e2f7bcdf46e8": 1795131846
+  "news:0b05e2f7bcdf46e8": 1795131846,
+  "news:e62cf68b723a7d55": 1795148616,
+  "news:efab37867a963364": 1795148616,
+  "news:6b16692803566866": 1795148617,
+  "news:590c3c7cd83b8647": 1795148617,
+  "news:efeb16e633a0128e": 1795148617,
+  "news:5af51f27f183ee80": 1795148617,
+  "news:631c92a630238ec7": 1795148617,
+  "news:c237b5e9c277c070": 1795148617,
+  "news:fa9cea4c8831b7ee": 1795148617
  },
  "stories": {
-  "가족돌봄·자립준비청년 ‘1000만원 목돈 마련’…월드비전·한화생명 손잡다": 1794882201,
-  "[K금융 리더] 홍원학, 시니어 시장 4700억 승부수… 삼성생명 ‘평생 돌봄’ 수익 다변화": 1794882201,
-  "[K금융 리더] 홍원학號, 3분기 만에 작년 순익 추월…삼성생명 ‘수익·성장’ 두 축 강화": 1794882201,
-  "생보업계, 3분기 실적 양극화 심화...삼성생명 빼면 순익 18.5%↓": 1794882201,
-  "교보생명, 3분기 순손실 충격 속 보험손익 성장세 주목": 1794882201,
-  "교보생명, 3분기 보유계약 보험계약마진 최초 7조 돌파": 1794882201,
-  "교보생명 3분기 순익 34억…누적 순익 19.9% 감소": 1794882201,
-  "[3Q실적] 교보생명, 순이익 34억원…전년比 98.9% 급감": 1794882201,
-  "교보생명, 최근 1년간 배타적사용권 6건 확보…생보업계 최다": 1794882201,
-  "[이슈] 삼성생명 순익 26.9% 늘 때…교보·신한·KB 줄었다": 1794882201,
-  "유전자검사부터 뇌졸중 치료까지…교보생명, 최근 1년 배타적사용권 최다": 1794882201,
-  "한화생명, “3040 자산가 금융자산 선호 뚜렷”": 1794882201,
-  "진단금 넘어 치료 과정까지…교보생명, 보장 틈새 공략에 배타적사용권 6건": 1794882201,
-  "한화생명 \"3040 부자, 부동산보다 주식 물려준다\"…자산 상속도 달라졌다": 1794882201,
-  "한화생명, 3040 부동산보다 금융투자상품 선호": 1794882201,
-  "교보생명, 핵심 경쟁력으로 '담보 차별화' 부상...1년간 생보업계 최다 보험특허권 획득": 1794882201,
-  "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다": 1794882201,
-  "교보생명 ‘신규 특약 독점권’ 1년 새 6건…생명보험업계 최다": 1794882201,
   "[특징주] 삼성생명, 장중 3%대 약세 24만5500원 기록 : 기업주식정보": 1794913207,
   "한화생명 보고서, 금융자산가…자녀 미성년일 때 물려주길 희망": 1794913207,
   "한화생명, ‘3040 자산가’ 자산이전 트렌드 보고서 발간": 1794913207,
@@ -3102,9 +3093,87 @@
   "미래 이익 7조 쌓고 순익 반토막…교보생명 'IPO 딜레마'": 1795131846,
   "7조 원 실탄 장전한 삼성생명, 글로벌 M&A 정조준": 1795131846,
   "교보생명, 교보자산신탁에 또 800억원…자회사 차입부채가 자기자본 추월": 1795131846,
-  "교보생명, '고객보장 동행철학' 현장 구체화...신창재 의장 \"보험은 고객 인생 여정 동행\"": 1795131846
+  "교보생명, '고객보장 동행철학' 현장 구체화...신창재 의장 \"보험은 고객 인생 여정 동행\"": 1795131846,
+  "한화생명, 자본건전성 회복 본격화…K-ICS 171%로 상승": 1795148617,
+  "삼성생명, 청년희망터 5년간 61개 지역·2801명 지원": 1795148617,
+  "삼성생명, 지역 문제 해결 싱싱한 아이디어 삽니다...청년 2801명 지원": 1795148617,
+  "삼성생명 '청년희망터' 5기 청년단체 성과공유회 성료": 1795148617,
+  "교보생명, 최근 1년간 배타적사용권 6건 획득…생보업계 최다": 1795148617,
+  "[디깅노트] '700종신' 퇴장을 바라보는 ABL·한화생명": 1795148617,
+  "교보생명, 자회사에 또 800억 수혈…누적 증자 6580억에도 차입부채 5000억 넘어": 1795148617
  },
- "news_queue": [],
+ "news_queue": [
+  {
+   "id": "news:6b16692803566866",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 자본건전성 회복 본격화…K-ICS 171%로 상승",
+   "source": "PRESS9",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTNqODJka1ZjS0N2bWhBang0WklGczdlNnZmczM0MF9JUVkyLWgwaGE1enR2Z1pYeENOcXFYbEJXakJERHNkRm5LQk5Wa05DWk5Tc255Q3lONTNaOGpNeTFkMnA?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 00:00:00 GMT"
+  },
+  {
+   "id": "news:590c3c7cd83b8647",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 청년희망터 5년간 61개 지역·2801명 지원",
+   "source": "포인트데일리",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TWUxjR1VTenhsX0tDMU55LVhNMlB4N2hoWDJKTmNTcVFxVUZEdGthemx6YVE5ME9HbWpERHAtWDYtV09TR2Z4YlY1TG53VXY3S3V1RldYaVlSRDBHcW5xbzdRRjNodmNPeWJhek5TZFDSAXRBVV95cUxQVUladTkyakgtcXVnQ1VCNXY4dDhla0owZ0hhMWM5cE5KV1l2d0VLYnBHZnlPR255MElJV3d1RjViQ01kRGo0T2lFSEU2dlN0eFk2WFExU3FpM1ZfNTA4LWFhQzBBRDA3ekg2LUg0dUxhR1h1Rg?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 00:41:05 GMT"
+  },
+  {
+   "id": "news:efeb16e633a0128e",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 지역 문제 해결 싱싱한 아이디어 삽니다...청년 2801명 지원",
+   "source": "파이낸셜포스트",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lcnB3R09HVks0YmxWRzJCLTM4LUJqV05lck1feHNMMnp3aHVLTHZ0Zy1jV3MzU3ZSTWRlWERfTHR2aDk1WlliN1Fmb2R2VGVpcnJTUERveUN2S2dKWlViT043Sk9HbFo0NFpoQnVScHE0TXQ1?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 02:25:10 GMT"
+  },
+  {
+   "id": "news:5af51f27f183ee80",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명 '청년희망터' 5기 청년단체 성과공유회 성료",
+   "source": "중소기업신문",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YQ2EzQWpvbThmNEpxS1lCOVR2YXBlX0pmblNfZnp5MHF1cWctaEZIU2hqdHJEUGFRNUFzSmhiS055UHpkYjNtcndKY1J4ZEVHaXdXc1I3ekpXSkN0NUt0SnNsVDhGQ29XQzZPNg?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 02:38:37 GMT"
+  },
+  {
+   "id": "news:631c92a630238ec7",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 최근 1년간 배타적사용권 6건 획득…생보업계 최다",
+   "source": "폴리뉴스 Polinews",
+   "date": "Fri, 20 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNVThIOHQ3UGtxYVZ0ZDdtbTBfcEZMYWJzNndtX1ZsN2IwQW9WTGt2Y05nQzVnYVB1eXJlOXhaeFVBcjVlaXB2NjNHb3NtZ0RMRXJlcHA2VzZYNlpXUXprcTJEbEdnS29FT21vVlNR?oc=5",
+   "sort_key": "Fri, 20 Nov 2026 04:04:45 GMT"
+  },
+  {
+   "id": "news:c237b5e9c277c070",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[디깅노트] '700종신' 퇴장을 바라보는 ABL·한화생명",
+   "source": "블로터",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQ3phU2tVOU5vbTJpTHQ2MlVBUFlmTHA3bXRzdVNSVWpLRGJJS2dUQS1jemhqaFhuNVh1Mlo5SFhtTVZuODRvaGdHT1Atalk4NGc3MXJFdnhhUEh5Z3hSSUUyM2lpb0VHTWFfb9IBbEFVX3lxTE1kQ3phU2tVOU5vbTJpTHQ2MlVBUFlmTHA3bXRzdVNSVWpLRGJJS2dUQS1jemhqaFhuNVh1Mlo5SFhtTVZuODRvaGdHT1Atalk4NGc3MXJFdnhhUEh5Z3hSSUUyM2lpb0VHTWFfbw?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 23:45:30 GMT"
+  },
+  {
+   "id": "news:fa9cea4c8831b7ee",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 자회사에 또 800억 수혈…누적 증자 6580억에도 차입부채 5000억 넘어",
+   "source": "지이코노미",
+   "date": "Thu, 19 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WcktYWUtqaEJUUk1Mb3JGaDBnRGJqd0VoR2hseWNhQ1ZVcHBWRjRiOFYxRzVCUlc4b21MLXNRTV9FdVdaTXZNUllLb01ianJLaWo5OXpreDVlak43QXVDM1EydW4?oc=5",
+   "sort_key": "Thu, 19 Nov 2026 23:59:09 GMT"
+  }
+ ],
  "initialized": true,
  "last_digest": "2026-11-20"
 }
