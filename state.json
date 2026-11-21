@@ -1,5 +1,7 @@
 {
  "seen": {
+  "news:6373514b29d50e2f": 1795282791,
+  "news:98d3982627bbabd0": 1795282791,
   "news:927cd4c1eab09580": 1795256257,
   "news:20c51223cf467c3d": 1795229170,
   "news:13931ad04b5bf88e": 1795229170,
@@ -2997,9 +2999,7 @@
   "news:cefe6cac6e5cb6bf": 1788484757,
   "news:fe1f1219fedbb51c": 1788484757,
   "news:7b136ed11fd17838": 1788484757,
-  "news:e4eca1faa09e8554": 1788484757,
-  "news:5b1d5ba8f924362e": 1788484757,
-  "news:59c85498498e7131": 1788484757
+  "news:e4eca1faa09e8554": 1788484757
  },
  "stories": {
   "'사쿠라 위닝샷 작렬' 신한은행, KB스타즈에 1점 차 대역전승! 삼성생명과 1R 공동 선두 등극 [인천 리뷰] - 머니투데이": 1795027561,
@@ -3078,7 +3078,8 @@
   "삼성생명, 컨설턴트 73.2% 직업 만족…일·가정 양립 매력 꼽아": 1795229170,
   "삼성생명, 역삼동 ‘위워크타워’ 직접 인수 추진 .. 부동산 투자 기조 달라지나 - SPI": 1795229170,
   "[오피셜] 한화생명 출신 '블러핑', DNS 합류": 1795229170,
-  "신한은행, KB 꺾고 3연승…삼성생명과 공동 선두 : 스포츠": 1795256257
+  "신한은행, KB 꺾고 3연승…삼성생명과 공동 선두 : 스포츠": 1795256257,
+  "[AS 매치레이더] 4연패 KB, 4연승 삼성생명과 격돌… 박지수의 골밑 통할까": 1795282791
  },
  "news_queue": [
   {
@@ -3090,6 +3091,16 @@
    "date": "Sat, 21 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11RzF5SEt2cWNHR1RtaGx4ZUh0eUtqbXItc3dvakpWcFQ1WFNCbHNaOGhzSnV6UjJqUVZscHBLelBLQnQ0emJndjJWYw?oc=5",
    "sort_key": "Sat, 21 Nov 2026 08:34:53 GMT"
+  },
+  {
+   "id": "news:98d3982627bbabd0",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[AS 매치레이더] 4연패 KB, 4연승 삼성생명과 격돌… 박지수의 골밑 통할까",
+   "source": "https://www.asportstv.kr/",
+   "date": "Sat, 21 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FVnVsUDRWSk13MW5jcmJVTjY0ak9yVkFKT3hjZTAwM0ZqbzJiN09QWjNjTHFYeGRTOHdZckQxVlEwSk9TSkdwLThobGx1dFdqbWpyaDgxNGtNY1JQbGV5UEZJeXJNU0xI?oc=5",
+   "sort_key": "Sat, 21 Nov 2026 10:08:38 GMT"
   }
  ],
  "initialized": true,
