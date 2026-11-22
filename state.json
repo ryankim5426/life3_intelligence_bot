@@ -1,5 +1,12 @@
 {
  "seen": {
+  "news:f0604d0efdf2cb0d": 1795390038,
+  "news:23ecbfbe64ae0120": 1795390038,
+  "news:0f8d5e28f14ce9a3": 1795390038,
+  "news:5dbc05a7a840e310": 1795390038,
+  "news:b0fe3d2c538135d1": 1795390038,
+  "news:3da2d6b0bcfa6b73": 1795390038,
+  "news:1e0dede29404fdf1": 1795390037,
   "news:cdaa92121fcfe705": 1795370082,
   "news:3b70e72f0be78fd6": 1795370082,
   "news:74742713bff8d7ab": 1795370082,
@@ -2992,14 +2999,7 @@
   "report:naver:78760": 1788484757,
   "report:naver:76759": 1788484757,
   "report:naver:76606": 1788484757,
-  "news:079ffc62aaf99fd7": 1788484757,
-  "news:8a4f74908b40073e": 1788484757,
-  "news:5fa9a9e872190813": 1788484757,
-  "news:3319f73c6e7668f0": 1788484757,
-  "news:baba9a3c6c2a3b02": 1788484757,
-  "news:0820fe085b46a35f": 1788484757,
-  "news:4becbd1179661640": 1788484757,
-  "news:acf102a5586cc1c9": 1788484757
+  "news:079ffc62aaf99fd7": 1788484757
  },
  "stories": {
   "[금융계 동향] 삼성생명·업비트·한화손해보험": 1795131846,
@@ -3057,7 +3057,13 @@
   "KB, 연패 끊고 최하위 탈출…삼성생명 선두 도전에 제동": 1795370082,
   "박지수가 걷어내고, 허예은이 꽂았다... KB, 삼성생명에 70-44 완승": 1795370082,
   "교보생명, 고객 모바일앱 편의성 제고": 1795370082,
-  "한화생명·한화손해보험, ‘차세대 아이디어’ 발굴": 1795370082
+  "한화생명·한화손해보험, ‘차세대 아이디어’ 발굴": 1795370082,
+  "'디펜딩 챔피언의 부활' KB, 선두 삼성생명 26점 차 대파하고 4연패 탈출…박지수 15점 19리바운드": 1795390038,
+  "[핌in청주] KB에 발목 잡힌 삼성생명 하상윤 감독 \"에너지 레벨 떨어져\"": 1795390038,
+  "[핌in청주] 삼성생명 꺾고 4연패 탈출 KB 김완수 감독 \"박지수 컨디션 올라오고 있어\"": 1795390038,
+  "삼성생명, 종신·연금 키웠지만…건강보험 더 팔고도 CSM 감소": 1795390038,
+  "[자회사형 GA 성적표] 한화생명, 4개 GA 군단 매출 3兆 눈앞": 1795390038,
+  "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'": 1795390038
  },
  "news_queue": [
   {
@@ -3229,6 +3235,66 @@
    "date": "Sun, 22 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wakZSYXBRb2tlSlY0SVQzWmRSaWE5QW1VWnF2SldoenFHUFBOaTAxU0JlVlUzcGdlbWtReW40ZkppWDM5VkpzaFkzZ0tEcThNUVJWYUZIMDlaZXZXNFd1XzhlZ2hUZFhIZlFz?oc=5",
    "sort_key": "Sun, 22 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:f0604d0efdf2cb0d",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "'디펜딩 챔피언의 부활' KB, 선두 삼성생명 26점 차 대파하고 4연패 탈출…박지수 15점 19리바운드",
+   "source": "데일리스포츠한국",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ySlkwSHJiZFJ5LTF3N05Zd2VfQkZ0RnF3TGtDWF9XcVRzMGRWNW9sSjhGMDl2cXNtb01qNVFVMThMZi1teVQxZ25rMzJFQkYxUDlwRmFmbGsxcEtBWjAya3lMS2FjZDNDT3BxWTFWSEpZdE5UczF4WVdrWUFQdFXSAX9BVV95cUxNckpZMEhyYmRSeS0xdzdOWXdlX0JGdEZxd0xrQ1hfV3FUczBkVjVvbEo4RjA5dnFzbW9NajVRVTE4TGYtbXlUMWduazMyRUJGMVA5cEZhZmxrMXBLQVowMmt5TEthY2QzQ09wcVkxVkhKWXROVHMxeFlXa1lBUHRV?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 11:46:07 GMT"
+  },
+  {
+   "id": "news:23ecbfbe64ae0120",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[핌in청주] KB에 발목 잡힌 삼성생명 하상윤 감독 \"에너지 레벨 떨어져\"",
+   "source": "뉴스핌",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdE9fbW5fOG8wZjV2YmROWnFJc1lueXNBSjdiTl9UY3NtV1BQQVNzWUJ2aGNBVmFqRVhsR1Q2OWFjQW1DNHVjUk9sV194TlJndm9ZUy1zaUFLYW1G?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "id": "news:0f8d5e28f14ce9a3",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "[핌in청주] 삼성생명 꺾고 4연패 탈출 KB 김완수 감독 \"박지수 컨디션 올라오고 있어\"",
+   "source": "뉴스핌",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FUi1lSDlhclZrYUc5VnNuTTR2NmZQZS0xVzJMWlJCUU1xbUlHY1lWcklpZmYxeXRLVVpQVDZJZ3pDMXRVRk9XOHRnUzZ4ZG01eTRjZUk2THlWbnFO?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "id": "news:5dbc05a7a840e310",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "삼성생명, 종신·연금 키웠지만…건강보험 더 팔고도 CSM 감소",
+   "source": "딜사이트",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PdXdhanB2eWN1UXZnMHNOZmJXbWZtV3JjX1c3d1FEXzdIbnBrenQ3OG1mVVlxWEpLeUl4aU9TNDRleHcwam93S1l4LVhxZVE?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:b0fe3d2c538135d1",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "[자회사형 GA 성적표] 한화생명, 4개 GA 군단 매출 3兆 눈앞",
+   "source": "FETV",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04R09UT01aempoVUVvRVFrMnJSc2hsVVRWTHB3QTFMRVI3RHoyWHlTUmlFd2prcUgxOUlSY0p3d2lweXd3RzgweklNakFxUm9WNlhRLWNQdnZRanoyMGotQkpfSU5EZk9L?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 21:00:00 GMT"
+  },
+  {
+   "id": "news:3da2d6b0bcfa6b73",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'",
+   "source": "소비자가 만드는 신문",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PMW9XbG9lY1EtSTZndUw3X2NnSnJlb3hwZTVtRk81Q1ZzbmZLbFZHVXVHenlPR2pVYWRWRFVVQnBFaTYyZl82TkJYdEdvLTZNbzQ2YXBDUXl3RUdUcEdpQ1p6Ni1xVmlKV3QxbTgzTFZWOEE?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 21:10:00 GMT"
   }
  ],
  "initialized": true,
