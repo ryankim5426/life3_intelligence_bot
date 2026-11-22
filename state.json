@@ -1,5 +1,13 @@
 {
  "seen": {
+  "news:cdaa92121fcfe705": 1795370082,
+  "news:3b70e72f0be78fd6": 1795370082,
+  "news:74742713bff8d7ab": 1795370082,
+  "news:34e01111f207c480": 1795370082,
+  "news:2ae7fe66f0c59a62": 1795370081,
+  "news:fdb71cf4ba9022a3": 1795370081,
+  "news:d0f859d9a524a010": 1795370081,
+  "news:e3d76bc7f96f6fba": 1795370081,
   "news:ba1bff8e679ce5d7": 1795342613,
   "news:5dede9fe2c018b6b": 1795342613,
   "news:a34cd1644ccb8d30": 1795342613,
@@ -2991,24 +2999,9 @@
   "news:baba9a3c6c2a3b02": 1788484757,
   "news:0820fe085b46a35f": 1788484757,
   "news:4becbd1179661640": 1788484757,
-  "news:acf102a5586cc1c9": 1788484757,
-  "news:be8337da539efb7e": 1788484757,
-  "news:1ffb067224105164": 1788484757,
-  "news:a0c372e684c9503c": 1788484757,
-  "news:e80b2c3d25d36c98": 1788484757,
-  "news:b5c9cfdd4c6e181e": 1788484757,
-  "news:0b29d2c92f046744": 1788484757,
-  "news:3ffcf8f963a0c2f5": 1788484757,
-  "news:b4fa286974e9b8a5": 1788484757
+  "news:acf102a5586cc1c9": 1788484757
  },
  "stories": {
-  "[1라운드 이슈] 공동 1위 삼성생명·신한은행, 예상한 사람 있나요?": 1795108842,
-  "삼성생명, 차세대 CEO에 10주간 경영 교육": 1795108842,
-  "[줌인] 한화생명, 분기 투자손실 4620억...\"보험으로 번 돈 투자로 날려\"": 1795108842,
-  "삼성생명, 채권 투자수익률 4%대…ALM 매칭 전략 통했다": 1795108842,
-  "[AS 매치레이더] 승리 전망 64% vs 36%…안정감 앞선 삼성생명, 변수는 사키": 1795108842,
-  "한화생명볼파크 증축 돌입…내달 1일 공모 참가 등록": 1795108842,
-  "[증권言言] 키움증권 \"삼성생명, 견조한 실적에 배당 확대 기대\"": 1795108842,
   "[금융계 동향] 삼성생명·업비트·한화손해보험": 1795131846,
   "미래 이익 7조 쌓고 순익 반토막…교보생명 'IPO 딜레마'": 1795131846,
   "7조 원 실탄 장전한 삼성생명, 글로벌 M&A 정조준": 1795131846,
@@ -3060,7 +3053,11 @@
   "[경기 후] 김완수 KB 감독, “연패를 끊어 다행이다” … 하상윤 삼성생명 감독, “되는 게 하나도 없었다”": 1795342613,
   "‘괴력의 박지수’ KB 4연패 탈출 이끌다···15점·19리바운드 펄펄, 삼성생명 70-44로 꺾고 시즌 2승째": 1795342613,
   "“팬들께 면목 없었다” 김완수 KB 감독의 안도… 패장 하상윤 삼성생명 감독 “따라갈 만하면 실책”": 1795342613,
-  "박지수가 돌아왔다! '15득점 19리바운드' 더블더블 달성, KB스타즈 삼성생명에 70-44 대승...4연패 탈출하고 5위 도약": 1795342613
+  "박지수가 돌아왔다! '15득점 19리바운드' 더블더블 달성, KB스타즈 삼성생명에 70-44 대승...4연패 탈출하고 5위 도약": 1795342613,
+  "KB, 연패 끊고 최하위 탈출…삼성생명 선두 도전에 제동": 1795370082,
+  "박지수가 걷어내고, 허예은이 꽂았다... KB, 삼성생명에 70-44 완승": 1795370082,
+  "교보생명, 고객 모바일앱 편의성 제고": 1795370082,
+  "한화생명·한화손해보험, ‘차세대 아이디어’ 발굴": 1795370082
  },
  "news_queue": [
   {
@@ -3192,6 +3189,46 @@
    "date": "Sun, 22 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SkxsdkxTQ3dKR0xwbzExMXVnbHZ0alNmREpsNmtBUkJSOTFFODlNU2FyQmctYUFKNGVUQ0lGdHVhUjlTZFhlSXlWWEg0ZnJjdVdvWFR2OXdWeHZuQjR2Q3VJQ0N5QQ?oc=5",
    "sort_key": "Sun, 22 Nov 2026 10:12:38 GMT"
+  },
+  {
+   "id": "news:cdaa92121fcfe705",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "KB, 연패 끊고 최하위 탈출…삼성생명 선두 도전에 제동",
+   "source": "한국연예스포츠신문",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSjhUak1NNXI1WWJZdTRSclAzZmE3Smt4cGpmaUZnOFlXWVNPNTROcm94dDFiZ1FtUmFYTGZqVTlkNmdnZUFycnplaUNxVEMwX09aMmN4M3MxQWdqZXhzdTkwUW81WDRTZnc?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 09:59:00 GMT"
+  },
+  {
+   "id": "news:3b70e72f0be78fd6",
+   "kind": "news",
+   "company": "삼성생명",
+   "title": "박지수가 걷어내고, 허예은이 꽂았다... KB, 삼성생명에 70-44 완승",
+   "source": "STN SPORTS",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wVUI1dFlWbmhCMWxPdXVoODNsOEVYNll3Q2xzb0RtWnd4OEZkaTY2UlllLTNZSnhnT2R4Wm5rTXZiSmh6NnRDTWV5OExLSDR4S0tNUkgtUEZaR1pGQmZXcmxPX0VZUE5VcW0xc0FHVQ?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 10:51:05 GMT"
+  },
+  {
+   "id": "news:74742713bff8d7ab",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 고객 모바일앱 편의성 제고",
+   "source": "보험신보",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KZ1VRMkdUVzF6WmhpVjhyV2kzWUpuSGxQcXIxbHJkOUdMUEdxbUlnSUlHa3Y1Q3Nza3ROQWdRQ184QkRjZEtDLXJMbjFlNkFBR1pfTGhpYzdYZkhuV0dRc3BsVGhuY1FkdWx3?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "id": "news:34e01111f207c480",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명·한화손해보험, ‘차세대 아이디어’ 발굴",
+   "source": "보험신보",
+   "date": "Sun, 22 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wakZSYXBRb2tlSlY0SVQzWmRSaWE5QW1VWnF2SldoenFHUFBOaTAxU0JlVlUzcGdlbWtReW40ZkppWDM5VkpzaFkzZ0tEcThNUVJWYUZIMDlaZXZXNFd1XzhlZ2hUZFhIZlFz?oc=5",
+   "sort_key": "Sun, 22 Nov 2026 15:00:00 GMT"
   }
  ],
  "initialized": true,
