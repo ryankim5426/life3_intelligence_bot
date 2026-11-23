@@ -1,5 +1,14 @@
 {
  "seen": {
+  "news:b4b7b3b7b907c9d3": 1795406167,
+  "news:1ffb067224105164": 1795406167,
+  "news:b248b901619569a4": 1795406167,
+  "news:ee1956642cac17aa": 1795406167,
+  "news:3c3276accc9d6ddf": 1795406167,
+  "news:4e563feae5879411": 1795406167,
+  "news:3ce957d6db2f5517": 1795406167,
+  "news:c5e101122cbd0421": 1795406167,
+  "news:10dbc2872fc388d9": 1795406167,
   "news:f0604d0efdf2cb0d": 1795390038,
   "news:23ecbfbe64ae0120": 1795390038,
   "news:0f8d5e28f14ce9a3": 1795390038,
@@ -2990,23 +2999,9 @@
   "report:naver:85798": 1788484757,
   "report:naver:84373": 1788484757,
   "report:naver:83287": 1788484757,
-  "report:naver:81175": 1788484757,
-  "report:naver:81167": 1788484757,
-  "report:naver:81165": 1788484757,
-  "report:naver:79818": 1788484757,
-  "report:naver:78799": 1788484757,
-  "report:naver:78786": 1788484757,
-  "report:naver:78760": 1788484757,
-  "report:naver:76759": 1788484757,
-  "report:naver:76606": 1788484757,
-  "news:079ffc62aaf99fd7": 1788484757
+  "report:naver:81175": 1788484757
  },
  "stories": {
-  "[금융계 동향] 삼성생명·업비트·한화손해보험": 1795131846,
-  "미래 이익 7조 쌓고 순익 반토막…교보생명 'IPO 딜레마'": 1795131846,
-  "7조 원 실탄 장전한 삼성생명, 글로벌 M&A 정조준": 1795131846,
-  "교보생명, 교보자산신탁에 또 800억원…자회사 차입부채가 자기자본 추월": 1795131846,
-  "교보생명, '고객보장 동행철학' 현장 구체화...신창재 의장 \"보험은 고객 인생 여정 동행\"": 1795131846,
   "한화생명, 자본건전성 회복 본격화…K-ICS 171%로 상승": 1795148617,
   "삼성생명, 청년희망터 5년간 61개 지역·2801명 지원": 1795148617,
   "삼성생명, 지역 문제 해결 싱싱한 아이디어 삽니다...청년 2801명 지원": 1795148617,
@@ -3063,240 +3058,18 @@
   "[핌in청주] 삼성생명 꺾고 4연패 탈출 KB 김완수 감독 \"박지수 컨디션 올라오고 있어\"": 1795390038,
   "삼성생명, 종신·연금 키웠지만…건강보험 더 팔고도 CSM 감소": 1795390038,
   "[자회사형 GA 성적표] 한화생명, 4개 GA 군단 매출 3兆 눈앞": 1795390038,
-  "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'": 1795390038
+  "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'": 1795390038,
+  "한화생명, 자녀 증여·투자 관리 성년까지 확대": 1795406167,
+  "삼성생명 주가 하락 중": 1795406167,
+  "한화생명 증여자산관리 플랫폼 ‘플러스파이’ 신청액 100억 돌파": 1795406167,
+  "[특징주] 삼성생명 장중 6%대 하락세 22만원대 거래 : 기업주식정보": 1795406167,
+  "한화생명, 증여 자산관리 앱 내 자산관리 기능 강화": 1795406167,
+  "KIC 신임 CIO에 한화생명 출신 신민식 씨 선임⋯경영관리부문장엔 신용선": 1795406167,
+  "한화생명, 증여 자산관리 앱 'PLUS 파이' 개편": 1795406167,
+  "[보험] 한화생명, 성년 자녀 증여·투자 지원 확대…교원라이프, 해양 추모 서비스 출시": 1795406167,
+  "한화생명, 센트로이드와 깊어진 밀착관계…자회사 PE는 2년 사이 '중단'": 1795406167
  },
- "news_queue": [
-  {
-   "id": "news:ba1bff8e679ce5d7",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] 선두 삼성생명 만나는 4연패 KB 김완수 감독 \"박지수 호흡 맞춰가고 있는 단계\"",
-   "source": "뉴스핌",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYm1rTU5GZWlBYnMwMzR5ZkxVQ0lwMXpwcFNDUDZ1WUNwNjJJcXRCLWQxRWNHOGp4eENlRUg1eXIxSzNKM2lKSHJ6OHI2Tm0tVkJsY21Wazg5eXdW?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 06:29:00 GMT"
-  },
-  {
-   "id": "news:5dede9fe2c018b6b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] 단독 선두 노리는 삼성생명 하상윤 감독 \"이해란, 에이스로 많이 성숙\"",
-   "source": "뉴스핌",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ST1l5NS1fLXhQSVlNRnpZOFNscUlWejk5Q0tCd3Bob2NoUUZ6N2kxdEJJczVRYkhIYUZ6MzVJRkd5NVBVeGJDX3JaY3p5Q21lbnBvalhzNU9xRzIy?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 06:44:00 GMT"
-  },
-  {
-   "id": "news:a34cd1644ccb8d30",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "단독 1위 질주하는 삼성생명! 그 원동력에는 절대적 에이스가 있다?... “이해란, 에이스다운 책임감 보여준다”",
-   "source": "루키",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56TndNb001YV9LOUtmR21ZZ0o2cTJIYVZKTXRCTVFrRnBmSUowYTRxUHV1cklsbDNnaXNIQk43bEtZTU56clJTUzRMamV0SHkzR19yREZqTFQ2dmhMYldOUE9uQlI2djQyS0E?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 06:51:08 GMT"
-  },
-  {
-   "id": "news:f66def5e6364d06e",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[BK 리뷰] ‘괴력의 박지수+의지 보인 양지수’ KB, 삼성생명 완파 … 4연패 탈출+시즌 첫 홈 승",
-   "source": "바스켓코리아",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Edi05a0VLSzFlbFJxY3BKVVVUeFFrOTY0UF9IdWx0UFd5UTdwbk51dno3SGNydWJJeUVtbFFaRHNQTlhScTY4LVZsM1VIQ0hmeWVOaGhkWGQyY0NBeURjbm1jaS1SanI1MFQ5R3BaUVh3MG9tSVNz?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 08:49:18 GMT"
-  },
-  {
-   "id": "news:b2fa35be3f885f85",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "위력적이었던 박지수의 높이! KB, 삼성생명 꺾고 시즌 첫 홈 승리 챙겨",
-   "source": "루키",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNWdRanllWEtxSHltSzdVS1lqeGpHMlBQdXdPT2pWazhjdnhSUmxfOTM0UFZLdjRXNW5RaFF5SFRlQmJScUtfVG0tV3AyLWQ3VUFpLW9jYi0zR0x2VTNfNjBENTFZNlg1TGc?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 08:54:04 GMT"
-  },
-  {
-   "id": "news:3963df8772bfd370",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘허예은+박지수=30점’ KB, 삼성생명 70-44 완파 ‘4연패 탈출’…삼성생명은 2위로 [SS청주in]",
-   "source": "스포츠서울",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NaXUtZE5Ec3hvTlAycGJDWlVrbXZ3WU5OSkg4eWVWZEFUeS10NzZrTTRfUkZ5NkpEa2hqckEzVklMX19MdWRCZC02alBDb01jU3Rhd3hBZmI?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 08:55:05 GMT"
-  },
-  {
-   "id": "news:70f6e37bf74e5f83",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "KB스타즈, 삼성생명 26점 차로 완파…70-44 승리 : 스포츠",
-   "source": "재경일보",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGTmNOZXhJdmV3S01tbWhFNnNDbmJocFl1dEp2bTU2YU5zaVVqWU5fUUd4Tkdkakw1YkU0TDk0R3RnOTVNaXYwcXFLMA?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:04:30 GMT"
-  },
-  {
-   "id": "news:d6d15b3cbc648984",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'박지수 더블더블' KB, 삼성생명 5연승 저지하고 4연패 탈출",
-   "source": "뉴시스",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3azVNYVdlcWo5V0lfZGdsWjgzZzFHVUZLU3M1S0puTDM3ZUtMdEdyTXJJd3g3bzJoTUE2YXBYVGFzeGk0ZW45ZnhWQ0w1QlA1dWs3emlWeDZEcmxud2F1MNIBeEFVX3lxTFBiblgtYk5MNTZZNlhlRGk2WFhja1JHTW5CZkhnTUNQYUpESkU1QkZhYS1HeFRLNGZ0MXZGV3pKamxSNkR5eW4tZzlDMGNPeWtSblMzc1Y1NzdVb09Md3E1eGpYYnJOMVFUZkxiN2kxUmJoeTkxbTZ0cg?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:07:30 GMT"
-  },
-  {
-   "id": "news:58f2a814514f1be0",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "연승 끊긴 삼성생명 하상윤 감독 “다시 한 번 정비를 해야할 것 같다”",
-   "source": "루키",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUU5JdWExbmptNzQ5R2NJN3dpVW5Fa21HS1BnUXN6aGFWR0VHdTBrZ25ONXh0Y1pUN3NYMkxqSUc2SXVKQUJxaDRwNEs4X1hWSHp2STlRTnV0aGxZQW1IRHBEYWplZDA?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:11:15 GMT"
-  },
-  {
-   "id": "news:627668bd17a79b4b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[경기 후] 김완수 KB 감독, “연패를 끊어 다행이다” … 하상윤 삼성생명 감독, “되는 게 하나도 없었다”",
-   "source": "바스켓코리아",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dmtmZmY5XzM3S3B0eFU0dXlWSWcySnhtOUFGTURmLXhLWk1HWGlzbzNzOW1VNnF4X1d6Q2VOSnJ0emxydG9CaFpSeFZHT1RHaU04bUI2NjVFcm1uNVprdkEycTIzZlB0aXFvVXJXempOUXZIOVc0?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:15:46 GMT"
-  },
-  {
-   "id": "news:84ce1f3eaabd69fd",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘괴력의 박지수’ KB 4연패 탈출 이끌다···15점·19리바운드 펄펄, 삼성생명 70-44로 꺾고 시즌 2승째",
-   "source": "스포츠경향",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rYTRoSnNpb1c2dmxzVFBaNElHUU9GQVdxOHpNcWh4WmxNQ29xTW96UFZ6c2FLR2JVano3QW5RTlFZbllYZEV3NGxCTWp5UjlhZ1ZBQXJNbXVMSDF0amfSAWNBVV95cUxNeGxSeFN0VnpEbW9DVHgyMkY3MFlMS29FTThDajdubEtHOGttWmJob042eU9zMmQ1a2k4dk56ZXpWbXU3NENPcTVzN2RDTWpydE9fSXNjZURYVDdrSFIyVVJFd1U?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:17:00 GMT"
-  },
-  {
-   "id": "news:dbe354187d839a36",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "“팬들께 면목 없었다” 김완수 KB 감독의 안도… 패장 하상윤 삼성생명 감독 “따라갈 만하면 실책”",
-   "source": "스포츠월드",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xdGM3OWg1enMzZkd0RjUxU1F2TzZTcTVMX1dkTnNmQndMQl9MbUJWaERXRmJBSFBkUWszRzBNOXE4WXRxaGFmcFAzbTd2ZDVSaU5OV0F6OXFOVnNxby12Q1Fn?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:41:12 GMT"
-  },
-  {
-   "id": "news:198ab9e1c9f61c1d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "박지수가 돌아왔다! '15득점 19리바운드' 더블더블 달성, KB스타즈 삼성생명에 70-44 대승...4연패 탈출하고 5위 도약",
-   "source": "마이데일리",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SkxsdkxTQ3dKR0xwbzExMXVnbHZ0alNmREpsNmtBUkJSOTFFODlNU2FyQmctYUFKNGVUQ0lGdHVhUjlTZFhlSXlWWEg0ZnJjdVdvWFR2OXdWeHZuQjR2Q3VJQ0N5QQ?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 10:12:38 GMT"
-  },
-  {
-   "id": "news:cdaa92121fcfe705",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "KB, 연패 끊고 최하위 탈출…삼성생명 선두 도전에 제동",
-   "source": "한국연예스포츠신문",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSjhUak1NNXI1WWJZdTRSclAzZmE3Smt4cGpmaUZnOFlXWVNPNTROcm94dDFiZ1FtUmFYTGZqVTlkNmdnZUFycnplaUNxVEMwX09aMmN4M3MxQWdqZXhzdTkwUW81WDRTZnc?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 09:59:00 GMT"
-  },
-  {
-   "id": "news:3b70e72f0be78fd6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "박지수가 걷어내고, 허예은이 꽂았다... KB, 삼성생명에 70-44 완승",
-   "source": "STN SPORTS",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wVUI1dFlWbmhCMWxPdXVoODNsOEVYNll3Q2xzb0RtWnd4OEZkaTY2UlllLTNZSnhnT2R4Wm5rTXZiSmh6NnRDTWV5OExLSDR4S0tNUkgtUEZaR1pGQmZXcmxPX0VZUE5VcW0xc0FHVQ?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 10:51:05 GMT"
-  },
-  {
-   "id": "news:74742713bff8d7ab",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 고객 모바일앱 편의성 제고",
-   "source": "보험신보",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KZ1VRMkdUVzF6WmhpVjhyV2kzWUpuSGxQcXIxbHJkOUdMUEdxbUlnSUlHa3Y1Q3Nza3ROQWdRQ184QkRjZEtDLXJMbjFlNkFBR1pfTGhpYzdYZkhuV0dRc3BsVGhuY1FkdWx3?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 15:00:00 GMT"
-  },
-  {
-   "id": "news:34e01111f207c480",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명·한화손해보험, ‘차세대 아이디어’ 발굴",
-   "source": "보험신보",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wakZSYXBRb2tlSlY0SVQzWmRSaWE5QW1VWnF2SldoenFHUFBOaTAxU0JlVlUzcGdlbWtReW40ZkppWDM5VkpzaFkzZ0tEcThNUVJWYUZIMDlaZXZXNFd1XzhlZ2hUZFhIZlFz?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 15:00:00 GMT"
-  },
-  {
-   "id": "news:f0604d0efdf2cb0d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'디펜딩 챔피언의 부활' KB, 선두 삼성생명 26점 차 대파하고 4연패 탈출…박지수 15점 19리바운드",
-   "source": "데일리스포츠한국",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ySlkwSHJiZFJ5LTF3N05Zd2VfQkZ0RnF3TGtDWF9XcVRzMGRWNW9sSjhGMDl2cXNtb01qNVFVMThMZi1teVQxZ25rMzJFQkYxUDlwRmFmbGsxcEtBWjAya3lMS2FjZDNDT3BxWTFWSEpZdE5UczF4WVdrWUFQdFXSAX9BVV95cUxNckpZMEhyYmRSeS0xdzdOWXdlX0JGdEZxd0xrQ1hfV3FUczBkVjVvbEo4RjA5dnFzbW9NajVRVTE4TGYtbXlUMWduazMyRUJGMVA5cEZhZmxrMXBLQVowMmt5TEthY2QzQ09wcVkxVkhKWXROVHMxeFlXa1lBUHRV?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 11:46:07 GMT"
-  },
-  {
-   "id": "news:23ecbfbe64ae0120",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] KB에 발목 잡힌 삼성생명 하상윤 감독 \"에너지 레벨 떨어져\"",
-   "source": "뉴스핌",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdE9fbW5fOG8wZjV2YmROWnFJc1lueXNBSjdiTl9UY3NtV1BQQVNzWUJ2aGNBVmFqRVhsR1Q2OWFjQW1DNHVjUk9sV194TlJndm9ZUy1zaUFLYW1G?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "id": "news:0f8d5e28f14ce9a3",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[핌in청주] 삼성생명 꺾고 4연패 탈출 KB 김완수 감독 \"박지수 컨디션 올라오고 있어\"",
-   "source": "뉴스핌",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FUi1lSDlhclZrYUc5VnNuTTR2NmZQZS0xVzJMWlJCUU1xbUlHY1lWcklpZmYxeXRLVVpQVDZJZ3pDMXRVRk9XOHRnUzZ4ZG01eTRjZUk2THlWbnFO?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "id": "news:5dbc05a7a840e310",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 종신·연금 키웠지만…건강보험 더 팔고도 CSM 감소",
-   "source": "딜사이트",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PdXdhanB2eWN1UXZnMHNOZmJXbWZtV3JjX1c3d1FEXzdIbnBrenQ3OG1mVVlxWEpLeUl4aU9TNDRleHcwam93S1l4LVhxZVE?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "id": "news:b0fe3d2c538135d1",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[자회사형 GA 성적표] 한화생명, 4개 GA 군단 매출 3兆 눈앞",
-   "source": "FETV",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04R09UT01aempoVUVvRVFrMnJSc2hsVVRWTHB3QTFMRVI3RHoyWHlTUmlFd2prcUgxOUlSY0p3d2lweXd3RzgweklNakFxUm9WNlhRLWNQdnZRanoyMGotQkpfSU5EZk9L?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "id": "news:3da2d6b0bcfa6b73",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'",
-   "source": "소비자가 만드는 신문",
-   "date": "Sun, 22 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PMW9XbG9lY1EtSTZndUw3X2NnSnJlb3hwZTVtRk81Q1ZzbmZLbFZHVXVHenlPR2pVYWRWRFVVQnBFaTYyZl82TkJYdEdvLTZNbzQ2YXBDUXl3RUdUcEdpQ1p6Ni1xVmlKV3QxbTgzTFZWOEE?oc=5",
-   "sort_key": "Sun, 22 Nov 2026 21:10:00 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-22"
+ "last_digest": "2026-11-23"
 }
