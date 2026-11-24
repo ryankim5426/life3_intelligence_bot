@@ -1,5 +1,11 @@
 {
  "seen": {
+  "news:1845ba6b3fbc1c35": 1795556046,
+  "news:42fde883448ec080": 1795556046,
+  "news:7dbfd1775e1c383a": 1795556046,
+  "news:751e86b1e2b0e6e1": 1795556046,
+  "news:8f98ff93bb338c1c": 1795556045,
+  "news:e19eeb75ed4cfb9d": 1795556045,
   "news:22f4adde5da7de2a": 1795520463,
   "news:faab505eb1febcb6": 1795520463,
   "news:4c2ebcaa1092dd18": 1795520463,
@@ -2993,16 +2999,9 @@
   "news:51dc6689f4ceaad8": 1788507787,
   "news:4c0b6d07a9b5541d": 1788506603,
   "news:86d22e0807514277": 1788505388,
-  "news:ecbf65f8a53270ae": 1788504557,
-  "news:56a48dac58136344": 1788504557,
-  "news:4c4835e234f5cd03": 1788504556,
-  "news:0b6a74c2ac7cee99": 1788503301,
-  "news:2c62d5b759da0600": 1788503301,
-  "news:251507bc08e4128b": 1788503300,
-  "news:1d568c2df1c46e53": 1788501787
+  "news:ecbf65f8a53270ae": 1788504557
  },
  "stories": {
-  "[AS 매치레이더] 4연패 KB, 4연승 삼성생명과 격돌… 박지수의 골밑 통할까": 1795282791,
   "[BK 프리뷰] KB의 복수전? 삼성생명의 연승?": 1795314861,
   "[핌in청주] 선두 삼성생명 만나는 4연패 KB 김완수 감독 \"박지수 호흡 맞춰가고 있는 단계\"": 1795342613,
   "[핌in청주] 단독 선두 노리는 삼성생명 하상윤 감독 \"이해란, 에이스로 많이 성숙\"": 1795342613,
@@ -3090,7 +3089,11 @@
   "교보생명, 체험형 금융교육 강화…특수학교 지원 확대": 1795520463,
   "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입": 1795520463,
   "교보생명, 교보다솜이 봉사단…교육·환경 ‘글로벌 사회공헌’ 확장": 1795520463,
-  "한화생명, 가족돌봄 청년 자립 기반 지원 ‘위 케어 드림 저축보험’": 1795520463
+  "한화생명, 가족돌봄 청년 자립 기반 지원 ‘위 케어 드림 저축보험’": 1795520463,
+  "한화생명, 퇴직연금 수령 방식 다변화…은퇴 후에도 자산 운용": 1795556046,
+  "김동원 한화생명 해외 사업 '핵심 거점' 베트남 성장세 꺾였나 : 시장 성장 둔화 속 보험료 수입도 3년째 '뒷걸음질'": 1795556046,
+  "한화생명, 청소년 금융 교육을 인도네시아로 확대": 1795556046,
+  "교보생명, 올해 학생 1만2575명에 금융교육": 1795556046
  },
  "news_queue": [
   {
@@ -3362,6 +3365,46 @@
    "date": "Tue, 24 Nov 2026",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Xzhsd1AwMGI5RVZHSWZwSjhWc3pwTHJWREJmcVhuUlhlVXgxcFFMQ0FhU2JxZ1lpaW0wb0FwdUYzMVFlZGpibHl3RGQ1eHBLejFYUmRuNGhWUdIBX0FVX3lxTE5wYUVwWUNyVVN4NkFhY0xlSWNINFE1UnQ3MHNqMHlRY05wcWtMQVRObUhZLTM0c3FaRmJseHFfSzZ2U3NWU1AydkJEdE9yVnl2ZDNnYXB3eDRLRFBhcWFj?oc=5",
    "sort_key": "Tue, 24 Nov 2026 10:56:00 GMT"
+  },
+  {
+   "id": "news:1845ba6b3fbc1c35",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 퇴직연금 수령 방식 다변화…은퇴 후에도 자산 운용",
+   "source": "KPI뉴스",
+   "date": "Tue, 24 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dmNjaDFYeXk5RHR6R2ZrMXkzZFd2eUt4TFpSdGtuM25hVU5Xa25jQkJEWk01NURiamJGeHU3Qm9xak9tSDRqSnBYTVNMbXpSdEFJ0gFTQVVfeXFMTjl2Y2NoMVh5eTlEdHpHZmsxeTNkV3Z5S3hMWlJ0a24zbmFVTldrbmNCQkRaTTU1RGJqYkZ4dTdCb3FqT21INGpKcFhNU0xtelJ0QUk?oc=5",
+   "sort_key": "Tue, 24 Nov 2026 05:11:57 GMT"
+  },
+  {
+   "id": "news:42fde883448ec080",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "김동원 한화생명 해외 사업 '핵심 거점' 베트남 성장세 꺾였나 : 시장 성장 둔화 속 보험료 수입도 3년째 '뒷걸음질'",
+   "source": "허프포스트코리아",
+   "date": "Tue, 24 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DclVpRHMyU3M4YVY0a2RObERJSl9iVnY3bTZ1SG5QU2UzTGh2N0pJMmJVRW9WQ2dtT1FESjl3SUZsd0NPbjYwYk0tMzdodUJRRWN3RENTVQ?oc=5",
+   "sort_key": "Tue, 24 Nov 2026 08:47:17 GMT"
+  },
+  {
+   "id": "news:7dbfd1775e1c383a",
+   "kind": "news",
+   "company": "한화생명",
+   "title": "한화생명, 청소년 금융 교육을 인도네시아로 확대",
+   "source": "월간조선",
+   "date": "Tue, 24 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NQW5EREV3Z1FtODNmbks0UzN4Q1lZTTc0cldhWHpqb1FVMmx5UHBNT0lVOFV1Rldlb3RqU0l4WkYwWllZN0ZiMUU1bURhaVZncndBbXdNQ2U0SExiWWhxdDVocGFQMVltbHV6WQ?oc=5",
+   "sort_key": "Tue, 24 Nov 2026 12:31:47 GMT"
+  },
+  {
+   "id": "news:751e86b1e2b0e6e1",
+   "kind": "news",
+   "company": "교보생명",
+   "title": "교보생명, 올해 학생 1만2575명에 금융교육",
+   "source": "코리아리포트",
+   "date": "Tue, 24 Nov 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOEwtdWVuTlpKVDRaS01DSDJlenZvdTEzMTdpYmhJYW1yVlU5OGRXRDhNb203anRQenlDOWhqd08yd0pRZ3ZGWm5yRmxlN1RvX2RMSTJzYjNfZkZQS0pTUVBpczB4QmVuajVldjlqR0E?oc=5",
+   "sort_key": "Tue, 24 Nov 2026 14:53:52 GMT"
   }
  ],
  "initialized": true,
