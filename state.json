@@ -1,5 +1,18 @@
 {
  "seen": {
+  "news:d830138a2d8735ee": 1795737944,
+  "news:36e986bb5ca3d16b": 1795737944,
+  "news:c2ccdcfcae552b5b": 1795737944,
+  "news:1fbd44ddfe85e609": 1795737944,
+  "news:b11aa28904373087": 1795737944,
+  "news:d6360478474f4426": 1795737944,
+  "news:e12f2db9137c1d95": 1795737944,
+  "news:b19b5720f9341c9e": 1795737944,
+  "news:db701e97eb3d5a05": 1795737944,
+  "news:81a92cdf3157caba": 1795737944,
+  "news:5d849a78fddc7523": 1795737944,
+  "news:7756dd4f657fc7cd": 1795737941,
+  "news:9d19ecd530d319bf": 1795737941,
   "news:e80517739f33e1cc": 1795707625,
   "news:5939c415e5a1aa4e": 1795707625,
   "news:0cf91d0846a3ff4a": 1795707625,
@@ -2986,20 +2999,7 @@
   "news:4a95610c2c87f70b": 1788769401,
   "news:ef1c5597efb21605": 1788769401,
   "news:436c0a42a9d8f9bc": 1788769400,
-  "news:002d32463c0771f1": 1788767993,
-  "news:ab6c829fab242687": 1788767993,
-  "news:c097594dd1fcbafa": 1788767993,
-  "news:21ce77d7134388fa": 1788767170,
-  "news:19c9390bd2772085": 1788764638,
-  "news:74c72aed78144042": 1788763724,
-  "news:7497f8f4358ac094": 1788763724,
-  "news:2688eca4b5904edb": 1788763724,
-  "news:de992ac6ad7a89a0": 1788763724,
-  "news:e02eb752119ef4cf": 1788763724,
-  "news:49ac6d90140efe02": 1788762119,
-  "news:982df2340a8329eb": 1788762119,
-  "news:2ae03e040e482626": 1788762119,
-  "news:ea03050fe45a7029": 1788760279
+  "news:002d32463c0771f1": 1788767993
  },
  "stories": {
   "전반 무득점에도 골밑 지배한 박지수…KB, 삼성생명 26점 차 완파": 1795484777,
@@ -3125,310 +3125,20 @@
   "삼성생명·화재·카드 임원 인사 단행...보험 해외사업·카드 수익원 확대 초점": 1795707625,
   "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍDB손해보험ㆍDB생명(11.26)": 1795707625,
   "삼성생명 임원 승진 9명서 6명으로…부사장엔 '자산운용통' 고윤상": 1795707625,
-  "[프로필] 삼성생명 고윤상 부사장…재무심사·자산운용 거친 투자통": 1795707625
+  "[프로필] 삼성생명 고윤상 부사장…재무심사·자산운용 거친 투자통": 1795707625,
+  "삼성생명, 해외시장 공략 잰걸음…자본확충 등 실탄 마련": 1795737944,
+  "[인사] 삼성생명·화재·카드 정기 임원인사": 1795737944,
+  "삼성생명, AI 전환 이끌 경영진 확대…정기 임원인사 6명 승진": 1795737944,
+  "삼성카드 자사주 소각에 셈법 복잡해진 삼성생명 [이슈 더보기]": 1795737944,
+  "한화생명·손보, 나란히 '보험가치' 전면에…조직부터 바꿨다": 1795737944,
+  "삼성생명 고윤상 부사장 승진…임원 6명 인사 : 기업·산업": 1795737944,
+  "[10월 GA 생보사 실적 M/S] 아너스금융서비스…한화생명 1위, 동양생명 점유율 26.0%→9.2%": 1795737944,
+  "[10월 GA 생보사 실적 M/S] 글로벌금융판매…상위 3개사 11%대 각축, 한화생명 1위": 1795737944,
+  "[10월 GA 생보사 실적 M/S] 스카이블루에셋…DB생명·한화생명 1·2위 맞바꿔": 1795737944,
+  "키움증권 \"성장주 대신 배당주 시대 오나…삼성생명·삼성화재 주주환원 주목\"": 1795737944,
+  "교보생명, 설계사 가족까지 비급여 진료비 감면…강동경희대병원과 협약": 1795737944
  },
- "news_queue": [
-  {
-   "id": "news:738f28069423ae18",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, ’실적 한파’ 속 성장세...홍원학 ’내년 M&A·밸류업’ 기대감 By FinancialPost",
-   "source": "Investing.com 한국어",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13T29NazRuZGVuUHBZQWtQUjhLZGgweHpBZmQzelBSSHladEtySnJPV1M0TVViNGZjS3VYQ25Mb09pWGk2S2JreFlNLVhVTlFFaEx4YklGOHJHalNhWUxHcTB5Zm5Sc25OYi10RnNhTDY?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:03:00 GMT"
-  },
-  {
-   "id": "news:d919eeae87debbcc",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[인사] 삼성생명·화재",
-   "source": "전자신문",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rNnNHekpTbjJ3eHBGV1N3ZHZnV0l1MHN6UnVQTmpscjk1aVV4cWF3cW1SZG1vQjNwS2prYmFfVlJjTkJ3QTdiRzBZSUE5UQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:05:42 GMT"
-  },
-  {
-   "id": "news:c86c39f2e1c905af",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 임원 인사",
-   "source": "보험신보",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CeXlOUXdwNk5MLXBJZXJ2UHV3Umd3SGVodklsRkRfdWhHWVBZbVNKeThxZ1JUX2pRUzVrd3EwTEVFcXIxa1B6STlLYnBfUm1qcTlhWjllcmdoUVE2V0lYSXdwTENtLUlIX0NB?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:18:41 GMT"
-  },
-  {
-   "id": "news:ce8f0d8aacc83f1f",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 임원 6명 승진…AX·신사업 이끌 차세대 경영진 확보",
-   "source": "더트래커",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sMDliMG03YjFLWndTY0Qtbnhfa0FteThuRC10aUplbG1qcC1iM2ZJVVg2ZnlLUG9xX000cWNjMkJuTzZVb3hMcW11bzVGeWZteU94MGxhaGw?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:21:21 GMT"
-  },
-  {
-   "id": "news:c8cc539eaca9c9e2",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재 부사장에 고윤상·조번형·황상민…14명 임원 승진 |",
-   "source": "연합인포맥스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lUHRqTWUyb3pKVE04MlNrTUdrSWNWa2tCc2ZraEl1R1g3MlYyOTFROE5wdnAxcUlxOXcxYWkyS19ZTFZQa2Z4bXlkUlZQRlVUTW1IeHRnMEdEal9vUTdRZS1RMlNjVFl4eWN2NDJxWWFrSFRK?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:28:02 GMT"
-  },
-  {
-   "id": "news:acc249c8264b24fb",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·삼성화재, 정기 임원인사…14명 승진 - 머니투데이",
-   "source": "머니투데이",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cm91WXYxQVdlcE1nWnM4SURIMjNSODMwSDJYbGV4eTNhd3lqdHpCckdaNVFSRi1FdHJSbldGN3NoZExwakt4SUhHWnBfSE1QVGNRNlhHei1IOWUxMmFtZ0ZSOGM5d3paOWFzbG5hMznSAXBBVV95cUxNdHJvdVl2MUFXZXBNZ1pzOElESDIzUjgzMEgyWGxleHkzYXd5anR6QnJHWjVRUkYtRXRyUm5XRjdzaGRMcGpLeElIR1pwX0hNUFRjUTZYR3otSDllMTJhbWdGUjhjOXd6Wjlhc2xuYTM5?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 00:50:57 GMT"
-  },
-  {
-   "id": "news:8fbcaaed8e3ecc58",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 고윤상 부사장 등 6명 승진…전문성·경영 역량 중심 인사",
-   "source": "디지털데일리",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wd2ZMM3VRNHpxMUVOZmhyQ3ZFcm5xdURmZThHWUZnZVlRcXpQSWhydEtpSDR1akVuaGJGVGVJcVlUWkpRY1d6SzVkQzhwUHBlVW9ncmJBS2R3OFRxN0F4OGttU2M?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 01:02:20 GMT"
-  },
-  {
-   "id": "news:b23e40bb1344043a",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[인사] 삼성생명",
-   "source": "IT조선",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByNFlEZVFWNHhLOGZraHZCLTNnbEZjd2M5V2pmWmV6Vl9COUotcTVINmhfLVFmMjJFaUxXUUVWM2lJUi1MSFNMRHVoV0dmSVBqX1FfQWttQ2RraFNweDB5cFYzUVJrZWwzZTVhZzdiSVRXa1J20gF0QVVfeXFMUHI0WURlUVY0eEs4ZmtodkItM2dsRmN3YzlXamZaZXpWX0I5Si1xNUg2aF8tUWYyMkVpTFdRRVYzaUlSLUxIU0xEdWhXR2ZJUGpfUV9Ba21DZGtoU3B4MHlwVjNRUmtlbDNlNWFnN2JJVFdrUnY?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 01:18:03 GMT"
-  },
-  {
-   "id": "news:66e50c6a02b9efab",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재·카드, 부사장 5명 등 임원 19명 승진(종합)",
-   "source": "연합인포맥스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 26 Nov 2026 01:29:11 GMT"
-  },
-  {
-   "id": "news:d40d141b3e97f6c4",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 홍원학·삼성화재 이문화 유임 무게…캐노피우스 인수 한창",
-   "source": "자본시장뉴스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85RjdCLThlLUhVdF84SURFU3MwM0hTOExHUXdQVjVoNjFvdmJjNmZZYXd4bXBCa0dFdmFDY1NqekFjYk1DV0xkWG9KRE5FNDVMRnpydWtZVElURm1mUkMtNnZQMzFBRlU?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 01:30:00 GMT"
-  },
-  {
-   "id": "news:add59f9c2313a551",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "이경근 한화생명금융서비스 대표, 금융위 과태료 15억7,580만원 감경 없이 의결",
-   "source": "CEO저널",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 26 Nov 2026 01:34:50 GMT"
-  },
-  {
-   "id": "news:0b7d119dfa1cbcfe",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재, 검증된 리더십에 무게…해외사업 속도",
-   "source": "브릿지경제",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQUY5ZWZsWjF1SndPNjlpeEZTV1ltZ2VXSnpxZEE5RXp4OEhVMkpFSXI3cnYzRWctNk1jT3Jnb1NidVVmYWpQNV84b1UxZlBGZnlYYU9UVE1YZw?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 01:39:00 GMT"
-  },
-  {
-   "id": "news:4ec3c87324839854",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'글로벌·신사업' 외친 삼성생명·화재…임원 인사는 '안정·보신'",
-   "source": "인베스트조선",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHdjWTcxUlk4RDVRdHlRaUpHdFJudHFqeXlPSlp2cF9XRGpmeHk0ZnlqSFB1S2s1eG4tVC1XdVUtdkVxeDIwNVNDT0hHaFhvUWRMN25kYjlQRkxlWGdlWGxqS0dWQkc3VkdQLUlNSXFiU1Nna1lyZnZtblBURTJiSnU2WQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 02:03:00 GMT"
-  },
-  {
-   "id": "news:f4a15cc46aefae6c",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 2027년 정기 임원인사…부사장 등 6명 승진",
-   "source": "더팩트",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaY01tM09GWjlZVmczTlRyN1JrSEVVbTNldU42LW13VThvRW82XzhwY2pnN1VHT29NUFRjWEYyanh2MlhYeGg1Q292OU1wdC1aTXpNMGxvX20yd9IBVEFVX3lxTFBWbkhlMThyWDBNZVVHWklfZXBUN0tpV0VaNWlSNDJBWGdVZjhFcURzdFFMN2lycTYxcmNZTVFqVEhrYU81ZC1QSG5hYjk3VVFzRXRfVA?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 02:05:57 GMT"
-  },
-  {
-   "id": "news:a74c8b8cf02b61c9",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 고윤상 부사장 등 6명 승진···미래사업·지속가능 성장 '방점'",
-   "source": "서울파이낸스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tUnVRUjlqVVhFTXMtczZLTkcwUUpIWkRKVlhrT05fdHRmMERmUjJxbTJaeHpKSDU3LWpxUDMyOTZZQ0dlR0ZpVV9pblEyeTVIZWRadUNQUHUtMmE2SV9ISURwZVNNV0JyRlE?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 02:22:13 GMT"
-  },
-  {
-   "id": "news:e0ae73fd15cdcdc2",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[프로필] '자산운용 전문가' 고윤상 삼성생명 부사장",
-   "source": "서울파이낸스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lQmhhTmwyRW8yaDc5aXFXbjJxOUV3aFk3UUJiQUhDdmZhdlNpQVZmVU1LR3A0WGpSNjl1VDUyVFVSazl1MjFIOGZmei1STWN1ZEpzczRmbEs4RVA3YnR5aTBCQm90TnZnOHc?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 02:22:36 GMT"
-  },
-  {
-   "id": "news:5e0e3e67cb3b08f3",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[2026 대한민국 지속가능경영 소통대상] 한화생명, 외부 전문가와 사회공헌 협업…'국회 기후에너지환경노동위원장상' 수상",
-   "source": "뉴스투데이",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://support.google.com/websearch/answer/86640",
-   "sort_key": "Thu, 26 Nov 2026 03:20:00 GMT"
-  },
-  {
-   "id": "news:44f7b70dbde5df33",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 자산운용 약진…유일한 부사장·女임원 승진",
-   "source": "FETV",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeU9waGJvZkNHemRjUFdtZWJLR1JRQTZzU01Yb3ZhVXZncTA1d2xwYk5yNTViY0d2VTZkS1FNdGg5TzlaVXcybFUySy1mSEowd29fc1JIdzdSYnFyVnpHX2dVMVR3RzVE?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 03:31:24 GMT"
-  },
-  {
-   "id": "news:c9b5156d1eb4b47a",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[2026 대한민국 지속가능경영 소통대상] 교보생명, 고령·장애인 전용 소비자보호기준 제정…'운영위원장상' 수상",
-   "source": "뉴스투데이",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVktfZHpTRVMxUEk4bWZBa2cxTGlSTlFpOGsxdVJocEI0OWt4aWg0NEV0UGRFOG1lWGhnYkZ0cHdDVGZ1ekpKWmVTejdRV3Y2UUl5a3B0Mk1pQ0JBT3c?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 04:01:00 GMT"
-  },
-  {
-   "id": "news:f90b4e2a0f517344",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "홍원학 삼성생명 대표 유임 관측…본업 이익·신사업 수익 '연속성' 기대",
-   "source": "블로터",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nRFVxbGNQckZoQThCUWdpaEJ3ZUwzNktGUGMxdEdhaTZXWGlKM0tWaWcyVk9rZDFIcTFWSGlvU3pmLTI2MFBlcjh3RFg1Q3FUZzV1eWEyQ2FkeTREWkdGVFZwckdCeWxO0gFsQVVfeXFMTkZjSXo2ay10cmg5czhCb25JcHd4SG85ejlNSWw1SXlMY25GTFhqNXlNZDVwUV95bkoxTloxTElPR2plTDFxeEdKQjdxNE5RXy1zRm5XTkhTemstcjhkcnJLT1Uwd2NzLXVOb2c0?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 04:14:47 GMT"
-  },
-  {
-   "id": "news:e80517739f33e1cc",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명 교보교육재단, 소년보호교육 공로 대통령 표창 수상",
-   "source": "메가경제",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVeXkzZTZiTE5FbVMtZGlCMmNXMUh1UTF1SmJLak11N25IUmtnX1paQUVFaW9GV0oyZnhXRUlEenVHWTFselFNZlZrU0E1XzBIZXBZUjJXcUZKU2piMGlrRXlrcmRYS21fVDRJVTRyRVVhZ9IBckFVX3lxTFBVeXkzZTZiTE5FbVMtZGlCMmNXMUh1UTF1SmJLak11N25IUmtnX1paQUVFaW9GV0oyZnhXRUlEenVHWTFselFNZlZrU0E1XzBIZXBZUjJXcUZKU2piMGlrRXlrcmRYS21fVDRJVTRyRVVhZw?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 03:07:12 GMT"
-  },
-  {
-   "id": "news:5939c415e5a1aa4e",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명금융서비스, KCPI 우수기업 선정… GA 부문 소비자보호 최고 지수",
-   "source": "www.dt.co.kr",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnOTVaaGYwMWdqS2IwRFJsREYxZW51eHNrQXRibUZQUUE0cUF3Z0tlSzVyQnpCakN0XzBpTFdWUUR6S1lnV3NySnpaOTY4UQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 04:49:09 GMT"
-  },
-  {
-   "id": "news:0cf91d0846a3ff4a",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[MD포커스] 몸집 키운 교보생명, 순익은 반토막…신창재 ‘지주사 전환’ 가시밭길",
-   "source": "마이데일리",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWT0Mzb21qV3ZyY0k3ZEdtaWNIUzcyT0RWZmZ1SXphZ2o0U2d6c0gyZ29rY0hVTXpUbHhKdXFzRzJQekhrVUdMRUpHa3dkWVZCaEF0M2NCbFNsV3JzTDZnSw?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 05:47:25 GMT"
-  },
-  {
-   "id": "news:ed335f3419db302b",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "선두 질주하는 신한은행, 삼성생명 상대 설욕과 시즌 5연승 도전",
-   "source": "경인일보",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yNktRY0d3SmQtWGdJemhNeHhZVF8yNmctcGxiLUpFSmxncXVENVplbTctOEVTWHNMZ0RicWYxSzFfV3RIZGd0N1hnQ3NhUXFmMHc?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 06:33:49 GMT"
-  },
-  {
-   "id": "news:46e5b9f00819a247",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[26일 보험주 마감시황] 삼성생명 급락 딛고 반등·현대해상 3거래일 연속↑…인카 3.66% '뚝'",
-   "source": "보험저널",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGeFBmRUxBYnVuYm0tQ1lnMHF2QnB3Y2lyU0RUYW8xZXhFOTVzRE56TnJOeGpjV1JkNHNzNEg3elZDVExybkZIcXpYSVprYjZDR0V6em82bXlqSDVHM0ZlbURDd0hudkpWTzlCQWNJQQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 06:43:39 GMT"
-  },
-  {
-   "id": "news:5e2e5539ea5d6d96",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 고윤상 삼성화재 조번형 황상민 부사장으로 승진, \"업무 전문성과 리더십 검증된 인물\"",
-   "source": "비즈니스포스트",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01SC1uOHpUQXJqUmQ0WnE2UWhYeUIwU2lSUU9jWnVneWVobDhTNG9nUWtmMy01QVZWNnQ0cUdsVWdaZmJtazdjbmJmTlJjTFI2NjNxUDAzb01rekJ2bEtYUExqVFJZZ1JJWnZ6aFBmdzh6NXc?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 06:49:58 GMT"
-  },
-  {
-   "id": "news:4595da618f07cc07",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재·카드 임원 인사 단행...보험 해외사업·카드 수익원 확대 초점",
-   "source": "조세일보",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdU8xekp6a1Nlam9fYU1HZGlTSjhhV08tM0tOdjZFUWZ4dURkb3lLWW9YQmpYeTEwVDdicU96WHRyZkJXMEc1WE1JZFVHZk5heGZ0bWhkUy1ydjlmRUdZ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 07:20:00 GMT"
-  },
-  {
-   "id": "news:28e5055141ae1447",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍDB손해보험ㆍDB생명(11.26)",
-   "source": "위클리오늘",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTNFo4UlhuV3gyeHBBd3VTZXAxcS1vSVV2VUdKakQ1ZnV0MHJvVXVvRXdibW81bktjMFVwU2t2ckJYeE9pQmNVVkgzWElXSnJobzdydmpROGpJZ3ZobW9qT2xMUm9wTWgyR1NlNXhwTQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 08:47:21 GMT"
-  },
-  {
-   "id": "news:aefa81438671a650",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명 임원 승진 9명서 6명으로…부사장엔 '자산운용통' 고윤상",
-   "source": "자본시장뉴스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZUFoQWZ4ZXZOZTNnc2h3X1NSTy1wTlJOYTR0MVRYbFFlMjRjSFFtd003Y2laNWVFcGgwVXJ4VXZLQ0xIS19EVG10QUJtU0JpeHRYZE5qenZERHRwOURUWWVxVkhTNzQ?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 13:15:17 GMT"
-  },
-  {
-   "id": "news:e47cdf68af8f7cd6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[프로필] 삼성생명 고윤상 부사장…재무심사·자산운용 거친 투자통",
-   "source": "자본시장뉴스",
-   "date": "Thu, 26 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SblEyeV91aXBFc2FUdjNYZ1JXYWRvSkVha1l2bjV0aTQ1RzRXVFl6YVFaUEV4bk1rVlBPYnZhZGkwZll3RGtxWU00STUxaGFBa0tVVnhQX3BKYUtzaW5zc1k3ZFc4MWc?oc=5",
-   "sort_key": "Thu, 26 Nov 2026 13:25:06 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-26"
+ "last_digest": "2026-11-27"
 }
