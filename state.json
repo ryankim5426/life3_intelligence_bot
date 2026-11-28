@@ -1,5 +1,18 @@
 {
  "seen": {
+  "news:015c10911abd817c": 1795829529,
+  "news:29a85e65f69a5c0f": 1795829529,
+  "news:545ce6a3a1c269ee": 1795829529,
+  "news:b16c4424f3d8978c": 1795829529,
+  "news:eda2a35673921516": 1795829529,
+  "news:dffbb56608983935": 1795829529,
+  "news:2ece41e7f4b92203": 1795829529,
+  "news:b28cdbd9db369e6a": 1795829529,
+  "news:cca5447e521acb86": 1795829529,
+  "news:27c14a3ce8edac7a": 1795829529,
+  "news:2da7bb62d9a7d023": 1795829526,
+  "news:76a9a43e47da54fc": 1795829526,
+  "news:49eb39a0dd51222e": 1795829526,
   "news:87d23f493d461da5": 1795803575,
   "news:278690f7606d65d4": 1795803575,
   "news:b76a856086bcc8db": 1795803575,
@@ -2986,26 +2999,9 @@
   "news:ee1d442ca4d1549c": 1788832330,
   "news:89696f1c16717e3a": 1788832330,
   "news:fcb00c9d4ba92f1b": 1788831136,
-  "news:a604c476544e9a33": 1788831136,
-  "news:75c33425711f47bd": 1788830079,
-  "news:06a6578b3fa121ea": 1788830079,
-  "news:93845ac0edde1973": 1788830079,
-  "news:b300ed032047161e": 1788830079,
-  "news:70eda5d88c695815": 1788830079,
-  "news:238a1a503efdf28c": 1788828902,
-  "news:c56b2c19b1c1b76e": 1788828902,
-  "news:8ad79da108ede9fe": 1788828902,
-  "news:54d30e92651b20b6": 1788828902,
-  "news:5ed76f5ef7f67e04": 1788828902,
-  "news:8ec73d7fec15aa4c": 1788828902,
-  "news:1c474c7308462b90": 1788828902,
-  "news:96b543a3c9d8c6f4": 1788828902
+  "news:a604c476544e9a33": 1788831136
  },
  "stories": {
-  "한화생명, 퇴직연금 수령 방식 다변화…은퇴 후에도 자산 운용": 1795556046,
-  "김동원 한화생명 해외 사업 '핵심 거점' 베트남 성장세 꺾였나 : 시장 성장 둔화 속 보험료 수입도 3년째 '뒷걸음질'": 1795556046,
-  "한화생명, 청소년 금융 교육을 인도네시아로 확대": 1795556046,
-  "교보생명, 올해 학생 1만2575명에 금융교육": 1795556046,
   "삼성생명·화재 대표 유임 가닥": 1795581331,
   "[자회사형 GA 성적표] 삼성생명, 4년 연속 사상 최대 매출 예고": 1795581331,
   "한화생명, 신계약 수익성 개선…투자이익 회복-하나證": 1795581331,
@@ -3128,350 +3124,19 @@
   "'이해란 21득점' 용인 삼성생명, 인천 신한은행 또 잡고 '공동 1위' 점프": 1795803575,
   "삼성생명, 리그 공동선두 등극…이해란 21점": 1795803575,
   "‘이해란 전반에만 20점 폭격 미쳤다!’ 삼성생명, 신한은행 5연승 저지하며 공동선두 도약 - 머니투데이": 1795803575,
-  "이해란 몰아치고 모모나 3점포 5방...삼성생명은 20점 차... 신한은행 74-64 제압": 1795803575
+  "이해란 몰아치고 모모나 3점포 5방...삼성생명은 20점 차... 신한은행 74-64 제압": 1795803575,
+  "[사진]삼성생명,'홈에서 1위 환호' - 머니투데이": 1795829529,
+  "[사진]삼성생명,'1위 환호'": 1795829529,
+  "‘공동 1위’ 삼성생명, 팀 분위기부터 남다르네…강유림 “책임감 나눠지고 으쌰으쌰”": 1795829529,
+  "[10월 GA 생보사 실적 M/S] 케이지에이에셋…3개월 연속 비중 키운 한화생명 21.6% 선두 유지, 라이나·KB 상위권 부상": 1795829529,
+  "엄마도 오빠도 못 해본 1라운드 지명…삼성생명 ‘루키 데이’에서 만난 세 가족의 이야기": 1795829529,
+  "[10월 GA 생보사 실적 M/S] 한국보험금융…한화생명 15.9%로 1위 탈환, AIA·라이나 급등 속 상위권 재편": 1795829529,
+  "[10월 GA 생보사 실적 M/S] 지에이코리아…한화생명·라이나생명 1·2위로 상위권 재편": 1795829529,
+  "[10월 GA 생보사 실적 M/S] 사랑모아금융서비스…메트라이프생명 54.3% 선두, 한화생명 2위 유지, 라이나 3위 부상": 1795829529,
+  "한화생명 베트남, 하노이 IFC에 신규 고객센터 개소": 1795829529,
+  "삼성생명 홍원학號 3년차…순익 85% 성장, 다음 무대는 해외": 1795829529
  },
- "news_queue": [
-  {
-   "id": "news:d70a61f575e3814d",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "의료·금융 전문성 맞교환 상생 모델 구축…교보생명·강동경희대병원, 임직원·설계사 복지 협약",
-   "source": "더페어",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yYUNrelN3TlZkNFlHcmRmMXdPZGl3TDdQMk9aX0xVOUIzb1pOSXdpUHpoZEJEdk9NcDQzMFk1U190V25nei1LdHZJWEUxN21ZRHpQM2Jfb2JoaFppN3NqVXFOYzB5eXV6eURjVTFIeU8wbXNt0gF0QVVfeXFMTjJhQ2t6U3dOVmQ0WUdyZGYxd09kaXdMN1AyT1pfTFU5QjNvWk5Jd2lQemhkQkR2T01wNDMwWTVTX3RXbmd6LUt0dklYRTE3bVlEelAzYl9vYmhoWmk3c2pVcU5jMHl5dXp5RGNVMUh5TzBtc20?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 00:13:05 GMT"
-  },
-  {
-   "id": "news:dc83b59b44c2051c",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "결승서 한화생명 꺾은 그 듀오...기인·캐니언 한화생명행",
-   "source": "게임와이",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Udmc3ZUFLZXdMaldRRlJKV2phUnl6OGJrWVgwXzdDRmpSWDRlXzlqbmFlNTBMRTA3bkpFRVEySkYtTlR3LWtGZmZCVG1nSC1WRS1zUjhtdkN4cWF6R0VKQlFLRV9lSEVmcEHSAWpBVV95cUxOVHZnN2VBS2V3TGpXUUZSSldqYVJ5ejhia1lYMF83Q0ZqUlg0ZV85am5hZTUwTEUwN25KRUVRMkpGLU5Udy1rRmZmQlRtZ0gtVkUtc1I4bXZDeHFhekdFSkJRS0VfZUhFZnBB?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 00:36:10 GMT"
-  },
-  {
-   "id": "news:f330728813459da1",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[리포트] 웅진프리드라이프 “상조 넘어 ‘라이프케어’로”...삼성생명과 ‘건강케어 구독’ 출시",
-   "source": "팍스경제TV",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82T1FrVExqZGtsUV9INlRoaFdnM0o0aG1MMHFtclpyRkFsV1Q3ZjlsRlQwY2NoM1g3MEtnSGxmOUdzc1B5VHAwWHJablh1V0xkVWp4M3dvMmt0N0sxVmtycU50anZTQVU?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 01:02:21 GMT"
-  },
-  {
-   "id": "news:072d21484ed65df0",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[특징주] 삼성생명 장중 2%대 강세 23만원선 기록 : 기업주식정보",
-   "source": "재경일보",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hZDczelphQllFX0ZuVGdxQzJQMFlIdHJqd210Ul9sYWtMellCS1hGaFRWWm13Y0UzTkUxN3BfeTEydTE4dFRlLXRMaw?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 01:22:08 GMT"
-  },
-  {
-   "id": "news:e8a7789ffe679102",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명·강동경희대병원, 설계사 건강관리 지원 MOU",
-   "source": "중소기업신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PR1I3Tzc3d3pvQURvaXZZeF95bVJVYTRlSHBxQWV0WTFDc2xPeFVPNWxqY0pGR3pESG5CUWdHWGVrR2FRMXVLSjFzSWNpVzBRdmVNbzhkaGNSQm42dmRSaG9kQ3JVOTBhbEZuVlhB?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 01:38:43 GMT"
-  },
-  {
-   "id": "news:658fa648a9d718ad",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "암경험청년, 또래와 함께 일상으로… 한화생명 ‘위케어리셋’ 성과 공유",
-   "source": "한국보험신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Tc2JrYklFSDlsc184bmttaTJ5RzdIa2xIQnhBM3ExUldKY2NJeGVNdGdpVzFoMG1Tc1ZRMmVVbGl6czhkNlFjWE5wMDRGYmJqYjRYTGlJY3U1bm9tOUVLaWhGYXlSeTdkenFF0gFvQVVfeXFMT3hUaXpMbGNyb0l2VHVydlF4eG1VdFZBQklCRTdWZUdhVFRpc3JzZTRSbXBkWkpfaFRpQ3hxeDI3dmw0c0VPV3UxTVQ3TjZuT1FwVWtraUd2Ti1oTk1MZGlwNHpwQnpVc1dBYUpMSFJN?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 02:46:14 GMT"
-  },
-  {
-   "id": "news:ff8d8064c5aca7af",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[금융-라운지] KB금융그룹 / 교보생명 / 우리은행 / NH농협은행 / 한화생명",
-   "source": "비즈니스리포트",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtcUdjNm9vRnRkcFZjdUhQZlFwN0N5dlV4UloyRldrbi1fNlQ0UEZGeDExTzc0eWdrQWc5MTU5YkdlY1FXZ0pzaVpPYksxZzNOQXlDZS13aVFEM1R2VnZyTEdad2JkX0pIUGFKaFAtVQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 02:50:48 GMT"
-  },
-  {
-   "id": "news:2f3881adc65840b0",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 보험설계사·가족 의료복지 지원 강화",
-   "source": "팝콘뉴스",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IUHBoN0c3Y1lTdFdtQUlSTmRTUUFjT2g5SXppbDhmTmdsOXBYMFJocDVPbEw1SUYxVER2WWFKQnJ3ZU5aZzAxanhzUTlCSERoQ1dxS1BIUlY3V3ozcVh6WEVELUk2bHNVXzhia094QdIBckFVX3lxTE5SajVtZjRSTDR1T3FTdnJQbDFuSWs4dkl5a3FfYnUxZFF0bDBFQ3FwT1REek9tallUYnJqbmY5NlZWTGllbWI1MS1VSU5jUnN1TjdCUTQ3LXk2SV9MMUNhVG14eE5uVUFaamV2Rkw3ODdqZw?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 05:12:06 GMT"
-  },
-  {
-   "id": "news:41ddfa316d251cc7",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[더밸류 브리핑] 오늘의 금융계 소식...한화생명· 네이버페이",
-   "source": "더밸류뉴스",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2b0lqek0tN1FKNUpVQzctRXlRZ05UaFZCbUE3QnJUTEtRMjMzU1BubE9selJiNmJuaVJ3TUphVDI3QXdidHRQRTZRTnpEWkc3YTVzNg?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 05:25:33 GMT"
-  },
-  {
-   "id": "news:ad43635ccb18cee5",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "“의료 감면과 금융·교육 복지의 맞손”… 교보생명, 강동경희대병원과 상생 협약",
-   "source": "스마트경제",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJQ0p3cXVJd2RqT296aFg4VDJfU3pzUG4yQW0tUGlNRjAweGpuTTNjTkZSaUJqLXlyT2IyLWw2Y0RnSDdWeW80T2NaQjJxaVAwLXg4ZC04V0w2ZFBQZkxfN0w3ZW0tdkpYZk0xLVAyQQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 06:22:05 GMT"
-  },
-  {
-   "id": "news:4940d198c79d856a",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 암 경험 청년 사회복귀 지원…3년간 380여명 참여",
-   "source": "브릿지경제",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZDBjaFk5dElqOEoycjNBSWhXc1dnVTAxNWREaTFaUGNNTFM4NTlhZEtBVzBzZGt6Wjd1bUQ2ejVZdnBVQWZkUmdjV2JVSWcybUJodkpjWldRZw?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 06:26:00 GMT"
-  },
-  {
-   "id": "news:c5b612860d73fb30",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "교보생명, 설계사 의료복지 확대…강동경희대병원과 맞손",
-   "source": "뉴시스",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdGppWGdfRlY4QVdMQTBCUmJBamtqNXY2cFV2cVhnYnFCa1hpZ3NxMzhIQ0pKcE96UWp5UVg5MTV6RHp5a0ZnSWktQWdhaU1uWlhKME5BNDZoVjBCamNPSQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 07:02:28 GMT"
-  },
-  {
-   "id": "news:3c71719e7a6b62e7",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[보험사 풍향계] 한화생명, 암경험청년 사회복귀 도와 外",
-   "source": "에너지경제신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zWWZ3WnBkbmU0ck96N1NOdUZVbkJyQlQ0WkZ0S2NfSGZEa3AzVW5GMDRzZ2hPa0RLSWRYTjdRZGREUEkyUmg2ZHZRQ3p6c216bkRZM1otUkhMT19YZlRHenRaYw?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 08:13:46 GMT"
-  },
-  {
-   "id": "news:87d23f493d461da5",
-   "kind": "news",
-   "company": "교보생명",
-   "title": "[금융계 동향] 한화생명·교보생명·미래에셋자산운용",
-   "source": "민주신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMmc0dU1nWFQxYjFXd2hkQ3F4UUtQU1BSWFY1eG94T2NadnNlcFZuZEZRMVByODAwU0xjck5wTHJNV1hIcGt1ajdaT2VNb3FrWE5VcmZSRGU3amVGVUMwN3BKTXJXT3J10gFrQVVfeXFMTUhBbDdMOXREOVdGRk9aSExBMlljZ2stYkQ0TzcyWnd6dDZoSlQxaFJxRUJVaWRERWFKck9aQjdybnREWkxzTDF4UFROS3ExcS1SX1NiWDFwMW9QQjFnZWhVcEdVdVpLMWV3VFE?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 08:30:05 GMT"
-  },
-  {
-   "id": "news:278690f7606d65d4",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "[보험 NOW] AXA손보·한화생명",
-   "source": "위키리크스한국",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNndMYUFvZTk1eXk1Wl9BZjVkV0t3aWFPcHY5TEhRTHJMeExTOGVHNWE4dndGOFUtTGRPd1NKc3RNMzdZbVB4QndOc0lkZHJZaUxYZ1pDZV91UEZtM3RqREdMN2Q0Z1d6am53VFFzQ0U?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 08:52:18 GMT"
-  },
-  {
-   "id": "news:b76a856086bcc8db",
-   "kind": "news",
-   "company": "한화생명",
-   "title": "한화생명, 마라톤부터 자격증 취득까지…암경험청년 새 출발 지원",
-   "source": "시사캐스트",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OcHZOWDFQdExpZldGZTBYdmxHd011WkZqYWwyZF9JWGRNN2VYY3VnVWpZOTJLZW9ZTS0yLUFVR1I4b2dUdE5uTkRoS2F6dzVqRWZpU3F6akJzaTM5Tk9tN3ZQQThTSUNG?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 09:24:58 GMT"
-  },
-  {
-   "id": "news:5e8c97890180899c",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[웜업터뷰] 삼성생명 만나는 최윤아 감독의 수비 주문 “이해란? 줄 점수는 줘야 한다”",
-   "source": "점프볼",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92MTdUenY1VjdMeXR0QU82OUExQkN2ZzIyNEhPdjNHbGRoS3pQUnppVklwSmEyRXFtQUdRNjZPVm9Nc3dPTUpGMWFkcTB4NmJoU0lWcXZZVktwVzduOFBkMlhnc1JlQnFrb2d2MnV2Y0w5U1R2?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 09:53:56 GMT"
-  },
-  {
-   "id": "news:f2789a5a03bc85e7",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명·화재 CEO 유임…해외사업 성과 시험대",
-   "source": "서울경제TV",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80TDRiUTRwMzY4eUdOcVBNOG1tcmpmWjhpZmlHaDc1OWc3WUpvN3AwWkRzcWp6SDIxbEhsd0lUZU1mVC1hWFdCYTFBV1pYMV84aWFULU1QNkM5SkgtWlh5aWhNaTM?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 10:03:47 GMT"
-  },
-  {
-   "id": "news:a58309224e3afd81",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "홍원학 삼성생명 대표, 화재·생명 모두 '2조 클럽' 달성…해외 M&A로 대체투자 이익 확보 [삼성금융 인사]",
-   "source": "한국금융신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mb3A4U3hnczdwSDhrUWtmZ1lkWUs5bUxaMHBhNzg3X3F3Z25aWUxTMUFiZHdHbkZ3a2RFdlVxQW9jdnVfRE5BSFFucG02T2RkVm9KVVkxRXQxQ2FEaEM2VXJFYUgxLXFfS3BTQ1dTOHpyWkNEV3loTDRWdFI?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 10:12:42 GMT"
-  },
-  {
-   "id": "news:75a733b2521c8d3d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[사진]삼성생명-신한은행,'양보는 없다' - 머니투데이",
-   "source": "머니투데이",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMFNmVlFLLXpPX1ZwVnJEN3VkWXIwd0pkcUdYREd3U1NUVEdvZGZuRGZzQXBMYW5PMzI1T3NYb2RIeDlYTDVnRG9qN24tMW9NRy1oamEyV3pCZXU1V2xFdV9xQU0tQVI5Umx1dFBLRdIBb0FVX3lxTE5IMFNmVlFLLXpPX1ZwVnJEN3VkWXIwd0pkcUdYREd3U1NUVEdvZGZuRGZzQXBMYW5PMzI1T3NYb2RIeDlYTDVnRG9qN24tMW9NRy1oamEyV3pCZXU1V2xFdV9xQU0tQVI5Umx1dFBLRQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 10:30:00 GMT"
-  },
-  {
-   "id": "news:c8124b64479cbebf",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성E&A, 삼성생명공익재단 등 4곳에 기부금 출연 결정",
-   "source": "디지털투데이",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41MGxmRklLR3RvOU8zLUxMWGJjc1djMWwxVEE1WndjUm1uWEpHRXJQN0xveEFUWkNiV2NnUmVPX2VCVUpSb3VoZjYyczZYLU5GQ0U4bGhvVlN2S28tUS1oOWtmTDJkWnFxaGRmOXItVUM2ektLd0VVcktEUQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 11:14:14 GMT"
-  },
-  {
-   "id": "news:4b6f1550675c51e3",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘이해란 MVP 모드’ 모모나·강유림까지 빛난 삼성생명, 신한은행 꺾고 공동 1위 도약",
-   "source": "점프볼",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10ZllVU0xuQmFPWlVnWi00ZW5WR1ltUGItelBESmh6c1kzMFpScC1qdk9PUlRNSElBZFFmR1UyUnBqd1ZaUmVhcTYwOHA3ZEFtWVRPNzVUMWZzbHJGUDdOa1lraTVYVlFDY0lra01JVk9LZnVJ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 11:41:11 GMT"
-  },
-  {
-   "id": "news:62ae29f2658482d9",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "공동 선두 복귀했다!…‘이해란+강유림+모모나 맹활약’ 삼성생명, 신한은행 5연승 저지",
-   "source": "매일경제",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DYVpaY19aMWl5THlOMmRfWXRnczREZUIzUWxHV01MTXh3OHdwRDlreFhkR2RXWk9qVjB0cWxOZ0RobkhicVI1SlRyUkpYTFQ1YXFz?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 11:55:10 GMT"
-  },
-  {
-   "id": "news:783cea9d2f89ae48",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 신한은행 완파하고 공동 선두로…이해란 21점 폭발",
-   "source": "연합뉴스",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcWYzYkxPM3FaZ1pKN0J5V1o3QTNjdjV1RDZvdFZCZEtwTHVKenc4V2ZESTRQMUROSEpfaWpYeEcySkdMNHJKRi1odjVRS3dsQXZiTWxyY2UzdkpSVXRhdNIBYEFVX3lxTE9tcWYzYkxPM3FaZ1pKN0J5V1o3QTNjdjV1RDZvdFZCZEtwTHVKenc4V2ZESTRQMUROSEpfaWpYeEcySkdMNHJKRi1odjVRS3dsQXZiTWxyY2UzdkpSVXRhdA?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:12:34 GMT"
-  },
-  {
-   "id": "news:184862954e1859fe",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "교체 땐 '당일', 직전 연임 땐 '78일 뒤'…삼성생명 임추위 \"일정 확정된 바 없다\"",
-   "source": "녹색경제신문",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PajdKdmFPbVJEdUZYUVJ0cGxiTEYzeEE3cWhIcURuV0JCNjE4S2hXcWJrMTVZcTR6R2N0anJkYW81b3N6WWswanBXUXdNY0NKVlBQY1pUTG1hWlpzOG80UE5YOWc0Q29t?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:16:45 GMT"
-  },
-  {
-   "id": "news:56db970cdcfdfa4c",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘1R MVP’ 이해란, 전반만 20점 폭격···삼성생명, 신한은행 74-64 꺾고 ‘6승2패’ 공동 선두 도약",
-   "source": "스포츠경향",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TYnBLUTJ0R0N4T1hYYmdySG02RTA4SWR2bW1oX0l5YzJMOVJtRDJlaS1KQXNtS05tck85VGN5QjJVZl9RcVJhLXhIdmxyUUVUOGtGcWN3elo5LTJXTXfSAWNBVV95cUxPRnU2cjJ6YWtNVnltV2JHLVJiRkFXc0I5XzdMZ2diUzlhdjBjUlIyLWRwYlVJSzRuU0JNRnhEOHhiYTlvWDB0WlE2MU9KSGlXNXlvYnZZd2xYQ08yTzkxaEJ0TW8?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:24:00 GMT"
-  },
-  {
-   "id": "news:c5587eed778d96d9",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[사진]삼성생명,'승리했다'",
-   "source": "조선일보",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWtVaXJKZEdTc1h0N1ZXQ1cwZjdjSFFDMVFjQ3BqMFhHS3c5TzMybmJaNlUzZi0tSll6RWxXdk1rSGJpTzFvM0dFdExOUzhtU3ZZWVZ1a0Q0SHdNVUZZdmpzS3RqUHcwN2I2YkdCODVxaENXN0xGSHIwbk4wZmJGOHl3Mm56NzBU?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:27:00 GMT"
-  },
-  {
-   "id": "news:41c8d82483ee62a6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "[사진]삼성생명 이해란,'승리 이끌었다' - 머니투데이",
-   "source": "머니투데이",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hQkdMY3EwN19yLVBkaVpsNmNtT0FBdEVpaVh3bmNXaUJva05FR0JGYThfc05kTmszMzlKNG5kVW1oQVhoV0dYd1VjMG9JcFlIVHFrY3hhdDk1TnRYclR1eTJHdU5CYVdWYUp4S1ZWMNIBb0FVX3lxTE9hQkdMY3EwN19yLVBkaVpsNmNtT0FBdEVpaVh3bmNXaUJva05FR0JGYThfc05kTmszMzlKNG5kVW1oQVhoV0dYd1VjMG9JcFlIVHFrY3hhdDk1TnRYclR1eTJHdU5CYVdWYUp4S1ZWMA?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:29:00 GMT"
-  },
-  {
-   "id": "news:e5cce407e985f9c6",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "이해란 전반 20점 폭발…삼성생명, 신한은행에 10점 차 승리 : 스포츠",
-   "source": "재경일보",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15eE5HY0VIYnBLTGk0aHkzdnliZlB2OC1HMXhSNGN2Vnhybm1jRk5MQVdwa3JjckFZUHR0SFZsQkRraDk4NlR3UzU1QQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:34:41 GMT"
-  },
-  {
-   "id": "news:3b0b99e3f7570632",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명에 2패, 최윤아 감독 “다음엔 무조건 이길 것”",
-   "source": "점프볼",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNUQzWDlydU9feC1WX3hUMVNEcEVDWWI2d1ZPOFhWV3pxUjJDNEtfa2duUW04VGVEdWFYQllsY2x5V2hOLUFwdExjdWJsRUpjQkdnQk4xQ2xaN21vcndVeEZWeTFGdkFyUUJsbUdRZjE?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 12:35:57 GMT"
-  },
-  {
-   "id": "news:024a4f898cb5401d",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "'이해란 21득점' 용인 삼성생명, 인천 신한은행 또 잡고 '공동 1위' 점프",
-   "source": "스포츠조선",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVNLUWZRSEdLZTl6ejVmQmhfbHFLOWtYNDJVNHRzYjc3TkZ6VWg0eG0xdHZFVEVKQzJ0SG9BM0RVMG5mVHNRY1ZfT2hhZE5OSU1jdzhBVGFPV2hLaXk0ZEE2bmRvYmFROUVVSUJYdElQNUIza2dFSjZTRV9CcjhJbg?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 13:30:00 GMT"
-  },
-  {
-   "id": "news:b31695b35a6af6c8",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "삼성생명, 리그 공동선두 등극…이해란 21점",
-   "source": "연합뉴스TV",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3cXdJSXQ4ZzBxRVZ4eWExWW5hQ0xubmhhNjI2cWxDTGZfT0U3b0xZM1dzeTZZR012eFRXQy1uWW5JelA1V2xNRHA5eGlBX1k1bU5zMzVlb1llcEVLbXVoZmxaN3p2bFU?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 14:26:00 GMT"
-  },
-  {
-   "id": "news:84688b93b63415ba",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "‘이해란 전반에만 20점 폭격 미쳤다!’ 삼성생명, 신한은행 5연승 저지하며 공동선두 도약 - 머니투데이",
-   "source": "머니투데이",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyZlNDdG5LeGhvSmtOQ3VnV0xUTF9Ta0E5d3lyY1dyUmFXS3RXUHdseG5qLVd1ZHA5eTZ0VHpUNkpnY0JQUmxfZHhiRjNQQUFQSHJpS1BnNDdnOC1fR1VWZ1R1TTVqcE9uVi1oVkdzY9IBb0FVX3lxTFAyZlNDdG5LeGhvSmtOQ3VnV0xUTF9Ta0E5d3lyY1dyUmFXS3RXUHdseG5qLVd1ZHA5eTZ0VHpUNkpnY0JQUmxfZHhiRjNQQUFQSHJpS1BnNDdnOC1fR1VWZ1R1TTVqcE9uVi1oVkdzYw?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 15:23:00 GMT"
-  },
-  {
-   "id": "news:05e50064817f3f78",
-   "kind": "news",
-   "company": "삼성생명",
-   "title": "이해란 몰아치고 모모나 3점포 5방...삼성생명은 20점 차... 신한은행 74-64 제압",
-   "source": "STN SPORTS",
-   "date": "Fri, 27 Nov 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PN2paRUxpS0tLQU9aQnIzd1A4YllNWTR5RXl5Yjl5cnBZb2dkTzFNTkNUV3JER1RYeU9RLUpacDBUNzdZQ1l4SXFwSW8zVkM0bmdDeEdJVXRvZ1p3RUlaUGJwbmp3UjVWN2t2OS13TQ?oc=5",
-   "sort_key": "Fri, 27 Nov 2026 17:02:43 GMT"
-  }
- ],
+ "news_queue": [],
  "initialized": true,
- "last_digest": "2026-11-27"
+ "last_digest": "2026-11-28"
 }
